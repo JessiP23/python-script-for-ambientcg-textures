@@ -1,0 +1,39 @@
+{
+  "name": "Stone Tile Wall",
+  "categories": [
+    "wall",
+    "man made"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Jandre van Heerden",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "stone",
+    "wall",
+    "walling",
+    "stonework",
+    "rough",
+    "roughhewn",
+    "exterior",
+    "masonry"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1725321600,
+  "staging": null,
+  "files_hash": "f171a24edd770c6c3cd6e0e620f0e5fda1e223ee",
+  "download_count": 23065,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_tile_wall.png?width=256&height=256"
+}

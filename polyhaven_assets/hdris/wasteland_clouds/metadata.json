@@ -1,0 +1,35 @@
+{
+  "evs_cap": 16,
+  "type": 0,
+  "tags": [
+    "sun",
+    "grass",
+    "field"
+  ],
+  "date_published": 1560204000,
+  "name": "Wasteland Clouds",
+  "old_id": 382,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1554914160,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "11167855"
+  ],
+  "files_hash": "c2012d3df10195ef96f6f4484cc6280eaf45d85f",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 83473,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wasteland_clouds.png?width=256&height=256"
+}

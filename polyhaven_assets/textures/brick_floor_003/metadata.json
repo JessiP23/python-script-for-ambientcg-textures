@@ -1,0 +1,36 @@
+{
+  "scale": "2x2 M",
+  "type": 1,
+  "tags": [
+    "brown",
+    "floor",
+    "pavement"
+  ],
+  "date_published": 1618385199,
+  "name": "Brick Floor 003",
+  "old_id": 311,
+  "categories": [
+    "floor",
+    "brick",
+    "man made",
+    "outdoor",
+    "indoor",
+    "clean",
+    "wall"
+  ],
+  "authors": {
+    "Rob Tuytel": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d678724ce0f1e0b7dda21265e6e2b50e135222dc",
+  "download_count": 43444,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_floor_003.png?width=256&height=256"
+}

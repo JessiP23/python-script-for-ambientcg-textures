@@ -1,0 +1,45 @@
+{
+  "type": 0,
+  "name": "Bloem Train Track Cloudy",
+  "categories": [
+    "nature",
+    "outdoor",
+    "natural light",
+    "partly cloudy",
+    "low contrast",
+    "morning-afternoon",
+    "urban"
+  ],
+  "tags": [
+    "grass",
+    "field",
+    "sun",
+    "tree",
+    "train",
+    "tracks",
+    "bridge"
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Photography",
+    "Greg Zaal": "Processing"
+  },
+  "reviewers": [
+    "Jenelle van Heerden"
+  ],
+  "date_taken": 1740813120,
+  "coords": [
+    -29.133126105026562,
+    26.18583496659994
+  ],
+  "evs_cap": 12,
+  "whitebalance": 5303,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "f9ec1c1ceae1bf5c6a025ebede8fed94232b76d3",
+  "date_published": 1745193600,
+  "staging": null,
+  "download_count": 6007,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bloem_train_track_cloudy.png?width=256&height=256"
+}

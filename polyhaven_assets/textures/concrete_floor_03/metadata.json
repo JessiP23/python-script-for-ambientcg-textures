@@ -1,0 +1,44 @@
+{
+  "name": "Concrete Floor 03",
+  "categories": [
+    "man made",
+    "floor",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "concrete",
+    "cement",
+    "scratched",
+    "cemented floor",
+    "exterior",
+    "gritty",
+    "grey",
+    "outdoor",
+    "pavement",
+    "coarse"
+  ],
+  "authors": {
+    "Rob Tuytel": "Processing ",
+    "Matterfield": "Photography "
+  },
+  "info": null,
+  "dimensions": [
+    2499.999761581421,
+    2499.999761581421
+  ],
+  "date_published": 1691452800,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "f107be41bfb9ac15e8d6c2c007479e2815cab474",
+  "download_count": 8627,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_floor_03.png?width=256&height=256"
+}

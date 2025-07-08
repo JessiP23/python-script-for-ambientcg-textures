@@ -1,0 +1,45 @@
+{
+  "evs_cap": 22,
+  "name": "Orlando Stadium",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "urban",
+    "midday",
+    "clear",
+    "high contrast"
+  ],
+  "type": 0,
+  "reviewers": [
+    "Jarod Guest"
+  ],
+  "date_taken": 1631194620,
+  "coords": [
+    -26.231770602990014,
+    27.92284078352548
+  ],
+  "tags": [
+    "stadium",
+    "field",
+    "grass",
+    "football",
+    "soccer"
+  ],
+  "authors": {
+    "Greg Zaal": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "date_published": 1659312000,
+  "staging": null,
+  "sponsors": [
+    "73232395"
+  ],
+  "prepaid": true,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "064972d4a69d1d02cafe1a0a7c7866109db4a1e5",
+  "download_count": 29260,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/orlando_stadium.png?width=256&height=256"
+}

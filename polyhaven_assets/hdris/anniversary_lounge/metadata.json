@@ -1,0 +1,40 @@
+{
+  "evs_cap": 10,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "window",
+    "room",
+    "couch",
+    "lamp",
+    "carpet",
+    "table"
+  ],
+  "date_published": 1538690400,
+  "name": "Anniversary Lounge",
+  "old_id": 321,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1538401500,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "url": "https://www.idin-jewellery.co.uk/",
+      "name": "Idin Jewellery"
+    }
+  ],
+  "files_hash": "185de1e23d0df5735cbafea1993c63397a44a47d",
+  "max_resolution": [
+    21504,
+    10752
+  ],
+  "download_count": 44496,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/anniversary_lounge.png?width=256&height=256"
+}

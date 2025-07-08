@@ -1,0 +1,36 @@
+{
+  "type": 2,
+  "tags": [
+    "modern",
+    "wood",
+    "pine",
+    "square",
+    "display",
+    "shelf",
+    "bookshelf"
+  ],
+  "name": "Wooden Display Shelves 01",
+  "categories": [
+    "furniture",
+    "shelves"
+  ],
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "date_published": 1623767647,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 3174,
+  "texel_density": 2186.0030018841694,
+  "dimensions": [
+    1077.760934829712,
+    371.50970101356506,
+    1556.1838150024414
+  ],
+  "files_hash": "34b10f61944642400bd3d5686ea27350da9cbb66",
+  "download_count": 19450,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_display_shelves_01.png?width=256&height=256"
+}

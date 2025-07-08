@@ -1,0 +1,45 @@
+{
+  "name": "Concrete Pavement",
+  "categories": [
+    "floor",
+    "man made",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "rough",
+    "urban",
+    "concrete",
+    "floor",
+    "rough  ",
+    "exterior",
+    "pavers",
+    "outdoor flooring",
+    "cement",
+    "flat",
+    "coarse",
+    "pavement",
+    "sidewalk"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "staging": null,
+  "date_published": 1708387200,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "13659c72c1314d12b0c5cd809f89ccc9fec09cbf",
+  "download_count": 35262,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_pavement.png?width=256&height=256"
+}

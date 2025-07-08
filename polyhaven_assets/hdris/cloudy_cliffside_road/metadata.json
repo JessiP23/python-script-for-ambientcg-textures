@@ -1,0 +1,46 @@
+{
+  "evs_cap": 6,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1516316400,
+  "name": "Cloudy Cliffside Road",
+  "old_id": 127,
+  "categories": [
+    "outdoor",
+    "nature",
+    "urban",
+    "midday",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    44.1014,
+    9.73707
+  ],
+  "date_taken": 1509961980,
+  "backplates": true,
+  "tags": [
+    "hill",
+    "road",
+    "autumn",
+    "europe",
+    "view",
+    "ocean",
+    "parking",
+    "fence",
+    "railing",
+    "backplates"
+  ],
+  "files_hash": "b52b8cb7273da5b0d0aaacd73a60c6a4b0f4e350",
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 42639,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cloudy_cliffside_road.png?width=256&height=256"
+}

@@ -1,0 +1,39 @@
+{
+  "date_published": 1573880749,
+  "name": "Concrete Floor Painted",
+  "scale": "2M x 2M",
+  "old_id": 232,
+  "categories": [
+    "concrete",
+    "outdoor",
+    "wall",
+    "floor",
+    "plaster-concrete",
+    "dirty",
+    "plaster",
+    "man made"
+  ],
+  "type": 1,
+  "tags": [
+    "painted",
+    "rough",
+    "textured",
+    "urban",
+    "worn",
+    "weathered"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d5f4bbae7e8cd140a90ef44ad5e76494f42fbd16",
+  "download_count": 82774,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_floor_painted.png?width=256&height=256"
+}

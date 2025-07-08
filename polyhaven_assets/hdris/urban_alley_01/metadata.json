@@ -1,0 +1,41 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "alley",
+    "city",
+    "narrow",
+    "europe",
+    "asphalt"
+  ],
+  "date_published": 1594332000,
+  "name": "Urban Alley 01",
+  "old_id": 480,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "clear",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    38.117961,
+    13.357968
+  ],
+  "date_taken": 1568882280,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "13450515",
+    "3237733"
+  ],
+  "files_hash": "0ff39a58e7a211c5cc726eeea10b7d860abd0000",
+  "max_resolution": [
+    18500,
+    9250
+  ],
+  "download_count": 58339,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/urban_alley_01.png?width=256&height=256"
+}

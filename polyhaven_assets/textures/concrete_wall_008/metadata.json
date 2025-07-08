@@ -1,0 +1,50 @@
+{
+  "name": "Concrete Wall 008",
+  "categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "plaster-concrete",
+    "concrete",
+    "plaster"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "weathered",
+    "chipped",
+    "wall",
+    "damaged",
+    "cracked",
+    "stained",
+    "dry",
+    "plaster",
+    "concrete",
+    "scratched",
+    "cement"
+  ],
+  "info": null,
+  "authors": {
+    "Dario Barresi": "Processing ",
+    "Charlotte Baglioni": "Photography"
+  },
+  "dimensions": [
+    2710.0000381469727,
+    2710.0000381469727
+  ],
+  "date_published": 1675123200,
+  "staging": null,
+  "sponsors": [
+    "44302755"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d77307121f21d7ce51b194dcc7456117afe03dd4",
+  "download_count": 60551,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_wall_008.png?width=256&height=256"
+}

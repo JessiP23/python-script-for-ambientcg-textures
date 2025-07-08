@@ -1,0 +1,45 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "hilltop",
+    "rocky",
+    "desolate",
+    "desert",
+    "mountain",
+    "valley",
+    "arid"
+  ],
+  "name": "Klippad Dawn 1",
+  "date_taken": 1694155980,
+  "coords": [
+    -29.654551983908654,
+    18.0300945839593
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "3bf111de6732037d60fdabca01721836ca28ee86",
+  "staging": null,
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "partly cloudy",
+    "low contrast",
+    "sunrise-sunset",
+    "collection: namaqualand"
+  ],
+  "date_published": 1728345600,
+  "download_count": 18607,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/klippad_dawn_1.png?width=256&height=256"
+}

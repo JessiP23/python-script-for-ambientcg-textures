@@ -1,0 +1,40 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "tags": [
+    "building",
+    "architecture",
+    "europe",
+    "square",
+    "lamp"
+  ],
+  "date_published": 1511996400,
+  "name": "Rathaus",
+  "old_id": 98,
+  "categories": [
+    "outdoor",
+    "urban",
+    "night",
+    "overcast",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    53.550692,
+    9.992974
+  ],
+  "date_taken": 1478207160,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "59c64e54b4037b1ca77b3cadd926bce615ac9a1c",
+  "download_count": 71217,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rathaus.png?width=256&height=256"
+}

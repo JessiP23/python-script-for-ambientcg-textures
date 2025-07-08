@@ -1,0 +1,41 @@
+{
+  "date_published": 1681948800,
+  "name": "Pavement 04",
+  "categories": [
+    "outdoor",
+    "man made",
+    "floor",
+    "brick"
+  ],
+  "type": 1,
+  "staging": null,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "info": null,
+  "dimensions": [
+    3099.9999046325684,
+    3099.9999046325684
+  ],
+  "tags": [
+    "grey",
+    "brick",
+    "bricks",
+    "pavement",
+    "floor",
+    "sidewalk",
+    "dry",
+    "synthetic"
+  ],
+  "authors": {
+    "Jan Burghardt": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "ec2841c9caa9dbd70bcbb6cd8103b449ff5ad2fa",
+  "download_count": 35996,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pavement_04.png?width=256&height=256"
+}

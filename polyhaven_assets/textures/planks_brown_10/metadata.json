@@ -1,0 +1,37 @@
+{
+  "type": 1,
+  "tags": [
+    "planks",
+    "old",
+    "discolored",
+    "weathered",
+    "rough"
+  ],
+  "date_published": 1529359200,
+  "name": "Planks Brown 10",
+  "old_id": 102,
+  "categories": [
+    "wood",
+    "wall",
+    "man made",
+    "outdoor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "sponsors": [
+    "20953239",
+    "42579608"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "e74b07dba7af8a564a17f72335a9293a4771cfef",
+  "download_count": 142336,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/planks_brown_10.png?width=256&height=256"
+}

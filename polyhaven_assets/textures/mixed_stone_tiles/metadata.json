@@ -1,0 +1,40 @@
+{
+  "type": 1,
+  "name": "Mixed Stone Tiles",
+  "categories": [
+    "floor",
+    "man made"
+  ],
+  "tags": [
+    "tiles",
+    "floor",
+    "embedded pebble",
+    "stone embedded",
+    "tiled",
+    "square tiles",
+    "pebble finish ",
+    "mixed stone",
+    "speckled tiles ",
+    "speckled "
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "date_published": 1736985600,
+  "staging": null,
+  "files_hash": "02c6d9e1af89887058032deb8d6d6c660aa3bdf5",
+  "download_count": 4529,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mixed_stone_tiles.png?width=256&height=256"
+}

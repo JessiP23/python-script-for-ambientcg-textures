@@ -1,0 +1,39 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "forest",
+    "path",
+    "summer"
+  ],
+  "date_published": 1600120800,
+  "name": "Sunset Forest",
+  "old_id": 491,
+  "categories": [
+    "outdoor",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1596897960,
+  "coords": [
+    50.960083,
+    14.095532
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "files_hash": "ab375f47de46e1e5989d67cf911ef2dbea11c784",
+  "max_resolution": [
+    17710,
+    8855
+  ],
+  "download_count": 40996,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sunset_forest.png?width=256&height=256"
+}

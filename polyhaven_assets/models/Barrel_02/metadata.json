@@ -1,0 +1,42 @@
+{
+  "date_published": 1585605600,
+  "sponsors": [
+    "14328003"
+  ],
+  "name": "Barrel 02",
+  "old_id": 6,
+  "type": 2,
+  "authors": {
+    "Jorge Camacho": "All"
+  },
+  "categories": [
+    "industrial",
+    "containers",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "barrel",
+    "water",
+    "plastic",
+    "garage",
+    "warehouse",
+    "industrial",
+    "storage",
+    "drums",
+    "cylindrical"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2688,
+  "texel_density": 4542.641532188116,
+  "dimensions": [
+    488.17557096481323,
+    484.6164435148239,
+    879.9999924376607
+  ],
+  "files_hash": "354f0b9ffcebf4f331533ef183b3eb2fc37ab69e",
+  "download_count": 24525,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/Barrel_02.png?width=256&height=256"
+}

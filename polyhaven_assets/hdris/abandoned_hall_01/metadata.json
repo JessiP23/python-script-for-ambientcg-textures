@@ -1,0 +1,39 @@
+{
+  "evs_cap": 3,
+  "files_hash": "bc2eb5a43b0d5d71395e1034e087f22b0278a26c",
+  "prepaid": true,
+  "type": 0,
+  "tags": [
+    "hall",
+    "window",
+    "abandoned",
+    "empty",
+    "bare"
+  ],
+  "date_published": 1539640800,
+  "sponsors": [
+    "10485422"
+  ],
+  "name": "Abandoned Hall 01",
+  "old_id": 317,
+  "categories": [
+    "indoor",
+    "urban",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    44.318086,
+    28.631351
+  ],
+  "date_taken": 1524920820,
+  "authors": {
+    "Octavian Tudose": "All"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 63891,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/abandoned_hall_01.png?width=256&height=256"
+}

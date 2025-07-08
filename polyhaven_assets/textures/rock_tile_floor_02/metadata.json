@@ -1,0 +1,43 @@
+{
+  "name": "Rock Tile Floor 02",
+  "categories": [
+    "floor",
+    "man made",
+    "rock"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "worn",
+    "walkway",
+    "rocks",
+    "rock",
+    "grass",
+    "dead grass",
+    "outdoor",
+    "outdoor walkway",
+    "pathway",
+    "stone pathway"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2400.0000953674316,
+    2400.0000953674316
+  ],
+  "date_published": 1715817600,
+  "staging": null,
+  "files_hash": "278975155a6bb9fd238f797f472981dd2cbad242",
+  "download_count": 3182,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_tile_floor_02.png?width=256&height=256"
+}

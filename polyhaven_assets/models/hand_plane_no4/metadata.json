@@ -1,0 +1,44 @@
+{
+  "donated": true,
+  "date_published": 1669334400,
+  "name": "Hand Plane No4",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "staging": null,
+  "info": null,
+  "authors": {
+    "Satyaki Mandal": "All"
+  },
+  "categories": [
+    "tools",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "vintage",
+    "hand tool",
+    "carpentry",
+    "old",
+    "wood",
+    "worn",
+    "woodwork",
+    "workshop",
+    "shed",
+    "garage"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 8220,
+  "texel_density": 15271.209777519456,
+  "dimensions": [
+    330.7979106903076,
+    84.31769162416458,
+    197.80341954901814
+  ],
+  "files_hash": "73089c692d816133d2c9be2553498a9deac54bf2",
+  "download_count": 3191,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hand_plane_no4.png?width=256&height=256"
+}

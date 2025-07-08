@@ -1,0 +1,39 @@
+{
+  "type": 1,
+  "tags": [
+    "floor",
+    "moss",
+    "damp",
+    "wet",
+    "bright",
+    "walkway",
+    "pavement"
+  ],
+  "date_published": 1554355537,
+  "name": "Blue Floor Tiles 01",
+  "old_id": 198,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000.0009536743164
+  ],
+  "sponsors": [
+    "3267566"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "categories": [
+    "floor",
+    "man made",
+    "outdoor",
+    "dirty",
+    "brick"
+  ],
+  "files_hash": "03a501d429f8e6de11c84336c8f5c34304f3384f",
+  "download_count": 49768,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/blue_floor_tiles_01.png?width=256&height=256"
+}

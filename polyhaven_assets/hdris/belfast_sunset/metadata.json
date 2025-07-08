@@ -1,0 +1,48 @@
+{
+  "evs_cap": 12,
+  "name": "Belfast Sunset",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "low contrast",
+    "partly cloudy",
+    "sunrise-sunset",
+    "skies"
+  ],
+  "type": 0,
+  "reviewers": [
+    "Jarod Guest"
+  ],
+  "coords": [
+    -25.687944,
+    30.113194
+  ],
+  "date_taken": 1622654820,
+  "authors": {
+    "Greg Zaal": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "tags": [
+    "grass",
+    "hill",
+    "hilltop",
+    "field",
+    "view",
+    "dry",
+    "dry grass"
+  ],
+  "date_published": 1653350400,
+  "staging": null,
+  "sponsors": [
+    "37678923"
+  ],
+  "prepaid": true,
+  "files_hash": "c5784df748737815dc973559d814f33087d9bf26",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 180683,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/belfast_sunset.png?width=256&height=256"
+}

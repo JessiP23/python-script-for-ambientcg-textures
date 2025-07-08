@@ -1,0 +1,47 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1508536800,
+  "name": "Red Hill Straight",
+  "old_id": 41,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1464516060,
+  "coords": [
+    -34.187588,
+    18.421976
+  ],
+  "sponsors": [
+    {
+      "name": "Rick Kay"
+    }
+  ],
+  "backplates": true,
+  "tags": [
+    "sun",
+    "road",
+    "hill",
+    "rock",
+    "ocean",
+    "town",
+    "backplates"
+  ],
+  "files_hash": "1de861e11e82849020efbd2aa8789e783ae2f5ac",
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 26934,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_hill_straight.png?width=256&height=256"
+}

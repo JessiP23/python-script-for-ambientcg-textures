@@ -1,0 +1,45 @@
+{
+  "evs_cap": 0,
+  "type": 0,
+  "tags": [
+    "tree",
+    "winter",
+    "grass",
+    "rock",
+    "snow",
+    "sun"
+  ],
+  "date_published": 1522879200,
+  "name": "Bergen",
+  "old_id": 263,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    60.396113,
+    5.342357
+  ],
+  "date_taken": 1426420680,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "a87270a99270b00acf977f9616f00e4f87f5ecc4",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    {
+      "url": "https://www.idin-jewellery.co.uk/",
+      "name": "Idin Jewellery"
+    },
+    "20953239"
+  ],
+  "download_count": 35604,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bergen.png?width=256&height=256"
+}

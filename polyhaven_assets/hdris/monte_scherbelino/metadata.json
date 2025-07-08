@@ -1,0 +1,42 @@
+{
+  "evs_cap": 11,
+  "type": 0,
+  "tags": [
+    "tree",
+    "hill",
+    "rock",
+    "cross",
+    "view",
+    "step",
+    "grass"
+  ],
+  "date_published": 1592517600,
+  "name": "Monte Scherbelino",
+  "old_id": 469,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1590479580,
+  "coords": [
+    48.765305,
+    9.131935
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "11167855"
+  ],
+  "files_hash": "7feaa731c1bde31a649a29bf9e6071c8a006c16b",
+  "max_resolution": [
+    20000,
+    10000
+  ],
+  "download_count": 34913,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/monte_scherbelino.png?width=256&height=256"
+}

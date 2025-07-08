@@ -1,0 +1,50 @@
+{
+  "date_published": 1684281600,
+  "name": "Gravel Floor",
+  "categories": [
+    "outdoor",
+    "gravel"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "staging": null,
+  "tags": [
+    "rough",
+    "uneven",
+    "stones",
+    "gravel",
+    "pathway",
+    "driveway stones",
+    "path",
+    "pebbles",
+    "outdoor flooring",
+    "gravelly ground",
+    "driveway gravel",
+    "coarse",
+    "gravelly texture",
+    "walkway",
+    "gravelly",
+    "pebbly",
+    "driveway",
+    "stony"
+  ],
+  "info": null,
+  "dimensions": [
+    2250,
+    2250
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Processing",
+    "Matterfield": "Photography"
+  },
+  "files_hash": "88754f2598990c0849176de944b0745ed569b018",
+  "download_count": 6332,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gravel_floor.png?width=256&height=256"
+}

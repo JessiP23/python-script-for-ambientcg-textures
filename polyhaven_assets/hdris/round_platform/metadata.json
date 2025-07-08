@@ -1,0 +1,42 @@
+{
+  "evs_cap": 12,
+  "whitebalance": 6700,
+  "date_published": 1622584800,
+  "name": "Round Platform",
+  "old_id": 542,
+  "categories": [
+    "outdoor",
+    "skies",
+    "urban",
+    "morning-afternoon",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1602484320,
+  "coords": [
+    50.407467,
+    30.459419
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "type": 0,
+  "sponsors": [
+    "49655030"
+  ],
+  "backplates": true,
+  "tags": [
+    "brick",
+    "street",
+    "square",
+    "backplates"
+  ],
+  "files_hash": "6f4abce21590d6e70d932a62cd27da31990df30b",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 100924,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/round_platform.png?width=256&height=256"
+}

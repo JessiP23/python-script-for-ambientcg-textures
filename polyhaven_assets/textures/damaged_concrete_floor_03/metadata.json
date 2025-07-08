@@ -1,0 +1,45 @@
+{
+  "type": 1,
+  "name": "Damaged Concrete Floor 03",
+  "categories": [
+    "floor",
+    "concrete"
+  ],
+  "tags": [
+    "old",
+    "damaged",
+    "chipped",
+    "concrete",
+    "floor",
+    "dilapidated",
+    "cemented floor",
+    "battered",
+    "crumbling",
+    "deteriorated",
+    "cement",
+    "timeworn",
+    "scuffed",
+    "industrial floor",
+    "abandoned"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1738195200,
+  "staging": null,
+  "files_hash": "d232ef57b738a106a17161b45dfa0b1f3eaca162",
+  "download_count": 4381,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/damaged_concrete_floor_03.png?width=256&height=256"
+}

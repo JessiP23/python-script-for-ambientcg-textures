@@ -1,0 +1,45 @@
+{
+  "type": 1,
+  "name": "Climbing Wall",
+  "categories": [
+    "wall",
+    "man made",
+    "indoor"
+  ],
+  "tags": [
+    "rough",
+    "even",
+    "climbing",
+    "handholds",
+    "flat",
+    "foothold",
+    "grip",
+    "sport",
+    "bouldering",
+    "gym",
+    "rock climbing",
+    "climbing gym",
+    "climbing surface",
+    "climbing holds"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2200.000047683716,
+    2200.000047683716
+  ],
+  "date_published": 1750118400,
+  "staging": null,
+  "files_hash": "4af22e369f3a135e161d9a214affcc7c2ce99efd",
+  "download_count": 274,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/climbing_wall.png?width=256&height=256"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Asphalt 04",
+  "categories": [
+    "man made",
+    "outdoor",
+    "road"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "dry",
+    "cracked",
+    "discolored",
+    "asphalt",
+    "road",
+    "street"
+  ],
+  "info": null,
+  "dimensions": [
+    4039.9999618530273,
+    4039.9999618530273
+  ],
+  "date_published": 1700092800,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Processing",
+    "Anonymous Bob": "Photography"
+  },
+  "files_hash": "26e1e0e364666ffa6d5c90795fb911eefa08ea57",
+  "download_count": 39482,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_04.png?width=256&height=256"
+}

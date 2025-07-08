@@ -1,0 +1,42 @@
+{
+  "date_published": 1585605600,
+  "name": "Arm Chair 01",
+  "old_id": 3,
+  "categories": [
+    "furniture",
+    "seating"
+  ],
+  "type": 2,
+  "tags": [
+    "gothic",
+    "vintage",
+    "chair",
+    "furniture",
+    "victorian",
+    "couch",
+    "wood",
+    "varnished",
+    "classic"
+  ],
+  "authors": {
+    "Kirill Sannikov": "All"
+  },
+  "sponsors": [
+    "66627515",
+    "4047949"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 5626,
+  "texel_density": 1972.3631956341671,
+  "dimensions": [
+    848.4309017658234,
+    765.7602727413177,
+    1065.087635157397
+  ],
+  "files_hash": "8a04a102d4a1e1a480bc4288384d4a2dfd649608",
+  "download_count": 27823,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ArmChair_01.png?width=256&height=256"
+}

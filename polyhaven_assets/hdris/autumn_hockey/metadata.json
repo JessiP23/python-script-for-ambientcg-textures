@@ -1,0 +1,40 @@
+{
+  "evs_cap": 6,
+  "type": 0,
+  "tags": [
+    "tree",
+    "leaves",
+    "autumn",
+    "park",
+    "hockey"
+  ],
+  "date_published": 1506982200,
+  "name": "Autumn Hockey",
+  "old_id": 24,
+  "categories": [
+    "outdoor",
+    "nature",
+    "overcast",
+    "midday",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    52.380836,
+    9.758647
+  ],
+  "date_taken": 1478775540,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "7937768"
+  ],
+  "files_hash": "d9d1a23b8fbcfe92e3f1035a5a980161898224dc",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 75756,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/autumn_hockey.png?width=256&height=256"
+}

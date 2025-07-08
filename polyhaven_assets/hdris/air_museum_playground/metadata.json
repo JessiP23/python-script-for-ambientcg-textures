@@ -1,0 +1,42 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "whitebalance": 5200,
+  "tags": [
+    "tree",
+    "swing",
+    "playground",
+    "grass",
+    "plane",
+    "hangar",
+    "backplates",
+    "sun"
+  ],
+  "name": "Air Museum Playground",
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "natural light",
+    "high contrast"
+  ],
+  "backplates": true,
+  "date_taken": 1602509880,
+  "coords": [
+    50.406602,
+    30.460978
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1635206400,
+  "staging": null,
+  "files_hash": "3871c96794f493ee7ffd8be27b88b145e337014c",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 125867,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/air_museum_playground.png?width=256&height=256"
+}

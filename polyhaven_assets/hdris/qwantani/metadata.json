@@ -1,0 +1,45 @@
+{
+  "evs_cap": 20,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1557784800,
+  "name": "Qwantani",
+  "old_id": 379,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -28.48536987,
+    29.01268416
+  ],
+  "date_taken": 1556803080,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "9b9eff771be1f296ff8331f05cc26f218a644921",
+  "sponsors": [
+    "10485422",
+    "59361351"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "tags": [
+    "sun",
+    "mountain",
+    "view",
+    "dam",
+    "lake",
+    "hilltop",
+    "grass"
+  ],
+  "download_count": 110570,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/qwantani.png?width=256&height=256"
+}

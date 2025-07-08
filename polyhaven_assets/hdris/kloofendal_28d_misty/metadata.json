@@ -1,0 +1,46 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5313,
+  "tags": [
+    "sun",
+    "grass",
+    "rock",
+    "hilltop",
+    "mist",
+    "fog"
+  ],
+  "name": "Kloofendal 28d Misty",
+  "date_taken": 1686130440,
+  "coords": [
+    -26.123391,
+    27.883609
+  ],
+  "info": null,
+  "files_hash": "9e9a1300b31df2d6b2edce24979237942978ba14",
+  "staging": null,
+  "date_published": 1691107200,
+  "categories": [
+    "outdoor",
+    "skies",
+    "natural light",
+    "nature",
+    "partly cloudy",
+    "medium contrast",
+    "morning-afternoon",
+    "collection: verdant_trail"
+  ],
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "authors": {
+    "Greg Zaal": "Processing",
+    "Jenelle van Heerden": "Photography"
+  },
+  "download_count": 27286,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kloofendal_28d_misty.png?width=256&height=256"
+}

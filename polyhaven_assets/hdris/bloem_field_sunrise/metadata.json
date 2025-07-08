@@ -1,0 +1,41 @@
+{
+  "type": 0,
+  "name": "Bloem Field Sunrise",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "clear",
+    "medium contrast",
+    "sunrise-sunset"
+  ],
+  "tags": [
+    "grass",
+    "field",
+    "sun"
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Photography",
+    "Greg Zaal": "Processing"
+  },
+  "reviewers": [
+    "Jenelle van Heerden"
+  ],
+  "date_taken": 1740809760,
+  "coords": [
+    -29.145409824284837,
+    26.122364178299904
+  ],
+  "evs_cap": 12,
+  "whitebalance": 5303,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "4daade7479a80f3b071843fb534ef0562c38e452",
+  "staging": null,
+  "date_published": 1747353600,
+  "download_count": 35871,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bloem_field_sunrise.png?width=256&height=256"
+}

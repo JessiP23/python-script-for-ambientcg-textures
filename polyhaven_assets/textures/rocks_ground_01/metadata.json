@@ -1,0 +1,34 @@
+{
+  "scale": "2x2M",
+  "type": 1,
+  "tags": [
+    "rough",
+    "rock",
+    "cracked",
+    "stones"
+  ],
+  "date_published": 1596793720,
+  "name": "Rocks Ground 01",
+  "old_id": 275,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "categories": [
+    "terrain",
+    "natural",
+    "outdoor",
+    "rock",
+    "collection: verdant_trail"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "8be4379ed1475d130e231b9284d46e5a75d70d9e",
+  "download_count": 66317,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocks_ground_01.png?width=256&height=256"
+}

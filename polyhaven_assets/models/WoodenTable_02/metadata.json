@@ -1,0 +1,40 @@
+{
+  "type": 2,
+  "tags": [
+    "vintage",
+    "wood",
+    "prop",
+    "table",
+    "furniture",
+    "old",
+    "worn",
+    "small"
+  ],
+  "date_published": 1585605600,
+  "sponsors": [
+    "9910225"
+  ],
+  "name": "Wooden Table 02",
+  "old_id": 32,
+  "categories": [
+    "furniture",
+    "table"
+  ],
+  "authors": {
+    "Fran Calvente": "All"
+  },
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 1514,
+  "texel_density": 4648.21038138933,
+  "dimensions": [
+    300.67646503448486,
+    300.67646503448486,
+    417.6570537537643
+  ],
+  "files_hash": "53c8cd1ced8a04f15a4cda5ded07812386a38133",
+  "download_count": 22288,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/WoodenTable_02.png?width=256&height=256"
+}

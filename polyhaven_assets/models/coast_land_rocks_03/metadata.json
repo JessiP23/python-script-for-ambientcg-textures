@@ -1,0 +1,49 @@
+{
+  "lods": true,
+  "name": "Coast Land Rocks 03",
+  "type": 2,
+  "reviewers": [
+    "Rob Tuytel"
+  ],
+  "authors": {
+    "Rob Tuytel": "Photography, processing",
+    "Rico Cilliers": "cleanup"
+  },
+  "info": null,
+  "staging": null,
+  "date_published": 1695427200,
+  "categories": [
+    "nature",
+    "rocks",
+    "collection: smugglers_cove"
+  ],
+  "tags": [
+    "rocks",
+    "formation",
+    "coastal",
+    "landscape",
+    "seaside",
+    "shore",
+    "geology",
+    "pebbles",
+    "weathered",
+    "beach",
+    "stones",
+    "rock",
+    "shoreline"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2056223,
+  "texel_density": 780.5430690278362,
+  "dimensions": [
+    8975.385189056396,
+    5630.90705871582,
+    1529.4181853532791
+  ],
+  "files_hash": "1ecab8435da35fcb0df8eff44307ad4f74ea0c3c",
+  "download_count": 10828,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coast_land_rocks_03.png?width=256&height=256"
+}

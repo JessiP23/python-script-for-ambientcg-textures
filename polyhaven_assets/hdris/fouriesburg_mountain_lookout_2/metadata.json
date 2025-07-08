@@ -1,0 +1,46 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "brick",
+    "wall",
+    "rock",
+    "mountain",
+    "view",
+    "valley",
+    "hilltop"
+  ],
+  "name": "Fouriesburg Mountain Lookout 2",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "clear",
+    "skies",
+    "low contrast",
+    "sunrise-sunset"
+  ],
+  "date_taken": 1688836740,
+  "coords": [
+    -28.592401186832273,
+    28.0741084023173
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "files_hash": "15e8961747b60c3d42fdf96c79e33f939e2d72bd",
+  "date_published": 1694390400,
+  "staging": null,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "download_count": 20761,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fouriesburg_mountain_lookout_2.png?width=256&height=256"
+}

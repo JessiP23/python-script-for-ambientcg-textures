@@ -1,0 +1,37 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "whitebalance": 5300,
+  "date_published": 1592863200,
+  "name": "Pump Station",
+  "old_id": 474,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1586441700,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "backplates": true,
+  "tags": [
+    "abandoned",
+    "farm",
+    "shed",
+    "water tank",
+    "rust",
+    "grass",
+    "backplates"
+  ],
+  "files_hash": "4d725bcb2ce409581445d3bdf4d0e5324bd9d068",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 21809,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pump_station.png?width=256&height=256"
+}

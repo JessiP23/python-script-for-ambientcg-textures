@@ -1,0 +1,49 @@
+{
+  "name": "Weathered Planks",
+  "categories": [
+    "outdoor",
+    "wood",
+    "man made",
+    "wall",
+    "floor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "info": null,
+  "tags": [
+    "wood",
+    "wooden",
+    "bridge",
+    "planks",
+    "old",
+    "weathered",
+    "worn",
+    "damaged",
+    "discolored",
+    "chipped",
+    "stained",
+    "wall",
+    "brown",
+    "cracked",
+    "cabin"
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1668470400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d1e9bc9a7a2bfc0d2bd642a7bc18519b539e6339",
+  "download_count": 111212,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/weathered_planks.png?width=256&height=256"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Marble Tiles",
+  "categories": [
+    "floor",
+    "man made",
+    "outdoor",
+    "dirty"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "floor",
+    "tiles",
+    "marble",
+    "dirty",
+    "ceramic",
+    "decorative",
+    "consistent",
+    "square",
+    "waterproof tiles"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1708992000,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "afe8821c16c3590d9767693b9dda47be410849bf",
+  "download_count": 11403,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/marble_tiles.png?width=256&height=256"
+}

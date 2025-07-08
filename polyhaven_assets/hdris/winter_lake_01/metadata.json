@@ -1,0 +1,42 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "whitebalance": 6400,
+  "tags": [
+    "field",
+    "lake",
+    "snow",
+    "winter",
+    "frozen"
+  ],
+  "date_published": 1549926000,
+  "name": "Winter Lake 01",
+  "old_id": 348,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1546955820,
+  "coords": [
+    50.9034383,
+    34.8265526
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "files_hash": "8dbcf29ca601f688f0ebd079858e3a76d64f065d",
+  "max_resolution": [
+    16500,
+    8250
+  ],
+  "download_count": 104647,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/winter_lake_01.png?width=256&height=256"
+}

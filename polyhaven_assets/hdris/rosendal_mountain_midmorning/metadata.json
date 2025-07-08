@@ -1,0 +1,45 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "sun",
+    "dry grass",
+    "hill",
+    "bare",
+    "dry",
+    "yellow"
+  ],
+  "name": "Rosendal Mountain Midmorning",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "clear",
+    "skies",
+    "high contrast",
+    "midday"
+  ],
+  "date_taken": 1691836200,
+  "coords": [
+    -28.5024913,
+    27.8773278
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "files_hash": "4e13633d3d2f2db70544b077d3bfe18edd21b313",
+  "date_published": 1698796800,
+  "staging": null,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "download_count": 34164,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rosendal_mountain_midmorning.png?width=256&height=256"
+}

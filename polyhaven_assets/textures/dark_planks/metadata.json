@@ -1,0 +1,31 @@
+{
+  "type": 1,
+  "tags": [
+    "planks",
+    "cabin",
+    "shed"
+  ],
+  "date_published": 1532476085,
+  "name": "Dark Planks",
+  "old_id": 150,
+  "categories": [
+    "wood",
+    "outdoor",
+    "wall",
+    "man made"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "3f2b3e1129b5e2ba765bcba6a835d351f2d61af1",
+  "download_count": 31799,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dark_planks.png?width=256&height=256"
+}

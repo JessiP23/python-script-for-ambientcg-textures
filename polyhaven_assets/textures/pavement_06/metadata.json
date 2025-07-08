@@ -1,0 +1,46 @@
+{
+  "type": 1,
+  "name": "Pavement 06",
+  "categories": [
+    "dirty",
+    "brick",
+    "floor",
+    "man made"
+  ],
+  "tags": [
+    "rough",
+    "exterior",
+    "outdoor",
+    "walkway",
+    "pavers",
+    "outdoor flooring",
+    "urban",
+    "footpath",
+    "cityscape",
+    "interlocking bricks",
+    "sidewalk",
+    "antislip"
+  ],
+  "authors": {
+    "Jan Martens": "All"
+  },
+  "reviewers": [
+    "James Ray Cock",
+    "Rob Tuytel",
+    "Jenelle van Heerden"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "staging": null,
+  "date_published": 1732752000,
+  "donated": true,
+  "files_hash": "39c8a7130cf65f67558dfcea04b9b1be49360de3",
+  "download_count": 8794,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pavement_06.png?width=256&height=256"
+}

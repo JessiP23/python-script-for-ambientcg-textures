@@ -1,0 +1,44 @@
+{
+  "type": 2,
+  "name": "Ornate Medieval Mace",
+  "categories": [
+    "props"
+  ],
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "donated": true,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 14762,
+  "texel_density": 9947.210745112763,
+  "dimensions": [
+    94.87242996692657,
+    101.7131395637989,
+    630.000039935112
+  ],
+  "date_published": 1741132800,
+  "staging": null,
+  "tags": [
+    "weapon",
+    "fantasy",
+    "battle",
+    "combat",
+    "knight",
+    "iron",
+    "seige",
+    "war",
+    "steel",
+    "crusades",
+    "silver",
+    "medieval"
+  ],
+  "files_hash": "5c5c324bc81152705758c5112d8e6b1626b3f805",
+  "download_count": 475,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ornate_medieval_mace.png?width=256&height=256"
+}

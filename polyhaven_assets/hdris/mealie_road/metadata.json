@@ -1,0 +1,45 @@
+{
+  "evs_cap": 24,
+  "type": 0,
+  "date_published": 1522879200,
+  "name": "Mealie Road",
+  "old_id": 211,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1460646540,
+  "coords": [
+    -28.952785,
+    29.473697
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "url": "https://www.deviantart.com/nervouswreck96",
+      "name": "William Pitts"
+    }
+  ],
+  "backplates": true,
+  "tags": [
+    "road",
+    "sun",
+    "corn",
+    "field",
+    "backplates"
+  ],
+  "files_hash": "9689d03af14c584f3ae95d7418d7edc0cfc92845",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 78063,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mealie_road.png?width=256&height=256"
+}

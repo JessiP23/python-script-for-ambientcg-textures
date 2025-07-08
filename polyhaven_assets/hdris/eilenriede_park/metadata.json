@@ -1,0 +1,41 @@
+{
+  "evs_cap": 6,
+  "type": 0,
+  "tags": [
+    "park",
+    "field",
+    "tree",
+    "grass",
+    "bench",
+    "autumn"
+  ],
+  "date_published": 1506982020,
+  "name": "Eilenriede Park",
+  "old_id": 26,
+  "categories": [
+    "outdoor",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1478879580,
+  "coords": [
+    52.38316,
+    9.760609
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "11167855"
+  ],
+  "files_hash": "c50592287da40c9ede640ff20acacf0d223daca0",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 77975,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/eilenriede_park.png?width=256&height=256"
+}

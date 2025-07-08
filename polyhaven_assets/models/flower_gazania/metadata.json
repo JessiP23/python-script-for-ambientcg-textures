@@ -1,0 +1,48 @@
+{
+  "lods": true,
+  "name": "Flower Gazania",
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers",
+    "Jandre van Heerden"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 25819,
+  "texel_density": 3877.8067216791273,
+  "dimensions": [
+    1578.87464761734,
+    810.1679384708405,
+    400.5459398031235
+  ],
+  "staging": null,
+  "authors": {
+    "James Ray Cock": "Model",
+    "Jenelle van Heerden": "Photography"
+  },
+  "categories": [
+    "nature",
+    "plants",
+    "flowers",
+    "ground cover",
+    "collection: namaqualand"
+  ],
+  "tags": [
+    "karoo",
+    "outdoor",
+    "field",
+    "orange",
+    "botanical",
+    "floral",
+    "african",
+    "wildflower",
+    "daisy",
+    "south africa"
+  ],
+  "date_published": 1728345600,
+  "files_hash": "6861ef52064618add31b204dcabc198a5bfbb52e",
+  "download_count": 6372,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flower_gazania.png?width=256&height=256"
+}

@@ -1,0 +1,51 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "sun",
+    "road",
+    "track",
+    "asphalt",
+    "race",
+    "straight",
+    "barrier",
+    "circuit",
+    "backplates"
+  ],
+  "name": "Zwartkops Straight Sunset",
+  "categories": [
+    "outdoor",
+    "urban",
+    "skies",
+    "natural light",
+    "clear",
+    "sunrise-sunset",
+    "low contrast"
+  ],
+  "backplates": true,
+  "date_taken": 1713721020,
+  "coords": [
+    -25.810044808817782,
+    28.110051739066126
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "498bc3f807584aab1c597a3a099bce90c4f6c349",
+  "date_published": 1722211200,
+  "staging": null,
+  "sponsors": [
+    "37678923"
+  ],
+  "download_count": 43828,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwartkops_straight_sunset.png?width=256&height=256"
+}

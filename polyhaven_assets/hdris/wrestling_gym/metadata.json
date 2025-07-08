@@ -1,0 +1,42 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 8500,
+  "tags": [
+    "gym",
+    "exercise",
+    "mat",
+    "windows",
+    "empty",
+    "hall",
+    "fitness",
+    "backplates"
+  ],
+  "name": "Wrestling Gym",
+  "categories": [
+    "indoor",
+    "urban",
+    "natural light",
+    "low contrast",
+    "midday",
+    "morning-afternoon"
+  ],
+  "backplates": true,
+  "date_taken": 1678702320,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "files_hash": "0eed9e54bce1ef67683d1ffe48dc7fbf555093eb",
+  "date_published": 1687132800,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 20177,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wrestling_gym.png?width=256&height=256"
+}

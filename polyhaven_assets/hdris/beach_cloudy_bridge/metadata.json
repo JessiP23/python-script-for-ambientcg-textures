@@ -1,0 +1,46 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "beach",
+    "sand",
+    "river",
+    "ocean",
+    "bridge",
+    "underpass",
+    "concrete",
+    "water"
+  ],
+  "name": "Beach Cloudy Bridge",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "urban",
+    "low contrast",
+    "overcast",
+    "midday"
+  ],
+  "date_taken": 1712486640,
+  "coords": [
+    -30.199796,
+    30.802556
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "d8cb7b4b9081c2f8caf4cae11ecb45e6c498b860",
+  "date_published": 1714521600,
+  "staging": null,
+  "download_count": 10863,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/beach_cloudy_bridge.png?width=256&height=256"
+}

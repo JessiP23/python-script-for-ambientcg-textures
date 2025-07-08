@@ -1,0 +1,41 @@
+{
+  "type": 1,
+  "name": "Herringbone Concrete Tile",
+  "categories": [
+    "concrete",
+    "outdoor",
+    "man made"
+  ],
+  "tags": [
+    "weathered",
+    "rough",
+    "discolored",
+    "concrete",
+    "herringbone",
+    "herringbone pattern",
+    "patterned concrete",
+    "weatherbeaten",
+    "scuffed"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel",
+    "Jenelle van Heerden"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "date_published": 1749513600,
+  "staging": null,
+  "files_hash": "29afbb0aabc5ed2092af9d545a66b1f7602a11b3",
+  "download_count": 1995,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/herringbone_concrete_tile.png?width=256&height=256"
+}

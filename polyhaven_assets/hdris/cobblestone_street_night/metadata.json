@@ -1,0 +1,50 @@
+{
+  "evs_cap": 18,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 2200,
+  "tags": [
+    "city",
+    "street",
+    "cobblestone",
+    "dark",
+    "lamp",
+    "germany",
+    "europe",
+    "alley",
+    "narrow",
+    "road",
+    "car",
+    "pavement"
+  ],
+  "name": "Cobblestone Street Night",
+  "categories": [
+    "outdoor",
+    "night",
+    "urban",
+    "artificial light",
+    "high contrast",
+    "clear"
+  ],
+  "date_taken": 1697662320,
+  "coords": [
+    54.091090400656945,
+    12.144489510180811
+  ],
+  "info": null,
+  "date_published": 1707436800,
+  "staging": null,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "022731d00fd7fd9c0a79e174eb0bfb4c61342889",
+  "authors": {
+    "Greg Zaal": "All",
+    "Jenelle van Heerden": "Backplates"
+  },
+  "download_count": 114500,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_street_night.png?width=256&height=256"
+}

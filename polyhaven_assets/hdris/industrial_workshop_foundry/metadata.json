@@ -1,0 +1,45 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "industrial",
+    "warehouse",
+    "workshop",
+    "machine",
+    "tools"
+  ],
+  "date_published": 1668124800,
+  "name": "Industrial Workshop Foundry",
+  "categories": [
+    "indoor",
+    "medium contrast",
+    "artificial light",
+    "natural light",
+    "urban"
+  ],
+  "staging": null,
+  "coords": [
+    -26.124047643545016,
+    28.211903706781133
+  ],
+  "date_taken": 1658923020,
+  "info": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "3353c78f743e53a70c8228eab121a0f52f27a9dd",
+  "sponsors": [
+    "20953239"
+  ],
+  "download_count": 23576,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/industrial_workshop_foundry.png?width=256&height=256"
+}

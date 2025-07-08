@@ -1,0 +1,37 @@
+{
+  "name": "Asphalt Pit Lane",
+  "categories": [
+    "floor",
+    "asphalt",
+    "road"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi"
+  ],
+  "tags": [
+    "asphalt",
+    "asphalt road",
+    "road",
+    "roadway",
+    "tarmac road",
+    "race track",
+    "pit lane"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "staging": null,
+  "date_published": 1723593600,
+  "files_hash": "a04beb641ce5cbf5307a31f51f402f5a9fb675a0",
+  "download_count": 36852,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_pit_lane.png?width=256&height=256"
+}

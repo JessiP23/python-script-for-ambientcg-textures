@@ -1,0 +1,45 @@
+{
+  "donated": true,
+  "name": "Fire Hydrant",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Gon\u00e7alo Fel\u00edcio": "All"
+  },
+  "info": null,
+  "date_published": 1698364800,
+  "staging": null,
+  "categories": [
+    "industrial",
+    "structures",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "city",
+    "urban",
+    "street",
+    "road",
+    "emergency",
+    "valve",
+    "extinguisher",
+    "utility",
+    "municipal",
+    "infrastructure"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 86316,
+  "texel_density": 6126.643205564119,
+  "dimensions": [
+    874.623566865921,
+    317.74356961250305,
+    799.4560238003032
+  ],
+  "files_hash": "392eed954362d55b55022af83c0b7150bf977853",
+  "download_count": 8374,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fire_hydrant.png?width=256&height=256"
+}

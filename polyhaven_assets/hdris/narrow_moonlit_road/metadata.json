@@ -1,0 +1,47 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "whitebalance": 3776,
+  "tags": [
+    "moon",
+    "road",
+    "asphalt",
+    "tree",
+    "backplates",
+    "stars"
+  ],
+  "name": "Narrow Moonlit Road",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "clear",
+    "night",
+    "high contrast"
+  ],
+  "backplates": true,
+  "date_taken": 1573161600,
+  "coords": [
+    -24.93992514,
+    30.71472927
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "date_published": 1644239111,
+  "staging": null,
+  "prepaid": true,
+  "sponsors": [
+    "4714267"
+  ],
+  "files_hash": "b6b046d462610a1429c071135c7a7547dc485fed",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 31493,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/narrow_moonlit_road.png?width=256&height=256"
+}

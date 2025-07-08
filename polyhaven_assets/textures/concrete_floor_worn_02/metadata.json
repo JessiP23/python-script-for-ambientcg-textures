@@ -1,0 +1,48 @@
+{
+  "name": "Concrete Floor Worn 02",
+  "categories": [
+    "floor",
+    "man made",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "uneven",
+    "weathered",
+    "chipped",
+    "cracked",
+    "damaged",
+    "exterior",
+    "dry",
+    "concrete",
+    "rocks",
+    "cracked cement",
+    "timeworn",
+    "floor",
+    "outdoor flooring",
+    "cement",
+    "crumbling"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1999.9996423721313,
+    1999.9996423721313
+  ],
+  "date_published": 1701907200,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "f78e80877f2fbc4909efe126798ce38f7dac27e9",
+  "download_count": 17005,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_floor_worn_02.png?width=256&height=256"
+}

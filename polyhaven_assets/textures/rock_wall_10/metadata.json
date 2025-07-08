@@ -1,0 +1,44 @@
+{
+  "name": "Rock Wall 10",
+  "categories": [
+    "outdoor",
+    "wall",
+    "rock"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "uneven",
+    "rock",
+    "rocks",
+    "wall",
+    "rocky",
+    "cracks",
+    "dirt",
+    "exterior",
+    "stone",
+    "hard",
+    "earthy",
+    "stone wall"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1799.9995946884155,
+    1799.9995946884155
+  ],
+  "date_published": 1695254400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "e1bc5f88e522d2cc93e3bdf5b6a9130d74614f29",
+  "download_count": 41842,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_10.png?width=256&height=256"
+}

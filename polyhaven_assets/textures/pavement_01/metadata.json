@@ -1,0 +1,33 @@
+{
+  "scale": "1.5M x 1.5M",
+  "type": 1,
+  "tags": [
+    "pavement",
+    "square",
+    "pattern",
+    "worn",
+    "uneven"
+  ],
+  "date_published": 1560816694,
+  "name": "Pavement 01",
+  "old_id": 211,
+  "categories": [
+    "floor",
+    "outdoor",
+    "man made"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "3ea9fc2ab5ba88ce7627dabe1cf8c9ba07a23f81",
+  "download_count": 34178,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pavement_01.png?width=256&height=256"
+}

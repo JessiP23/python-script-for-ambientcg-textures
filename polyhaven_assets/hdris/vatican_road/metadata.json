@@ -1,0 +1,49 @@
+{
+  "evs_cap": 6,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1514502000,
+  "name": "Vatican Road",
+  "old_id": 120,
+  "categories": [
+    "outdoor",
+    "urban",
+    "sunrise-sunset",
+    "clear",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    41.9024,
+    12.4621
+  ],
+  "date_taken": 1510149720,
+  "backplates": true,
+  "tags": [
+    "road",
+    "building",
+    "architecture",
+    "europe",
+    "rome",
+    "church",
+    "car",
+    "street",
+    "city",
+    "backplates"
+  ],
+  "files_hash": "69f1886068bda281bb76f24892c5049404bc4763",
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "9910225",
+    "128081732"
+  ],
+  "download_count": 54492,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/vatican_road.png?width=256&height=256"
+}

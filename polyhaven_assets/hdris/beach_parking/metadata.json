@@ -1,0 +1,43 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "date_published": 1522879200,
+  "name": "Beach Parking",
+  "old_id": 202,
+  "categories": [
+    "outdoor",
+    "skies",
+    "urban",
+    "sunrise-sunset",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -34.138847,
+    18.432208
+  ],
+  "date_taken": 1464502140,
+  "backplates": true,
+  "tags": [
+    "road",
+    "parking",
+    "fog",
+    "backplates"
+  ],
+  "sponsors": [
+    "3567764",
+    "77433244"
+  ],
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "5582450aef059c4067349d159abe098acd6e37b2",
+  "download_count": 51749,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/beach_parking.png?width=256&height=256"
+}

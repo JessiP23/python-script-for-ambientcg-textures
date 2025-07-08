@@ -1,0 +1,35 @@
+{
+  "scale": "30x30M",
+  "type": 1,
+  "tags": [
+    "beach",
+    "wavy",
+    "costal",
+    "ocean",
+    "seaside"
+  ],
+  "date_published": 1601489165,
+  "name": "Aerial Beach 01",
+  "old_id": 286,
+  "categories": [
+    "terrain",
+    "sand",
+    "outdoor",
+    "natural",
+    "aerial"
+  ],
+  "dimensions": [
+    30000,
+    30000
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "b25ab01641da8f9b025dabf1f057e0ab8d2124de",
+  "download_count": 131315,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerial_beach_01.png?width=256&height=256"
+}

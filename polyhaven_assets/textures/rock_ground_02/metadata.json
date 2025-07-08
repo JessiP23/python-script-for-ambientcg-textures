@@ -1,0 +1,33 @@
+{
+  "scale": "3M x 3M",
+  "type": 1,
+  "tags": [
+    "rough",
+    "broken",
+    "gravel",
+    "ground"
+  ],
+  "date_published": 1581998232,
+  "name": "Rock Ground 02",
+  "old_id": 243,
+  "categories": [
+    "terrain",
+    "natural",
+    "rock",
+    "outdoor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    3000,
+    3000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "12ff18faea8c0684f5cd04521c5d93cdc117490d",
+  "download_count": 46817,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_ground_02.png?width=256&height=256"
+}

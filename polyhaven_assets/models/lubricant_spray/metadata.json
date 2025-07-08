@@ -1,0 +1,55 @@
+{
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "date_published": 1680825600,
+  "sponsors": [
+    "26820710"
+  ],
+  "name": "Lubricant Spray",
+  "staging": null,
+  "info": null,
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "categories": [
+    "props",
+    "containers",
+    "tools",
+    "decorative",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "shed",
+    "workshop",
+    "metal",
+    "garage",
+    "cleaning",
+    "spray",
+    "can",
+    "oil",
+    "grease",
+    "metal can",
+    "lubricant",
+    "maintenance",
+    "machinery",
+    "aerosol",
+    "clutter",
+    "rust prevention"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 5476,
+  "texel_density": 35012.76020744516,
+  "dimensions": [
+    66.9858492910862,
+    64.59099799394608,
+    164.8811548948288
+  ],
+  "files_hash": "739250ce9b05fea9d98c6153ca95a0a6d376b495",
+  "download_count": 7206,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lubricant_spray.png?width=256&height=256"
+}

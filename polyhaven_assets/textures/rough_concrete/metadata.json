@@ -1,0 +1,39 @@
+{
+  "date_published": 1678752000,
+  "name": "Rough Concrete",
+  "categories": [
+    "man made",
+    "plaster-concrete",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "staging": null,
+  "info": null,
+  "tags": [
+    "rough",
+    "concrete",
+    "dry",
+    "plaster",
+    "coarse",
+    "white",
+    "grey"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "dimensions": [
+    1230.0000190734863,
+    1230.0000190734863
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "38d884db7ce867ff2e6445a31abfe70aa5adc7b5",
+  "download_count": 46977,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rough_concrete.png?width=256&height=256"
+}

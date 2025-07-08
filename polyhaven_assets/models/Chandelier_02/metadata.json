@@ -1,0 +1,39 @@
+{
+  "date_published": 1585605600,
+  "sponsors": [
+    "26820710"
+  ],
+  "name": "Chandelier 02",
+  "old_id": 10,
+  "categories": [
+    "lighting"
+  ],
+  "type": 2,
+  "tags": [
+    "lighting",
+    "ceiling",
+    "decorative",
+    "chandelier",
+    "elegant",
+    "hanging",
+    "ornate",
+    "vintage"
+  ],
+  "authors": {
+    "Kirill Sannikov": "All"
+  },
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 21514,
+  "texel_density": 5737.948210646185,
+  "dimensions": [
+    678.9563298225403,
+    619.0831661224365,
+    848.0727672576904
+  ],
+  "files_hash": "92f4825de2702b09d11b990655bdbd24ba504a09",
+  "download_count": 19028,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/Chandelier_02.png?width=256&height=256"
+}

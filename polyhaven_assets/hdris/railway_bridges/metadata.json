@@ -1,0 +1,41 @@
+{
+  "evs_cap": 26,
+  "type": 0,
+  "whitebalance": 4900,
+  "date_published": 1573513200,
+  "name": "Railway Bridges",
+  "old_id": 422,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1566665280,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "993026"
+  ],
+  "backplates": true,
+  "tags": [
+    "train",
+    "rail",
+    "sun",
+    "grass",
+    "bridge",
+    "steel",
+    "backplates"
+  ],
+  "files_hash": "2a31d4e35f862049868f8c9a8b2f5496ceed3144",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 30093,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/railway_bridges.png?width=256&height=256"
+}

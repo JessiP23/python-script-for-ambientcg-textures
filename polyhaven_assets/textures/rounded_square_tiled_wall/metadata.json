@@ -1,0 +1,35 @@
+{
+  "name": "Rounded Square Tiled Wall",
+  "categories": [
+    "wall"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "wall",
+    "tiles",
+    "rounded square",
+    "ceramic",
+    "building facade",
+    "small tiles"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "staging": null,
+  "date_published": 1723420800,
+  "files_hash": "b8d846d8bbe0063867fe12bac45da30ce94aa14e",
+  "download_count": 3044,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rounded_square_tiled_wall.png?width=256&height=256"
+}

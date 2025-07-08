@@ -1,0 +1,45 @@
+{
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "wine",
+    "drink",
+    "bottle",
+    "champagne",
+    "grape",
+    "farmhouse",
+    "vineyard"
+  ],
+  "name": "Wine Bottles 01",
+  "categories": [
+    "props",
+    "containers",
+    "dishes"
+  ],
+  "authors": {
+    "Jurita Burger": "label designs",
+    "Rico Cilliers": "modeling"
+  },
+  "date_published": 1648166400,
+  "staging": null,
+  "sponsors": [
+    "4714267",
+    "11109006"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 28848,
+  "texel_density": 18488.1271867906,
+  "dimensions": [
+    676.3246953487396,
+    80.56290075182915,
+    331.367195234634
+  ],
+  "files_hash": "9426086370c86485039d330f47b99c93d333ff38",
+  "download_count": 51055,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wine_bottles_01.png?width=256&height=256"
+}

@@ -1,0 +1,31 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "lamp",
+    "studio",
+    "photo"
+  ],
+  "date_published": 1525384800,
+  "name": "Studio Small 06",
+  "old_id": 268,
+  "date_taken": 1521021840,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "categories": [
+    "indoor",
+    "urban",
+    "studio",
+    "high contrast",
+    "artificial light"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "4595f4712d292f33a140f9b06bde53adc0970297",
+  "download_count": 109102,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/studio_small_06.png?width=256&height=256"
+}

@@ -1,0 +1,41 @@
+{
+  "type": 0,
+  "name": "Mirrored Hall",
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "natural light",
+    "midday"
+  ],
+  "tags": [
+    "hall",
+    "mirror",
+    "window",
+    "victorian",
+    "high ceiling",
+    "abandoned"
+  ],
+  "authors": {
+    "Grzegorz Wronkowski": "All"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1737287520,
+  "coords": [
+    50.712354,
+    16.359494
+  ],
+  "evs_cap": 12,
+  "whitebalance": 5400,
+  "max_resolution": [
+    30000,
+    15000
+  ],
+  "files_hash": "3e61d2c9ab1cd132b11c9689cea21766c6bc15c0",
+  "date_published": 1743120000,
+  "staging": null,
+  "download_count": 18418,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mirrored_hall.png?width=256&height=256"
+}

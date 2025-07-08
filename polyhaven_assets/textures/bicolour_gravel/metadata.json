@@ -1,0 +1,38 @@
+{
+  "name": "Bicolour Gravel",
+  "categories": [
+    "floor",
+    "gravel"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Jandre van Heerden"
+  ],
+  "tags": [
+    "gravel",
+    "gravelly",
+    "driveway gravel",
+    "driveway stones",
+    "driveway",
+    "garden walkway",
+    "stones",
+    "garden path gravel"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1899.9998569488525,
+    1899.9998569488525
+  ],
+  "date_published": 1721088000,
+  "staging": null,
+  "files_hash": "40a59d8983ce5e3b179ecaf41f7160034e2c4e4a",
+  "download_count": 5676,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bicolour_gravel.png?width=256&height=256"
+}

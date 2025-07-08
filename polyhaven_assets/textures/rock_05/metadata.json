@@ -1,0 +1,35 @@
+{
+  "date_published": 1536799926,
+  "sponsors": [
+    "42579608"
+  ],
+  "name": "Rock 05",
+  "old_id": 161,
+  "categories": [
+    "rock",
+    "outdoor",
+    "terrain",
+    "natural"
+  ],
+  "type": 1,
+  "tags": [
+    "rough",
+    "uneven",
+    "old",
+    "stone"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "489f71601bc8f756c9762f6c77c92dbd0cfab6b6",
+  "download_count": 84104,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_05.png?width=256&height=256"
+}

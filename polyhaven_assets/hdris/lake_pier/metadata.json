@@ -1,0 +1,52 @@
+{
+  "donated": true,
+  "evs_cap": 11,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 6500,
+  "tags": [
+    "pier",
+    "lake",
+    "water",
+    "ocean",
+    "concrete",
+    "harbour",
+    "harbor",
+    "dock"
+  ],
+  "name": "Lake Pier",
+  "categories": [
+    "outdoor",
+    "urban",
+    "natural light",
+    "medium contrast",
+    "low contrast",
+    "sunrise-sunset",
+    "skies",
+    "partly cloudy"
+  ],
+  "date_taken": 1668843960,
+  "coords": [
+    47.650393,
+    9.472654
+  ],
+  "info": null,
+  "authors": {
+    "Alexander Scholten": "All"
+  },
+  "files_hash": "0d8efea682b3d6bc970a572b38fdf85267ff133e",
+  "date_published": 1675814400,
+  "staging": null,
+  "max_resolution": [
+    21724,
+    10862
+  ],
+  "sponsors": [
+    "11789721",
+    "32966849"
+  ],
+  "download_count": 88213,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lake_pier.png?width=256&height=256"
+}

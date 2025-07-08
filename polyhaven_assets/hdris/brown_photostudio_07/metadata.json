@@ -1,0 +1,44 @@
+{
+  "evs_cap": 16,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 4200,
+  "tags": [
+    "studio",
+    "bed",
+    "fabric",
+    "wood",
+    "wooden floor",
+    "white",
+    "windows",
+    "chair"
+  ],
+  "name": "Brown Photostudio 07",
+  "categories": [
+    "natural light",
+    "studio",
+    "indoor",
+    "medium contrast",
+    "urban"
+  ],
+  "coords": [
+    49.237264,
+    28.40647
+  ],
+  "date_taken": 1650032640,
+  "info": null,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1665705600,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "4acd588b8e34fb7baff28821eac191c9f61c7268",
+  "download_count": 47263,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_photostudio_07.png?width=256&height=256"
+}

@@ -1,0 +1,38 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "whitebalance": 5050,
+  "tags": [
+    "garage",
+    "warehouse",
+    "industrial",
+    "car",
+    "workshop"
+  ],
+  "date_published": 1545087600,
+  "name": "Autoshop 01",
+  "old_id": 334,
+  "categories": [
+    "indoor",
+    "urban",
+    "low contrast",
+    "artificial light"
+  ],
+  "date_taken": 1542803160,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "sponsors": [
+    {
+      "url": "https://www.idin-jewellery.co.uk/",
+      "name": "Idin Jewellery"
+    }
+  ],
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "files_hash": "af0f674cba31a40e7ddd48db6dd9779d6508b146",
+  "download_count": 152401,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/autoshop_01.png?width=256&height=256"
+}

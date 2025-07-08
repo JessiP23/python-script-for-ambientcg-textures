@@ -1,0 +1,44 @@
+{
+  "name": "Long White Tiles",
+  "categories": [
+    "floor",
+    "man made"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "wall",
+    "weathered",
+    "chipped",
+    "discolored",
+    "damaged",
+    "long",
+    "white",
+    "tiles",
+    "scuffed",
+    "rectangular",
+    "minimalist",
+    "grungy",
+    "aged",
+    "deteriorated"
+  ],
+  "dimensions": [
+    1269.9999809265137,
+    1269.9999809265137
+  ],
+  "staging": null,
+  "date_published": 1711065600,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Processing",
+    "Anonymous Bob": " Photography"
+  },
+  "files_hash": "c26e8672a94d97e12b4eb15f3eab2ce954430313",
+  "download_count": 31581,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/long_white_tiles.png?width=256&height=256"
+}

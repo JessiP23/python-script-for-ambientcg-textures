@@ -1,0 +1,36 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "dirt",
+    "forest",
+    "river",
+    "autumn"
+  ],
+  "date_published": 1506981600,
+  "name": "Woods",
+  "old_id": 23,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1438239720,
+  "coords": [
+    -26.163682,
+    27.999798
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "05737207843335eabcb1f82aadf8009c3c2e041e",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 20984,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/woods.png?width=256&height=256"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Rock Wall 06",
+  "categories": [
+    "wall",
+    "dirty",
+    "rock",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "info": null,
+  "tags": [
+    "rough",
+    "uneven",
+    "stones",
+    "wall",
+    "rock",
+    "chipped",
+    "rocks",
+    "dry"
+  ],
+  "dimensions": [
+    1309.999942779541,
+    1309.999942779541
+  ],
+  "date_published": 1673481600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "e7530d4aa3803429943bb193c03f1e628161612b",
+  "download_count": 19288,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_06.png?width=256&height=256"
+}

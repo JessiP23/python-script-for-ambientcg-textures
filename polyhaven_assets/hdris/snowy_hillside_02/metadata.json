@@ -1,0 +1,38 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "snow",
+    "mud",
+    "winter",
+    "path",
+    "forest",
+    "hilltop"
+  ],
+  "name": "Snowy Hillside 02",
+  "categories": [
+    "outdoor",
+    "nature",
+    "midday",
+    "low contrast",
+    "natural light",
+    "overcast"
+  ],
+  "coords": [
+    48.400234,
+    9.805237
+  ],
+  "date_taken": 1609506600,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1643241600,
+  "staging": null,
+  "files_hash": "2b681cdac29a3845e4630ba8210b32656f427929",
+  "max_resolution": [
+    20954,
+    10477
+  ],
+  "download_count": 40079,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snowy_hillside_02.png?width=256&height=256"
+}

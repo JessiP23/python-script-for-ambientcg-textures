@@ -1,0 +1,34 @@
+{
+  "type": 2,
+  "tags": [
+    "chair",
+    "vintage",
+    "prop",
+    "wood",
+    "furniture"
+  ],
+  "date_published": 1588208147,
+  "name": "Rockingchair 01",
+  "old_id": 42,
+  "categories": [
+    "furniture",
+    "seating"
+  ],
+  "authors": {
+    "Jorge Camacho": "All"
+  },
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 11866,
+  "texel_density": 2936.8192993983985,
+  "dimensions": [
+    708.1280946731567,
+    833.482027053833,
+    994.9284568428993
+  ],
+  "files_hash": "cad30a6e8f6569971447bd4d7c4d9064ca17aec3",
+  "download_count": 27804,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/Rockingchair_01.png?width=256&height=256"
+}

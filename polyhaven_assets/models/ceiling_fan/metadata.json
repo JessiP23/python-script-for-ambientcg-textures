@@ -1,0 +1,44 @@
+{
+  "type": 2,
+  "name": "Ceiling Fan",
+  "categories": [
+    "appliances",
+    "electronics"
+  ],
+  "tags": [
+    "utility",
+    "ceiling",
+    "air circulation",
+    "ventilation",
+    "fixture",
+    "cooling",
+    "fan",
+    "interior"
+  ],
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "donated": true,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 16356,
+  "date_published": 1745971200,
+  "staging": null,
+  "sponsors": [
+    "121968951"
+  ],
+  "texel_density": 2433.8409023215854,
+  "dimensions": [
+    1462.9170894622803,
+    1462.9170894622803,
+    516.343355178833
+  ],
+  "files_hash": "9f5ec1073512943e6b3f4e1d4186e9dfc1097ece",
+  "download_count": 2019,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ceiling_fan.png?width=256&height=256"
+}

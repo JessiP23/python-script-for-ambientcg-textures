@@ -1,0 +1,37 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "tags": [
+    "path",
+    "water tower",
+    "view",
+    "grass"
+  ],
+  "date_published": 1511996400,
+  "name": "Northcliff",
+  "old_id": 93,
+  "categories": [
+    "outdoor",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "low contrast",
+    "natural light",
+    "urban"
+  ],
+  "coords": [
+    -26.145092,
+    27.968021
+  ],
+  "date_taken": 1404574320,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "50c64dade344c940da7ffff2d8b83c3c858d5da3",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 21930,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/northcliff.png?width=256&height=256"
+}

@@ -1,0 +1,45 @@
+{
+  "evs_cap": 16,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 4200,
+  "tags": [
+    "couch",
+    "wooden floor",
+    "lamp",
+    "window",
+    "seat",
+    "dark",
+    "backplates"
+  ],
+  "name": "Blue Photo Studio",
+  "categories": [
+    "studio",
+    "indoor",
+    "artificial light",
+    "natural light",
+    "urban",
+    "medium contrast",
+    "midday"
+  ],
+  "backplates": true,
+  "date_taken": 1676983020,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "files_hash": "5025f894d2b1140cd239203f3edb8e9b3f2204cb",
+  "date_published": 1681084800,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "82322099"
+  ],
+  "download_count": 131410,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/blue_photo_studio.png?width=256&height=256"
+}

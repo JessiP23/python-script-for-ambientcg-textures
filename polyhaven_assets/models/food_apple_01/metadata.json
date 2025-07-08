@@ -1,0 +1,37 @@
+{
+  "donated": true,
+  "date_published": 1625619600,
+  "sponsors": [
+    "25436656"
+  ],
+  "name": "Food Apple 01",
+  "categories": [
+    "food",
+    "nature"
+  ],
+  "type": 2,
+  "authors": {
+    "Oliver Harries": "All"
+  },
+  "tags": [
+    "food",
+    "fruit",
+    "apple",
+    "fruitbowl",
+    "red"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 7012,
+  "texel_density": 38537.57993415308,
+  "dimensions": [
+    97.56118059158325,
+    95.90170904994011,
+    85.38994403897959
+  ],
+  "files_hash": "caabd8553fb0598968bd2fc19e0dd012f80e9546",
+  "download_count": 46747,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/food_apple_01.png?width=256&height=256"
+}

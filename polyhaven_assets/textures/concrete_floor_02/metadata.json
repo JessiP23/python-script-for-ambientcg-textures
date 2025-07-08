@@ -1,0 +1,35 @@
+{
+  "type": 1,
+  "tags": [
+    "rough",
+    "moss",
+    "plain"
+  ],
+  "date_published": 1536018406,
+  "name": "Concrete Floor 02",
+  "old_id": 158,
+  "categories": [
+    "concrete",
+    "plaster-concrete",
+    "dirty",
+    "man made",
+    "outdoor",
+    "indoor",
+    "wall",
+    "floor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "b047f5c1c115638de280913cdfb646c35048e503",
+  "download_count": 183133,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_floor_02.png?width=256&height=256"
+}

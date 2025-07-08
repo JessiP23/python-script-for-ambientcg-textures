@@ -1,0 +1,38 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "tags": [
+    "grass",
+    "hill",
+    "field",
+    "view",
+    "hilltop"
+  ],
+  "name": "Hilly Terrain 01",
+  "categories": [
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "sunrise-sunset",
+    "medium contrast",
+    "natural light",
+    "skies"
+  ],
+  "date_taken": 1559070960,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1622584802,
+  "prepaid": true,
+  "sponsors": [
+    "4714267",
+    "70827508"
+  ],
+  "files_hash": "74608605bf82270d18bc3f5bdf90df2e6c1aaa22",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 212913,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hilly_terrain_01.png?width=256&height=256"
+}

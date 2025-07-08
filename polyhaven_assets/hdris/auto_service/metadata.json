@@ -1,0 +1,36 @@
+{
+  "evs_cap": 14,
+  "type": 0,
+  "whitebalance": 4950,
+  "date_published": 1597356000,
+  "name": "Auto Service",
+  "old_id": 484,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1592225880,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "22167459"
+  ],
+  "backplates": true,
+  "tags": [
+    "workshop",
+    "warehouse",
+    "industrial",
+    "concrete",
+    "backplates"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "6b957048541116362b8caedb9837d8a2aef9d6bf",
+  "download_count": 24524,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/auto_service.png?width=256&height=256"
+}

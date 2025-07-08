@@ -1,0 +1,52 @@
+{
+  "date_published": 1688169600,
+  "name": "Plastered Stone Wall",
+  "categories": [
+    "wall",
+    "man made",
+    "plaster-concrete",
+    "rock"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Dario Barresi"
+  ],
+  "staging": null,
+  "tags": [
+    "rough",
+    "weathered",
+    "chipped",
+    "wall",
+    "damaged",
+    "cracked",
+    "discolored",
+    "worn",
+    "concrete",
+    "scratched",
+    "plaster",
+    "cement",
+    "rocks",
+    "cracked cement",
+    "scuffed",
+    "plastered",
+    "crumbling",
+    "stone",
+    "exterior"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2500,
+    2500
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "989ca73385d77daa99a88813fcecfc6e594d549e",
+  "download_count": 58255,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plastered_stone_wall.png?width=256&height=256"
+}

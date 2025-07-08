@@ -1,0 +1,35 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "tags": [
+    "sun",
+    "arena",
+    "europe"
+  ],
+  "date_published": 1568325600,
+  "name": "Old Outdoor Theater",
+  "old_id": 407,
+  "categories": [
+    "outdoor",
+    "skies",
+    "urban",
+    "midday",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1563190380,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "9bfef1f50a58ae30aeafabaeacd089435ae4baa3",
+  "download_count": 44307,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/old_outdoor_theater.png?width=256&height=256"
+}

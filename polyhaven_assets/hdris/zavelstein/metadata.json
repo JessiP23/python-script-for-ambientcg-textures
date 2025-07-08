@@ -1,0 +1,43 @@
+{
+  "evs_cap": 12,
+  "tags": [
+    "tree",
+    "brick",
+    "castle",
+    "medieval",
+    "europe",
+    "bench",
+    "dirt",
+    "ruin"
+  ],
+  "date_published": 1622584800,
+  "name": "Zavelstein",
+  "old_id": 545,
+  "categories": [
+    "outdoor",
+    "urban",
+    "midday",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    48.692215,
+    8.691196
+  ],
+  "date_taken": 1616241180,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "type": 0,
+  "sponsors": [
+    "11167855"
+  ],
+  "files_hash": "f09251ce0fb456c10739458487421c49bf4ce6d5",
+  "max_resolution": [
+    20752,
+    10376
+  ],
+  "download_count": 20909,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zavelstein.png?width=256&height=256"
+}

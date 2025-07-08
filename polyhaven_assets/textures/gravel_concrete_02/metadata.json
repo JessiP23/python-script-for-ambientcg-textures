@@ -1,0 +1,43 @@
+{
+  "name": "Gravel Concrete 02",
+  "categories": [
+    "outdoor",
+    "man made",
+    "floor",
+    "plaster-concrete",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing ",
+    "Charlotte Baglioni": "Photography"
+  },
+  "info": null,
+  "tags": [
+    "rough",
+    "uneven",
+    "stones",
+    "ground",
+    "chipped",
+    "pavement",
+    "pebble",
+    "gravel"
+  ],
+  "dimensions": [
+    2099.9996662139893,
+    2099.9999046325684
+  ],
+  "date_published": 1667433600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "77f102b55e9c42b706da9a61cfd0e688a34fb08e",
+  "download_count": 11096,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gravel_concrete_02.png?width=256&height=256"
+}

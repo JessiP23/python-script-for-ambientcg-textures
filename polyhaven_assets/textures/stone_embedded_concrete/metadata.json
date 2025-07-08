@@ -1,0 +1,50 @@
+{
+  "date_published": 1687219200,
+  "name": "Stone Embedded Concrete",
+  "categories": [
+    "outdoor",
+    "wall",
+    "man made",
+    "concrete",
+    "plaster-concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "tags": [
+    "rough",
+    "weathered",
+    "wall",
+    "rock",
+    "concrete",
+    "stone",
+    "stonework",
+    "dungeon",
+    "castle",
+    "stones",
+    "fortress walls",
+    "cement",
+    "fort",
+    "rocks",
+    "exterior",
+    "coarse"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2009.9999904632568,
+    2009.9999904632568
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "50402c66a708a15a07e5295106af5e0ddb411448",
+  "download_count": 5477,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_embedded_concrete.png?width=256&height=256"
+}

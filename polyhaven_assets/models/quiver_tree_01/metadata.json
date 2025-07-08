@@ -1,0 +1,43 @@
+{
+  "lods": true,
+  "name": "Quiver Tree 01",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock",
+    "Jandre van Heerden"
+  ],
+  "authors": {
+    "James Ray Cock": "Photography",
+    "Dario Barresi": "Photography",
+    "Rico Cilliers": "Model"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 269522,
+  "texel_density": 16063.439147552159,
+  "dimensions": [
+    1181.235671043396,
+    968.5054421424866,
+    2715.5103981494904
+  ],
+  "staging": null,
+  "categories": [
+    "nature",
+    "plants",
+    "trees",
+    "collection: namaqualand"
+  ],
+  "tags": [
+    "karoo",
+    "south africa",
+    "desert",
+    "succulent",
+    "aloe"
+  ],
+  "date_published": 1728345600,
+  "files_hash": "8ceb1c433e141026dbb41873681ad75ae4b686f6",
+  "download_count": 1715,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/quiver_tree_01.png?width=256&height=256"
+}

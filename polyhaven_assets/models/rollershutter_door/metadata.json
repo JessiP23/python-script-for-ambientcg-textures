@@ -1,0 +1,43 @@
+{
+  "donated": true,
+  "name": "Rollershutter Door",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "MP": "All"
+  },
+  "info": null,
+  "date_published": 1696982400,
+  "staging": null,
+  "categories": [
+    "structures",
+    "industrial",
+    "buildings",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "urban",
+    "security shutter",
+    "garage door",
+    "shutter door",
+    "warehouse door",
+    "commercial",
+    "roller garage door"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 1104,
+  "texel_density": 3073.578383218323,
+  "dimensions": [
+    3079.9999833106995,
+    300.0857066363096,
+    2399.973489344575
+  ],
+  "files_hash": "4f4b3b132d12aa4253364b988714f8185ed45e19",
+  "download_count": 3787,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rollershutter_door.png?width=256&height=256"
+}

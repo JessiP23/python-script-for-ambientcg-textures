@@ -1,0 +1,48 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "sun",
+    "road",
+    "track",
+    "asphalt",
+    "race",
+    "straight",
+    "grid",
+    "barrier",
+    "circuit",
+    "backplates"
+  ],
+  "name": "Zwartkops Start Morning",
+  "categories": [
+    "outdoor",
+    "urban",
+    "clear",
+    "high contrast",
+    "natural light",
+    "sunrise-sunset"
+  ],
+  "backplates": true,
+  "date_taken": 1713683280,
+  "coords": [
+    -25.810044808817782,
+    28.110051739066126
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "1899b4537a01979fe71bdad1a22e6abdaa151708",
+  "staging": null,
+  "date_published": 1726617600,
+  "download_count": 15023,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwartkops_start_morning.png?width=256&height=256"
+}

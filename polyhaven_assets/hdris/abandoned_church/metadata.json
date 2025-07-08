@@ -1,0 +1,40 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "tags": [
+    "tree",
+    "autumn",
+    "church",
+    "abandoned",
+    "leaves"
+  ],
+  "date_published": 1562018400,
+  "name": "Abandoned Church",
+  "old_id": 388,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1553444400,
+  "coords": [
+    50.995194,
+    35.105417
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "files_hash": "c1cc015ca53f949262aac6e1e8441842b8ed5675",
+  "sponsors": [
+    "7934315"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 23026,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/abandoned_church.png?width=256&height=256"
+}

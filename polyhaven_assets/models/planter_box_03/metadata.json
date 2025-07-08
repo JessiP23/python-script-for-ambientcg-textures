@@ -1,0 +1,48 @@
+{
+  "date_published": 1683849600,
+  "name": "Planter Box 03",
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "info": null,
+  "categories": [
+    "containers",
+    "decorative",
+    "potted plants",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "old",
+    "wooden",
+    "wood",
+    "shed",
+    "farm",
+    "gardening",
+    "landscaping",
+    "garden",
+    "greenhouse",
+    "planters",
+    "farmhouse",
+    "outdoor",
+    "flower box"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 13112,
+  "texel_density": 2268.2665115463296,
+  "dimensions": [
+    914.3069684505463,
+    655.5436849594116,
+    855.1032352806942
+  ],
+  "files_hash": "f7992283532ca3db8edfa08e6a27b989696f05cd",
+  "download_count": 3724,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/planter_box_03.png?width=256&height=256"
+}

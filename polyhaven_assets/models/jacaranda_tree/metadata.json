@@ -1,0 +1,58 @@
+{
+  "date_published": 1665532800,
+  "name": "Jacaranda Tree",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "staging": null,
+  "tags": [
+    "tree",
+    "natural",
+    "nature",
+    "green",
+    "plant",
+    "outdoor",
+    "leaf",
+    "botany",
+    "leaves",
+    "forest",
+    "jungle",
+    "foliage",
+    "geometry nodes",
+    "bark",
+    "trunk",
+    "jacaranda"
+  ],
+  "info": null,
+  "authors": {
+    "Rob Tuytel": "guidance",
+    "Rico Cilliers": "All"
+  },
+  "geonodes": true,
+  "categories": [
+    "nature",
+    "plants",
+    "trees",
+    "collection: verdant_trail"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 312356,
+  "texel_density": 230007.10087533342,
+  "dimensions": [
+    24169.849395751953,
+    18028.766632080078,
+    19829.095542430878
+  ],
+  "sponsors": [
+    "66627515",
+    "128081732"
+  ],
+  "files_hash": "2841c124ea9e28651baa3b47ca8828907e19aee0",
+  "lods": true,
+  "download_count": 103960,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/jacaranda_tree.png?width=256&height=256"
+}

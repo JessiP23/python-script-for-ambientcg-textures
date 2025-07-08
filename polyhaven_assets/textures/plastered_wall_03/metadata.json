@@ -1,0 +1,42 @@
+{
+  "name": "Plastered Wall 03",
+  "categories": [
+    "wall",
+    "plaster-concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Janelle van Heerden"
+  ],
+  "tags": [
+    "plaster",
+    "plastered",
+    "chipped",
+    "concrete",
+    "scuffed",
+    "discolored",
+    "scratched",
+    "plasterconcrete",
+    "rough",
+    "cement",
+    "timeworn",
+    "wall"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    4000,
+    4000
+  ],
+  "date_published": 1730160000,
+  "staging": null,
+  "files_hash": "cba0b6944694212a7e25801e7a9d8513894a2822",
+  "download_count": 29651,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plastered_wall_03.png?width=256&height=256"
+}

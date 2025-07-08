@@ -1,0 +1,50 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 3776,
+  "tags": [
+    "mountain",
+    "hilltop",
+    "grass",
+    "shrub",
+    "valley",
+    "lookout",
+    "stars",
+    "milky way",
+    "moon"
+  ],
+  "name": "Clarens Night 02",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "high contrast",
+    "skies",
+    "night"
+  ],
+  "date_taken": 1619553180,
+  "coords": [
+    -28.524658,
+    28.409542
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "date_published": 1663545600,
+  "staging": null,
+  "files_hash": "b357887b1cc3f7ede0b03cb756185c91f8c6c1aa",
+  "sponsors": [
+    "37678923"
+  ],
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 153368,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/clarens_night_02.png?width=256&height=256"
+}

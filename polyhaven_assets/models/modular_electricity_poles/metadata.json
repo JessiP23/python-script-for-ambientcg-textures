@@ -1,0 +1,49 @@
+{
+  "name": "Modular Electricity Poles",
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "info": null,
+  "date_published": 1701043200,
+  "staging": null,
+  "categories": [
+    "industrial",
+    "structures",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "urban",
+    "infrastructure",
+    "city",
+    "road",
+    "utility",
+    "street",
+    "electrical",
+    "power",
+    "circuit",
+    "transformer",
+    "junction box",
+    "cables"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 200610,
+  "texel_density": 2986.237337749837,
+  "dimensions": [
+    13119.13776397705,
+    1957.2706818580627,
+    7000.0002812594175
+  ],
+  "sponsors": [
+    "146648879"
+  ],
+  "files_hash": "e40d56f04b77c4357252d49fa63051edce4f92f7",
+  "download_count": 16454,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modular_electricity_poles.png?width=256&height=256"
+}

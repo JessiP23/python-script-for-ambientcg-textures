@@ -1,0 +1,46 @@
+{
+  "type": 0,
+  "name": "Irish Institute",
+  "categories": [
+    "medium contrast",
+    "outdoor",
+    "urban",
+    "natural light",
+    "morning-afternoon",
+    "partly cloudy"
+  ],
+  "tags": [
+    "sun",
+    "concrete",
+    "building",
+    "stairs",
+    "sculpture",
+    "flag"
+  ],
+  "authors": {
+    "Savva Zakharov": "All"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "donated": true,
+  "date_taken": 1741536360,
+  "coords": [
+    53.275874,
+    -6.231307
+  ],
+  "evs_cap": 19,
+  "whitebalance": 5400,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "c85c9aa654ad6650c8728964b124c8248553ef4a",
+  "date_published": 1744329600,
+  "staging": null,
+  "sponsors": [
+    "37678923"
+  ],
+  "download_count": 6516,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/irish_institute.png?width=256&height=256"
+}

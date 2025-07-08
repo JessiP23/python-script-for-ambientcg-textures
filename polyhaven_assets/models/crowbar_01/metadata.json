@@ -1,0 +1,49 @@
+{
+  "donated": true,
+  "name": "Crowbar 01",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Alexander Otterbeck": "All"
+  },
+  "info": null,
+  "date_published": 1674777600,
+  "staging": null,
+  "categories": [
+    "tools",
+    "industrial",
+    "props",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "metal",
+    "shed",
+    "workshop",
+    "garage",
+    "used",
+    "dirty",
+    "construction",
+    "carpentry",
+    "nails",
+    "farmhouse"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2300,
+  "texel_density": 24728.563836525922,
+  "dimensions": [
+    40.41172005236149,
+    127.58862972259521,
+    555.3637742996216
+  ],
+  "sponsors": [
+    "4714267"
+  ],
+  "files_hash": "6298bc964de4bce459d682181cb7ef9e827cf380",
+  "download_count": 6039,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/crowbar_01.png?width=256&height=256"
+}

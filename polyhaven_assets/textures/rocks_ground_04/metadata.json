@@ -1,0 +1,33 @@
+{
+  "scale": "2x2m",
+  "type": 1,
+  "tags": [
+    "rocks",
+    "rough",
+    "smooth",
+    "stones"
+  ],
+  "date_published": 1597317632,
+  "name": "Rocks Ground 04",
+  "old_id": 278,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "rock",
+    "natural"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "fa4d1b02c71c96cbdcb04abdfd10844d41f76207",
+  "download_count": 50499,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocks_ground_04.png?width=256&height=256"
+}

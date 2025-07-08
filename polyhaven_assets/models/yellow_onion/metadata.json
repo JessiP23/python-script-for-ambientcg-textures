@@ -1,0 +1,40 @@
+{
+  "name": "Yellow Onion",
+  "categories": [
+    "props",
+    "food"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "culinary",
+    "kitchen",
+    "cooking",
+    "vegetables",
+    "organic",
+    "produce",
+    "nutrition",
+    "ingredients"
+  ],
+  "authors": {
+    "Kuutti Siitonen": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 5444,
+  "texel_density": 56008.73456672154,
+  "dimensions": [
+    72.4824033677578,
+    68.636579439044,
+    86.37567976256832
+  ],
+  "staging": null,
+  "date_published": 1720569600,
+  "files_hash": "f46b76af3140503b588d8569bb3e12285b78e4c9",
+  "download_count": 3102,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yellow_onion.png?width=256&height=256"
+}

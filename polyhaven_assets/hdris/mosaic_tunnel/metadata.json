@@ -1,0 +1,46 @@
+{
+  "evs_cap": 10,
+  "type": 0,
+  "whitebalance": 3300,
+  "date_published": 1517267796,
+  "name": "Mosaic Tunnel",
+  "old_id": 130,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "coords": [
+    44.0998,
+    9.73723
+  ],
+  "date_taken": 1509878580,
+  "backplates": true,
+  "tags": [
+    "path",
+    "tunnel",
+    "tiles",
+    "concrete",
+    "pipe",
+    "art",
+    "fluorescent",
+    "lamp",
+    "backplates"
+  ],
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "7a11d6b51b990287b3863bdc1a1608238b6c5763",
+  "sponsors": [
+    "3567764",
+    "89063359"
+  ],
+  "download_count": 30624,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mosaic_tunnel.png?width=256&height=256"
+}

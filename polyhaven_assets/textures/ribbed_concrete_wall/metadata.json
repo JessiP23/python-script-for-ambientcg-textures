@@ -1,0 +1,39 @@
+{
+  "name": "Ribbed Concrete Wall",
+  "categories": [
+    "wall",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Jandre van Heerden",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "grooved",
+    "outdoor",
+    "patterned",
+    "patterned concrete",
+    "urban",
+    "vertical lines",
+    "rough concrete",
+    "gritty",
+    "wall"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "staging": null,
+  "date_published": 1723161600,
+  "files_hash": "5a6461da279ddfdece87c0fc5b88a21710b66db8",
+  "download_count": 1564,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ribbed_concrete_wall.png?width=256&height=256"
+}

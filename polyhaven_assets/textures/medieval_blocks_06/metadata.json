@@ -1,0 +1,32 @@
+{
+  "scale": "1.5m x 1.5M",
+  "type": 1,
+  "tags": [
+    "wall",
+    "blocks"
+  ],
+  "date_published": 1573088927,
+  "name": "Medieval Blocks 06",
+  "old_id": 231,
+  "categories": [
+    "wall",
+    "man made",
+    "rock",
+    "dirty",
+    "outdoor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "b0186ec13e35366507fa07159d79ed438e45e1a6",
+  "download_count": 26888,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/medieval_blocks_06.png?width=256&height=256"
+}

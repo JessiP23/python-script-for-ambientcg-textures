@@ -1,0 +1,42 @@
+{
+  "donated": true,
+  "name": "Pull Chain Light Socket",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Josh Dean": "All"
+  },
+  "info": null,
+  "date_published": 1694995200,
+  "staging": null,
+  "categories": [
+    "lighting",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "light",
+    "fitting",
+    "socket",
+    "bulb",
+    "fixture",
+    "ceiling",
+    "lamp",
+    "chord"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 10902,
+  "texel_density": 31553.42254334143,
+  "dimensions": [
+    110.2633886039257,
+    110.2633848786354,
+    165.41572205081323
+  ],
+  "files_hash": "8a23a75031188d91dc77677e24dcf2c56f7a25af",
+  "download_count": 1954,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pull_chain_light_socket.png?width=256&height=256"
+}

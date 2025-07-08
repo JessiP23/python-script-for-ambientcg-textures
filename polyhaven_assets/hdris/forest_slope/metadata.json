@@ -1,0 +1,40 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "forest",
+    "summer",
+    "rock",
+    "hill"
+  ],
+  "date_published": 1604012400,
+  "name": "Forest Slope",
+  "old_id": 503,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1596954600,
+  "coords": [
+    50.851697,
+    14.039143
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "files_hash": "853e764efb5f26b9222f7355a0a9c640863a1174",
+  "max_resolution": [
+    19630,
+    9815
+  ],
+  "sponsors": [
+    "3237733",
+    "32966849"
+  ],
+  "download_count": 89035,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forest_slope.png?width=256&height=256"
+}

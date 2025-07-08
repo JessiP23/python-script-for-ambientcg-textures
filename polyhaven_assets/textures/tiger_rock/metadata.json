@@ -1,0 +1,44 @@
+{
+  "name": "Tiger Rock",
+  "categories": [
+    "collection: namaqualand",
+    "rock",
+    "terrain",
+    "natural",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "James Ray Cock"
+  ],
+  "tags": [
+    "cliff",
+    "boulder",
+    "rock face",
+    "cave",
+    "weathered",
+    "landscape",
+    "solid rock",
+    "mountain",
+    "solid",
+    "rugged",
+    "granite"
+  ],
+  "authors": {
+    "Dario Barresi": "All"
+  },
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    2549.999952316284,
+    2549.999952316284
+  ],
+  "staging": null,
+  "date_published": 1728345600,
+  "files_hash": "45880782e99fb6bd4d74073a32c168146f43b8e8",
+  "download_count": 7767,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tiger_rock.png?width=256&height=256"
+}

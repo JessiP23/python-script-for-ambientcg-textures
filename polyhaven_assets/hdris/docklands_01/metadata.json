@@ -1,0 +1,47 @@
+{
+  "type": 0,
+  "name": "Docklands 01",
+  "categories": [
+    "low contrast",
+    "partly cloudy",
+    "urban",
+    "natural light",
+    "outdoor",
+    "morning-afternoon"
+  ],
+  "tags": [
+    "city",
+    "building",
+    "street",
+    "road",
+    "cobblestone",
+    "asphalt",
+    "river",
+    "boat",
+    "car",
+    "water"
+  ],
+  "authors": {
+    "Savva Zakharov": "All"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "donated": true,
+  "date_taken": 1741702800,
+  "coords": [
+    53.346038,
+    -6.237996
+  ],
+  "evs_cap": 8,
+  "whitebalance": 5400,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "d4b3cc575e9cc265ae4eee561d9681ec7253b9a9",
+  "date_published": 1743984000,
+  "staging": null,
+  "download_count": 30577,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/docklands_01.png?width=256&height=256"
+}

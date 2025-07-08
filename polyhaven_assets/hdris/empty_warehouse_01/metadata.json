@@ -1,0 +1,38 @@
+{
+  "evs_cap": 16,
+  "type": 0,
+  "whitebalance": 5900,
+  "date_published": 1595887200,
+  "name": "Empty Warehouse 01",
+  "old_id": 478,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1589545260,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "22167459"
+  ],
+  "backplates": true,
+  "tags": [
+    "warehouse",
+    "derelict",
+    "fluorescent",
+    "concrete",
+    "industrial",
+    "backplates"
+  ],
+  "files_hash": "7e10341dec13cd2b0992c0b0c179458f55bf457e",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 135838,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/empty_warehouse_01.png?width=256&height=256"
+}

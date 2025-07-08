@@ -1,0 +1,46 @@
+{
+  "donated": true,
+  "name": "Modular Metal Gutter",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Maxim Domnin": "All"
+  },
+  "info": null,
+  "date_published": 1697414400,
+  "staging": null,
+  "categories": [
+    "industrial",
+    "structures",
+    "buildings",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "drain",
+    "roof",
+    "downspout",
+    "rainwater",
+    "drainage",
+    "gutter system",
+    "rain gutters",
+    "modular",
+    "utility",
+    "infrastructure"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 16490,
+  "texel_density": 1089.5086515010194,
+  "dimensions": [
+    2268.4829235076904,
+    1514.7015303373337,
+    1842.6082134246826
+  ],
+  "files_hash": "01a58d11c6108814bd6526ac6951ee9ce2abc1f6",
+  "download_count": 5611,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modular_metal_gutter.png?width=256&height=256"
+}

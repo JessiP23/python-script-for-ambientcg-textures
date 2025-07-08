@@ -1,0 +1,50 @@
+{
+  "name": "Plank Flooring 03",
+  "categories": [
+    "floor",
+    "wood",
+    "raw wood"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "old",
+    "worn",
+    "wood",
+    "wooden planks",
+    "planks",
+    "cabin",
+    "exterior",
+    "discolored",
+    "scratched",
+    "timber",
+    "plank"
+  ],
+  "info": null,
+  "dimensions": [
+    2250,
+    2250
+  ],
+  "date_published": 1709596800,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "sponsors": [
+    "77433244"
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Processing",
+    "Matterfield": "Photography"
+  },
+  "files_hash": "48a40d7d319f555e2925f151dc7ba86df2b1ea25",
+  "download_count": 22693,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plank_flooring_03.png?width=256&height=256"
+}

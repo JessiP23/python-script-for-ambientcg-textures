@@ -1,0 +1,42 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "europe",
+    "statue",
+    "roof",
+    "city",
+    "rome",
+    "rain",
+    "wet"
+  ],
+  "name": "Castel St. Angelo Roof",
+  "categories": [
+    "outdoor",
+    "low contrast",
+    "natural light",
+    "urban",
+    "overcast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1635935820,
+  "coords": [
+    41.902965545570176,
+    12.46636020524761
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1642464000,
+  "staging": null,
+  "files_hash": "0031fa9948486cf1cd82695c8ec897d016d3b250",
+  "sponsors": [
+    "3237733"
+  ],
+  "max_resolution": [
+    26176,
+    13088
+  ],
+  "download_count": 45757,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/castel_st_angelo_roof.png?width=256&height=256"
+}

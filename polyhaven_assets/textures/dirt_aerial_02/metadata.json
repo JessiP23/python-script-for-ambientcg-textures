@@ -1,0 +1,32 @@
+{
+  "scale": "20M x20M",
+  "type": 1,
+  "tags": [
+    "mud",
+    "rough"
+  ],
+  "date_published": 1581673534,
+  "name": "Dirt Aerial 02",
+  "old_id": 240,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "sand",
+    "natural",
+    "aerial"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    20000,
+    20000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d0806565a3a304dcabf0e4b982761a3797c564e6",
+  "download_count": 36651,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dirt_aerial_02.png?width=256&height=256"
+}

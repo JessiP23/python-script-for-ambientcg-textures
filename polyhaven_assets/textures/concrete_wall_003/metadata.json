@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "tags": [
+    "worn",
+    "painted",
+    "discolored",
+    "dirty",
+    "yellow",
+    "white",
+    "weathered",
+    "cracked",
+    "scratched",
+    "chipped",
+    "rough"
+  ],
+  "date_published": 1629763200,
+  "name": "Concrete Wall 003",
+  "categories": [
+    "man made",
+    "wall",
+    "concrete",
+    "plaster",
+    "outdoor",
+    "dirty",
+    "plaster-concrete"
+  ],
+  "staging": null,
+  "dimensions": [
+    3000,
+    3000.000238418579
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Processing"
+  },
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "3ed549016391b1c6c6ffc9ec8a250ed3eff69097",
+  "download_count": 90122,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_wall_003.png?width=256&height=256"
+}

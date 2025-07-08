@@ -1,0 +1,42 @@
+{
+  "type": 0,
+  "name": "Pine Picnic",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "low contrast",
+    "midday",
+    "overcast"
+  ],
+  "tags": [
+    "grass",
+    "tree",
+    "pine",
+    "braai",
+    "gazebo"
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Photography",
+    "Greg Zaal": "Processing"
+  },
+  "reviewers": [
+    "Jenelle van Heerden"
+  ],
+  "date_taken": 1740818640,
+  "evs_cap": 12,
+  "whitebalance": 5303,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "e8891a6edc098905115e55fe8714b1409ed869cb",
+  "staging": null,
+  "date_published": 1746576000,
+  "coords": [
+    -29.114338,
+    26.208787
+  ],
+  "download_count": 35769,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pine_picnic.png?width=256&height=256"
+}

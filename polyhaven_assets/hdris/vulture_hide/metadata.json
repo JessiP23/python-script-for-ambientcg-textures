@@ -1,0 +1,37 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "hide",
+    "bench",
+    "brick",
+    "window"
+  ],
+  "date_published": 1508536800,
+  "name": "Vulture Hide",
+  "old_id": 44,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    -28.513142,
+    28.654675
+  ],
+  "date_taken": 1472043240,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "8571269"
+  ],
+  "files_hash": "24e6cc4c0b2b0c5fea0e6f65e02b65d836736bdf",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 22249,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/vulture_hide.png?width=256&height=256"
+}

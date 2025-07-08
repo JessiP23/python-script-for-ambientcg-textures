@@ -1,0 +1,42 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "whitebalance": 4950,
+  "date_published": 1612825200,
+  "name": "Large Corridor",
+  "old_id": 528,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1602151560,
+  "coords": [
+    50.045216,
+    35.432872
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "16608220"
+  ],
+  "backplates": true,
+  "tags": [
+    "entrance",
+    "hall",
+    "arch",
+    "empty",
+    "victorian",
+    "backplates"
+  ],
+  "files_hash": "f0f93d1dfbdc73aa994befb36e8e56276f6cc4a1",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 87028,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_corridor.png?width=256&height=256"
+}

@@ -1,0 +1,43 @@
+{
+  "type": 2,
+  "name": "Wooden Axe 03",
+  "categories": [
+    "props",
+    "tools"
+  ],
+  "tags": [
+    "forest",
+    "gardening",
+    "garden",
+    "lumberjack",
+    "woodwork",
+    "firewood",
+    "fireman",
+    "saw",
+    "cutting",
+    "chopping"
+  ],
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "donated": true,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 3886,
+  "texel_density": 9526.733089851039,
+  "dimensions": [
+    50.4691693931818,
+    158.34461152553558,
+    631.799966096878
+  ],
+  "date_published": 1741564800,
+  "staging": null,
+  "files_hash": "52cd656cc63e22e23288b047d961ff6a8edbb82a",
+  "download_count": 1751,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_axe_03.png?width=256&height=256"
+}

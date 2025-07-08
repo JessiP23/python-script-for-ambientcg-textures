@@ -1,0 +1,39 @@
+{
+  "evs_cap": 4,
+  "type": 0,
+  "tags": [
+    "tree",
+    "forest",
+    "snow",
+    "winter",
+    "path"
+  ],
+  "date_published": 1550530800,
+  "name": "Snowy Forest Path 02",
+  "old_id": 350,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1546170900,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "sponsors": [
+    {
+      "url": "https://www.kinderohrclips.de/",
+      "name": "Kinder Ohrclips"
+    }
+  ],
+  "files_hash": "e5e4e3a5816bd5b2492fc5ef08f027478a541899",
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "download_count": 59251,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snowy_forest_path_02.png?width=256&height=256"
+}

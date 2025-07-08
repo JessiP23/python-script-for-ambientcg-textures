@@ -1,0 +1,44 @@
+{
+  "type": 1,
+  "name": "Flower Scattered Dirt",
+  "categories": [
+    "floor",
+    "outdoor",
+    "natural",
+    "sand"
+  ],
+  "tags": [
+    "dirt",
+    "dirty",
+    "ground",
+    "petals",
+    "sand",
+    "flowers",
+    "jacaranda",
+    "scattered",
+    "earth",
+    "soil",
+    "scattered flowers",
+    "scattered petals"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "reviewers": [
+    "Dario Barresi",
+    "Rico Cilliers"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "date_published": 1738800000,
+  "staging": null,
+  "files_hash": "da33dc96bcb44761f0e014a80b8ff1a66d5cc9e2",
+  "download_count": 741,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flower_scattered_dirt.png?width=256&height=256"
+}

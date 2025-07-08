@@ -1,0 +1,43 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "grass",
+    "hill",
+    "view",
+    "autumn",
+    "tree"
+  ],
+  "name": "Stuttgart Hillside",
+  "categories": [
+    "outdoor",
+    "nature",
+    "natural light",
+    "low contrast",
+    "overcast",
+    "midday"
+  ],
+  "coords": [
+    48.794414,
+    9.161763
+  ],
+  "date_taken": 1644237660,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1648080000,
+  "staging": null,
+  "sponsors": [
+    "37678923"
+  ],
+  "files_hash": "da98b836d0c774359cbec5c269a40b170f08e26c",
+  "max_resolution": [
+    23704,
+    11852
+  ],
+  "download_count": 58506,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stuttgart_hillside.png?width=256&height=256"
+}

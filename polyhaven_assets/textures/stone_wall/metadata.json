@@ -1,0 +1,45 @@
+{
+  "name": "Stone Wall",
+  "categories": [
+    "outdoor",
+    "rock",
+    "wall"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "uneven",
+    "weathered",
+    "cracked",
+    "stones",
+    "worn",
+    "chipped",
+    "dry",
+    "rocks",
+    "rock",
+    "dirty"
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1660176000,
+  "staging": null,
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Charlotte Baglioni": "Photography"
+  },
+  "sponsors": [
+    "540619"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "10cda9d9a6482bb64c4dd2cb7014f8d35fa426dc",
+  "download_count": 88235,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_wall.png?width=256&height=256"
+}

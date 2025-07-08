@@ -1,0 +1,42 @@
+{
+  "lods": true,
+  "name": "Searsia Burchellii",
+  "type": 2,
+  "reviewers": [
+    "Jandre van Heerden",
+    "Rico Cilliers"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 1427042,
+  "texel_density": 14506.183859148692,
+  "dimensions": [
+    8356.36568069458,
+    5062.767505645752,
+    3246.9784803688526
+  ],
+  "staging": null,
+  "authors": {
+    "James Ray Cock": "Model",
+    "Jenelle van Heerden": "Photographer"
+  },
+  "categories": [
+    "nature",
+    "trees",
+    "collection: namaqualand"
+  ],
+  "tags": [
+    "karoo",
+    "bush",
+    "shrub",
+    "large",
+    "dry",
+    "south africa"
+  ],
+  "date_published": 1728345600,
+  "files_hash": "eb6e265dc3d676f35b551c973ac14710390c48d2",
+  "download_count": 8405,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/searsia_burchellii.png?width=256&height=256"
+}

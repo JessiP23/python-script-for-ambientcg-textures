@@ -1,0 +1,46 @@
+{
+  "type": 0,
+  "name": "Flamingo Pan",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "partly cloudy",
+    "low contrast",
+    "sunrise-sunset"
+  ],
+  "tags": [
+    "sun",
+    "tree",
+    "hilltop",
+    "dam",
+    "lake",
+    "grass",
+    "dirt",
+    "view"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1735845000,
+  "evs_cap": 22,
+  "whitebalance": 5539,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "6f8e2501bef08f44f3a634a99d8badce0be4b5c2",
+  "date_published": 1740700800,
+  "staging": null,
+  "coords": [
+    -27.9929108,
+    26.6850953
+  ],
+  "download_count": 53254,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flamingo_pan.png?width=256&height=256"
+}

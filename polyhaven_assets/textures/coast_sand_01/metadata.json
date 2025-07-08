@@ -1,0 +1,45 @@
+{
+  "date_published": 1645574400,
+  "name": "Coast Sand 01",
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    15000,
+    15000
+  ],
+  "tags": [
+    "beach",
+    "costal",
+    "ocean",
+    "seaside",
+    "sand",
+    "brown",
+    "rough",
+    "gravel",
+    "damp",
+    "dirt",
+    "stones"
+  ],
+  "categories": [
+    "outdoor",
+    "terrain",
+    "sand",
+    "natural",
+    "aerial",
+    "collection: smugglers_cove",
+    "collection: verdant_trail"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "79f1efcc1f7dedcc546d529a09e1a09cfeb0b9b8",
+  "download_count": 69966,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coast_sand_01.png?width=256&height=256"
+}

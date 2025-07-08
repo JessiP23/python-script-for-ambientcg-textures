@@ -1,0 +1,45 @@
+{
+  "name": "Rock Wall 05",
+  "categories": [
+    "wall",
+    "rock",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing ",
+    "Charlotte Baglioni": "Photography"
+  },
+  "info": null,
+  "tags": [
+    "uneven",
+    "rough",
+    "weathered",
+    "stones",
+    "worn",
+    "discolored",
+    "rocks",
+    "wall",
+    "moss"
+  ],
+  "dimensions": [
+    2259.9997520446777,
+    2259.9997520446777
+  ],
+  "date_published": 1670457600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "11167855",
+    "7934315"
+  ],
+  "files_hash": "c0dd5c42ed687e77b72dbbfe735051e4404ddedf",
+  "download_count": 12688,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_05.png?width=256&height=256"
+}

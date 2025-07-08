@@ -1,0 +1,44 @@
+{
+  "donated": true,
+  "evs_cap": 23,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5600,
+  "tags": [
+    "sun",
+    "grass",
+    "field",
+    "tree",
+    "asphalt",
+    "road"
+  ],
+  "name": "Rural Asphalt Road",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "partly cloudy",
+    "high contrast",
+    "midday"
+  ],
+  "date_taken": 1683801600,
+  "authors": {
+    "Alexander Scholten": "All"
+  },
+  "info": null,
+  "files_hash": "5520d5c8c7b8ef814ad29a20935bd093cfc7b6a8",
+  "staging": null,
+  "date_published": 1687910400,
+  "sponsors": [
+    "78546118"
+  ],
+  "max_resolution": [
+    24108,
+    12054
+  ],
+  "download_count": 305350,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rural_asphalt_road.png?width=256&height=256"
+}

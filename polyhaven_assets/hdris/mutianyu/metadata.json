@@ -1,0 +1,44 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "arch",
+    "brick",
+    "window",
+    "mountain",
+    "great wall"
+  ],
+  "date_published": 1527544800,
+  "name": "Mutianyu",
+  "old_id": 282,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1523781420,
+  "coords": [
+    40.4329,
+    116.57
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "url": "https://dabarti.com/",
+      "name": "Tomasz Wyszolmirski"
+    }
+  ],
+  "files_hash": "e7365e0c99fe52efe356efdd8ef30ee24ee30f9c",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 35513,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mutianyu.png?width=256&height=256"
+}

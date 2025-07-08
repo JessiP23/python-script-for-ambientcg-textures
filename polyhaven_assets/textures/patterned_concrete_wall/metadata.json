@@ -1,0 +1,41 @@
+{
+  "type": 1,
+  "name": "Patterned Concrete Wall",
+  "categories": [
+    "wall",
+    "concrete",
+    "plaster-concrete"
+  ],
+  "tags": [
+    "concrete",
+    "wall",
+    "patterned",
+    "patterned concrete",
+    "plasterconcrete",
+    "exterior",
+    "rough",
+    "rough concrete",
+    "grooved",
+    "worn"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1745884800,
+  "staging": null,
+  "files_hash": "ab360d7f473a740ae69d4878a5403097266f16ce",
+  "download_count": 4514,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_concrete_wall.png?width=256&height=256"
+}

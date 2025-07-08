@@ -1,0 +1,40 @@
+{
+  "date_published": 1630627200,
+  "name": "Concrete Wall 001",
+  "type": 1,
+  "staging": null,
+  "dimensions": [
+    1500.0001192092896,
+    1500
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Processing"
+  },
+  "categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "plaster",
+    "concrete",
+    "plaster-concrete",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "cracked",
+    "plaster",
+    "white",
+    "trimsheet",
+    "painted",
+    "chipped",
+    "clean",
+    "damaged"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "53b83b41540848b6d4ee0370df3110079edd69ef",
+  "download_count": 57535,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_wall_001.png?width=256&height=256"
+}

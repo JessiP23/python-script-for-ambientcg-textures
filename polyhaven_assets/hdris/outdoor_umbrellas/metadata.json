@@ -1,0 +1,37 @@
+{
+  "evs_cap": 28,
+  "type": 0,
+  "tags": [
+    "city",
+    "town",
+    "europe",
+    "square",
+    "street",
+    "brick"
+  ],
+  "date_published": 1565647200,
+  "name": "Outdoor Umbrellas",
+  "old_id": 398,
+  "categories": [
+    "outdoor",
+    "urban",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1561522500,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "11167855"
+  ],
+  "files_hash": "39133e1f8c45244b1cc36e2cad5657947c1dc442",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 32962,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/outdoor_umbrellas.png?width=256&height=256"
+}

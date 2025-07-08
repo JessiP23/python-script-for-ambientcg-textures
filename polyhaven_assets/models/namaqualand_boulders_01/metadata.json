@@ -1,0 +1,39 @@
+{
+  "lods": true,
+  "name": "Namaqualand Boulders 01",
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers",
+    "James Ray Cock"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 76590,
+  "texel_density": 7134.651892764826,
+  "dimensions": [
+    1059.0761452913284,
+    586.6308808326721,
+    252.1759569644928
+  ],
+  "staging": null,
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jenelle van Heerden": "Model"
+  },
+  "categories": [
+    "nature",
+    "rocks",
+    "collection: namaqualand"
+  ],
+  "tags": [
+    "south africa",
+    "karoo",
+    "desert"
+  ],
+  "date_published": 1728345600,
+  "files_hash": "05cd2d5d4beb501f2bd4b7b2a441fc5792b25c18",
+  "download_count": 2558,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/namaqualand_boulders_01.png?width=256&height=256"
+}

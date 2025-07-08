@@ -1,0 +1,44 @@
+{
+  "donated": true,
+  "date_published": 1671580800,
+  "name": "Bench Vice 01",
+  "type": 2,
+  "staging": null,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "info": null,
+  "authors": {
+    "Yann Kervran": "Rigging",
+    "Antanas Kep": "Modeling & Texturing"
+  },
+  "categories": [
+    "tools",
+    "industrial",
+    "rigged",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "workshop",
+    "garage",
+    "used",
+    "metal",
+    "old",
+    "shed",
+    "woodwork"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 2864,
+  "texel_density": 5889.761471990103,
+  "dimensions": [
+    200.48236846923828,
+    395.7868218421936,
+    271.6780751943588
+  ],
+  "files_hash": "e1b894759ca8b4ed6359bd7503a34c974494a620",
+  "download_count": 5394,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bench_vice_01.png?width=256&height=256"
+}

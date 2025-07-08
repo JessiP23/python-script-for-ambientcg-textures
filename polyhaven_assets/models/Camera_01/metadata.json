@@ -1,0 +1,45 @@
+{
+  "date_published": 1585605600,
+  "tmwarn": true,
+  "sponsors": [
+    "33031620",
+    "42579608"
+  ],
+  "name": "Camera 01",
+  "old_id": 7,
+  "categories": [
+    "props",
+    "electronics"
+  ],
+  "type": 2,
+  "tags": [
+    "vintage",
+    "camera",
+    "antique",
+    "ornate",
+    "photography",
+    "photography",
+    "retro",
+    "lens",
+    "classic",
+    "classic",
+    "analog"
+  ],
+  "authors": {
+    "Rajil Jose Macatangay": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 26987,
+  "texel_density": 36131.85050741761,
+  "dimensions": [
+    213.90153467655182,
+    262.82382383942604,
+    77.84665003418922
+  ],
+  "files_hash": "6db4d73f8b708eb87597df841c1f6e9beea70778",
+  "download_count": 102688,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/Camera_01.png?width=256&height=256"
+}

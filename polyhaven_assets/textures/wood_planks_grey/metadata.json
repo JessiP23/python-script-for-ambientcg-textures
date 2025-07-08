@@ -1,0 +1,40 @@
+{
+  "type": 1,
+  "tags": [
+    "planks",
+    "worn",
+    "old",
+    "grey",
+    "flat",
+    "seaside",
+    "costal",
+    "ocean",
+    "dirty",
+    "discolored",
+    "cabin"
+  ],
+  "name": "Wood Planks Grey",
+  "categories": [
+    "floor",
+    "wall",
+    "wood",
+    "outdoor",
+    "man made"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "date_published": 1632182400,
+  "staging": null,
+  "dimensions": [
+    1500,
+    1500.0001192092896
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "957dc541af3903b0c3f586ddf67fc3899bed42f5",
+  "download_count": 106600,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_planks_grey.png?width=256&height=256"
+}

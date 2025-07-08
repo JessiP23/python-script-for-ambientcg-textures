@@ -1,0 +1,44 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "rural",
+    "bridge",
+    "river",
+    "veld",
+    "steel"
+  ],
+  "name": "Ox Bridge Morning",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "clear",
+    "high contrast",
+    "midday",
+    "morning-afternoon"
+  ],
+  "date_taken": 1699863840,
+  "coords": [
+    -28.122833,
+    26.585417
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "files_hash": "f4d53614bc1a602b9b5cc9c9fc60eb0ebf70d5c8",
+  "staging": null,
+  "date_published": 1704844800,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "download_count": 7625,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ox_bridge_morning.png?width=256&height=256"
+}

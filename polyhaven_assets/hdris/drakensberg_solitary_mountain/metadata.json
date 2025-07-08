@@ -1,0 +1,52 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5313,
+  "tags": [
+    "sun",
+    "grass",
+    "field",
+    "hill",
+    "mountain",
+    "hilltop",
+    "valley",
+    "vista",
+    "view",
+    "dry"
+  ],
+  "name": "Drakensberg Solitary Mountain",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "skies",
+    "clear",
+    "morning-afternoon",
+    "high contrast"
+  ],
+  "coords": [
+    -28.94226,
+    29.32537
+  ],
+  "date_taken": 1652610420,
+  "info": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "date_published": 1662076800,
+  "staging": null,
+  "sponsors": [
+    "70827508"
+  ],
+  "files_hash": "024b23b672a0ac3e7e4484a60e735d2d556c8191",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 77117,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/drakensberg_solitary_mountain.png?width=256&height=256"
+}

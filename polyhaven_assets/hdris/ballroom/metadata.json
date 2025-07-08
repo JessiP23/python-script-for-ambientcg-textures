@@ -1,0 +1,36 @@
+{
+  "evs_cap": 12,
+  "prepaid": true,
+  "type": 0,
+  "tags": [
+    "tile",
+    "victorian",
+    "window",
+    "piano",
+    "chandelier"
+  ],
+  "date_published": 1590098400,
+  "name": "Ballroom",
+  "old_id": 467,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light",
+    "natural light"
+  ],
+  "date_taken": 1555594080,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "11167855"
+  ],
+  "files_hash": "6bacfadd9630987bf4871c04788bf5dc22720d9d",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 103216,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ballroom.png?width=256&height=256"
+}

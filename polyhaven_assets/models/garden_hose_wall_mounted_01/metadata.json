@@ -1,0 +1,51 @@
+{
+  "donated": true,
+  "date_published": 1670803200,
+  "name": "Garden Hose Wall Mounted 01",
+  "type": 2,
+  "staging": null,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Kuutti Siitonen": "All"
+  },
+  "info": null,
+  "categories": [
+    "wall decoration",
+    "plants",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "garden",
+    "gardening",
+    "landscaping",
+    "pipes",
+    "cable",
+    "valve",
+    "hose",
+    "water",
+    "tap",
+    "outdoor",
+    "green",
+    "shed",
+    "irrigation",
+    "greenhouse",
+    "farm",
+    "farmhouse"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 11684,
+  "texel_density": 5646.868515034338,
+  "dimensions": [
+    466.7283743619919,
+    250.3091422840953,
+    557.001918554306
+  ],
+  "files_hash": "95609e400f4f61d64639a230e801439fb09a43c3",
+  "download_count": 9781,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/garden_hose_wall_mounted_01.png?width=256&height=256"
+}

@@ -1,0 +1,34 @@
+{
+  "type": 1,
+  "tags": [
+    "ceramic",
+    "tiles",
+    "moss",
+    "old",
+    "discolored",
+    "weathered"
+  ],
+  "date_published": 1529359200,
+  "name": "Roof Tiles 14",
+  "old_id": 109,
+  "categories": [
+    "roofing",
+    "man made",
+    "outdoor",
+    "dirty"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "dce6e15b50cbe1517a4f974b468e5ece533180b5",
+  "download_count": 47822,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/roof_tiles_14.png?width=256&height=256"
+}

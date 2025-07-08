@@ -1,0 +1,33 @@
+{
+  "type": 1,
+  "tags": [
+    "snow",
+    "mud",
+    "uneven",
+    "rough"
+  ],
+  "date_published": 1551052740,
+  "name": "Snow 05",
+  "old_id": 192,
+  "categories": [
+    "terrain",
+    "snow",
+    "outdoor",
+    "dirty",
+    "road"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    3000,
+    3000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "a6351ad882f8dc18a7d7c4c471907ef73ca5680b",
+  "download_count": 29756,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_05.png?width=256&height=256"
+}

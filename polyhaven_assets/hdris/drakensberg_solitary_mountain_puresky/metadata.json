@@ -1,0 +1,41 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5313,
+  "tags": [
+    "pure skies"
+  ],
+  "name": "Drakensberg Solitary Mountain (Pure Sky)",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "skies",
+    "clear",
+    "morning-afternoon",
+    "high contrast",
+    "pure skies"
+  ],
+  "date_taken": 1652610420,
+  "coords": [
+    -28.94226,
+    29.32537
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": "Edited sky-only version of [Drakensberg Solitary Mountain](https://polyhaven.com/a/drakensberg_solitary_mountain).",
+  "files_hash": "bd9887e272576d761a737c899592e21c167fed42",
+  "date_published": 1672531200,
+  "staging": null,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 31900,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/drakensberg_solitary_mountain_puresky.png?width=256&height=256"
+}

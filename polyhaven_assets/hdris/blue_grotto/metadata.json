@@ -1,0 +1,44 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "waterfall",
+    "river",
+    "rock",
+    "cave",
+    "forest"
+  ],
+  "date_published": 1522879200,
+  "name": "Blue Grotto",
+  "old_id": 227,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1460635860,
+  "coords": [
+    -29.001883,
+    29.401339
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "url": "http://mdjustin.com/",
+      "name": "Justin Dolan"
+    }
+  ],
+  "files_hash": "547d1ddbd37af793ce7d2cb46ce05bc243feb23b",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 75718,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/blue_grotto.png?width=256&height=256"
+}

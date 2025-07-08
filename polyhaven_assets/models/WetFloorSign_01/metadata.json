@@ -1,0 +1,41 @@
+{
+  "date_published": 1585605600,
+  "name": "Wet Floor Sign 01",
+  "old_id": 38,
+  "categories": [
+    "props",
+    "industrial",
+    "office"
+  ],
+  "type": 2,
+  "authors": {
+    "Fran Calvente": "All"
+  },
+  "tags": [
+    "prop",
+    "plastic",
+    "sign",
+    "safety",
+    "caution",
+    "warning",
+    "yellow",
+    "hazard",
+    "slippery",
+    "slippery when wet",
+    "utility"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 228,
+  "texel_density": 3444.6741905680797,
+  "dimensions": [
+    300.0548481941223,
+    358.5093021392822,
+    629.5440040994436
+  ],
+  "files_hash": "79eb7de75bfe5924b67412f11e3e63c8abb82593",
+  "download_count": 28374,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/WetFloorSign_01.png?width=256&height=256"
+}

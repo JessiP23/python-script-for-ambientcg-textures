@@ -1,0 +1,44 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1609842835,
+  "name": "Brick Factory 02",
+  "old_id": 521,
+  "categories": [
+    "clear",
+    "high contrast",
+    "morning-afternoon",
+    "natural light",
+    "nature",
+    "outdoor"
+  ],
+  "date_taken": 1596704880,
+  "coords": [
+    50.853495,
+    34.908499
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "backplates": true,
+  "tags": [
+    "dirt",
+    "road",
+    "tree",
+    "sun",
+    "brick",
+    "pallet",
+    "backplates"
+  ],
+  "files_hash": "90a7b8f6fb4f6ab7cc2ce7faa731f310e9d2530e",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "3237733"
+  ],
+  "download_count": 8941,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_factory_02.png?width=256&height=256"
+}

@@ -1,0 +1,42 @@
+{
+  "evs_cap": 16,
+  "files_hash": "0fa4744849c4bd4347944939a75ae3921fd205b9",
+  "type": 0,
+  "tags": [
+    "parking",
+    "moon",
+    "twilight",
+    "roof",
+    "concrete"
+  ],
+  "date_published": 1508536800,
+  "sponsors": [
+    "3567764"
+  ],
+  "name": "Rooftop Night",
+  "old_id": 38,
+  "categories": [
+    "outdoor",
+    "skies",
+    "urban",
+    "sunrise-sunset",
+    "partly cloudy",
+    "high contrast",
+    "artificial light",
+    "night"
+  ],
+  "date_taken": 1450722420,
+  "coords": [
+    -26.138736,
+    28.009162
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 161470,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rooftop_night.png?width=256&height=256"
+}

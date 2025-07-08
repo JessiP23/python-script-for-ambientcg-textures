@@ -1,0 +1,35 @@
+{
+  "scale": "2M x 2M",
+  "type": 1,
+  "tags": [
+    "pavement",
+    "cobblestone"
+  ],
+  "date_published": 1560723479,
+  "name": "Floor Pattern 02",
+  "old_id": 210,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1200.0000476837158,
+    1200.0000476837158
+  ],
+  "sponsors": [
+    "4714267"
+  ],
+  "categories": [
+    "floor",
+    "road",
+    "outdoor",
+    "man made",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "52c0752a275ed966b3f6d4fcd64e034f9c00d45e",
+  "download_count": 42660,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_pattern_02.png?width=256&height=256"
+}

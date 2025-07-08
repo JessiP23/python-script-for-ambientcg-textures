@@ -1,0 +1,43 @@
+{
+  "name": "Cobblestone 03",
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "concrete",
+    "cobblestone",
+    "walkway",
+    "pavement",
+    "outdoor",
+    "floor",
+    "outdoor flooring",
+    "pavement patterned"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1999.9996423721313,
+    1999.9996423721313
+  ],
+  "date_published": 1697673600,
+  "staging": null,
+  "categories": [
+    "floor",
+    "man made",
+    "dirty",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "e792e3fc8796341f183821ee88cb5973886b71de",
+  "download_count": 16551,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_03.png?width=256&height=256"
+}

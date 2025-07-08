@@ -1,0 +1,39 @@
+{
+  "date_published": 1626872095,
+  "name": "Potted Plant 01",
+  "categories": [
+    "decorative",
+    "plants",
+    "potted plants",
+    "nature"
+  ],
+  "type": 2,
+  "staging": null,
+  "authors": {
+    "Rico Cilliers": "All"
+  },
+  "tags": [
+    "potplant",
+    "plant",
+    "terracotta",
+    "pot",
+    "vase",
+    "medium",
+    "leaf",
+    "green"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 96030,
+  "texel_density": 15606.764063682307,
+  "dimensions": [
+    588.9185070991516,
+    636.6117596626282,
+    1350.7787585258484
+  ],
+  "files_hash": "9fa70d49cb125b1b74e3aeddef22253ba2db060b",
+  "download_count": 52445,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/potted_plant_01.png?width=256&height=256"
+}

@@ -1,0 +1,48 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "sun",
+    "road",
+    "track",
+    "asphalt",
+    "race",
+    "straight",
+    "barrier",
+    "circuit",
+    "backplates"
+  ],
+  "name": "Zwartkops Straight Morning",
+  "categories": [
+    "outdoor",
+    "urban",
+    "skies",
+    "natural light",
+    "clear",
+    "morning-afternoon",
+    "high contrast"
+  ],
+  "backplates": true,
+  "date_taken": 1713687240,
+  "coords": [
+    -25.810044808817782,
+    28.110051739066126
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "e523c0adb8dbbda42d4e2c417ec9b066a71fd4f8",
+  "date_published": 1721779200,
+  "staging": null,
+  "download_count": 38825,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwartkops_straight_morning.png?width=256&height=256"
+}

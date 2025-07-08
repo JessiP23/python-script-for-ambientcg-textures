@@ -1,0 +1,51 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "weathered",
+    "chipped",
+    "cracked",
+    "damaged",
+    "discolored",
+    "scratched",
+    "concrete",
+    "grungy",
+    "industrial",
+    "stained",
+    "cemented floor",
+    "scuffed",
+    "battered",
+    "cracked cement"
+  ],
+  "date_published": 1685577600,
+  "name": "Garage Floor",
+  "categories": [
+    "man made",
+    "plaster-concrete",
+    "indoor",
+    "floor",
+    "concrete"
+  ],
+  "staging": null,
+  "info": null,
+  "dimensions": [
+    1886.4402770996094,
+    1886.4402770996094
+  ],
+  "sponsors": [
+    "42579608"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "authors": {
+    "Jenelle van Heerden": "All"
+  },
+  "files_hash": "baf7611722fdc79ec8b730af8fbda14e2494b013",
+  "download_count": 43438,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/garage_floor.png?width=256&height=256"
+}

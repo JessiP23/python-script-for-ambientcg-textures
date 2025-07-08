@@ -1,0 +1,46 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5313,
+  "tags": [
+    "sun",
+    "concrete",
+    "river",
+    "water",
+    "bush",
+    "bridge",
+    "dam",
+    "wall"
+  ],
+  "name": "Dam Wall",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "high contrast",
+    "midday"
+  ],
+  "date_taken": 1672327260,
+  "coords": [
+    -28.508723,
+    26.777737
+  ],
+  "info": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "files_hash": "66ba632e2679f51c5dcd726c8789b8706471a1f7",
+  "date_published": 1677456000,
+  "staging": null,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 73718,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dam_wall.png?width=256&height=256"
+}

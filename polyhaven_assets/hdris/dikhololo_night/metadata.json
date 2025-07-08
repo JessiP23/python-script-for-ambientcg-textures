@@ -1,0 +1,50 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "whitebalance": 3776,
+  "date_published": 1604358000,
+  "name": "Dikhololo Night",
+  "old_id": 513,
+  "categories": [
+    "outdoor",
+    "nature",
+    "night",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1602181260,
+  "coords": [
+    -25.40424,
+    27.73621
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "2b23a4c9eca1da6da5b68bd89ed7aa7c731d5550",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "tags": [
+    "bush",
+    "grass",
+    "road",
+    "safari",
+    "tree",
+    "veld",
+    "milky way",
+    "stars",
+    "astronomy"
+  ],
+  "sponsors": [
+    {
+      "url": "https://www.ronenbekerman.com/",
+      "name": "Ronen Bekerman"
+    },
+    "4047949",
+    "37678923"
+  ],
+  "download_count": 603952,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dikhololo_night.png?width=256&height=256"
+}

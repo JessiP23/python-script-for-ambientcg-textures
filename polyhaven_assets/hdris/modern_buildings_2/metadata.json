@@ -1,0 +1,45 @@
+{
+  "donated": true,
+  "evs_cap": 27,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "river",
+    "building",
+    "city",
+    "urban",
+    "concrete",
+    "modern",
+    "glass",
+    "water"
+  ],
+  "name": "Modern Buildings 2",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "urban",
+    "high contrast",
+    "morning-afternoon",
+    "partly cloudy"
+  ],
+  "date_taken": 1660471620,
+  "coords": [
+    52.520081420903615,
+    13.37605781784796
+  ],
+  "info": null,
+  "authors": {
+    "Alexander Scholten": "All"
+  },
+  "date_published": 1664755200,
+  "staging": null,
+  "files_hash": "c7f04af3f3aac5e6a85d329744c4ee88b880c8b6",
+  "max_resolution": [
+    21730,
+    10865
+  ],
+  "download_count": 122766,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modern_buildings_2.png?width=256&height=256"
+}

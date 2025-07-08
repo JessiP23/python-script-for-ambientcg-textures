@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "name": "Moon Dusted 04",
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Rico Cilliers": "Photography",
+    "Jenelle van Heerden": "All"
+  },
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "info": "Captured at [PTS](https://www.pts.space/products/spacelab-rostock/)'s lunar test lab. [More info](https://blog.polyhaven.com/moon).",
+  "staging": null,
+  "dimensions": [
+    560.0000023841858,
+    560.0000023841858
+  ],
+  "tags": [
+    "rough",
+    "dirt",
+    "course",
+    "exterior",
+    "regolith",
+    "dusted",
+    "lunar",
+    "extraterrestrial",
+    "space"
+  ],
+  "date_published": 1750336463,
+  "categories": [
+    "outdoor",
+    "sand",
+    "terrain",
+    "collection: moon"
+  ],
+  "files_hash": "4f8a4e6f48077f626ead693404a508040b2312a8",
+  "download_count": 180,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moon_dusted_04.png?width=256&height=256"
+}

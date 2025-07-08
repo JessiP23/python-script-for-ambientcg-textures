@@ -1,0 +1,35 @@
+{
+  "type": 1,
+  "tags": [
+    "herringbone",
+    "diagonal"
+  ],
+  "date_published": 1529359200,
+  "name": "Brick Floor",
+  "old_id": 132,
+  "categories": [
+    "floor",
+    "man made",
+    "dirty",
+    "outdoor",
+    "brick"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    500,
+    500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "20953239",
+    "7934315"
+  ],
+  "files_hash": "4e67c1567a9667e73d10fdbbbe6613e4879ecfbc",
+  "download_count": 53483,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_floor.png?width=256&height=256"
+}

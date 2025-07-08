@@ -1,0 +1,36 @@
+{
+  "date_published": 1529359200,
+  "sponsors": [
+    "540619"
+  ],
+  "name": "Brown Mud Leaves 01",
+  "old_id": 129,
+  "categories": [
+    "terrain",
+    "natural",
+    "outdoor"
+  ],
+  "type": 1,
+  "tags": [
+    "grass",
+    "mud",
+    "moss",
+    "stones",
+    "orange",
+    "forest"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1299.9998331069946,
+    1299.9998331069946
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "7b74cea31de3b88001ff3bd7b8c01b88a7a58cf0",
+  "download_count": 437789,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_mud_leaves_01.png?width=256&height=256"
+}

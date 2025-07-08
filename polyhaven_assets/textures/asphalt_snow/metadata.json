@@ -1,0 +1,41 @@
+{
+  "name": "Asphalt Snow",
+  "categories": [
+    "outdoor",
+    "man made",
+    "asphalt",
+    "snow"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "asphalt",
+    "road",
+    "snow",
+    "urban",
+    "floor"
+  ],
+  "authors": {
+    "eye-candy.xyz": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1680998400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "7934315"
+  ],
+  "files_hash": "bb9360a62044085ed02e48e6e31ca25ac36ca6dc",
+  "download_count": 8795,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_snow.png?width=256&height=256"
+}

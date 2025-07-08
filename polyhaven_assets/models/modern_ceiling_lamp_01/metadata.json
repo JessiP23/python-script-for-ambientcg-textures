@@ -1,0 +1,36 @@
+{
+  "type": 2,
+  "tags": [
+    "lighting",
+    "light",
+    "modern",
+    "glass",
+    "round"
+  ],
+  "name": "Modern Ceiling Lamp 01",
+  "categories": [
+    "lighting"
+  ],
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "date_published": 1623767623,
+  "staging": null,
+  "sponsors": [
+    "7899208"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 5602,
+  "texel_density": 7075.021821808576,
+  "dimensions": [
+    431.6493272781372,
+    431.6607564687729,
+    951.5514969825745
+  ],
+  "files_hash": "d324ea2a3c480145e3cf8beca5ec9c408b257dbb",
+  "download_count": 25221,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modern_ceiling_lamp_01.png?width=256&height=256"
+}

@@ -1,0 +1,42 @@
+{
+  "donated": true,
+  "name": "Wooden Spoon",
+  "categories": [
+    "props",
+    "dishes"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "cutlery",
+    "spoon",
+    "kitchen",
+    "cookware",
+    "cooking",
+    "serving spoon",
+    "mixing spoon",
+    "culinary"
+  ],
+  "authors": {
+    "Ronnie Barter": "All"
+  },
+  "info": null,
+  "staging": null,
+  "date_published": 1699056000,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 6576,
+  "texel_density": 18796.739024725215,
+  "dimensions": [
+    86.66010573506355,
+    277.6350826025009,
+    25.113525800406933
+  ],
+  "files_hash": "29a8451926fe0547d8dfe66b42fc835bb091e2c1",
+  "download_count": 2468,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_spoon.png?width=256&height=256"
+}

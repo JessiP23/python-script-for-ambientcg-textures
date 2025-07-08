@@ -1,0 +1,43 @@
+{
+  "evs_cap": 20,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "tree",
+    "china",
+    "pond",
+    "asia",
+    "building",
+    "fish",
+    "sun",
+    "architecture"
+  ],
+  "date_published": 1531173600,
+  "name": "Xiequ Yuan",
+  "old_id": 292,
+  "categories": [
+    "outdoor",
+    "midday",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1523873100,
+  "coords": [
+    39.9991,
+    116.276
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "10004313"
+  ],
+  "files_hash": "02da4cf48b548775064ec8cc043e12f4ec1576be",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 18758,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/xiequ_yuan.png?width=256&height=256"
+}

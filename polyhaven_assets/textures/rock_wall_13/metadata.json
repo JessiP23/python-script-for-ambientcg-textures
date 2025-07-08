@@ -1,0 +1,47 @@
+{
+  "type": 1,
+  "name": "Rock Wall 13",
+  "categories": [
+    "wall",
+    "man made",
+    "rock"
+  ],
+  "tags": [
+    "outdoor",
+    "weathered",
+    "weatherbeaten",
+    "concrete",
+    "rocks",
+    "rock",
+    "stone",
+    "rugged",
+    "ancient walls",
+    "fortress walls",
+    "exterior",
+    "timeworn",
+    "masonry"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1739836800,
+  "staging": null,
+  "sponsors": [
+    "118714804"
+  ],
+  "files_hash": "d69865ea258ba19b96a57fc365daefcd7eb52b21",
+  "download_count": 23070,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_13.png?width=256&height=256"
+}

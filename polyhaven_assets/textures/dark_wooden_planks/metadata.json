@@ -1,0 +1,50 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "old",
+    "weathered",
+    "cracked",
+    "damaged",
+    "brown",
+    "wood",
+    "wooden",
+    "floor",
+    "planks",
+    "scratched",
+    "worn",
+    "chipped"
+  ],
+  "date_published": 1680566400,
+  "name": "Dark Wooden Planks",
+  "categories": [
+    "floor",
+    "man made",
+    "indoor",
+    "wood",
+    "raw wood"
+  ],
+  "staging": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "info": null,
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "42512df3eee6d0b71aa081d3f64ba6497b7f60d7",
+  "download_count": 67999,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dark_wooden_planks.png?width=256&height=256"
+}

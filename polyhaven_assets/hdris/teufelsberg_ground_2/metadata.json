@@ -1,0 +1,42 @@
+{
+  "evs_cap": 19,
+  "type": 0,
+  "tags": [
+    "graffiti",
+    "abandoned",
+    "art",
+    "industrial",
+    "trash",
+    "pallet"
+  ],
+  "date_published": 1511478000,
+  "name": "Teufelsberg Ground 2",
+  "old_id": 68,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    52.497038,
+    13.240071
+  ],
+  "date_taken": 1478442060,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "11164276",
+    "7941984"
+  ],
+  "files_hash": "74fdbb410dceb821c15f62f296a4323ddbe8fdbb",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 23286,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/teufelsberg_ground_2.png?width=256&height=256"
+}

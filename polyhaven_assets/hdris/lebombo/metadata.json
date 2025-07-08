@@ -1,0 +1,37 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "whitebalance": 4200,
+  "tags": [
+    "house",
+    "lamp",
+    "window",
+    "wood floor",
+    "empty"
+  ],
+  "date_published": 1564092000,
+  "name": "Lebombo",
+  "old_id": 395,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "low contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1556023560,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "18031080"
+  ],
+  "files_hash": "3df0dbdeb1a64627748d8a75168d2cb297686a06",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 181774,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lebombo.png?width=256&height=256"
+}

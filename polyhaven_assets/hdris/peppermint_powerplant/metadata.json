@@ -1,0 +1,34 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "abandoned",
+    "industrial",
+    "factory",
+    "workshop"
+  ],
+  "date_published": 1601638422,
+  "name": "Peppermint Powerplant",
+  "old_id": 502,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1600348380,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "3237733"
+  ],
+  "files_hash": "7b16e1dd070cdbad2f4b65cc6beec5df8b795a1b",
+  "max_resolution": [
+    19000,
+    9500
+  ],
+  "download_count": 98829,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/peppermint_powerplant.png?width=256&height=256"
+}

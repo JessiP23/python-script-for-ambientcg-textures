@@ -1,0 +1,40 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "whitebalance": 4600,
+  "date_published": 1607382000,
+  "name": "Old Room",
+  "old_id": 519,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    50.045274,
+    35.432855
+  ],
+  "date_taken": 1602149820,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "18031080"
+  ],
+  "backplates": true,
+  "tags": [
+    "window",
+    "arch",
+    "fireplace",
+    "backplates"
+  ],
+  "files_hash": "27135922bcb9d1e501fb8f2304699b45fe9f4c8b",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 36450,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/old_room.png?width=256&height=256"
+}

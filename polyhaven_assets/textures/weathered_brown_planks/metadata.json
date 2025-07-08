@@ -1,0 +1,47 @@
+{
+  "type": 1,
+  "tags": [
+    "wood",
+    "planks",
+    "old",
+    "worn",
+    "brown",
+    "maroon",
+    "painted",
+    "chipped",
+    "damaged",
+    "dirty",
+    "aged",
+    "stained",
+    "discolored"
+  ],
+  "name": "Weathered Brown Planks",
+  "categories": [
+    "man made",
+    "wood",
+    "dirty",
+    "wall",
+    "outdoor",
+    "floor"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Processing"
+  },
+  "date_published": 1630972800,
+  "staging": null,
+  "sponsors": [
+    "540619"
+  ],
+  "dimensions": [
+    1799.9999523162842,
+    1799.9999523162842
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "bb75a87a3b6f3a9980acfd40bce5bdb4e89a5cf4",
+  "download_count": 262047,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/weathered_brown_planks.png?width=256&height=256"
+}

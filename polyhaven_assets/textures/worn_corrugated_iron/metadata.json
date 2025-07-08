@@ -1,0 +1,55 @@
+{
+  "name": "Worn Corrugated Iron",
+  "categories": [
+    "outdoor",
+    "man made",
+    "metal"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "info": null,
+  "dimensions": [
+    1799.9995946884155,
+    1799.9995946884155
+  ],
+  "date_published": 1702944000,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "tags": [
+    "rough",
+    "weathered",
+    "worn",
+    "chipped",
+    "corrugated",
+    "corrugation",
+    "metal",
+    "metal sheet",
+    "iron",
+    "steel sheeting",
+    "roof",
+    "sheet",
+    "steel",
+    "galvanized",
+    "paint",
+    "cracking paint",
+    "peeling paint",
+    "deteriorated",
+    "weatherbeaten",
+    "roofing",
+    "metallic",
+    "corrugated iron"
+  ],
+  "files_hash": "37704a467103c27e83e12d9f5b81bb8e73ad9473",
+  "download_count": 21555,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/worn_corrugated_iron.png?width=256&height=256"
+}

@@ -1,0 +1,43 @@
+{
+  "type": 0,
+  "name": "Stierberg Sunrise",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "clear",
+    "high contrast",
+    "sunrise-sunset"
+  ],
+  "tags": [
+    "sun",
+    "snow",
+    "field",
+    "hill",
+    "forest",
+    "tracks",
+    "winter"
+  ],
+  "authors": {
+    "Grzegorz Wronkowski": "All"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1739949540,
+  "coords": [
+    50.492079,
+    16.344352
+  ],
+  "evs_cap": 24,
+  "whitebalance": 5400,
+  "max_resolution": [
+    30000,
+    15000
+  ],
+  "files_hash": "0d4994f1e3672dca63b3535b9b0b4babe18b9811",
+  "date_published": 1743724800,
+  "staging": null,
+  "download_count": 10632,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stierberg_sunrise.png?width=256&height=256"
+}

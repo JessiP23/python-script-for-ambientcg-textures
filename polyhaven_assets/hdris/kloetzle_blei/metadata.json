@@ -1,0 +1,42 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "tree",
+    "view",
+    "town",
+    "park",
+    "rock",
+    "hill"
+  ],
+  "date_published": 1574118000,
+  "name": "Kloetzle Blei",
+  "old_id": 424,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "morning-afternoon",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    48.407728,
+    9.793325
+  ],
+  "date_taken": 1572440760,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "3237733"
+  ],
+  "files_hash": "54b78b4373d8e726de9d7e0182261ba595c5598e",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 71241,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kloetzle_blei.png?width=256&height=256"
+}

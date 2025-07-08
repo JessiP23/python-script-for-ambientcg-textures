@@ -1,0 +1,45 @@
+{
+  "name": "Rock Tile Floor",
+  "categories": [
+    "outdoor",
+    "floor",
+    "rock",
+    "man made"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1960.0000381469727,
+    1960.0000381469727
+  ],
+  "date_published": 1684368000,
+  "staging": null,
+  "tags": [
+    "stone",
+    "rough",
+    "rock",
+    "rocks",
+    "gray",
+    "rugged",
+    "floor",
+    "stonework",
+    "stone tile",
+    "paving",
+    "outdoors",
+    "coarse"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "f3f2c7ce51585ac5221e96b9c6bf0cda2e7b57e6",
+  "download_count": 64080,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_tile_floor.png?width=256&height=256"
+}

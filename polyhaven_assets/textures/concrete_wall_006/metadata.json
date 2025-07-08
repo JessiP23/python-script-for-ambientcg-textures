@@ -1,0 +1,44 @@
+{
+  "name": "Concrete Wall 006",
+  "categories": [
+    "man made",
+    "wall",
+    "dirty",
+    "plaster-concrete",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "damaged",
+    "chipped",
+    "wall",
+    "stained",
+    "dirty",
+    "scratched",
+    "plaster",
+    "concrete"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Charlotte Baglioni": "Photography"
+  },
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1663027200,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "a385d018de460aaa340cf2dff49b1651c69273b8",
+  "download_count": 36600,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_wall_006.png?width=256&height=256"
+}

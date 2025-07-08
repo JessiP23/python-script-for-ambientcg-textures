@@ -1,0 +1,51 @@
+{
+  "name": "Large Pebbles",
+  "categories": [
+    "outdoor",
+    "natural",
+    "man made",
+    "road"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Jandre van Heerden"
+  ],
+  "tags": [
+    "old",
+    "worn",
+    "dirty",
+    "pebbles",
+    "large",
+    "sidewalk",
+    "parking",
+    "stones",
+    "rocks",
+    "gravel",
+    "garden walkway",
+    "driveway",
+    "stone floor",
+    "rough",
+    "bumpy",
+    "outdoor flooring",
+    "pathway",
+    "cobblestones",
+    "stone pathway"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1713398400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d3e80b9e4e69c680311c3c941d8fbc3c85fc6bfc",
+  "download_count": 9252,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_pebbles.png?width=256&height=256"
+}

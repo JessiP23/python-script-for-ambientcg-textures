@@ -1,0 +1,41 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "grass",
+    "forest"
+  ],
+  "date_published": 1522879200,
+  "name": "Shady Patch",
+  "old_id": 250,
+  "categories": [
+    "outdoor",
+    "nature",
+    "midday",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -26.15474,
+    27.968283
+  ],
+  "date_taken": 1451397240,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "f9988423e0d57b6c134a4b39a9333a98cc850661",
+  "sponsors": [
+    {
+      "url": "http://mdjustin.com/",
+      "name": "Justin Dolan"
+    },
+    "7934315"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 55986,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/shady_patch.png?width=256&height=256"
+}

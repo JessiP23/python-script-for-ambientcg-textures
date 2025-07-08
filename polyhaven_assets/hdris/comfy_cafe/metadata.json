@@ -1,0 +1,38 @@
+{
+  "evs_cap": 30,
+  "type": 0,
+  "whitebalance": 2850,
+  "date_published": 1618956000,
+  "name": "Comfy Caf\u00e9",
+  "old_id": 535,
+  "categories": [
+    "indoor",
+    "urban",
+    "low contrast",
+    "artificial light"
+  ],
+  "date_taken": 1611241260,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "16608220"
+  ],
+  "backplates": true,
+  "tags": [
+    "shop",
+    "coffee",
+    "cafe",
+    "couch",
+    "table",
+    "store",
+    "backplates"
+  ],
+  "files_hash": "d3f91c56a4b2cd7dd62a0db071b04390f6325409",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 72593,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/comfy_cafe.png?width=256&height=256"
+}

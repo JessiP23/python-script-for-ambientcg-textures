@@ -1,0 +1,51 @@
+{
+  "date_published": 1646352000,
+  "name": "Coast Sand Rocks 02",
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    15000,
+    15000
+  ],
+  "sponsors": [
+    "540619",
+    "7937391",
+    "7934315",
+    "77433244"
+  ],
+  "categories": [
+    "outdoor",
+    "natural",
+    "terrain",
+    "aerial",
+    "rock",
+    "collection: smugglers_cove"
+  ],
+  "tags": [
+    "grass",
+    "rock face",
+    "rock",
+    "moss",
+    "rough",
+    "uneven",
+    "weathered",
+    "stones",
+    "cliff",
+    "ground",
+    "seaside",
+    "coastal"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "579892253d0d73a45eaee485135c35666bceb237",
+  "download_count": 428094,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coast_sand_rocks_02.png?width=256&height=256"
+}

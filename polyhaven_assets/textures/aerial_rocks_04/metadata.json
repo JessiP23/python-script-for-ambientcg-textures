@@ -1,0 +1,39 @@
+{
+  "scale": "80x80 M",
+  "type": 1,
+  "tags": [
+    "rough",
+    "rocks",
+    "moss",
+    "cliff",
+    "rock face",
+    "cave"
+  ],
+  "date_published": 1602692912,
+  "name": "Aerial Rocks 04",
+  "old_id": 287,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "natural",
+    "rock",
+    "aerial"
+  ],
+  "dimensions": [
+    80000,
+    80000
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "26820710"
+  ],
+  "files_hash": "dc43dffab8e915bc54ac64899dcfe8cec826f8b9",
+  "download_count": 185534,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerial_rocks_04.png?width=256&height=256"
+}

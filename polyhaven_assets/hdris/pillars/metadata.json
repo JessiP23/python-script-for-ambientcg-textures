@@ -1,0 +1,39 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "column",
+    "architecture",
+    "monument"
+  ],
+  "date_published": 1522879200,
+  "name": "Pillars",
+  "old_id": 244,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1464946620,
+  "coords": [
+    -33.952428,
+    18.458931
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "name": "3DLux"
+    }
+  ],
+  "files_hash": "793f0f39679924c39569576950718318208f481a",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 32712,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pillars.png?width=256&height=256"
+}

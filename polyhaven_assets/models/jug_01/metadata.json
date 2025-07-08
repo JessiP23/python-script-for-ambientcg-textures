@@ -1,0 +1,44 @@
+{
+  "donated": true,
+  "name": "Jug 01",
+  "categories": [
+    "props",
+    "decorative",
+    "dishes",
+    "containers"
+  ],
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers",
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Kuutti Siitonen": "All"
+  },
+  "tags": [
+    "ceramic",
+    "milk",
+    "white",
+    "antique",
+    "vintage",
+    "old",
+    "fancy",
+    "decorative"
+  ],
+  "date_published": 1661472000,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 5770,
+  "texel_density": 14145.936781948765,
+  "dimensions": [
+    275.3216624259949,
+    167.5262302160263,
+    211.31345149478875
+  ],
+  "files_hash": "c9c08b43eee157b95f9f8d0102a7a88259bbccfe",
+  "download_count": 11634,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/jug_01.png?width=256&height=256"
+}

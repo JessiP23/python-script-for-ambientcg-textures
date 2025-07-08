@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "name": "Wooden Gate",
+  "categories": [
+    "man made",
+    "wood"
+  ],
+  "tags": [
+    "wood",
+    "wooden",
+    "wooden planks",
+    "gate",
+    "varnished",
+    "planks",
+    "grain",
+    "timber",
+    "plank",
+    "wood grain"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    1899.9998569488525,
+    1899.9998569488525
+  ],
+  "date_published": 1745452800,
+  "staging": null,
+  "sponsors": [
+    "118714804"
+  ],
+  "files_hash": "9df132084ad708db44a02977a66f5b4870b3370d",
+  "download_count": 8964,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_gate.png?width=256&height=256"
+}

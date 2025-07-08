@@ -1,0 +1,41 @@
+{
+  "date_published": 1585605600,
+  "name": "CheeseBox_01",
+  "old_id": 12,
+  "type": 2,
+  "authors": {
+    "Gabriel Radi\u0107": "All"
+  },
+  "categories": [
+    "props",
+    "containers",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "box",
+    "wood",
+    "storage",
+    "crate",
+    "wooden",
+    "vintage",
+    "farmhouse",
+    "aged",
+    "distressed",
+    "weathered",
+    "carpentry"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 884,
+  "texel_density": 9632.370636084637,
+  "dimensions": [
+    240.39557576179504,
+    135.5806179344654,
+    92.68356184475124
+  ],
+  "files_hash": "2bbc42bb8b45c087b98a46d205691999e440daaa",
+  "download_count": 12855,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/CheeseBox_01.png?width=256&height=256"
+}

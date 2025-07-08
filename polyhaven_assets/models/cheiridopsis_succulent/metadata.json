@@ -1,0 +1,47 @@
+{
+  "lods": true,
+  "name": "Cheiridopsis Succulent",
+  "categories": [
+    "collection: namaqualand",
+    "nature",
+    "plants",
+    "ground cover"
+  ],
+  "type": 2,
+  "reviewers": [
+    "Jandre van Heerden",
+    "James Ray Cock",
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "karoo",
+    "desert",
+    "south africa",
+    "succulent",
+    "quartz",
+    "tiny",
+    "aloe",
+    "cactus",
+    "flower"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 198888,
+  "texel_density": 11969.184472161924,
+  "dimensions": [
+    2161.4569425582886,
+    958.6485624313354,
+    270.7609534263611
+  ],
+  "date_published": 1728388884,
+  "staging": null,
+  "authors": {
+    "James Ray Cock": "Model",
+    "Jenelle van Heerden": "Photography"
+  },
+  "files_hash": "982ded4019c28843e7468de66ac90f0406286184",
+  "download_count": 4037,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cheiridopsis_succulent.png?width=256&height=256"
+}

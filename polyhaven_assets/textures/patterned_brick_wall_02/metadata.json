@@ -1,0 +1,46 @@
+{
+  "name": "Patterned Brick Wall 02",
+  "categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "brick",
+    "plaster-concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Charlotte Baglioni": "Photography"
+  },
+  "tags": [
+    "stones",
+    "wall",
+    "chipped",
+    "rocks",
+    "pattern",
+    "weathered",
+    "concrete",
+    "bricks",
+    "brick",
+    "plastered",
+    "plaster",
+    "consistent"
+  ],
+  "info": null,
+  "dimensions": [
+    2210.0000381469727,
+    2210.0000381469727
+  ],
+  "date_published": 1672099200,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "efd4d29a13ee1e64584c3744083afaf711207b65",
+  "download_count": 9085,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_brick_wall_02.png?width=256&height=256"
+}

@@ -1,0 +1,40 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 6550,
+  "tags": [
+    "pure skies"
+  ],
+  "name": "Sunflowers (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "midday",
+    "partly cloudy",
+    "high contrast",
+    "natural light",
+    "pure skies"
+  ],
+  "date_taken": 1564992720,
+  "authors": {
+    "Jarod Guest": "Sky Edits",
+    "Sergej Majboroda": "Original"
+  },
+  "info": "Edited sky-only version of [Sunflowers](https://polyhaven.com/a/sunflowers).",
+  "files_hash": "4c1a24f165b1f71a7d8fb29a7ba4ff4c5c6743e6",
+  "date_published": 1676160000,
+  "staging": null,
+  "sponsors": [
+    "78546118"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 258284,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sunflowers_puresky.png?width=256&height=256"
+}

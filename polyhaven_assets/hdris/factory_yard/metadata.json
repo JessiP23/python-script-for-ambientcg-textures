@@ -1,0 +1,37 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "whitebalance": 5800,
+  "date_published": 1583794800,
+  "name": "Factory Yard",
+  "old_id": 451,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1564057020,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "18031080"
+  ],
+  "backplates": true,
+  "tags": [
+    "construction",
+    "brick",
+    "suburb",
+    "backplates"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "4ce64fdce81934b56e9cf7216c5e30294d483932",
+  "download_count": 29132,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/factory_yard.png?width=256&height=256"
+}

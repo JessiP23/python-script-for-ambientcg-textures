@@ -1,0 +1,38 @@
+{
+  "name": "Marble Mosaic Tiles",
+  "categories": [
+    "floor",
+    "man made"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "tiles",
+    "floor",
+    "ceramic",
+    "mosaic",
+    "marble",
+    "decorative",
+    "square",
+    "tiled"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1718064000,
+  "staging": null,
+  "files_hash": "df8e411cab87cacb53cb8deea0a91a2e29a94c4a",
+  "download_count": 6605,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/marble_mosaic_tiles.png?width=256&height=256"
+}

@@ -1,0 +1,35 @@
+{
+  "date_published": 1529359200,
+  "name": "Brown Brick 02",
+  "old_id": 130,
+  "categories": [
+    "brick",
+    "wall",
+    "outdoor",
+    "indoor",
+    "clean",
+    "man made"
+  ],
+  "type": 1,
+  "tags": [
+    "brown",
+    "rough",
+    "sandy",
+    "urban",
+    "yellow"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d599453d24483f38de7b89b132aad6c360c201e6",
+  "download_count": 32230,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_brick_02.png?width=256&height=256"
+}

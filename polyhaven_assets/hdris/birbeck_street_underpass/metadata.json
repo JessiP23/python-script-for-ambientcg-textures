@@ -1,0 +1,42 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "road",
+    "asphalt",
+    "tunnel",
+    "underpass",
+    "brick",
+    "graffiti"
+  ],
+  "date_published": 1566253836,
+  "name": "Birbeck Street Underpass",
+  "old_id": 401,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "medium contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "coords": [
+    51.525806,
+    -0.056278
+  ],
+  "date_taken": 1566111180,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "files_hash": "ba0b0f0d46a8197e705e822a6f7d365004970613",
+  "sponsors": [
+    "31913343",
+    "44302755"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 20059,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/birbeck_street_underpass.png?width=256&height=256"
+}

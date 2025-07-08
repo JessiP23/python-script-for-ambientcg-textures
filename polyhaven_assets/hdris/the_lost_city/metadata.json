@@ -1,0 +1,40 @@
+{
+  "evs_cap": 26,
+  "type": 0,
+  "tags": [
+    "sun",
+    "rock",
+    "formation",
+    "path"
+  ],
+  "date_published": 1591308000,
+  "name": "The Lost City",
+  "old_id": 471,
+  "categories": [
+    "outdoor",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -24.93099063,
+    30.70983798
+  ],
+  "date_taken": 1572971280,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "3567764",
+    "9910225"
+  ],
+  "files_hash": "3bfef1b09080a2d556b6f10df6087a2973aa519d",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 62922,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/the_lost_city.png?width=256&height=256"
+}

@@ -1,0 +1,43 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5329,
+  "tags": [
+    "fort",
+    "seat",
+    "stage",
+    "cobblestone",
+    "concrete"
+  ],
+  "name": "Amphitheatre Zanzibar Fort",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "urban",
+    "low contrast",
+    "morning-afternoon",
+    "partly cloudy"
+  ],
+  "date_taken": 1633080720,
+  "coords": [
+    -6.161257996537621,
+    39.18935791993835
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "date_published": 1652104005,
+  "staging": null,
+  "prepaid": true,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "248c3be10bd332580321b5976f532f10e454e1f7",
+  "download_count": 26154,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/amphitheatre_zanzibar_fort.png?width=256&height=256"
+}

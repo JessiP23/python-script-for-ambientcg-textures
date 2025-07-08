@@ -1,0 +1,46 @@
+{
+  "donated": true,
+  "evs_cap": 11,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 6504,
+  "tags": [
+    "pier",
+    "rock",
+    "boat",
+    "lake",
+    "dam",
+    "sign",
+    "water"
+  ],
+  "name": "Ouchy Pier",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "partly cloudy",
+    "overcast",
+    "skies",
+    "low contrast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1669894800,
+  "coords": [
+    46.504583,
+    6.625878
+  ],
+  "authors": {
+    "Alexander Scholten": "All"
+  },
+  "max_resolution": [
+    21774,
+    10887
+  ],
+  "files_hash": "093d93cbaee1ba977e43d03f3b73036952bc87e6",
+  "date_published": 1724371200,
+  "staging": null,
+  "download_count": 33859,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ouchy_pier.png?width=256&height=256"
+}

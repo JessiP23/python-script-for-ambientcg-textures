@@ -1,0 +1,46 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "concrete",
+    "pavers",
+    "covered",
+    "hall",
+    "square",
+    "campus",
+    "school",
+    "symmetrical"
+  ],
+  "name": "School Quad",
+  "categories": [
+    "indoor",
+    "urban",
+    "natural light",
+    "artificial light",
+    "medium contrast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1684689000,
+  "coords": [
+    -25.841497,
+    28.145946
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "files_hash": "99e4539cd2bcd11dcb4cfe960227d573a06a3326",
+  "date_published": 1690329600,
+  "staging": null,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "download_count": 9624,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/school_quad.png?width=256&height=256"
+}

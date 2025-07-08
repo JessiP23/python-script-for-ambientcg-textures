@@ -1,0 +1,39 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "park",
+    "path",
+    "bush"
+  ],
+  "date_published": 1569276000,
+  "name": "Epping Forest 02",
+  "old_id": 411,
+  "categories": [
+    "outdoor",
+    "nature",
+    "midday",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    51.649957,
+    0.041307
+  ],
+  "date_taken": 1567242480,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "10485422"
+  ],
+  "files_hash": "7e8342749483c89c6df253d74c86c6a284451cc9",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 51398,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/epping_forest_02.png?width=256&height=256"
+}

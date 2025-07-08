@@ -1,0 +1,45 @@
+{
+  "date_published": 1680912000,
+  "name": "Yellow Stone Wall",
+  "categories": [
+    "outdoor",
+    "rock",
+    "man made",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "tags": [
+    "wall",
+    "damaged",
+    "old",
+    "cracked",
+    "chipped",
+    "worn",
+    "yellow",
+    "concrete",
+    "rocks",
+    "rock",
+    "rough",
+    "discolored",
+    "scratched"
+  ],
+  "authors": {
+    "S\u01a1n Nguy\u1ec5n": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "8feda458011e745096a9cb141cc8927249c11a44",
+  "download_count": 14199,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yellow_stone_wall.png?width=256&height=256"
+}

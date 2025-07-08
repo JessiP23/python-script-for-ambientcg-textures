@@ -1,0 +1,43 @@
+{
+  "evs_cap": 20,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "sun",
+    "tree",
+    "lake",
+    "shore",
+    "water",
+    "rock"
+  ],
+  "date_published": 1575586800,
+  "name": "Lakeside",
+  "old_id": 427,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1556715420,
+  "coords": [
+    -28.482576,
+    29.014304
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "3237733",
+    "10485422"
+  ],
+  "files_hash": "dabe5f5e0075e28912793f84c39be0fd8a2f83f9",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 153768,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lakeside.png?width=256&height=256"
+}

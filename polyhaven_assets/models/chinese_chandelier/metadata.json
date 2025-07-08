@@ -1,0 +1,39 @@
+{
+  "name": "Chinese Chandelier",
+  "categories": [
+    "lighting",
+    "decorative"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "vintage",
+    "antique",
+    "old",
+    "wooden",
+    "ornate",
+    "traditional",
+    "asian"
+  ],
+  "authors": {
+    "Kirill Sannikov": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 7828,
+  "texel_density": 3234.5053347007342,
+  "dimensions": [
+    878.3927261829376,
+    878.709465265274,
+    748.2100167544559
+  ],
+  "staging": null,
+  "date_published": 1719964800,
+  "files_hash": "01a9a9868343a7d3629576ac888600cbeeda1e37",
+  "download_count": 6106,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/chinese_chandelier.png?width=256&height=256"
+}

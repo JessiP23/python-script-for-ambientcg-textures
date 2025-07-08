@@ -1,0 +1,41 @@
+{
+  "type": 1,
+  "name": "Herringbone Pavement 02",
+  "categories": [
+    "outdoor",
+    "road",
+    "man made",
+    "dirty"
+  ],
+  "tags": [
+    "weathered",
+    "rough",
+    "discolored",
+    "exterior",
+    "coarse",
+    "weatherbeaten",
+    "driveway texture",
+    "timeworn",
+    "hard surface",
+    "pathway"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "reviewers": [
+    "Dario Barresi"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    2480.0000190734863,
+    2480.0000190734863
+  ],
+  "date_published": 1735776000,
+  "staging": null,
+  "files_hash": "7a4685ef27bedf61849d2abf39126c5f62027de0",
+  "download_count": 3032,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/herringbone_pavement_02.png?width=256&height=256"
+}

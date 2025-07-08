@@ -1,0 +1,47 @@
+{
+  "name": "Concrete Layers",
+  "categories": [
+    "wall",
+    "plaster-concrete",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "old",
+    "concrete",
+    "cracked",
+    "chipped",
+    "cement",
+    "cracked cement",
+    "worn",
+    "scratched",
+    "wall",
+    "weathered",
+    "exterior",
+    "coarse"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "date_published": 1714608000,
+  "staging": null,
+  "dimensions": [
+    1549.9999523162842,
+    1549.9999523162842
+  ],
+  "sponsors": [
+    "78546118"
+  ],
+  "files_hash": "c737fcdd11f8fb990db499c69027ab845279b47f",
+  "download_count": 31231,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_layers.png?width=256&height=256"
+}

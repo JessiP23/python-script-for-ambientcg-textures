@@ -1,0 +1,34 @@
+{
+  "scale": "1.5M x 1.5M",
+  "type": 1,
+  "tags": [
+    "cobblestone",
+    "mud",
+    "path",
+    "pavement"
+  ],
+  "date_published": 1579253697,
+  "name": "Cobblestone Floor 01",
+  "old_id": 238,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "categories": [
+    "outdoor",
+    "floor",
+    "man made",
+    "dirty",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "b6301f6e235a8137ade2e98b52ca4dcff326becb",
+  "download_count": 17833,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_floor_01.png?width=256&height=256"
+}

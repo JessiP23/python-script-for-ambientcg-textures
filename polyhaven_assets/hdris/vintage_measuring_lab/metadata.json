@@ -1,0 +1,36 @@
+{
+  "evs_cap": 8,
+  "prepaid": true,
+  "type": 0,
+  "whitebalance": 5050,
+  "tags": [
+    "machine",
+    "industrial",
+    "workshop",
+    "laboratory"
+  ],
+  "date_published": 1554760800,
+  "name": "Vintage Measuring Lab",
+  "old_id": 319,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1535981280,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "files_hash": "ae5a6f490377d3b6d21a37ed67bf9b504b3ac5e7",
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "download_count": 27010,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/vintage_measuring_lab.png?width=256&height=256"
+}

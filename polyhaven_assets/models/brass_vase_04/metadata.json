@@ -1,0 +1,44 @@
+{
+  "type": 2,
+  "tags": [
+    "vintage",
+    "fancy",
+    "metal",
+    "brass",
+    "copper",
+    "old",
+    "vase",
+    "pitcher",
+    "ornate",
+    "pattern"
+  ],
+  "name": "Brass Vase 04",
+  "categories": [
+    "containers",
+    "props",
+    "vases",
+    "dishes"
+  ],
+  "authors": {
+    "Rico Cilliers": "All"
+  },
+  "staging": null,
+  "date_published": 1635897600,
+  "sponsors": [
+    "42579608"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2760,
+  "texel_density": 30700.462101081906,
+  "dimensions": [
+    81.96411095559597,
+    61.04915961623192,
+    170.27275305736111
+  ],
+  "files_hash": "22ad897a42006662ee32937fe64fa0b6fdf50a6a",
+  "download_count": 7310,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brass_vase_04.png?width=256&height=256"
+}

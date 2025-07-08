@@ -1,0 +1,43 @@
+{
+  "evs_cap": 6,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "grass",
+    "rock",
+    "view",
+    "hilltop"
+  ],
+  "name": "Kloofendal Overcast",
+  "date_taken": 1684342680,
+  "coords": [
+    -26.123391,
+    27.883609
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "info": null,
+  "date_published": 1684713600,
+  "staging": null,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "natural light",
+    "overcast",
+    "low contrast",
+    "morning-afternoon",
+    "collection: verdant_trail"
+  ],
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "c9ad1e251e177718595f5935732778ada8840a07",
+  "download_count": 37035,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kloofendal_overcast.png?width=256&height=256"
+}

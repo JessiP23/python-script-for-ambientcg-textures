@@ -1,0 +1,47 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5313,
+  "name": "Simon's Town Road",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "clear",
+    "high contrast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1581611520,
+  "coords": [
+    -34.223141158317475,
+    18.465977715530645
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "tags": [
+    "road",
+    "asphalt",
+    "street",
+    "ocean",
+    "curve",
+    "coastal",
+    "cape town",
+    "sun"
+  ],
+  "files_hash": "bcc50549717937ae3820172caa5aa6f1a49b7e03",
+  "date_published": 1716940800,
+  "staging": null,
+  "sponsors": [
+    "20953239"
+  ],
+  "download_count": 17703,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/simons_town_road.png?width=256&height=256"
+}

@@ -1,0 +1,43 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5313,
+  "tags": [
+    "pure skies"
+  ],
+  "name": "Kloofendal Misty Morning (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "skies",
+    "natural light",
+    "nature",
+    "overcast",
+    "low contrast",
+    "morning-afternoon",
+    "pure skies"
+  ],
+  "date_taken": 1686126000,
+  "coords": [
+    -26.123391,
+    27.883609
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "info": "Edited sky-only version of [Kloofendal Misty Morning](https://polyhaven.com/a/kloofendal_misty_morning).",
+  "files_hash": "ac12e666675b00fd703d0d6b2596e9a2dd2efe90",
+  "staging": null,
+  "date_published": 1689292800,
+  "sponsors": [
+    "37678923"
+  ],
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 63010,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kloofendal_misty_morning_puresky.png?width=256&height=256"
+}

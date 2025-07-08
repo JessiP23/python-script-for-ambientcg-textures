@@ -1,0 +1,42 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "date_published": 1522879200,
+  "name": "Kiara 5 Noon",
+  "old_id": 208,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "midday",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1472033700,
+  "coords": [
+    -28.508926,
+    28.56648
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "8571269"
+  ],
+  "backplates": true,
+  "tags": [
+    "sun",
+    "mountain",
+    "valley",
+    "rock",
+    "backplates"
+  ],
+  "files_hash": "3a6c2fac91377fbcad1e3ab33c9bf23775636723",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 48800,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kiara_5_noon.png?width=256&height=256"
+}

@@ -1,0 +1,44 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "city",
+    "town",
+    "europe",
+    "square",
+    "street",
+    "cobblestone"
+  ],
+  "date_published": 1572303600,
+  "name": "Palermo Square",
+  "old_id": 418,
+  "categories": [
+    "outdoor",
+    "urban",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    38.114014,
+    13.356755
+  ],
+  "date_taken": 1569823500,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "files_hash": "6f776d7e3ea45bd8f556e3c8e24d39a2dc21ba3c",
+  "sponsors": [
+    {
+      "name": "Kimba"
+    },
+    "4714267"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 53885,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/palermo_square.png?width=256&height=256"
+}

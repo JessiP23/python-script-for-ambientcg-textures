@@ -1,0 +1,40 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "whitebalance": 5100,
+  "date_published": 1591653600,
+  "name": "Abandoned Tank Farm 01",
+  "old_id": 472,
+  "categories": [
+    "outdoor",
+    "urban",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1585321800,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "3237733",
+    "11164276"
+  ],
+  "backplates": true,
+  "tags": [
+    "sun",
+    "tree",
+    "parking",
+    "abandoned",
+    "backplates"
+  ],
+  "files_hash": "1f22e63dff5cfd4c82f1c4f551ebab37f691e683",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 41498,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/abandoned_tank_farm_01.png?width=256&height=256"
+}

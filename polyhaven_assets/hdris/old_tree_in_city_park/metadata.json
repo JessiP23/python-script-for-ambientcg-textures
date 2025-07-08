@@ -1,0 +1,40 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "park",
+    "leaves",
+    "autumn"
+  ],
+  "date_published": 1571349600,
+  "name": "Old Tree in City Park",
+  "old_id": 417,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    38.117457,
+    13.369589
+  ],
+  "date_taken": 1569766440,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    {
+      "name": "Rick Kay"
+    }
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "8cf6df2e125cf4a25d1abe58b71bc8fb48e3f23c",
+  "download_count": 10938,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/old_tree_in_city_park.png?width=256&height=256"
+}

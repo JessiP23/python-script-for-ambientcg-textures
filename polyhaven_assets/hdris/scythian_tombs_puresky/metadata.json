@@ -1,0 +1,41 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 6000,
+  "tags": [
+    "pure skies"
+  ],
+  "name": "Scythian Tombs (Pure Sky)",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "low contrast",
+    "skies",
+    "sunrise-sunset",
+    "pure skies"
+  ],
+  "coords": [
+    50.799222,
+    33.583327
+  ],
+  "date_taken": 1665331920,
+  "authors": {
+    "Jarod Guest": "Sky Edits",
+    "Sergej Majboroda": "Original"
+  },
+  "info": "Edited sky-only version of [Scythian Tombs](https://polyhaven.com/a/scythian_tombs).",
+  "files_hash": "9fd40374e76f8e52aeb1ea6edeec170bc7ddcdd5",
+  "date_published": 1677369600,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 31540,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/scythian_tombs_puresky.png?width=256&height=256"
+}

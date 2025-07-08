@@ -1,0 +1,41 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "road",
+    "hill",
+    "ocean",
+    "town",
+    "asphalt"
+  ],
+  "name": "Red Hill Cloudy",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "overcast",
+    "low contrast",
+    "midday"
+  ],
+  "date_taken": 1581676260,
+  "coords": [
+    -34.18770996294014,
+    18.421991866226893
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "a06638c2aeb771bbfaf950b8135131e585b8a42b",
+  "date_published": 1717718400,
+  "staging": null,
+  "download_count": 8366,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_hill_cloudy.png?width=256&height=256"
+}

@@ -1,0 +1,41 @@
+{
+  "type": 0,
+  "name": "Citrus Orchard Road (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "partly cloudy",
+    "sunrise-sunset",
+    "skies",
+    "low contrast",
+    "pure skies"
+  ],
+  "tags": [
+    "pure skies"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "info": "Edited sky-only version of [Citrus Orchard Road](https://polyhaven.com/a/citrus_orchard_road).",
+  "whitebalance": 5539,
+  "date_taken": 1708841580,
+  "coords": [
+    -25.482239,
+    27.7642
+  ],
+  "evs_cap": 12,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "798583777f51095f0063baa444e681df74735011",
+  "date_published": 1749772800,
+  "staging": null,
+  "download_count": 24947,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/citrus_orchard_road_puresky.png?width=256&height=256"
+}

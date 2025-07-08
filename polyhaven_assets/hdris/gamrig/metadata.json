@@ -1,0 +1,41 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "tags": [
+    "tree",
+    "sun",
+    "hill",
+    "mountain",
+    "rock",
+    "forest"
+  ],
+  "date_published": 1598978490,
+  "name": "Gamrig",
+  "old_id": 489,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    50.95854,
+    14.096703
+  ],
+  "date_taken": 1596896160,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "993026"
+  ],
+  "files_hash": "efd637882be534a603fdca1dced7be417e5ce810",
+  "max_resolution": [
+    19000,
+    9500
+  ],
+  "download_count": 131940,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gamrig.png?width=256&height=256"
+}

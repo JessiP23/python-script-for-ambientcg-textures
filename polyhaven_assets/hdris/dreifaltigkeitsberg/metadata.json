@@ -1,0 +1,39 @@
+{
+  "evs_cap": 24,
+  "type": 0,
+  "tags": [
+    "field",
+    "tree",
+    "grass",
+    "sun"
+  ],
+  "name": "Dreifaltigkeitsberg",
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "natural light",
+    "midday",
+    "clear"
+  ],
+  "coords": [
+    48.079648,
+    8.764125
+  ],
+  "date_taken": 1630836960,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1638835200,
+  "staging": null,
+  "sponsors": [
+    "70827508"
+  ],
+  "files_hash": "7f1ec78072c044198ddf120804737f0d29c112d0",
+  "max_resolution": [
+    17484,
+    8742
+  ],
+  "download_count": 223020,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dreifaltigkeitsberg.png?width=256&height=256"
+}

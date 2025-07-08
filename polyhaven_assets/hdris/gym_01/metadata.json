@@ -1,0 +1,37 @@
+{
+  "date_published": 1547766000,
+  "sponsors": [
+    {
+      "name": "Homoeros",
+      "url": "http://www.patreon.com/homoeros"
+    }
+  ],
+  "evs_cap": 14,
+  "files_hash": "3772c21789510b20bd4fe54a82f6cecd8228fe6e",
+  "name": "Gym 01",
+  "old_id": 339,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "type": 0,
+  "date_taken": 1543139940,
+  "tags": [
+    "fluorescent",
+    "gym",
+    "weights",
+    "fitness",
+    "exercise"
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "max_resolution": [
+    16500,
+    8250
+  ],
+  "download_count": 23970,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gym_01.png?width=256&height=256"
+}

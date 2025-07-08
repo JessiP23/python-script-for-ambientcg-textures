@@ -1,0 +1,35 @@
+{
+  "date_published": 1615024672,
+  "name": "Fine Grained Wood",
+  "old_id": 307,
+  "scale": "30x30CM",
+  "categories": [
+    "wood",
+    "man made",
+    "dirty",
+    "raw wood"
+  ],
+  "type": 1,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "tags": [
+    "clean",
+    "wood",
+    "plain",
+    "damaged",
+    "aged",
+    "used"
+  ],
+  "dimensions": [
+    600.0000238418579,
+    600.0000238418579
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "955d8311658fa7b5a5e5d081f3b6c7e73b876087",
+  "download_count": 114311,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fine_grained_wood.png?width=256&height=256"
+}

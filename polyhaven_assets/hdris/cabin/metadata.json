@@ -1,0 +1,33 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "bed",
+    "tv",
+    "hotel",
+    "cabin",
+    "boat",
+    "ship",
+    "cruise"
+  ],
+  "date_published": 1508536800,
+  "name": "Cabin",
+  "old_id": 53,
+  "categories": [
+    "indoor",
+    "urban",
+    "high contrast",
+    "artificial light"
+  ],
+  "date_taken": 1426255920,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "fa5f35b60d624e579facabfc95584b796088beed",
+  "download_count": 26484,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cabin.png?width=256&height=256"
+}

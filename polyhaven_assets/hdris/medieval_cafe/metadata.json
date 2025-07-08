@@ -1,0 +1,49 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "chair",
+    "table",
+    "bench",
+    "grass",
+    "brick",
+    "stairs",
+    "lawn",
+    "restaurant",
+    "courtyard",
+    "terrace"
+  ],
+  "name": "Medieval Cafe",
+  "categories": [
+    "outdoor",
+    "urban",
+    "natural light",
+    "low contrast",
+    "nature",
+    "partly cloudy",
+    "morning-afternoon"
+  ],
+  "date_taken": 1706717520,
+  "coords": [
+    -26.032361,
+    27.716593
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "files_hash": "48610126a99e2c4424d813833295d13d8a6711d8",
+  "date_published": 1709683200,
+  "staging": null,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "download_count": 29354,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/medieval_cafe.png?width=256&height=256"
+}

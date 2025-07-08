@@ -1,0 +1,40 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "pure skies"
+  ],
+  "date_published": 1670112000,
+  "name": "Rocky Ridge (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "medium contrast",
+    "natural light",
+    "pure skies"
+  ],
+  "staging": null,
+  "coords": [
+    -26.145263,
+    27.967626
+  ],
+  "date_taken": 1436108760,
+  "authors": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky edits"
+  },
+  "info": "Edited sky-only version of [Rocky Ridge](https://polyhaven.com/a/rocky_ridge).",
+  "files_hash": "5da32381cb36edfae70629894c1f243e2b444f44",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 38703,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocky_ridge_puresky.png?width=256&height=256"
+}

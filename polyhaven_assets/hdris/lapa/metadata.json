@@ -1,0 +1,35 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "thatch",
+    "couch",
+    "garden",
+    "plant",
+    "gazebo"
+  ],
+  "date_published": 1508536800,
+  "name": "Lapa",
+  "old_id": 48,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1441450560,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "2b982677f492b0c7b85a77fbeff70be4cddc1292",
+  "sponsors": [
+    "42579608"
+  ],
+  "download_count": 31129,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lapa.png?width=256&height=256"
+}

@@ -1,0 +1,44 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "room",
+    "thatch",
+    "windows",
+    "door",
+    "basket",
+    "table",
+    "chapel"
+  ],
+  "date_published": 1667347200,
+  "name": "Thatch Chapel",
+  "categories": [
+    "artificial light",
+    "indoor",
+    "urban",
+    "high contrast",
+    "morning-afternoon"
+  ],
+  "staging": null,
+  "coords": [
+    -25.798718659481835,
+    28.33134693004516
+  ],
+  "date_taken": 1661098620,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "f1d8af398eb1a175aec2f538029d0b639c54cd6c",
+  "download_count": 88888,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/thatch_chapel.png?width=256&height=256"
+}

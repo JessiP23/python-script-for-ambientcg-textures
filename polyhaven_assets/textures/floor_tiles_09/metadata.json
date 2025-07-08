@@ -1,0 +1,32 @@
+{
+  "type": 1,
+  "tags": [
+    "regular",
+    "square",
+    "pavement",
+    "soviet"
+  ],
+  "date_published": 1538705021,
+  "name": "Floor Tiles 09",
+  "old_id": 166,
+  "categories": [
+    "floor",
+    "outdoor",
+    "man made",
+    "clean"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "b9d641995e507f11b047983d4cd3f319d5cebb56",
+  "download_count": 38304,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_tiles_09.png?width=256&height=256"
+}

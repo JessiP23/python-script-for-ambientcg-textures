@@ -1,0 +1,35 @@
+{
+  "type": 1,
+  "tags": [
+    "cobblestone",
+    "moss",
+    "castle",
+    "fort",
+    "pavement"
+  ],
+  "date_published": 1529359200,
+  "name": "Floor Pattern 01",
+  "old_id": 95,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1200.0000476837158,
+    1200.0000476837158
+  ],
+  "categories": [
+    "floor",
+    "road",
+    "outdoor",
+    "man made",
+    "dirty",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "12cfc871ce9ea63e2403feb6c9be3f54ffe72a3d",
+  "download_count": 34309,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_pattern_01.png?width=256&height=256"
+}

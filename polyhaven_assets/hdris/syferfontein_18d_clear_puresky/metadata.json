@@ -1,0 +1,44 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5400,
+  "tags": [
+    "pure skies"
+  ],
+  "name": "Syferfontein 18d Clear (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light",
+    "pure skies"
+  ],
+  "coords": [
+    -26.3588,
+    27.7549
+  ],
+  "date_taken": 1532268840,
+  "authors": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky Edits"
+  },
+  "info": "Edited sky-only version of [Syferfontein 18d Clear](https://polyhaven.com/a/syferfontein_18d_clear).",
+  "files_hash": "cf21ce7095b3c7df54fcc3d94f484a52a821a245",
+  "date_published": 1676764800,
+  "staging": null,
+  "sponsors": [
+    "4047949"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 69525,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/syferfontein_18d_clear_puresky.png?width=256&height=256"
+}

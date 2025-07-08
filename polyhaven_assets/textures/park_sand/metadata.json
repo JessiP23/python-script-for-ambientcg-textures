@@ -1,0 +1,38 @@
+{
+  "name": "Park Sand",
+  "categories": [
+    "outdoor",
+    "natural",
+    "sand"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "brown",
+    "ground",
+    "sand",
+    "trampled",
+    "tracks",
+    "park"
+  ],
+  "info": null,
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1675728000,
+  "staging": null,
+  "prepaid": true,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "52de27019b5176de2093c6a8f0745afa511ed907",
+  "download_count": 16700,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/park_sand.png?width=256&height=256"
+}

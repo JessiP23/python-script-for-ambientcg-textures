@@ -1,0 +1,34 @@
+{
+  "type": 2,
+  "tags": [
+    "wood",
+    "painting",
+    "old",
+    "art",
+    "frame",
+    "photo"
+  ],
+  "name": "Standing Picture Frame 02",
+  "categories": [
+    "decorative"
+  ],
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "date_published": 1623767639,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2986,
+  "texel_density": 22541.226408175713,
+  "dimensions": [
+    216.89216047525406,
+    102.28872299194336,
+    266.3925290107727
+  ],
+  "files_hash": "99bde08b0a79a5d1cab68ff69ad9dbc022c3b901",
+  "download_count": 14084,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/standing_picture_frame_02.png?width=256&height=256"
+}

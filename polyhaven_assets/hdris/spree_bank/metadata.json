@@ -1,0 +1,50 @@
+{
+  "donated": true,
+  "evs_cap": 11,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 6500,
+  "tags": [
+    "walkway",
+    "railing",
+    "bench",
+    "tree",
+    "europe",
+    "architecture",
+    "building",
+    "canal",
+    "water",
+    "asphalt",
+    "promenade",
+    "river"
+  ],
+  "name": "Spree Bank",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "urban",
+    "clear",
+    "low contrast",
+    "sunrise-sunset"
+  ],
+  "date_taken": 1660286160,
+  "coords": [
+    52.517738,
+    13.403677
+  ],
+  "authors": {
+    "Alexander Scholten": "All"
+  },
+  "info": null,
+  "files_hash": "2791719d30aa7bdf5a1e78446cba36954a0cc591",
+  "date_published": 1688342400,
+  "staging": null,
+  "max_resolution": [
+    21714,
+    10857
+  ],
+  "download_count": 77893,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/spree_bank.png?width=256&height=256"
+}

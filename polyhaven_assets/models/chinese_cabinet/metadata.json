@@ -1,0 +1,41 @@
+{
+  "name": "Chinese Cabinet",
+  "categories": [
+    "shelves",
+    "furniture"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "old",
+    "wooden",
+    "vintage",
+    "antique",
+    "ornate",
+    "traditional",
+    "asian",
+    "elegant",
+    "ornamental"
+  ],
+  "authors": {
+    "Kirill Sannikov": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 15668,
+  "texel_density": 1618.0735916207282,
+  "dimensions": [
+    1262.4960541725159,
+    545.2098548412323,
+    2872.0987772358058
+  ],
+  "staging": null,
+  "date_published": 1719187200,
+  "files_hash": "68eb3f19ce1eef5021e2dda705ad67d43f063cd0",
+  "download_count": 3964,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/chinese_cabinet.png?width=256&height=256"
+}

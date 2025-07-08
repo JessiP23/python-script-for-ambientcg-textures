@@ -1,0 +1,45 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "date_published": 1522879200,
+  "name": "Ostrich Road",
+  "old_id": 212,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -34.355893,
+    18.473482
+  ],
+  "date_taken": 1464593400,
+  "sponsors": [
+    {
+      "name": "3DLux"
+    }
+  ],
+  "backplates": true,
+  "tags": [
+    "road",
+    "shrub",
+    "hill",
+    "bush",
+    "backplates"
+  ],
+  "files_hash": "925010f4e9cfaa99805575455d2d410679a69f55",
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 44937,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ostrich_road.png?width=256&height=256"
+}

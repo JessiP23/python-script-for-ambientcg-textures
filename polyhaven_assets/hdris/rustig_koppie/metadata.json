@@ -1,0 +1,41 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "tags": [
+    "hill",
+    "rock",
+    "sun",
+    "dry grass",
+    "bush"
+  ],
+  "date_published": 1506981600,
+  "name": "Rustig Koppie",
+  "old_id": 20,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "partly cloudy",
+    "morning-afternoon",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -25.795704,
+    27.6427
+  ],
+  "date_taken": 1498290060,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "10485422"
+  ],
+  "files_hash": "cff1aea7496df8472f86232911fb6acc4c1c675b",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 68296,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rustig_koppie.png?width=256&height=256"
+}

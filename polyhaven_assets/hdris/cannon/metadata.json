@@ -1,0 +1,43 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "whitebalance": 5319,
+  "tags": [
+    "rock",
+    "hill",
+    "view",
+    "cannon",
+    "ocean",
+    "mountain"
+  ],
+  "date_published": 1600380000,
+  "name": "Cannon",
+  "old_id": 492,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "midday",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -34.176869,
+    18.419998
+  ],
+  "date_taken": 1581673800,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "11164276"
+  ],
+  "files_hash": "478df1624ce6236a0fd33b82f96b33a4ecb65180",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 268452,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cannon.png?width=256&height=256"
+}

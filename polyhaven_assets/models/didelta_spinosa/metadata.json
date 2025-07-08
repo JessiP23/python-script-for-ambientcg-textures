@@ -1,0 +1,48 @@
+{
+  "type": 2,
+  "name": "Didelta Spinosa",
+  "categories": [
+    "plants",
+    "collection: namaqualand"
+  ],
+  "tags": [
+    "green",
+    "dessert",
+    "shrub",
+    "leaves",
+    "nature",
+    "botany",
+    "natural",
+    "bush",
+    "foliage",
+    "leaf",
+    "flower"
+  ],
+  "authors": {
+    "Jenelle van Heerden": "All"
+  },
+  "reviewers": [
+    "James Ray Cock",
+    "Rico Cilliers"
+  ],
+  "lods": true,
+  "version_required": {
+    "blend": "4.2.3"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 694671,
+  "texel_density": 8695.772228023061,
+  "dimensions": [
+    2129.9427151679993,
+    4584.163546562195,
+    2088.827207684517
+  ],
+  "staging": null,
+  "date_published": 1732838400,
+  "files_hash": "a7a1606e4512b047d4d96b122abe227840054902",
+  "download_count": 7871,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/didelta_spinosa.png?width=256&height=256"
+}

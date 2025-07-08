@@ -1,0 +1,40 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "autumn",
+    "leaves",
+    "forest",
+    "mud"
+  ],
+  "date_published": 1583449200,
+  "name": "Autumn Forest 02",
+  "old_id": 448,
+  "categories": [
+    "outdoor",
+    "nature",
+    "midday",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1582983540,
+  "coords": [
+    48.7903,
+    9.147581
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "3237733"
+  ],
+  "files_hash": "ccc955abbe63adb6e50cfc85695fd9341644d963",
+  "max_resolution": [
+    20000,
+    10000
+  ],
+  "download_count": 16247,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/autumn_forest_02.png?width=256&height=256"
+}

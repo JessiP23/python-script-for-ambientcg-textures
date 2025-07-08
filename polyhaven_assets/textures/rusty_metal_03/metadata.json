@@ -1,0 +1,48 @@
+{
+  "name": "Rusty Metal 03",
+  "categories": [
+    "man made",
+    "metal"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "worn",
+    "old",
+    "metal",
+    "rusted",
+    "rusty",
+    "rust",
+    "metal sheet",
+    "corroded",
+    "corroded metal sheet",
+    "oxidized",
+    "corroded surface",
+    "oxidized metal"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1350.0001430511475,
+    1350.0001430511475
+  ],
+  "date_published": 1707955200,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "sponsors": [
+    "121968951"
+  ],
+  "files_hash": "2ef230b9065b0868c06d7ea7963e58da94f34261",
+  "download_count": 45535,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rusty_metal_03.png?width=256&height=256"
+}

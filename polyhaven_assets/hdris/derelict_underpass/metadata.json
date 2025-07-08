@@ -1,0 +1,43 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1542952131,
+  "name": "Derelict Underpass",
+  "old_id": 328,
+  "categories": [
+    "outdoor",
+    "urban",
+    "midday",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1542880920,
+  "coords": [
+    -25.78154166,
+    27.9431956
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "3567764"
+  ],
+  "backplates": true,
+  "tags": [
+    "bridge",
+    "road",
+    "rubber",
+    "abandoned",
+    "highway",
+    "backplates"
+  ],
+  "files_hash": "a030a2861916386303f4bb1b0e73046533435958",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 13489,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/derelict_underpass.png?width=256&height=256"
+}

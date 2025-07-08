@@ -1,0 +1,39 @@
+{
+  "type": 2,
+  "name": "Industrial Wall Lamp",
+  "categories": [
+    "lighting"
+  ],
+  "tags": [
+    "industrial",
+    "factory",
+    "warehouse",
+    "wall light",
+    "metal",
+    "bunker",
+    "mine"
+  ],
+  "authors": {
+    "Kuutti Siitonen": "All"
+  },
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "donated": true,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 4446,
+  "texel_density": 7295.864075412908,
+  "dimensions": [
+    273.4608203172684,
+    140.37844325849136,
+    429.90660667419434
+  ],
+  "date_published": 1748822400,
+  "staging": null,
+  "files_hash": "136c5533789630d2ab312385f75ad413c0d2c221",
+  "download_count": 1122,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/industrial_wall_lamp.png?width=256&height=256"
+}

@@ -1,0 +1,41 @@
+{
+  "donated": true,
+  "name": "American Football",
+  "categories": [
+    "props"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "game",
+    "sports",
+    "sport",
+    "toy",
+    "ball",
+    "soccer",
+    "football",
+    "american"
+  ],
+  "authors": {
+    "Riley Queen": "All"
+  },
+  "info": null,
+  "staging": null,
+  "date_published": 1701475200,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 4480,
+  "texel_density": 5805.492656647427,
+  "dimensions": [
+    453.26216518878937,
+    255.84320724010468,
+    255.84322214126587
+  ],
+  "files_hash": "630730f427030fafc03ea9dd612b9ed5afd2f233",
+  "download_count": 2953,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/american_football.png?width=256&height=256"
+}

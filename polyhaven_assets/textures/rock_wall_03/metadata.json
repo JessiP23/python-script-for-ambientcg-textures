@@ -1,0 +1,46 @@
+{
+  "name": "Rock Wall 03",
+  "categories": [
+    "outdoor",
+    "wall",
+    "rock",
+    "man made"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "uneven",
+    "old",
+    "weathered",
+    "cracked",
+    "wall",
+    "discolored",
+    "stones",
+    "brown",
+    "rock",
+    "stained",
+    "chipped",
+    "worn"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Charlotte Baglioni": "Photography"
+  },
+  "info": null,
+  "dimensions": [
+    2569.9996948242188,
+    2570.000171661377
+  ],
+  "date_published": 1665446400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "ce89534162e1b8692c388cb342b645a39d4254fa",
+  "download_count": 19831,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_03.png?width=256&height=256"
+}

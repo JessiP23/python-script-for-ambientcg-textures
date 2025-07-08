@@ -1,0 +1,38 @@
+{
+  "scale": "2x2 M",
+  "type": 1,
+  "tags": [
+    "wall",
+    "modern",
+    "pavement"
+  ],
+  "date_published": 1617631455,
+  "name": "Brick Wall 003",
+  "old_id": 310,
+  "categories": [
+    "brick",
+    "wall",
+    "man made",
+    "outdoor",
+    "indoor",
+    "clean"
+  ],
+  "authors": {
+    "Rob Tuytel": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "dimensions": [
+    4000,
+    4000
+  ],
+  "sponsors": [
+    "3280096"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "62b8a6cf55205520290fa2af46ae1078103caee7",
+  "download_count": 43357,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_wall_003.png?width=256&height=256"
+}

@@ -1,0 +1,48 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5329,
+  "tags": [
+    "hilltop",
+    "hill",
+    "view",
+    "rock",
+    "valley",
+    "mountain"
+  ],
+  "name": "Fouriesburg Mountain Midday",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "midday",
+    "high contrast",
+    "skies"
+  ],
+  "coords": [
+    -28.621,
+    28.2089
+  ],
+  "date_taken": 1629550320,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "date_published": 1655683200,
+  "staging": null,
+  "prepaid": true,
+  "files_hash": "0a0a7ca72dc6f07f41278267bf027ebdd94008a4",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "sponsors": [
+    "7934315"
+  ],
+  "download_count": 92251,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fouriesburg_mountain_midday.png?width=256&height=256"
+}

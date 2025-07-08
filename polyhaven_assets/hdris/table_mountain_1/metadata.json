@@ -1,0 +1,45 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1511996400,
+  "name": "Table Mountain 1",
+  "old_id": 106,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1464964200,
+  "coords": [
+    -33.958547,
+    18.405612
+  ],
+  "sponsors": [
+    "7947474"
+  ],
+  "backplates": true,
+  "tags": [
+    "sun",
+    "mountain",
+    "view",
+    "city",
+    "rock",
+    "backplates"
+  ],
+  "files_hash": "17fdbefb9698b71135939eef96f418f0edac77f1",
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 152992,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/table_mountain_1.png?width=256&height=256"
+}

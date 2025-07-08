@@ -1,0 +1,47 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "grass",
+    "garden",
+    "sun",
+    "plants",
+    "hedge",
+    "park"
+  ],
+  "name": "Symmetrical Garden 02",
+  "categories": [
+    "natural light",
+    "nature",
+    "outdoor",
+    "high contrast",
+    "partly cloudy",
+    "midday"
+  ],
+  "date_taken": 1704376260,
+  "coords": [
+    -29.316708,
+    30.051138
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "files_hash": "523e71107b48c1b33a7584873f5c7098798e0341",
+  "date_published": 1709251200,
+  "staging": null,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "sponsors": [
+    "78546118"
+  ],
+  "download_count": 263137,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/symmetrical_garden_02.png?width=256&height=256"
+}

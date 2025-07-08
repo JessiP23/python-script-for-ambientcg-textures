@@ -1,0 +1,49 @@
+{
+  "name": "Modular Chainlink Fence",
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "info": null,
+  "date_published": 1699660800,
+  "staging": null,
+  "authors": {
+    "James Ray Cock": "All",
+    "Amal Kumar": "Fence Wire Material"
+  },
+  "categories": [
+    "structures",
+    "industrial",
+    "buildings",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "infrastructure",
+    "city",
+    "urban",
+    "fencing",
+    "barrier",
+    "security",
+    "fencing",
+    "boundary",
+    "wall",
+    "wire"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 89232,
+  "texel_density": 2449.2185307745117,
+  "dimensions": [
+    8115.001916885376,
+    2149.1531878709793,
+    2522.9129791259766
+  ],
+  "sponsors": [
+    "146648879"
+  ],
+  "files_hash": "a876696fcfd57a434e5d1dd68baa03e15475b97e",
+  "download_count": 17177,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modular_chainlink_fence.png?width=256&height=256"
+}

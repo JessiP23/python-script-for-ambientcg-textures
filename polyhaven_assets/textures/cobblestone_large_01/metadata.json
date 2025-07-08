@@ -1,0 +1,40 @@
+{
+  "scale": "4M x 4M",
+  "type": 1,
+  "tags": [
+    "cobblestone",
+    "farm",
+    "old",
+    "village",
+    "path",
+    "dry",
+    "mud"
+  ],
+  "date_published": 1564876127,
+  "name": "Cobblestone Large 01",
+  "old_id": 216,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "sponsors": [
+    "44302755"
+  ],
+  "dimensions": [
+    4000,
+    4000
+  ],
+  "categories": [
+    "floor",
+    "outdoor",
+    "man made",
+    "road",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "0309a2fae6ac2be688c4d4118b792172e40bf2a1",
+  "download_count": 30836,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_large_01.png?width=256&height=256"
+}

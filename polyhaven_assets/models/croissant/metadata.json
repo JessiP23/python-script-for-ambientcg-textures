@@ -1,0 +1,43 @@
+{
+  "date_published": 1659916800,
+  "sponsors": [
+    "26820710"
+  ],
+  "name": "Croissant",
+  "categories": [
+    "props",
+    "food"
+  ],
+  "type": 2,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "staging": null,
+  "tags": [
+    "food",
+    "pastry",
+    "baked goods",
+    "french",
+    "breakfast",
+    "bakery",
+    "savory"
+  ],
+  "authors": {
+    "Greg Zaal": "Processing",
+    "Dario Barresi": "Scanning"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 1990,
+  "texel_density": 36987.25624446523,
+  "dimensions": [
+    200.00000298023224,
+    75.51151886582375,
+    61.99566961731762
+  ],
+  "files_hash": "16023b7dcc7d8c5660c4d128e079e878fc08ab23",
+  "download_count": 17905,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/croissant.png?width=256&height=256"
+}

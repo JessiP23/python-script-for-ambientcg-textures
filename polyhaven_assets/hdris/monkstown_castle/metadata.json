@@ -1,0 +1,50 @@
+{
+  "type": 0,
+  "name": "Monkstown Castle",
+  "categories": [
+    "low contrast",
+    "indoor",
+    "outdoor",
+    "natural light",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy"
+  ],
+  "tags": [
+    "tunnel",
+    "shade",
+    "castle",
+    "wall",
+    "stone",
+    "medieval",
+    "arch",
+    "doorway",
+    "historical"
+  ],
+  "authors": {
+    "Savva Zakharov": "All"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "donated": true,
+  "date_taken": 1742048940,
+  "coords": [
+    53.289115,
+    -6.150662
+  ],
+  "evs_cap": 10,
+  "whitebalance": 5400,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "8b9fbd0c2acea23a9149ffc49ffb887760b82a36",
+  "date_published": 1744588800,
+  "staging": null,
+  "sponsors": [
+    "93287434"
+  ],
+  "download_count": 6760,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/monkstown_castle.png?width=256&height=256"
+}

@@ -1,0 +1,56 @@
+{
+  "lods": true,
+  "date_published": 1663891200,
+  "name": "Weed Plant 02",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "staging": null,
+  "authors": {
+    "Rob Tuytel": "Photography",
+    "Rico Cilliers": "Modeling"
+  },
+  "info": null,
+  "sponsors": [
+    "91384425"
+  ],
+  "categories": [
+    "nature",
+    "plants",
+    "ground cover",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "nature",
+    "natural",
+    "bush",
+    "shrub",
+    "green",
+    "plant",
+    "outdoor",
+    "leaf",
+    "botany",
+    "leaves",
+    "forest",
+    "jungle",
+    "foliage",
+    "small",
+    "field",
+    "meadow"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 17062,
+  "texel_density": 49404.648940606014,
+  "dimensions": [
+    2125.253051519394,
+    290.9194082021713,
+    75.0729264691472
+  ],
+  "files_hash": "ec3ea7f56c7504415056b28465ce384a4f884f6c",
+  "download_count": 19061,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/weed_plant_02.png?width=256&height=256"
+}

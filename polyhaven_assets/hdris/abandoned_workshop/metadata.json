@@ -1,0 +1,43 @@
+{
+  "evs_cap": 16,
+  "type": 0,
+  "whitebalance": 4550,
+  "date_published": 1606172400,
+  "name": "Abandoned workshop",
+  "old_id": 512,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1597313400,
+  "coords": [
+    50.922393,
+    34.822357
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "16608220"
+  ],
+  "backplates": true,
+  "tags": [
+    "abandoned",
+    "warehouse",
+    "rubble",
+    "brick",
+    "pillar",
+    "bare",
+    "empty",
+    "backplates"
+  ],
+  "files_hash": "75a54728474138e2ea2bd631bc0729cb18d217cb",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 25207,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/abandoned_workshop.png?width=256&height=256"
+}

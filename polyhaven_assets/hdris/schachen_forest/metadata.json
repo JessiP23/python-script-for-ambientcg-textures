@@ -1,0 +1,39 @@
+{
+  "donated": true,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "autumn",
+    "winter",
+    "leaves",
+    "tree",
+    "forest",
+    "earth"
+  ],
+  "name": "Schachen Forest",
+  "categories": [
+    "low contrast",
+    "overcast",
+    "morning-afternoon",
+    "natural light",
+    "nature",
+    "outdoor"
+  ],
+  "date_taken": 1487548800,
+  "authors": {
+    "Adrian Kubasa": "All"
+  },
+  "info": null,
+  "files_hash": "ee9d1337bad048d48cb810e8670a94b0e1052aae",
+  "evs_cap": 0,
+  "date_published": 1705190400,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 10806,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/schachen_forest.png?width=256&height=256"
+}

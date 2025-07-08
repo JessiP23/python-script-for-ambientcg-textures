@@ -1,0 +1,44 @@
+{
+  "evs_cap": 25,
+  "type": 0,
+  "whitebalance": 5074,
+  "tags": [
+    "city",
+    "china",
+    "shanghai",
+    "concrete",
+    "promenade",
+    "sun"
+  ],
+  "name": "Shanghai Riverside",
+  "categories": [
+    "outdoor",
+    "urban",
+    "medium contrast",
+    "sunrise-sunset",
+    "clear",
+    "natural light",
+    "skies"
+  ],
+  "coords": [
+    31.161925,
+    121.468183
+  ],
+  "date_taken": 1599116640,
+  "authors": {
+    "Alex Radosnov": "All"
+  },
+  "date_published": 1634515200,
+  "staging": null,
+  "prepaid": true,
+  "files_hash": "75785b8171376ff3172e6440b622c277d69f3a67",
+  "sponsors": [
+    "59361351"
+  ],
+  "max_resolution": [
+    16122,
+    8061
+  ],
+  "download_count": 145017,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/shanghai_riverside.png?width=256&height=256"
+}

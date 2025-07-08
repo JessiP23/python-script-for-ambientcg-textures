@@ -1,0 +1,45 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5313,
+  "tags": [
+    "tree",
+    "sun",
+    "grass",
+    "dam",
+    "pond",
+    "golf"
+  ],
+  "name": "Limpopo Golf Course",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "high contrast",
+    "morning-afternoon",
+    "skies"
+  ],
+  "date_taken": 1666510140,
+  "coords": [
+    -24.040301,
+    29.276987
+  ],
+  "info": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "files_hash": "8bc22afa3df928413e2310f8b9e9b2747e36d3d0",
+  "date_published": 1670198400,
+  "staging": null,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 278162,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/limpopo_golf_course.png?width=256&height=256"
+}

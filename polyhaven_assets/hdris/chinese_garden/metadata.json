@@ -1,0 +1,43 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "tags": [
+    "sun",
+    "tree",
+    "pond",
+    "garden",
+    "asia",
+    "architecture",
+    "china",
+    "cobblestone"
+  ],
+  "date_published": 1594677600,
+  "name": "Chinese Garden",
+  "old_id": 481,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1593008280,
+  "coords": [
+    48.787181,
+    9.175999
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "9910225"
+  ],
+  "files_hash": "a5fbfdf95830d90edb84b3385d4b464662c6623d",
+  "max_resolution": [
+    18500,
+    9250
+  ],
+  "download_count": 168514,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/chinese_garden.png?width=256&height=256"
+}

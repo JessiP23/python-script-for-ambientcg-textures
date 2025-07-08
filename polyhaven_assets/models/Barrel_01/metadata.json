@@ -1,0 +1,39 @@
+{
+  "type": 2,
+  "tags": [
+    "barrel",
+    "oil",
+    "explosive",
+    "radioactive",
+    "metal"
+  ],
+  "date_published": 1585605600,
+  "name": "Barrel_01",
+  "old_id": 5,
+  "categories": [
+    "industrial",
+    "containers"
+  ],
+  "authors": {
+    "Jorge Camacho": "All"
+  },
+  "sponsors": [
+    "3267566",
+    "11167855",
+    "11109006"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2682,
+  "texel_density": 4804.410195602988,
+  "dimensions": [
+    563.0351305007935,
+    563.0352199077606,
+    880.0000050105155
+  ],
+  "files_hash": "45ce352c4416845813a00e478950b500796b0a60",
+  "download_count": 55393,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/Barrel_01.png?width=256&height=256"
+}

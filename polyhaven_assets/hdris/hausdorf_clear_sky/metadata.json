@@ -1,0 +1,42 @@
+{
+  "type": 0,
+  "name": "Hausdorf Clear Sky",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "clear",
+    "morning-afternoon",
+    "high contrast"
+  ],
+  "tags": [
+    "field",
+    "sun",
+    "grass",
+    "forest",
+    "dry"
+  ],
+  "authors": {
+    "Grzegorz Wronkowski": "All"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1739282160,
+  "coords": [
+    50.636025,
+    16.521711
+  ],
+  "evs_cap": 24,
+  "whitebalance": 5400,
+  "max_resolution": [
+    30000,
+    15000
+  ],
+  "files_hash": "239ab09bdab3b763be997c27b40f657c0470b0fc",
+  "date_published": 1742515200,
+  "staging": null,
+  "download_count": 12030,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hausdorf_clear_sky.png?width=256&height=256"
+}

@@ -1,0 +1,48 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "date_published": 1508536800,
+  "name": "The Sky Is On Fire",
+  "old_id": 43,
+  "categories": [
+    "outdoor",
+    "skies",
+    "urban",
+    "sunrise-sunset",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    -33.903853,
+    18.397963
+  ],
+  "date_taken": 1464882900,
+  "sponsors": [
+    {
+      "url": "http://www.eidyknowles.com/",
+      "name": "Eidy"
+    }
+  ],
+  "backplates": true,
+  "tags": [
+    "twilight",
+    "rail",
+    "promenade",
+    "path",
+    "ocean",
+    "wave",
+    "backplates"
+  ],
+  "files_hash": "9be3cf12e0beb7d272c3c11894cc921d1360220d",
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 526858,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/the_sky_is_on_fire.png?width=256&height=256"
+}

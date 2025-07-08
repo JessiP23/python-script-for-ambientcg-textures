@@ -1,0 +1,43 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "whitebalance": 5250,
+  "date_published": 1604962800,
+  "name": "Wide Street 02",
+  "old_id": 510,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    50.906076,
+    34.804599
+  ],
+  "date_taken": 1596781740,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "37678923"
+  ],
+  "backplates": true,
+  "tags": [
+    "asphalt",
+    "city",
+    "road",
+    "street",
+    "sun",
+    "backplates"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "98eac6609d651a4c63070aec3f7b7220736dc8b4",
+  "download_count": 225094,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wide_street_02.png?width=256&height=256"
+}

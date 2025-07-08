@@ -1,0 +1,41 @@
+{
+  "name": "Dirty Carpet",
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "carpet",
+    "dirty",
+    "floor",
+    "textile ",
+    "rug",
+    "discolored",
+    "faded"
+  ],
+  "authors": {
+    "Rohit Seervi": "All"
+  },
+  "info": null,
+  "dimensions": [
+    599.9999046325684,
+    599.9999046325684
+  ],
+  "date_published": 1699315200,
+  "staging": null,
+  "donated": true,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "categories": [
+    "floor",
+    "fabric",
+    "carpet"
+  ],
+  "files_hash": "5a10cbdb900933c85bebdd7abc6efe94bf5caa36",
+  "download_count": 62775,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dirty_carpet.png?width=256&height=256"
+}

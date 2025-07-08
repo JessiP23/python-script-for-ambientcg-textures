@@ -1,0 +1,50 @@
+{
+  "evs_cap": 6,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1522101600,
+  "name": "Venice Dawn 1",
+  "old_id": 142,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "urban",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    45.4309,
+    12.3529
+  ],
+  "date_taken": 1509516180,
+  "sponsors": [
+    {
+      "url": "http://www.va-render.com/",
+      "name": "VA Render"
+    }
+  ],
+  "backplates": true,
+  "tags": [
+    "europe",
+    "venice",
+    "architecture",
+    "road",
+    "river",
+    "street",
+    "backplates"
+  ],
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "3c968f8f4baa58d2ead63a133b04aa2066109c63",
+  "download_count": 116827,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/venice_dawn_1.png?width=256&height=256"
+}

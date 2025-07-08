@@ -1,0 +1,40 @@
+{
+  "type": 2,
+  "name": "Metal Detector",
+  "categories": [
+    "props",
+    "electronics"
+  ],
+  "tags": [
+    "detector",
+    "exploration",
+    "adventure",
+    "treasure",
+    "equipment",
+    "archaeology",
+    "technology"
+  ],
+  "authors": {
+    "Kuutti Siitonen": "All"
+  },
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "donated": true,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 15518,
+  "texel_density": 5032.832807746832,
+  "dimensions": [
+    289.13262486457825,
+    1189.8686289787292,
+    1121.921420097351
+  ],
+  "date_published": 1747180800,
+  "staging": null,
+  "files_hash": "554df4e1073ad058fcb816d9ef745b6754d45a64",
+  "download_count": 230,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/metal_detector.png?width=256&height=256"
+}

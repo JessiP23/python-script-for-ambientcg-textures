@@ -1,0 +1,48 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "sun",
+    "road",
+    "track",
+    "asphalt",
+    "race",
+    "straight",
+    "grid",
+    "barrier",
+    "circuit",
+    "backplates"
+  ],
+  "name": "Zwartkops Start Afternoon",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "urban",
+    "high contrast",
+    "clear",
+    "midday"
+  ],
+  "backplates": true,
+  "date_taken": 1713700800,
+  "coords": [
+    -25.810044808817782,
+    28.110051739066126
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "7cb5da1182922b9f2081dd3037b52b958dd5760a",
+  "staging": null,
+  "date_published": 1726444800,
+  "download_count": 10175,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwartkops_start_afternoon.png?width=256&height=256"
+}

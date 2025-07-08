@@ -1,0 +1,36 @@
+{
+  "evs_cap": 8,
+  "prepaid": true,
+  "type": 0,
+  "whitebalance": 5050,
+  "tags": [
+    "machine",
+    "industrial",
+    "pipes",
+    "factory"
+  ],
+  "date_published": 1540854000,
+  "name": "Boiler Room",
+  "old_id": 320,
+  "categories": [
+    "indoor",
+    "urban",
+    "low contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1536236880,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "sponsors": [
+    "3567764"
+  ],
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "files_hash": "b6177661f9456737ec10ecb39bb61f1f4efda3c9",
+  "download_count": 31338,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/boiler_room.png?width=256&height=256"
+}

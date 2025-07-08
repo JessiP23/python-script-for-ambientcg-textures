@@ -1,0 +1,43 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "car",
+    "road",
+    "street",
+    "asphalt",
+    "pink",
+    "house",
+    "suburb",
+    "grass"
+  ],
+  "name": "Stuttgart Suburbs",
+  "categories": [
+    "outdoor",
+    "urban",
+    "natural light",
+    "partly cloudy",
+    "sunrise-sunset",
+    "low contrast"
+  ],
+  "date_taken": 1627328580,
+  "coords": [
+    48.785363,
+    9.15049
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1631145600,
+  "staging": null,
+  "sponsors": [
+    "37678923"
+  ],
+  "max_resolution": [
+    19682,
+    9841
+  ],
+  "files_hash": "06c9192a2e5df01aa512636266fc79116e4ae92b",
+  "download_count": 93405,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stuttgart_suburbs.png?width=256&height=256"
+}

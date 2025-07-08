@@ -1,0 +1,34 @@
+{
+  "type": 1,
+  "tags": [
+    "moss",
+    "smooth",
+    "flat",
+    "even",
+    "patches"
+  ],
+  "date_published": 1529359200,
+  "name": "White Plaster Rough 01",
+  "old_id": 117,
+  "categories": [
+    "plaster-concrete",
+    "wall",
+    "floor",
+    "man made",
+    "outdoor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "7a9abe9055d0bd52d808df88ea2d6e48bee9a78f",
+  "download_count": 32927,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_plaster_rough_01.png?width=256&height=256"
+}

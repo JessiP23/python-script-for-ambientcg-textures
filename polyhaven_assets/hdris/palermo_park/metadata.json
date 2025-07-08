@@ -1,0 +1,39 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "tree",
+    "park",
+    "path",
+    "autumn"
+  ],
+  "date_published": 1587420000,
+  "name": "Palermo Park",
+  "old_id": 460,
+  "categories": [
+    "outdoor",
+    "nature",
+    "urban",
+    "morning-afternoon",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1569766620,
+  "coords": [
+    38.11751,
+    13.369234
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "16608220"
+  ],
+  "files_hash": "962419155ff9cba2750818663486462696d1fae5",
+  "max_resolution": [
+    20604,
+    10302
+  ],
+  "download_count": 63420,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/palermo_park.png?width=256&height=256"
+}

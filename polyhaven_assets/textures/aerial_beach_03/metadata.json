@@ -1,0 +1,38 @@
+{
+  "type": 1,
+  "tags": [
+    "beach",
+    "seaside",
+    "sand",
+    "trampled",
+    "uneven",
+    "brown",
+    "footprints",
+    "costal",
+    "ocean"
+  ],
+  "date_published": 1632960000,
+  "name": "Aerial Beach 03",
+  "categories": [
+    "outdoor",
+    "terrain",
+    "sand",
+    "natural",
+    "aerial"
+  ],
+  "staging": null,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    19999.950408935547,
+    20000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "2deaf3ec2538aeb11993aa95ef89a979d2a7eb34",
+  "download_count": 14598,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerial_beach_03.png?width=256&height=256"
+}

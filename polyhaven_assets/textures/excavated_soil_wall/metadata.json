@@ -1,0 +1,42 @@
+{
+  "name": "Excavated Soil Wall",
+  "categories": [
+    "outdoor",
+    "wall",
+    "sand"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "sand",
+    "wall",
+    "cracks",
+    "excavation",
+    "soil",
+    "earth",
+    "dirt",
+    "dusty",
+    "dry",
+    "uneven"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1999.9996423721313,
+    1999.9996423721313
+  ],
+  "date_published": 1697500800,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "a4f887714035737be41c8712c0da8267ca39b3e6",
+  "download_count": 10711,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/excavated_soil_wall.png?width=256&height=256"
+}

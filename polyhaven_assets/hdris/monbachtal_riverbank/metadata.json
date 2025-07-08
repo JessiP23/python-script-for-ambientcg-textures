@@ -1,0 +1,38 @@
+{
+  "evs_cap": 13,
+  "type": 0,
+  "tags": [
+    "rock",
+    "tree",
+    "forest",
+    "river",
+    "water",
+    "waterfall",
+    "stream"
+  ],
+  "name": "Monbachtal Riverbank",
+  "categories": [
+    "outdoor",
+    "nature",
+    "natural light",
+    "medium contrast",
+    "midday"
+  ],
+  "date_taken": 1619255280,
+  "coords": [
+    48.803131,
+    8.740544
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1631577600,
+  "staging": null,
+  "files_hash": "2969137cf9becd979ec1b9ed327e2b4847d38593",
+  "max_resolution": [
+    19410,
+    9705
+  ],
+  "download_count": 41788,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/monbachtal_riverbank.png?width=256&height=256"
+}

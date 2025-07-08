@@ -1,0 +1,43 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "date_published": 1522879200,
+  "name": "Signal Hill Dawn",
+  "old_id": 216,
+  "categories": [
+    "outdoor",
+    "skies",
+    "urban",
+    "sunrise-sunset",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1465018560,
+  "coords": [
+    -33.916429,
+    18.404677
+  ],
+  "sponsors": [
+    "8571269"
+  ],
+  "backplates": true,
+  "tags": [
+    "road",
+    "view",
+    "city",
+    "cape town",
+    "backplates"
+  ],
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "b467bdda1d4503f45f47ff256c77b9d0873b20b4",
+  "download_count": 38783,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/signal_hill_dawn.png?width=256&height=256"
+}

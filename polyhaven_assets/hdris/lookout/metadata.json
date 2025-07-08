@@ -1,0 +1,38 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "thatch",
+    "hide",
+    "pilanesberg",
+    "window"
+  ],
+  "date_published": 1508536800,
+  "name": "Lookout",
+  "old_id": 36,
+  "categories": [
+    "indoor",
+    "urban",
+    "nature",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    -25.2459,
+    27.064455
+  ],
+  "date_taken": 1456041900,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "3237733"
+  ],
+  "files_hash": "290c4c487cba5344aa162bdaaf02728c41d4db9c",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 23172,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lookout.png?width=256&height=256"
+}

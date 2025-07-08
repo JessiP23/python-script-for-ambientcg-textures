@@ -1,0 +1,30 @@
+{
+  "type": 1,
+  "date_published": 1590810670,
+  "name": "Fabric Pattern 05",
+  "old_id": 262,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    500,
+    499.9999403953552
+  ],
+  "tags": [
+    "plain",
+    "cloth",
+    "towel",
+    "checker"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "categories": [
+    "fabric",
+    "cotton"
+  ],
+  "files_hash": "be7f619f251a6ba2f829e658c6a20948cdc18a4f",
+  "download_count": 153086,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fabric_pattern_05.png?width=256&height=256"
+}

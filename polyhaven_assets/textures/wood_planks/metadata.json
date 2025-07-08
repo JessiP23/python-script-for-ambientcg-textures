@@ -1,0 +1,53 @@
+{
+  "name": "Wood Planks",
+  "categories": [
+    "floor",
+    "wood",
+    "raw wood",
+    "man made"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi",
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "old",
+    "discolored",
+    "wood",
+    "floor",
+    "wooden planks",
+    "wooden flooring ",
+    "planks",
+    "plank",
+    "grain",
+    "aged",
+    "worn",
+    "scratched",
+    "wooden",
+    "timber"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1499.999761581421,
+    1499.999761581421
+  ],
+  "date_published": 1700697600,
+  "staging": null,
+  "sponsors": [
+    "78546118"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "1742bf4a727e0443e7ca3fc67b01f68ff45a2ec2",
+  "download_count": 90077,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_planks.png?width=256&height=256"
+}

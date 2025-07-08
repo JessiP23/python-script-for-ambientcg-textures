@@ -1,0 +1,38 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "abandoned",
+    "graffiti",
+    "stage",
+    "theater",
+    "tree",
+    "stair"
+  ],
+  "date_published": 1542322800,
+  "name": "Summer Stage 02",
+  "old_id": 326,
+  "categories": [
+    "outdoor",
+    "urban",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1538401860,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "993026"
+  ],
+  "files_hash": "1215eee3304c5c9370dd378a6141d6881ecd4c75",
+  "max_resolution": [
+    16500,
+    8250
+  ],
+  "download_count": 13356,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/summer_stage_02.png?width=256&height=256"
+}

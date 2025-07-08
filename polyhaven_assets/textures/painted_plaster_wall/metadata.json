@@ -1,0 +1,45 @@
+{
+  "name": "Painted Plaster Wall",
+  "categories": [
+    "wall",
+    "plaster-concrete",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "worn",
+    "wall",
+    "discolored",
+    "plaster",
+    "plastered",
+    "damaged",
+    "old",
+    "stained",
+    "dirty",
+    "exterior",
+    "timeworn"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1706140800,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "77e9d68a3359a2815a60a62fd3f0eba0f2f41994",
+  "download_count": 182709,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/painted_plaster_wall.png?width=256&height=256"
+}

@@ -1,0 +1,35 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "bed",
+    "table",
+    "hospital",
+    "lamp",
+    "medical",
+    "operation"
+  ],
+  "date_published": 1558044000,
+  "name": "Hospital Room",
+  "old_id": 373,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1551371340,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "sponsors": [
+    "77433244"
+  ],
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "files_hash": "352d63dedfcbac5507b381c146e65ddea1e3fde8",
+  "download_count": 31602,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hospital_room.png?width=256&height=256"
+}

@@ -1,0 +1,37 @@
+{
+  "type": 2,
+  "tags": [
+    "ball",
+    "baseball",
+    "toy",
+    "kids",
+    "child",
+    "sport"
+  ],
+  "name": "Baseball 01",
+  "categories": [
+    "props"
+  ],
+  "date_published": 1623767596,
+  "staging": null,
+  "authors": {
+    "Rico Cilliers": "All"
+  },
+  "sponsors": [
+    "11167855"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2712,
+  "texel_density": 42488.31012291544,
+  "dimensions": [
+    73.97906854748726,
+    75.37996023893356,
+    75.57932659983635
+  ],
+  "files_hash": "2570badfc665299a65e2d65140a8e7f66b9ef413",
+  "download_count": 23357,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/baseball_01.png?width=256&height=256"
+}

@@ -1,0 +1,30 @@
+{
+  "type": 1,
+  "tags": [
+    "gravel",
+    "grey"
+  ],
+  "date_published": 1586233113,
+  "name": "Ground Grey",
+  "old_id": 248,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "natural",
+    "road"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "5ca79a7c6f645e8ed392a7adc3bbdaa07e016e40",
+  "download_count": 43871,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ground_grey.png?width=256&height=256"
+}

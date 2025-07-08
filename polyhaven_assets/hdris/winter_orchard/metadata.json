@@ -1,0 +1,41 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5313,
+  "tags": [
+    "tree",
+    "grass",
+    "farm"
+  ],
+  "name": "Winter Orchard",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "sunrise-sunset",
+    "low contrast"
+  ],
+  "coords": [
+    -26.435502,
+    27.735231
+  ],
+  "date_taken": 1658511120,
+  "info": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "date_published": 1663286400,
+  "staging": null,
+  "files_hash": "5399c2cd432345ce4e33949c73425ad0a58f69fa",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 15255,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/winter_orchard.png?width=256&height=256"
+}

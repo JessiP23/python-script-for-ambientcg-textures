@@ -1,0 +1,36 @@
+{
+  "type": 1,
+  "tags": [
+    "gravel",
+    "stones",
+    "rough",
+    "pebbles",
+    "railroad",
+    "pathway",
+    "path"
+  ],
+  "date_published": 1529359200,
+  "name": "Terrain Red 01",
+  "old_id": 114,
+  "categories": [
+    "terrain",
+    "natural",
+    "outdoor",
+    "road",
+    "rock"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "16bb30d34d23a75c1dea32f0d01cd89212160bc8",
+  "download_count": 44863,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/terrain_red_01.png?width=256&height=256"
+}

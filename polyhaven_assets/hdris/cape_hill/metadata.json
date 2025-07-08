@@ -1,0 +1,52 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "date_published": 1522879200,
+  "name": "Cape Hill",
+  "old_id": 205,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -34.266591,
+    18.458238
+  ],
+  "date_taken": 1464588960,
+  "backplates": true,
+  "tags": [
+    "rock",
+    "shrub",
+    "view",
+    "ocean",
+    "hill",
+    "hilltop",
+    "sun",
+    "backplates"
+  ],
+  "sponsors": [
+    "10485422",
+    {
+      "url": "http://alienghostship.com/",
+      "name": "Rick Kay"
+    },
+    "37678923",
+    "11167855"
+  ],
+  "files_hash": "feaad1f50cd22b59bb45afb0ea3875fb97933d1e",
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 209288,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cape_hill.png?width=256&height=256"
+}

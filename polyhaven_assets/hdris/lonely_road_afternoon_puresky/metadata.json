@@ -1,0 +1,44 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "pure skies"
+  ],
+  "name": "Lonely Road Afternoon (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "clear",
+    "sunrise-sunset",
+    "high contrast",
+    "pure skies"
+  ],
+  "date_taken": 1699638660,
+  "coords": [
+    -28.046333,
+    26.603583
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": "Edited sky-only version of [Lonely Road Afternoon](https://polyhaven.com/a/lonely_road_afternoon).",
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "a42a7bd01ea14acde667b441ffa854a97ec50f0d",
+  "date_published": 1712102400,
+  "staging": null,
+  "sponsors": [
+    "76058381"
+  ],
+  "download_count": 80945,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lonely_road_afternoon_puresky.png?width=256&height=256"
+}

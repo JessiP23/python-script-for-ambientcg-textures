@@ -1,0 +1,44 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "bridge",
+    "path",
+    "building",
+    "city",
+    "river",
+    "tower"
+  ],
+  "date_published": 1522879200,
+  "name": "Dusseldorf Bridge",
+  "old_id": 230,
+  "categories": [
+    "outdoor",
+    "urban",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    51.215937,
+    6.753368
+  ],
+  "date_taken": 1478966280,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "url": "https://dabarti.com/",
+      "name": "Tomasz Wyszolmirski"
+    }
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "50dee4088dacb4248f949893dd274c125c95e47b",
+  "download_count": 54548,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dusseldorf_bridge.png?width=256&height=256"
+}

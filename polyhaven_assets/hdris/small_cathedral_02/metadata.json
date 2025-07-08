@@ -1,0 +1,43 @@
+{
+  "evs_cap": 26,
+  "type": 0,
+  "whitebalance": 5000,
+  "date_published": 1588629600,
+  "name": "Small Cathedral 02",
+  "old_id": 461,
+  "categories": [
+    "outdoor",
+    "urban",
+    "sunrise-sunset",
+    "partly cloudy",
+    "medium contrast",
+    "natural light",
+    "indoor"
+  ],
+  "date_taken": 1583338200,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "16608220"
+  ],
+  "backplates": true,
+  "tags": [
+    "sun",
+    "europe",
+    "architecture",
+    "arch",
+    "church",
+    "tree",
+    "cobblestone",
+    "brick",
+    "backplates"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "569d4511269d1dbc0c40afcc5d918cff50d184b2",
+  "download_count": 50447,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_cathedral_02.png?width=256&height=256"
+}

@@ -1,0 +1,40 @@
+{
+  "evs_cap": 11,
+  "type": 0,
+  "tags": [
+    "stadium",
+    "field",
+    "grass",
+    "football",
+    "soccer"
+  ],
+  "date_published": 1541477745,
+  "name": "Stadium 01",
+  "old_id": 323,
+  "categories": [
+    "outdoor",
+    "urban",
+    "sunrise-sunset",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1537544160,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    {
+      "url": "http://artsandculturevr.com/",
+      "name": "Arts And Culture VR"
+    },
+    "7937768"
+  ],
+  "max_resolution": [
+    16500,
+    8250
+  ],
+  "files_hash": "8fdc10d7fb765d01d7bc068a5040efc8d46917f5",
+  "download_count": 42257,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stadium_01.png?width=256&height=256"
+}

@@ -1,0 +1,39 @@
+{
+  "type": 1,
+  "tags": [
+    "rough",
+    "wall",
+    "dirty",
+    "weathered",
+    "stones",
+    "rocks",
+    "old",
+    "worn",
+    "castle",
+    "fort"
+  ],
+  "name": "Coral Fort Wall 03",
+  "categories": [
+    "outdoor",
+    "wall",
+    "man made",
+    "rock"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Processing"
+  },
+  "date_published": 1639440000,
+  "staging": null,
+  "dimensions": [
+    1099.9999046325684,
+    1100.0001430511475
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "6e367b04b106e7a38852461fae4f7c91184bb6cb",
+  "download_count": 13029,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coral_fort_wall_03.png?width=256&height=256"
+}

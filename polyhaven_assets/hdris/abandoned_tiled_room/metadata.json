@@ -1,0 +1,47 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 7150,
+  "tags": [
+    "abandoned",
+    "industrial",
+    "rubble",
+    "ruin",
+    "trash",
+    "weathered",
+    "broken",
+    "neglected",
+    "decay",
+    "debris",
+    "grunge",
+    "window"
+  ],
+  "name": "Abandoned Tiled Room",
+  "categories": [
+    "indoor",
+    "urban",
+    "natural light",
+    "medium contrast",
+    "sunrise-sunset"
+  ],
+  "date_taken": 1678895700,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "files_hash": "c06d205bea1abd4c8e15337733462703bf8c8cf6",
+  "date_published": 1680652800,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "3237733"
+  ],
+  "download_count": 32964,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/abandoned_tiled_room.png?width=256&height=256"
+}

@@ -1,0 +1,37 @@
+{
+  "evs_cap": 6,
+  "name": "Peppermint Powerplant 2",
+  "categories": [
+    "urban",
+    "natural light",
+    "sunrise-sunset",
+    "indoor",
+    "medium contrast"
+  ],
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1604939700,
+  "tags": [
+    "abandoned",
+    "industrial",
+    "window",
+    "workshop",
+    "tiles",
+    "machine",
+    "factory"
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1657670400,
+  "staging": null,
+  "files_hash": "21c38abd6f71ec61571848bb7b6fe2510a570c95",
+  "max_resolution": [
+    20718,
+    10359
+  ],
+  "download_count": 43966,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/peppermint_powerplant_2.png?width=256&height=256"
+}

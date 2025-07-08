@@ -1,0 +1,40 @@
+{
+  "lods": true,
+  "name": "Namaqualand Rocks 01",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock",
+    "Rico Cilliers"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 160716,
+  "texel_density": 10879.819659802648,
+  "dimensions": [
+    1448.4741687774658,
+    217.12086349725723,
+    152.61786431074142
+  ],
+  "staging": null,
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jenelle van Heerden": "Model"
+  },
+  "categories": [
+    "nature",
+    "rocks",
+    "collection: namaqualand"
+  ],
+  "tags": [
+    "karoo",
+    "south africa",
+    "quartz",
+    "desert"
+  ],
+  "date_published": 1728345600,
+  "files_hash": "b3db262e3bbee2c87c984ee85daad2baaaeeebee",
+  "download_count": 1930,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/namaqualand_rocks_01.png?width=256&height=256"
+}

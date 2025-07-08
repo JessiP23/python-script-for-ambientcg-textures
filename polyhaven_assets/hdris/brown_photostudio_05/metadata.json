@@ -1,0 +1,46 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 3200,
+  "tags": [
+    "wood",
+    "couch",
+    "decor",
+    "studio",
+    "windows",
+    "door",
+    "curtain",
+    "backplates"
+  ],
+  "name": "Brown Photostudio 05",
+  "categories": [
+    "indoor",
+    "natural light",
+    "urban",
+    "morning-afternoon",
+    "low contrast",
+    "studio"
+  ],
+  "backplates": true,
+  "coords": [
+    49.237271,
+    28.406444
+  ],
+  "date_taken": 1650037380,
+  "info": null,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1664409600,
+  "staging": null,
+  "files_hash": "ac1480353d35d3b4d1c86a5e990a4e41addc849f",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 43041,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_photostudio_05.png?width=256&height=256"
+}

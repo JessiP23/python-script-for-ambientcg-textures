@@ -1,0 +1,38 @@
+{
+  "type": 1,
+  "name": "Asbestos Sheet",
+  "categories": [
+    "wall",
+    "man made"
+  ],
+  "tags": [
+    "asbestos",
+    "corrugated",
+    "dirty",
+    "sheet",
+    "corrugation",
+    "industrial",
+    "material",
+    "fireresistant"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1743033600,
+  "staging": null,
+  "files_hash": "6e21d8c6220e008284073982a5d2d3e9c7d4ff9a",
+  "download_count": 489,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asbestos_sheet.png?width=256&height=256"
+}

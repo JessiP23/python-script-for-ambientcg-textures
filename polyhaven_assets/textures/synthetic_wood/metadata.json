@@ -1,0 +1,39 @@
+{
+  "name": "Synthetic Wood",
+  "categories": [
+    "man made",
+    "wall",
+    "wood",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Charlotte Baglioni": "Photography"
+  },
+  "tags": [
+    "wall",
+    "planks",
+    "wood",
+    "wooden",
+    "brown",
+    "flat",
+    "square"
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1658361600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "b16e0c7fac2bf57b65c16933165e7aca9d833f45",
+  "download_count": 116018,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/synthetic_wood.png?width=256&height=256"
+}

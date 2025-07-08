@@ -1,0 +1,44 @@
+{
+  "evs_cap": 10,
+  "type": 0,
+  "tags": [
+    "train",
+    "station",
+    "bench",
+    "hall",
+    "tracks",
+    "fluorescent"
+  ],
+  "date_published": 1506981600,
+  "name": "Dresden Station Night",
+  "old_id": 8,
+  "categories": [
+    "indoor",
+    "urban",
+    "night",
+    "medium contrast",
+    "artificial light"
+  ],
+  "coords": [
+    51.040345,
+    13.731369
+  ],
+  "date_taken": 1478636940,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "url": "http://www.mdjustin.com/",
+      "name": "Justin Dolan"
+    },
+    "11164276"
+  ],
+  "files_hash": "f5ce6ef5551030de7cff798e06f02e25ff0efb77",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 59104,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dresden_station_night.png?width=256&height=256"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Patterned Concrete Pavers 02",
+  "categories": [
+    "man made",
+    "outdoor",
+    "floor",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "worn",
+    "cracked",
+    "patterned",
+    "pavers",
+    "weathered",
+    "paving",
+    "concrete",
+    "discolored",
+    "dirt",
+    "outdoor",
+    "pavement patterned"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2039.9994850158691,
+    2039.9994850158691
+  ],
+  "date_published": 1695081600,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "7e3eb6d249b849dd191f80e0675ddab37013affe",
+  "download_count": 5808,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_concrete_pavers_02.png?width=256&height=256"
+}

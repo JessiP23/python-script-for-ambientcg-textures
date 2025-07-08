@@ -1,0 +1,31 @@
+{
+  "scale": "40CM X 40CM",
+  "type": 1,
+  "tags": [
+    "leather",
+    "brown",
+    "chair",
+    "seat"
+  ],
+  "date_published": 1590367769,
+  "name": "Brown Leather",
+  "old_id": 258,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    400.0000059604645,
+    400.00003576278687
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "categories": [
+    "fabric",
+    "leather"
+  ],
+  "files_hash": "d8a35bdef0141b8b786754fb644f15f9805acad2",
+  "download_count": 176709,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_leather.png?width=256&height=256"
+}

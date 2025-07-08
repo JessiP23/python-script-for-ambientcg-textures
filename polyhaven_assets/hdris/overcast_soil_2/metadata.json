@@ -1,0 +1,42 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 6000,
+  "tags": [
+    "soil",
+    "dirt",
+    "farm",
+    "field",
+    "rural",
+    "earth",
+    "backplates"
+  ],
+  "name": "Overcast Soil 2",
+  "categories": [
+    "outdoor",
+    "skies",
+    "natural light",
+    "nature",
+    "low contrast",
+    "overcast",
+    "morning-afternoon"
+  ],
+  "backplates": true,
+  "date_taken": 1697727240,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "files_hash": "1c7fd1a8bd2e8501ff9ec40b6e20b34603836e15",
+  "date_published": 1705276800,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 15658,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/overcast_soil_2.png?width=256&height=256"
+}

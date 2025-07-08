@@ -1,0 +1,46 @@
+{
+  "name": "Knotted Pine Bark",
+  "categories": [
+    "bark",
+    "natural"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Jandre van Heerden",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "bark",
+    "tree",
+    "tree bark",
+    "tree trunk",
+    "pine",
+    "knotty pine",
+    "pine bark ",
+    "tree bark texture",
+    "organic",
+    "environment",
+    "natural",
+    "forest",
+    "rough",
+    "nature",
+    "outdoors",
+    "tree texture"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1700.0000476837158,
+    1700.0000476837158
+  ],
+  "date_published": 1722902400,
+  "staging": null,
+  "files_hash": "b031095c327fa640cf754df5c87be023a24d8def",
+  "download_count": 3800,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/knotted_pine_bark.png?width=256&height=256"
+}

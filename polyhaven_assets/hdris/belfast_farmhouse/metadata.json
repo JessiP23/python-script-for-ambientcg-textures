@@ -1,0 +1,41 @@
+{
+  "name": "Belfast Farmhouse",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "high contrast",
+    "partly cloudy",
+    "morning-afternoon"
+  ],
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1622646960,
+  "whitebalance": 5329,
+  "tags": [
+    "tree",
+    "sun",
+    "grass",
+    "hill"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "evs_cap": 22,
+  "date_published": 1652659200,
+  "staging": null,
+  "sponsors": [
+    "37678923"
+  ],
+  "prepaid": true,
+  "files_hash": "04a4fdd5ad90e5382a654f598b595f8ac3a64df1",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 237672,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/belfast_farmhouse.png?width=256&height=256"
+}

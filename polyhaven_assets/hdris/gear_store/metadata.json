@@ -1,0 +1,40 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "shelves",
+    "fluorescent",
+    "boxes",
+    "store"
+  ],
+  "name": "Gear Store",
+  "categories": [
+    "indoor",
+    "artificial light",
+    "urban",
+    "medium contrast"
+  ],
+  "date_taken": 1656427500,
+  "coords": [
+    -25.944854735605123,
+    28.14081506257142
+  ],
+  "info": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "date_published": 1663718400,
+  "staging": null,
+  "files_hash": "140a522bf8fedca2ae99a76c69d6acad63fd1bbd",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 12340,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gear_store.png?width=256&height=256"
+}

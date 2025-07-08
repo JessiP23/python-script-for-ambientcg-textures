@@ -1,0 +1,41 @@
+{
+  "type": 2,
+  "tags": [
+    "decorative",
+    "horse",
+    "statue",
+    "figurine",
+    "porcelain",
+    "animal",
+    "sculpture",
+    "white",
+    "fancy"
+  ],
+  "name": "Horse Statue 01",
+  "categories": [
+    "props",
+    "decorative"
+  ],
+  "authors": {
+    "Rico Cilliers": "All"
+  },
+  "date_published": 1634860800,
+  "staging": null,
+  "sponsors": [
+    "3267566"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 22388,
+  "texel_density": 27349.899558550045,
+  "dimensions": [
+    163.80367428064346,
+    107.79086500406265,
+    219.97890953571186
+  ],
+  "files_hash": "1d826b7fbcaca3f5aaa48ea4b27a74b44e593971",
+  "download_count": 44358,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/horse_statue_01.png?width=256&height=256"
+}

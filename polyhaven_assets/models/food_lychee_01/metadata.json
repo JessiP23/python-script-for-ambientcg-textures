@@ -1,0 +1,34 @@
+{
+  "donated": true,
+  "date_published": 1625619600,
+  "name": "Food Lychee 01",
+  "categories": [
+    "food",
+    "nature"
+  ],
+  "type": 2,
+  "tags": [
+    "fruitbowl",
+    "fruit",
+    "food",
+    "lychee",
+    "fresh"
+  ],
+  "authors": {
+    "Oliver Harries": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 6783,
+  "texel_density": 80531.4406332374,
+  "dimensions": [
+    40.87286256253719,
+    41.9513713568449,
+    50.59902649372816
+  ],
+  "files_hash": "34546334279958a4ba4e3f598b699bc10b401db4",
+  "download_count": 9504,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/food_lychee_01.png?width=256&height=256"
+}

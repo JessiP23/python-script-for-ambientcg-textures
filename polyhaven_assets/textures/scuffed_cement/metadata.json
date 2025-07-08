@@ -1,0 +1,45 @@
+{
+  "name": "Scuffed Cement",
+  "categories": [
+    "man made",
+    "floor",
+    "indoor",
+    "plaster-concrete",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "info": null,
+  "tags": [
+    "weathered",
+    "worn",
+    "chipped",
+    "plaster",
+    "concrete",
+    "paving",
+    "scratched",
+    "grey",
+    "floor",
+    "cracked",
+    "flat"
+  ],
+  "dimensions": [
+    1619.999885559082,
+    1619.999885559082
+  ],
+  "date_published": 1676937600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "b4c01780bae3bf70dfe5a622e29e60d1ddc9a663",
+  "download_count": 37682,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/scuffed_cement.png?width=256&height=256"
+}

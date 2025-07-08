@@ -1,0 +1,35 @@
+{
+  "scale": "30x30 cm",
+  "type": 1,
+  "tags": [
+    "leather",
+    "white",
+    "smooth",
+    "new",
+    "even"
+  ],
+  "date_published": 1592532089,
+  "name": "Leather White",
+  "old_id": 265,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "sponsors": [
+    "9910225"
+  ],
+  "dimensions": [
+    300.00001192092896,
+    300.00001192092896
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "categories": [
+    "fabric",
+    "leather"
+  ],
+  "files_hash": "f772dd6a44080e64a320989faeb12bae236109cf",
+  "download_count": 179394,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/leather_white.png?width=256&height=256"
+}

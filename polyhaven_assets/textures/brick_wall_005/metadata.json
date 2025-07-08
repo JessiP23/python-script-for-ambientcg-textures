@@ -1,0 +1,40 @@
+{
+  "name": "Brick Wall 005",
+  "categories": [
+    "man made",
+    "wall",
+    "brick"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "info": null,
+  "tags": [
+    "rough",
+    "uneven",
+    "wall",
+    "chipped",
+    "damaged",
+    "concrete",
+    "brick",
+    "bricks"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "dimensions": [
+    1440.000057220459,
+    1440.000057220459
+  ],
+  "date_published": 1677542400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "6b57831d10f2ce813b04d464d6e40f3838077657",
+  "download_count": 49689,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_wall_005.png?width=256&height=256"
+}

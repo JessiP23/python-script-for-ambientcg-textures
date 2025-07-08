@@ -1,0 +1,42 @@
+{
+  "type": 1,
+  "name": "Patterned Slate Tiles",
+  "categories": [
+    "floor",
+    "man made"
+  ],
+  "tags": [
+    "weathered",
+    "rough",
+    "tiles",
+    "slates",
+    "slate",
+    "exterior",
+    "tiled",
+    "outdoor",
+    "natural",
+    "stone",
+    "patterned",
+    "stonework"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2200.000047683716,
+    2200.000047683716
+  ],
+  "date_published": 1737590400,
+  "staging": null,
+  "files_hash": "3fec1755f38d89630db44f6788e2b64e6b3ac223",
+  "download_count": 4328,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_slate_tiles.png?width=256&height=256"
+}

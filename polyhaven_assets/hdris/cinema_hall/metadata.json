@@ -1,0 +1,36 @@
+{
+  "evs_cap": 16,
+  "type": 0,
+  "tags": [
+    "movie",
+    "cinema",
+    "chair",
+    "seat",
+    "projector",
+    "theater"
+  ],
+  "date_published": 1554156000,
+  "name": "Cinema Hall",
+  "old_id": 362,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1550827920,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "8571269",
+    "59361351"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "956a97f719ac2cc36c399cae987990c6d76d520d",
+  "download_count": 14935,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cinema_hall.png?width=256&height=256"
+}

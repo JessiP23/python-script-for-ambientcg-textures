@@ -1,0 +1,47 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5050,
+  "tags": [
+    "sun",
+    "grass",
+    "field",
+    "tree",
+    "dam",
+    "lake",
+    "park",
+    "hut",
+    "cabin",
+    "backplates"
+  ],
+  "name": "Resting Place 2",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "clear",
+    "high contrast",
+    "morning-afternoon"
+  ],
+  "backplates": true,
+  "date_taken": 1689142140,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "files_hash": "70082591c4c7d25d7c2db3af192e6857d2c621b8",
+  "date_published": 1696377600,
+  "staging": null,
+  "sponsors": [
+    "37678923"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 64611,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/resting_place_2.png?width=256&height=256"
+}

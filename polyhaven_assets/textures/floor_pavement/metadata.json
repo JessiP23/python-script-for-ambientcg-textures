@@ -1,0 +1,42 @@
+{
+  "date_published": 1654819200,
+  "name": "Floor Pavement",
+  "categories": [
+    "man made",
+    "dirty",
+    "brick",
+    "floor",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Greg Zaal"
+  ],
+  "staging": null,
+  "tags": [
+    "ground",
+    "sidewalk",
+    "cracked",
+    "damaged",
+    "floor",
+    "pavement",
+    "cement",
+    "square"
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "authors": {
+    "Dario Barresi": "processing",
+    "Charlotte Baglioni": "Photography "
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "b2418e783b15c1c20c38de8bfc2dfcb851cb5c7a",
+  "download_count": 43466,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_pavement.png?width=256&height=256"
+}

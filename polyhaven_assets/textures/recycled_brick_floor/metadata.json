@@ -1,0 +1,43 @@
+{
+  "name": "Recycled Brick Floor",
+  "categories": [
+    "floor",
+    "brick"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "weathered",
+    "worn",
+    "chipped",
+    "damaged",
+    "old",
+    "dirty",
+    "timeworn",
+    "weatherbeaten",
+    "crumbling",
+    "aged",
+    "deteriorated",
+    "brick",
+    "bricks"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1726099200,
+  "staging": null,
+  "files_hash": "9021a9b1972d4a7e3690c116029ef6052a2f5d31",
+  "download_count": 4930,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/recycled_brick_floor.png?width=256&height=256"
+}

@@ -1,0 +1,45 @@
+{
+  "type": 0,
+  "name": "Qwantani Noon",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "high contrast",
+    "midday",
+    "clear"
+  ],
+  "tags": [
+    "sun",
+    "grass",
+    "hilltop",
+    "view",
+    "mountain",
+    "dam",
+    "lake"
+  ],
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1724242680,
+  "coords": [
+    -28.48533209827116,
+    29.012639559934758
+  ],
+  "evs_cap": 22,
+  "whitebalance": 5313,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "ccf864e3a6bc6ed5c271701318240be53b433b77",
+  "date_published": 1739491200,
+  "staging": null,
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "download_count": 25348,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/qwantani_noon.png?width=256&height=256"
+}

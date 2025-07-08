@@ -1,0 +1,43 @@
+{
+  "type": 0,
+  "name": "Ballawley Park",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "partly cloudy",
+    "high contrast",
+    "morning-afternoon"
+  ],
+  "tags": [
+    "sun",
+    "tree",
+    "path",
+    "park",
+    "grass",
+    "trunk"
+  ],
+  "authors": {
+    "Savva Zakharov": "All"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "donated": true,
+  "date_taken": 1741535280,
+  "coords": [
+    53.280504,
+    -6.233447
+  ],
+  "evs_cap": 20,
+  "whitebalance": 5400,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "8e2f581e22f5e770d73b5bfd52966b1d07d7b204",
+  "date_published": 1741910400,
+  "staging": null,
+  "download_count": 25189,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ballawley_park.png?width=256&height=256"
+}

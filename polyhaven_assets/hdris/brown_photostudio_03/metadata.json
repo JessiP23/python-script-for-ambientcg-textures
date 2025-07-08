@@ -1,0 +1,44 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5650,
+  "tags": [
+    "couch",
+    "studio",
+    "window",
+    "fireplace",
+    "plant",
+    "modern",
+    "backplates"
+  ],
+  "name": "Brown Photostudio 03",
+  "categories": [
+    "indoor",
+    "studio",
+    "natural light",
+    "urban",
+    "low contrast",
+    "morning-afternoon"
+  ],
+  "backplates": true,
+  "coords": [
+    49.237221,
+    28.406338
+  ],
+  "date_taken": 1650039120,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1655337600,
+  "staging": null,
+  "files_hash": "bfd429c80d12b1c059a60c27b154bb09e70fe135",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 29567,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_photostudio_03.png?width=256&height=256"
+}

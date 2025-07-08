@@ -1,0 +1,41 @@
+{
+  "type": 1,
+  "name": "Granite Wall",
+  "categories": [
+    "wall",
+    "outdoor"
+  ],
+  "tags": [
+    "granite",
+    "granite blocks",
+    "rough",
+    "coarse",
+    "uneven",
+    "wall",
+    "monument",
+    "fortress walls",
+    "stonework",
+    "architecture",
+    "ancient walls"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1899.9998569488525,
+    1899.9998569488525
+  ],
+  "date_published": 1742860800,
+  "staging": null,
+  "files_hash": "247fc28620c38eaa2c94970f36289d4566f68434",
+  "download_count": 743,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/granite_wall.png?width=256&height=256"
+}

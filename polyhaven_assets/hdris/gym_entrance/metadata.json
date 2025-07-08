@@ -1,0 +1,36 @@
+{
+  "evs_cap": 14,
+  "type": 0,
+  "whitebalance": 4800,
+  "tags": [
+    "shop",
+    "couch",
+    "gym",
+    "red",
+    "fluorescent"
+  ],
+  "date_published": 1546422073,
+  "name": "Gym Entrance",
+  "old_id": 337,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1543141620,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "files_hash": "54cfe3b5a8688385c2c79d47aadb03cc96ac5503",
+  "max_resolution": [
+    16500,
+    8250
+  ],
+  "sponsors": [
+    "11167855",
+    "42579608"
+  ],
+  "download_count": 48196,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gym_entrance.png?width=256&height=256"
+}

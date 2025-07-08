@@ -1,0 +1,31 @@
+{
+  "type": 1,
+  "tags": [
+    "grey",
+    "moss",
+    "damp"
+  ],
+  "date_published": 1530078110,
+  "name": "Grey Roof Tiles",
+  "old_id": 142,
+  "categories": [
+    "roofing",
+    "outdoor",
+    "man made",
+    "clean"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    3000,
+    3000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "92e23429a38512689bd3b9746f0605897eda345e",
+  "download_count": 34941,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grey_roof_tiles.png?width=256&height=256"
+}

@@ -1,0 +1,36 @@
+{
+  "evs_cap": 13,
+  "type": 0,
+  "tags": [
+    "factory",
+    "fume",
+    "field"
+  ],
+  "date_published": 1556866367,
+  "name": "Industrial Sunset",
+  "old_id": 371,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1553708760,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "3267566",
+    "19440543"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "1aa423ad9329dea2f20617774ba42c641e831b94",
+  "download_count": 52347,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/industrial_sunset.png?width=256&height=256"
+}

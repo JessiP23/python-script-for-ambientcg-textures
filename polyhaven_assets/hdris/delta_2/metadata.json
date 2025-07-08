@@ -1,0 +1,47 @@
+{
+  "evs_cap": 20,
+  "type": 0,
+  "tags": [
+    "grass",
+    "tree",
+    "bench",
+    "park",
+    "fence",
+    "hill",
+    "lake",
+    "dam",
+    "sun"
+  ],
+  "date_published": 1508796000,
+  "name": "Delta 2",
+  "old_id": 59,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "midday",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -26.12437,
+    28.011295
+  ],
+  "date_taken": 1506946980,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "name": "Kimba"
+    }
+  ],
+  "files_hash": "1512311ead88a05305e508de1a6c551ccaf4594e",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 195597,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/delta_2.png?width=256&height=256"
+}

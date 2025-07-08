@@ -1,0 +1,45 @@
+{
+  "name": "Bark Willow",
+  "categories": [
+    "outdoor",
+    "natural",
+    "bark",
+    "wood"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "tags": [
+    "willow",
+    "bark",
+    "tree",
+    "forest",
+    "nature",
+    "brown",
+    "uneven",
+    "sallow",
+    "osier",
+    "old",
+    "wood",
+    "woodland"
+  ],
+  "info": null,
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "date_published": 1668038400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "787f334e5485184b67ffa509aeefed5a25f9be34",
+  "download_count": 93267,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bark_willow.png?width=256&height=256"
+}

@@ -1,0 +1,41 @@
+{
+  "donated": true,
+  "name": "Antique Estoc",
+  "categories": [
+    "props"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "antique",
+    "vintage",
+    "old",
+    "sword",
+    "historic",
+    "traditional",
+    "ornamental",
+    "weapon"
+  ],
+  "authors": {
+    "James Ray Cock": "Texturing",
+    "Ulan Cabanilla": "Model"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 8246,
+  "texel_density": 16704.009296162447,
+  "dimensions": [
+    371.5190589427948,
+    149.09707754850388,
+    1492.3794567584991
+  ],
+  "date_published": 1722816000,
+  "staging": null,
+  "files_hash": "94a121852cda667882e2a287dbda377b06652134",
+  "download_count": 2087,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/antique_estoc.png?width=256&height=256"
+}

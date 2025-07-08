@@ -1,0 +1,53 @@
+{
+  "lods": true,
+  "name": "Coast Line 02",
+  "type": 2,
+  "reviewers": [
+    "Rob Tuytel"
+  ],
+  "authors": {
+    "Rob Tuytel": "Photography, processing",
+    "Rico Cilliers": "cleanup"
+  },
+  "info": null,
+  "staging": null,
+  "date_published": 1691798400,
+  "categories": [
+    "nature",
+    "rocks",
+    "collection: smugglers_cove"
+  ],
+  "tags": [
+    "landscape",
+    "rocks",
+    "coastal",
+    "rock",
+    "shoreline",
+    "shore",
+    "geology",
+    "stones",
+    "formation",
+    "weathered",
+    "pebbles",
+    "beach",
+    "sand",
+    "cove",
+    "coastal formations",
+    "coastline",
+    "seaside"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 1419259,
+  "texel_density": 212.42149553947147,
+  "dimensions": [
+    45643.741607666016,
+    23281.19659423828,
+    2305.538594722748
+  ],
+  "files_hash": "4e22d4c35c56fde67a6737d2f5b49c98dec07ea7",
+  "download_count": 5032,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coast_line_02.png?width=256&height=256"
+}

@@ -1,0 +1,45 @@
+{
+  "donated": true,
+  "name": "Hatchet",
+  "categories": [
+    "tools"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "weapon",
+    "axe",
+    "lumber",
+    "hatchet",
+    "chopping",
+    "woodwork",
+    "camping",
+    "forestry",
+    "hiking",
+    "firewood",
+    "hand tool"
+  ],
+  "authors": {
+    "James Ray Cock": "Texturing",
+    "Ulan Cabanilla": "Model"
+  },
+  "info": null,
+  "date_published": 1700870400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 5250,
+  "texel_density": 35536.105329011,
+  "dimensions": [
+    26.022234931588173,
+    104.27016951143742,
+    288.7292727828026
+  ],
+  "files_hash": "ec44e3d885af1f2f12aea3535a8700930f52f265",
+  "download_count": 2933,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hatchet.png?width=256&height=256"
+}

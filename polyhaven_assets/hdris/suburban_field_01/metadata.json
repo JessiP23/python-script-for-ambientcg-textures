@@ -1,0 +1,39 @@
+{
+  "donated": true,
+  "evs_cap": 6,
+  "type": 0,
+  "tags": [
+    "tree",
+    "grass",
+    "field"
+  ],
+  "date_published": 1603317600,
+  "name": "Suburban Field 01",
+  "old_id": 505,
+  "categories": [
+    "outdoor",
+    "nature",
+    "midday",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1601545800,
+  "coords": [
+    45.422772,
+    12.150504
+  ],
+  "authors": {
+    "Jacopo Voltolina": "All"
+  },
+  "sponsors": [
+    "11167855"
+  ],
+  "files_hash": "2287333bae8f60d89720ff2c313649245512ae8a",
+  "max_resolution": [
+    20000,
+    10000
+  ],
+  "download_count": 25967,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/suburban_field_01.png?width=256&height=256"
+}

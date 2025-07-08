@@ -1,0 +1,43 @@
+{
+  "evs_cap": 24,
+  "type": 0,
+  "tags": [
+    "path",
+    "grass",
+    "fire",
+    "radio",
+    "tower",
+    "burnt",
+    "sun"
+  ],
+  "date_published": 1511996400,
+  "name": "Veld Fire",
+  "old_id": 109,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "midday",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1439207880,
+  "coords": [
+    -25.711609,
+    27.883848
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "7934315"
+  ],
+  "files_hash": "f96e3e3cb0be8e1790d0e48d51fca44a3c26dc9e",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 22851,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/veld_fire.png?width=256&height=256"
+}

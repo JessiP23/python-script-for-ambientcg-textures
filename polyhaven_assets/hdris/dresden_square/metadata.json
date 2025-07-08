@@ -1,0 +1,40 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "architecture",
+    "building",
+    "statue",
+    "cobblestone",
+    "europe"
+  ],
+  "date_published": 1511996400,
+  "name": "Dresden Square",
+  "old_id": 75,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    51.053622,
+    13.73596
+  ],
+  "date_taken": 1478601000,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "11167855"
+  ],
+  "files_hash": "4239f2312594cc6d3626a10315e0dc2c1db879cb",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 49195,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dresden_square.png?width=256&height=256"
+}

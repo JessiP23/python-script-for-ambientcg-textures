@@ -1,0 +1,39 @@
+{
+  "evs_cap": 12,
+  "tags": [
+    "tree",
+    "forest",
+    "rock",
+    "formation",
+    "pine"
+  ],
+  "date_published": 1622584800,
+  "name": "Pf\u00e4lzer Forest 01",
+  "old_id": 544,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1616331840,
+  "coords": [
+    49.112136,
+    7.822462
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "type": 0,
+  "sponsors": [
+    "3237733"
+  ],
+  "files_hash": "83ccc1207892b3efd062ae3116453a33c1ce6660",
+  "max_resolution": [
+    17934,
+    8967
+  ],
+  "download_count": 81633,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/phalzer_forest_01.png?width=256&height=256"
+}

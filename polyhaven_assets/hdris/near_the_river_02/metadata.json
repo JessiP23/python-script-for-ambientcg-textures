@@ -1,0 +1,43 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 6800,
+  "tags": [
+    "path",
+    "tree",
+    "field",
+    "long grass",
+    "dry",
+    "backplates"
+  ],
+  "name": "Near The River 02",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "partly cloudy",
+    "medium contrast",
+    "sunrise-sunset"
+  ],
+  "backplates": true,
+  "date_taken": 1700914500,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "files_hash": "f1add2ce314928d2f871a579e990de300bdd3daa",
+  "date_published": 1707696000,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "82322099"
+  ],
+  "download_count": 29884,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/near_the_river_02.png?width=256&height=256"
+}

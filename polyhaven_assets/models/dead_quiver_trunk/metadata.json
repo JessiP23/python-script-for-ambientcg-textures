@@ -1,0 +1,47 @@
+{
+  "lods": true,
+  "name": "Dead Quiver Trunk",
+  "categories": [
+    "collection: namaqualand",
+    "nature",
+    "trees"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock",
+    "Jenelle van Heerden"
+  ],
+  "tags": [
+    "karoo",
+    "south africa",
+    "dry",
+    "dried",
+    "dead",
+    "decayed",
+    "debris",
+    "log",
+    "stump",
+    "dead tree"
+  ],
+  "authors": {
+    "James Ray Cock": "Photography",
+    "Dario Barresi": "Photography",
+    "Rico Cilliers": "Model"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 33706,
+  "texel_density": 6316.269635799078,
+  "dimensions": [
+    307.8220337629318,
+    268.08640360832214,
+    1995.5217698588967
+  ],
+  "staging": null,
+  "date_published": 1728345600,
+  "files_hash": "5e1897094f635d4f7a0903be28a8ebe54dd1bdcf",
+  "download_count": 847,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dead_quiver_trunk.png?width=256&height=256"
+}

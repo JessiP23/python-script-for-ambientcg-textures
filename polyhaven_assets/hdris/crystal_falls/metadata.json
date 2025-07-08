@@ -1,0 +1,45 @@
+{
+  "evs_cap": 26,
+  "type": 0,
+  "tags": [
+    "tree",
+    "rock",
+    "waterfall",
+    "river",
+    "pond",
+    "sun",
+    "forest"
+  ],
+  "date_published": 1506981600,
+  "name": "Crystal Falls",
+  "old_id": 5,
+  "categories": [
+    "outdoor",
+    "nature",
+    "clear",
+    "midday",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1486897440,
+  "coords": [
+    -29.057131,
+    29.399313
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "url": "https://www.idin-jewellery.co.uk/",
+      "name": "Idin Jewellery"
+    }
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "b767da6807390fae0e07756845e6230215464598",
+  "download_count": 37719,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/crystal_falls.png?width=256&height=256"
+}

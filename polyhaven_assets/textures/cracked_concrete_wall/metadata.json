@@ -1,0 +1,52 @@
+{
+  "date_published": 1669852800,
+  "name": "Cracked Concrete Wall",
+  "categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "dirty",
+    "brick",
+    "plaster-concrete",
+    "plaster"
+  ],
+  "type": 1,
+  "staging": null,
+  "reviewers": [
+    "Rob Tuytel"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography, processing",
+    "Rico Cilliers": "Guidance"
+  },
+  "info": null,
+  "tags": [
+    "rough",
+    "uneven",
+    "old",
+    "weathered",
+    "wall",
+    "worn",
+    "discolored",
+    "cracked",
+    "chipped",
+    "stained",
+    "dirty",
+    "beige",
+    "painted",
+    "dry",
+    "plaster"
+  ],
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "prepaid": true,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "3ac7b0907e05744e70420ad0d1aa30ef5bd23621",
+  "download_count": 98927,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cracked_concrete_wall.png?width=256&height=256"
+}

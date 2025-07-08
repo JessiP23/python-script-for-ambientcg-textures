@@ -1,0 +1,33 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "snow",
+    "winter",
+    "abandoned",
+    "pillar",
+    "column",
+    "concrete"
+  ],
+  "date_published": 1556229600,
+  "name": "Pylons",
+  "old_id": 367,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1547730840,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "1a263bac746de75676bb00224750772a8a0d9a03",
+  "download_count": 9649,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pylons.png?width=256&height=256"
+}

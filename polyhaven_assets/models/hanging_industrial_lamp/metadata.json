@@ -1,0 +1,39 @@
+{
+  "type": 2,
+  "name": "Hanging Industrial Lamp",
+  "categories": [
+    "lighting"
+  ],
+  "tags": [
+    "industrial lighting",
+    "hanging lamp",
+    "warehouse lighting",
+    "bunker",
+    "metal lamp",
+    "factory",
+    "warehouse"
+  ],
+  "authors": {
+    "Kuutti Siitonen": "All"
+  },
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "donated": true,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 9530,
+  "texel_density": 3646.37291470571,
+  "dimensions": [
+    549.6065020561218,
+    549.606442451477,
+    1355.3501134738326
+  ],
+  "date_published": 1748390400,
+  "staging": null,
+  "files_hash": "93bdeee802d5c557ec986ed728bf843b41ead1fb",
+  "download_count": 683,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hanging_industrial_lamp.png?width=256&height=256"
+}

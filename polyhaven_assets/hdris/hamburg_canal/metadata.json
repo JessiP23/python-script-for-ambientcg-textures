@@ -1,0 +1,40 @@
+{
+  "evs_cap": 10,
+  "type": 0,
+  "tags": [
+    "bridge",
+    "canal",
+    "city",
+    "building"
+  ],
+  "date_published": 1522879200,
+  "name": "Hamburg Canal",
+  "old_id": 237,
+  "categories": [
+    "outdoor",
+    "urban",
+    "sunrise-sunset",
+    "clear",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    53.543402,
+    9.987
+  ],
+  "date_taken": 1478162700,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "7947474",
+    "993026"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "9ccbda663875f6f5c44a8b320cef313b52096530",
+  "download_count": 23676,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hamburg_canal.png?width=256&height=256"
+}

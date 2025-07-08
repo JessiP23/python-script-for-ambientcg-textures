@@ -1,0 +1,35 @@
+{
+  "scale": "80x80M",
+  "type": 1,
+  "tags": [
+    "snow",
+    "mud",
+    "field",
+    "uneven"
+  ],
+  "date_published": 1613393345,
+  "name": "Snow Field Aerial",
+  "old_id": 300,
+  "categories": [
+    "terrain",
+    "snow",
+    "outdoor",
+    "dirty",
+    "natural",
+    "aerial"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    80000,
+    80000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "8b68358190d77b84a36bbf447f4104701f125808",
+  "download_count": 50129,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_field_aerial.png?width=256&height=256"
+}

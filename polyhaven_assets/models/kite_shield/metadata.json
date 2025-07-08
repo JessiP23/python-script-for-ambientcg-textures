@@ -1,0 +1,46 @@
+{
+  "donated": true,
+  "name": "Kite Shield",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "info": null,
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "date_published": 1677628800,
+  "staging": null,
+  "sponsors": [
+    "77433244"
+  ],
+  "categories": [
+    "props",
+    "collection: the_shed"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 10306,
+  "texel_density": 3127.895741433086,
+  "dimensions": [
+    543.2499945163727,
+    134.73660126328468,
+    1394.1335678100586
+  ],
+  "tags": [
+    "weapon",
+    "shield",
+    "war",
+    "knight",
+    "crusades",
+    "old",
+    "wooden",
+    "metal",
+    "shed"
+  ],
+  "files_hash": "4ab42d2666ed24a7e420e0950bf1d148666fa6ba",
+  "download_count": 2308,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kite_shield.png?width=256&height=256"
+}

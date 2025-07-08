@@ -1,0 +1,48 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "whitebalance": 3000,
+  "date_published": 1517888699,
+  "name": "Vignaioli Night",
+  "old_id": 132,
+  "categories": [
+    "outdoor",
+    "urban",
+    "night",
+    "partly cloudy",
+    "high contrast",
+    "artificial light"
+  ],
+  "coords": [
+    44.0992,
+    9.73823
+  ],
+  "date_taken": 1509904620,
+  "sponsors": [
+    "3267566"
+  ],
+  "backplates": true,
+  "tags": [
+    "europe",
+    "building",
+    "architecture",
+    "lamp",
+    "city",
+    "street",
+    "town",
+    "square",
+    "rain",
+    "backplates"
+  ],
+  "files_hash": "e3a67787aceca13d8e36dc65eae06459c22225e7",
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 145912,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/vignaioli_night.png?width=256&height=256"
+}

@@ -1,0 +1,45 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "whitebalance": 5000,
+  "tags": [
+    "sun",
+    "sand",
+    "dirt",
+    "building",
+    "mounds",
+    "winter",
+    "backplates"
+  ],
+  "name": "Abandoned Tank Farm 05",
+  "categories": [
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "natural light",
+    "skies",
+    "medium contrast",
+    "sunrise-sunset"
+  ],
+  "backplates": true,
+  "coords": [
+    51.13380548754256,
+    34.273435689611745
+  ],
+  "date_taken": 1585328820,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1637193600,
+  "staging": null,
+  "sponsors": [
+    "37678923"
+  ],
+  "files_hash": "ac29a67c1522880767a9a739f0ad9b4f7c0d342a",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 31081,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/abandoned_tank_farm_05.png?width=256&height=256"
+}

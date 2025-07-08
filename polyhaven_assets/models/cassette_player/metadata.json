@@ -1,0 +1,45 @@
+{
+  "date_published": 1597846001,
+  "name": "Cassette Player",
+  "old_id": 45,
+  "categories": [
+    "props",
+    "electronics"
+  ],
+  "type": 2,
+  "tags": [
+    "walkman",
+    "vintage",
+    "device",
+    "audio",
+    "retro",
+    "music",
+    "gadget",
+    "nostalgia",
+    "portable",
+    "cassette tape",
+    "analog",
+    "old school",
+    "classic"
+  ],
+  "authors": {
+    "Oday Abuzaeed": "All"
+  },
+  "sponsors": [
+    "11109006"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 4830,
+  "texel_density": 12955.579855078478,
+  "dimensions": [
+    129.46044653654099,
+    48.87990656585117,
+    236.81782186031342
+  ],
+  "files_hash": "05aa0f3714214b4fdedf6c01b0ecdaad262a30ab",
+  "download_count": 26899,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cassette_player.png?width=256&height=256"
+}

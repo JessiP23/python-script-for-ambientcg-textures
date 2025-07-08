@@ -1,0 +1,45 @@
+{
+  "evs_cap": 22,
+  "name": "Soliltude",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "urban",
+    "low contrast",
+    "overcast",
+    "morning-afternoon"
+  ],
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1649581140,
+  "coords": [
+    48.787247,
+    9.084925
+  ],
+  "tags": [
+    "grass",
+    "field",
+    "europe",
+    "architecture",
+    "building"
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1652400000,
+  "staging": null,
+  "files_hash": "d1f5e911b1b5be63051de720846446dbaef3e3df",
+  "sponsors": [
+    "7934315",
+    "11167855"
+  ],
+  "max_resolution": [
+    22628,
+    11314
+  ],
+  "download_count": 75522,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/soliltude.png?width=256&height=256"
+}

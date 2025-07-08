@@ -1,0 +1,38 @@
+{
+  "scale": "1.5M x 1.5M",
+  "type": 1,
+  "tags": [
+    "rough",
+    "moss",
+    "sewer",
+    "damp",
+    "dark",
+    "wet",
+    "old",
+    "uneven"
+  ],
+  "date_published": 1572583398,
+  "name": "Castle Brick 01",
+  "old_id": 230,
+  "categories": [
+    "brick",
+    "outdoor",
+    "man made",
+    "wall",
+    "dirty"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "4fd5d64ea6c01085c31df7bf7fd0aaf76654e2cf",
+  "download_count": 35681,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/castle_brick_01.png?width=256&height=256"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Dead Quiver Branch 02",
+  "categories": [
+    "nature",
+    "collection: namaqualand",
+    "plants",
+    "ground cover"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock",
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "south africa",
+    "karoo",
+    "dry",
+    "debris",
+    "log",
+    "decayed",
+    "dried",
+    "stick",
+    "desert"
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Model",
+    "Greg Zaal": "Photography"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 14386,
+  "texel_density": 10809.41381183253,
+  "dimensions": [
+    287.3373329639435,
+    201.03156566619873,
+    526.3840978732333
+  ],
+  "staging": null,
+  "date_published": 1728345600,
+  "files_hash": "f421a59fa732de651bb3995542030fb0907822af",
+  "download_count": 326,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dead_quiver_branch_02.png?width=256&height=256"
+}

@@ -1,0 +1,42 @@
+{
+  "evs_cap": 24,
+  "type": 0,
+  "date_published": 1522879200,
+  "name": "Kiara 6 Afternoon",
+  "old_id": 209,
+  "categories": [
+    "outdoor",
+    "skies",
+    "morning-afternoon",
+    "nature",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1471956120,
+  "coords": [
+    -28.508926,
+    28.5665
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "backplates": true,
+  "tags": [
+    "sun",
+    "mountain",
+    "valley",
+    "rock",
+    "backplates"
+  ],
+  "files_hash": "77ddfe36c2a93ad3fa40876a147851cf2b1f1436",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 60944,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kiara_6_afternoon.png?width=256&height=256"
+}

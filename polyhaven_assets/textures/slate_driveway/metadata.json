@@ -1,0 +1,45 @@
+{
+  "name": "Slate Driveway",
+  "categories": [
+    "man made",
+    "outdoor",
+    "concrete",
+    "floor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "old",
+    "worn",
+    "concrete",
+    "slate",
+    "slates",
+    "rock",
+    "exterior",
+    "driveway",
+    "stone",
+    "stonework",
+    "cracked cement"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2090.0001525878906,
+    2090.0001525878906
+  ],
+  "date_published": 1689206400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "77614f52692fd140d58e0ac13d47c062b0b01709",
+  "download_count": 15208,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/slate_driveway.png?width=256&height=256"
+}

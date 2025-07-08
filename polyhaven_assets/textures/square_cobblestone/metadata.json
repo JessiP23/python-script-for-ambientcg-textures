@@ -1,0 +1,46 @@
+{
+  "date_published": 1681516800,
+  "name": "Square Cobblestone",
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "tags": [
+    "weathered",
+    "worn",
+    "chipped",
+    "discolored",
+    "grey",
+    "concrete",
+    "cobblestone",
+    "cement",
+    "dry",
+    "dirty",
+    "pavement",
+    "street"
+  ],
+  "authors": {
+    "S\u01a1n Nguy\u1ec5n": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "categories": [
+    "outdoor",
+    "rock",
+    "floor",
+    "man made",
+    "concrete",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "e4ad8dad020e48b6d179024bd541f35f915d91dd",
+  "download_count": 12281,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/square_cobblestone.png?width=256&height=256"
+}

@@ -1,0 +1,39 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "whitebalance": 3776,
+  "tags": [
+    "dark",
+    "moon",
+    "field",
+    "grass"
+  ],
+  "date_published": 1595282400,
+  "name": "Kloppenheim 07",
+  "old_id": 476,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "night",
+    "overcast",
+    "low contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1572811560,
+  "coords": [
+    -25.654156,
+    30.161901
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "5227e729b1e7d476a3334d3d28d8978c82b098f8",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 122193,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kloppenheim_07.png?width=256&height=256"
+}

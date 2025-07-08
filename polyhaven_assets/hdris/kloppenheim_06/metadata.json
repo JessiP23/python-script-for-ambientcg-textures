@@ -1,0 +1,43 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "whitebalance": 5319,
+  "tags": [
+    "sun",
+    "rays",
+    "hill",
+    "rock",
+    "view"
+  ],
+  "date_published": 1597701600,
+  "name": "Kloppenheim 06",
+  "old_id": 483,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -25.648383,
+    30.151945
+  ],
+  "date_taken": 1572799620,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "37678923",
+    "3267566"
+  ],
+  "files_hash": "307e1217f0f084c4aaa15d975e992d57404a6a32",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 339175,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kloppenheim_06.png?width=256&height=256"
+}

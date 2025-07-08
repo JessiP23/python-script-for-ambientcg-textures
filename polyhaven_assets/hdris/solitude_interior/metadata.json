@@ -1,0 +1,44 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "name": "Solitude Interior",
+  "categories": [
+    "indoor",
+    "medium contrast",
+    "urban",
+    "natural light",
+    "morning-afternoon"
+  ],
+  "date_taken": 1613128920,
+  "coords": [
+    48.7868840583151,
+    9.084336133826852
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "backplates": true,
+  "date_published": 1660089600,
+  "staging": null,
+  "tags": [
+    "architecture",
+    "europe",
+    "building",
+    "column",
+    "pillar",
+    "arch",
+    "victorian",
+    "backplates"
+  ],
+  "info": "[Tracking files and video backplates](https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/solitude_interior/solitude_interior_tracking_files.zip) | [Tutorial series on how to use these](https://www.youtube.com/watch?v=GPpRaJ5SJdQ)",
+  "files_hash": "be1e3ea844461e2808ec3e4dd38760110af9421a",
+  "max_resolution": [
+    20516,
+    10258
+  ],
+  "download_count": 35422,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/solitude_interior.png?width=256&height=256"
+}

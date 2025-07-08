@@ -1,0 +1,46 @@
+{
+  "evs_cap": 26,
+  "prepaid": true,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5329,
+  "tags": [
+    "sun",
+    "street",
+    "road",
+    "asphalt",
+    "car",
+    "film set",
+    "flag",
+    "50s"
+  ],
+  "date_published": 1658448000,
+  "name": "Pretville Street",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "urban",
+    "high contrast",
+    "partly cloudy",
+    "morning-afternoon"
+  ],
+  "staging": null,
+  "date_taken": 1653147360,
+  "coords": [
+    -25.740559556601085,
+    27.918297621359795
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "eb9486cc8ee4813ca906ed5623d8787722de7097",
+  "download_count": 47006,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pretville_street.png?width=256&height=256"
+}

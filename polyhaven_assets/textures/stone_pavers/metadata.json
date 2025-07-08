@@ -1,0 +1,40 @@
+{
+  "type": 1,
+  "name": "Stone Pavers",
+  "categories": [
+    "floor",
+    "man made"
+  ],
+  "tags": [
+    "pavers",
+    "concrete",
+    "cracked",
+    "rough",
+    "coarse",
+    "weathered",
+    "stone",
+    "stonework",
+    "timeworn",
+    "cracks",
+    "paving"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "reviewers": [
+    "Rob Tuytel"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1744675200,
+  "staging": null,
+  "files_hash": "c602ca590436a27e381788a47e4b85ea01e6136e",
+  "download_count": 2243,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_pavers.png?width=256&height=256"
+}

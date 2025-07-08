@@ -1,0 +1,47 @@
+{
+  "type": 2,
+  "name": "Moon Rock 04",
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Rico Cilliers": "Photography",
+    "Jenelle van Heerden": "Processing"
+  },
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "lods": true,
+  "version_required": {
+    "blend": "4.4.0"
+  },
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "polycount": 14316,
+  "texel_density": 62404.42796321134,
+  "dimensions": [
+    119.77694556117058,
+    173.899844288826,
+    53.921069484204054
+  ],
+  "info": "Captured at [PTS](https://www.pts.space/products/spacelab-rostock/)'s lunar test lab. [More info](https://blog.polyhaven.com/moon).",
+  "staging": null,
+  "tags": [
+    "rough texture",
+    "lunar",
+    "dirty",
+    "regolith",
+    "dusted",
+    "extraterrestrial",
+    "space"
+  ],
+  "date_published": 1750336463,
+  "files_hash": "6ee6b6294b4b73fcde6ae936fe0ce8818e66ae6c",
+  "categories": [
+    "rocks",
+    "collection: moon",
+    "nature"
+  ],
+  "download_count": 405,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moon_rock_04.png?width=256&height=256"
+}

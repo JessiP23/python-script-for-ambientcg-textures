@@ -1,0 +1,39 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "dam",
+    "lookout",
+    "mountain",
+    "rock",
+    "lake",
+    "sunset"
+  ],
+  "date_published": 1506981600,
+  "name": "Fish Eagle Hill",
+  "old_id": 11,
+  "categories": [
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "sunrise-sunset",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1416848640,
+  "coords": [
+    -25.269157,
+    27.126741
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "52997ed8ce09a41ddca4428cc2fe481b2b249689",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 21436,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fish_eagle_hill.png?width=256&height=256"
+}

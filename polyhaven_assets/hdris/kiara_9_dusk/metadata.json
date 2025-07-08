@@ -1,0 +1,44 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1511996400,
+  "name": "Kiara 9 Dusk",
+  "old_id": 84,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -28.508926,
+    28.56656
+  ],
+  "date_taken": 1472140500,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "backplates": true,
+  "tags": [
+    "sun",
+    "mountain",
+    "valley",
+    "rock",
+    "backplates"
+  ],
+  "files_hash": "386a606499fd5a18a44c633f8c764dcaec0d192d",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "11167855",
+    "32966849"
+  ],
+  "download_count": 74893,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kiara_9_dusk.png?width=256&height=256"
+}

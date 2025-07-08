@@ -1,0 +1,37 @@
+{
+  "evs_cap": 11,
+  "type": 0,
+  "tags": [
+    "tunnel",
+    "rubble",
+    "concrete",
+    "forest",
+    "arch",
+    "sand",
+    "abandoned"
+  ],
+  "date_published": 1543901069,
+  "name": "Missile Launch Facility 01",
+  "old_id": 330,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    50.5505329,
+    34.4373803
+  ],
+  "date_taken": 1540116000,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "max_resolution": [
+    16500,
+    8250
+  ],
+  "files_hash": "3eba3bc752c1edb299131fb4b524065ef37903de",
+  "download_count": 15725,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/missile_launch_facility_01.png?width=256&height=256"
+}

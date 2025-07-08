@@ -1,0 +1,38 @@
+{
+  "type": 1,
+  "name": "Anti Skid Tiles",
+  "categories": [
+    "floor",
+    "man made"
+  ],
+  "tags": [
+    "antislip",
+    "antiskid",
+    "tiles",
+    "patio",
+    "nonslip",
+    "grip",
+    "slipresistant",
+    "durable"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "staging": null,
+  "date_published": 1748304000,
+  "files_hash": "c1fab86f1dc643296d1dede562f64393ab996c0d",
+  "download_count": 1061,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/anti_skid_tiles.png?width=256&height=256"
+}

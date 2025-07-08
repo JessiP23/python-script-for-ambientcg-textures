@@ -1,0 +1,40 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "brown",
+    "sand",
+    "floor",
+    "rough",
+    "ground",
+    "playground",
+    "dirty",
+    "wet",
+    "footprints"
+  ],
+  "date_published": 1683331200,
+  "name": "Playground Sand",
+  "categories": [
+    "outdoor",
+    "floor",
+    "sand"
+  ],
+  "staging": null,
+  "authors": {
+    "eye-candy.xyz": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2069.9996948242188,
+    2069.9996948242188
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "59df1160d371b20a22b705a3ccc4cd67eb622128",
+  "download_count": 7302,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/playground_sand.png?width=256&height=256"
+}

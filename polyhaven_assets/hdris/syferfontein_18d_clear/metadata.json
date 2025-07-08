@@ -1,0 +1,43 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1532988000,
+  "name": "Syferfontein 18d Clear",
+  "old_id": 298,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -26.3588,
+    27.7549
+  ],
+  "date_taken": 1532268840,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "10004313"
+  ],
+  "backplates": true,
+  "tags": [
+    "sun",
+    "smoke",
+    "hill",
+    "view",
+    "backplates"
+  ],
+  "files_hash": "36d6ea97eacba78910bdccb800e19691450a022e",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 77760,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/syferfontein_18d_clear.png?width=256&height=256"
+}

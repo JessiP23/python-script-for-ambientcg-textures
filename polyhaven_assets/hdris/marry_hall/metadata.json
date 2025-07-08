@@ -1,0 +1,45 @@
+{
+  "evs_cap": 7,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 3800,
+  "tags": [
+    "curtain",
+    "couch",
+    "studio",
+    "text",
+    "window",
+    "chair",
+    "backplates"
+  ],
+  "name": "Marry Hall",
+  "categories": [
+    "studio",
+    "indoor",
+    "urban",
+    "natural light",
+    "morning-afternoon",
+    "artificial light",
+    "low contrast"
+  ],
+  "backplates": true,
+  "date_taken": 1650028320,
+  "coords": [
+    49.237221,
+    28.406338
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1656460800,
+  "staging": null,
+  "files_hash": "74ddf0962e1d652cdc401238a3de540c269b4743",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 26939,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/marry_hall.png?width=256&height=256"
+}

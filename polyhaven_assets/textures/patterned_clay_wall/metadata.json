@@ -1,0 +1,47 @@
+{
+  "name": "Patterned Clay Wall",
+  "categories": [
+    "outdoor",
+    "man made",
+    "wall"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Greg Zaal",
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "uneven",
+    "weathered",
+    "damaged",
+    "cracked",
+    "worn",
+    "discolored",
+    "chipped",
+    "stained",
+    "dry",
+    "wall",
+    "brown"
+  ],
+  "authors": {
+    "Dario Barresi": "Baking ",
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Tiling "
+  },
+  "dimensions": [
+    1250,
+    1250
+  ],
+  "date_published": 1660003200,
+  "staging": null,
+  "sponsors": [
+    "540619"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "9d4a9f9f061c9ce7a758fad95a750b1866e3232c",
+  "download_count": 4781,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_clay_wall.png?width=256&height=256"
+}

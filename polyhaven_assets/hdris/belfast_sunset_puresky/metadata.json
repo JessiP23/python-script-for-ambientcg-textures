@@ -1,0 +1,45 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "pure skies"
+  ],
+  "name": "Belfast Sunset (Pure Sky)",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "low contrast",
+    "partly cloudy",
+    "sunrise-sunset",
+    "skies",
+    "pure skies"
+  ],
+  "coords": [
+    -25.687944,
+    30.113194
+  ],
+  "date_taken": 1622654820,
+  "authors": {
+    "Greg Zaal": "Processing",
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Sky edits"
+  },
+  "info": "Edited sky-only version of [Belfast Sunset](https://polyhaven.com/a/belfast_sunset).",
+  "date_published": 1666137600,
+  "staging": null,
+  "files_hash": "52069dda20d0309f5009c492aa97b968effd3f32",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "sponsors": [
+    "3267566",
+    "3237733"
+  ],
+  "download_count": 341899,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/belfast_sunset_puresky.png?width=256&height=256"
+}

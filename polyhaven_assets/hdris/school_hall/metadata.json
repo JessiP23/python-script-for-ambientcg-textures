@@ -1,0 +1,44 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "school",
+    "stage",
+    "hall",
+    "wood",
+    "wooden floor",
+    "curtain"
+  ],
+  "name": "School Hall",
+  "categories": [
+    "indoor",
+    "natural light",
+    "artificial light",
+    "urban",
+    "medium contrast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1677515400,
+  "coords": [
+    -25.849599207438967,
+    28.16632809793181
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "date_published": 1679875200,
+  "staging": null,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "d755b248d8d4f20694397d81e282dee9dee5f73f",
+  "download_count": 12810,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/school_hall.png?width=256&height=256"
+}

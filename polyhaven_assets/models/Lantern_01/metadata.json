@@ -1,0 +1,44 @@
+{
+  "date_published": 1590680464,
+  "sponsors": [
+    "11109006"
+  ],
+  "name": "Lantern 01",
+  "old_id": 43,
+  "categories": [
+    "props",
+    "lighting"
+  ],
+  "type": 2,
+  "tags": [
+    "prop",
+    "metal",
+    "glass",
+    "lantern",
+    "antique",
+    "vintage",
+    "hurricane",
+    "lamp",
+    "bronze",
+    "oldfashioned",
+    "brass",
+    "copper"
+  ],
+  "authors": {
+    "Rajil Jose Macatangay": "All"
+  },
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 33902,
+  "texel_density": 10425.298212954804,
+  "dimensions": [
+    122.08568677306175,
+    97.18310832977295,
+    294.2466139793396
+  ],
+  "files_hash": "e8a56bd66bee21140aa3272268bd207bac37a7e1",
+  "download_count": 58240,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/Lantern_01.png?width=256&height=256"
+}

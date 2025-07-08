@@ -1,0 +1,45 @@
+{
+  "evs_cap": 20,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "sun",
+    "china",
+    "building",
+    "architecture",
+    "square"
+  ],
+  "date_published": 1549580400,
+  "name": "Zhengyang Gate",
+  "old_id": 352,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1523862660,
+  "coords": [
+    39.900977,
+    116.397888
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "10bf5dde652815f6f1dc2ee2eaf83e5408c41ef2",
+  "sponsors": [
+    {
+      "url": "https://www.idin-jewellery.co.uk/",
+      "name": "Idin Jewellery"
+    },
+    "4714267"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 22769,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zhengyang_gate.png?width=256&height=256"
+}

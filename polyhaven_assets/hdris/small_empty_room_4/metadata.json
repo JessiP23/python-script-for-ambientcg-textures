@@ -1,0 +1,40 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5200,
+  "tags": [
+    "room",
+    "empty",
+    "office",
+    "door",
+    "window",
+    "curtain",
+    "wooden floor",
+    "wallpaper"
+  ],
+  "name": "Small Empty Room 4",
+  "categories": [
+    "indoor",
+    "urban",
+    "natural light",
+    "medium contrast",
+    "midday"
+  ],
+  "date_taken": 1690207980,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "date_published": 1700438400,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "6974f03fa41c4268c2bfe88e2c2362100f5a4db3",
+  "download_count": 12441,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_empty_room_4.png?width=256&height=256"
+}

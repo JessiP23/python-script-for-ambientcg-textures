@@ -1,0 +1,45 @@
+{
+  "name": "Worn Patterned Pavers",
+  "categories": [
+    "man made",
+    "concrete",
+    "floor",
+    "plaster-concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "old",
+    "weathered",
+    "worn",
+    "concrete",
+    "chipped",
+    "discolored",
+    "scratched",
+    "deteriorated",
+    "pavement",
+    "exterior",
+    "pavers",
+    "paving"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1949.9996900558472,
+    1949.9996900558472
+  ],
+  "date_published": 1694649600,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "92cfba0e4a76e7e116309ef1b2ff77f40ba218f6",
+  "download_count": 6117,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/worn_patterned_pavers.png?width=256&height=256"
+}

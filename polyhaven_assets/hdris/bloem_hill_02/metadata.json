@@ -1,0 +1,44 @@
+{
+  "type": 0,
+  "name": "Bloem Hill 02",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "low contrast",
+    "overcast",
+    "midday"
+  ],
+  "tags": [
+    "city",
+    "radio",
+    "tower",
+    "view",
+    "hilltop",
+    "bush"
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Photography",
+    "Greg Zaal": "Processing"
+  },
+  "reviewers": [
+    "Jenelle van Heerden"
+  ],
+  "date_taken": 1740829620,
+  "coords": [
+    -29.10702932412477,
+    26.217363327741623
+  ],
+  "evs_cap": 12,
+  "whitebalance": 5303,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "78541765742d91c56d2f5116ac95a7f016d1da43",
+  "staging": null,
+  "date_published": 1746403200,
+  "download_count": 5835,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bloem_hill_02.png?width=256&height=256"
+}

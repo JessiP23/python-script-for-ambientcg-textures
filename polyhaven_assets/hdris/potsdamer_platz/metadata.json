@@ -1,0 +1,50 @@
+{
+  "evs_cap": 6,
+  "files_hash": "6d88e017f1f4165b52952d8276b846008430ba9f",
+  "type": 0,
+  "tags": [
+    "europe",
+    "architecture",
+    "road",
+    "building",
+    "bench",
+    "street",
+    "city",
+    "skyscraper",
+    "pavement",
+    "intersection",
+    "metropolis",
+    "berlin",
+    "germany"
+  ],
+  "date_published": 1522879200,
+  "sponsors": [
+    {
+      "name": "Kimba"
+    }
+  ],
+  "name": "Potsdamer Platz",
+  "old_id": 245,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1478341980,
+  "coords": [
+    52.50949,
+    13.375868
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 130571,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/potsdamer_platz.png?width=256&height=256"
+}

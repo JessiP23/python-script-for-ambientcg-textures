@@ -1,0 +1,42 @@
+{
+  "donated": true,
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "date_published": 1680480000,
+  "name": "Sungka Board",
+  "staging": null,
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "info": null,
+  "categories": [
+    "decorative",
+    "props",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "shed",
+    "game",
+    "boardgame",
+    "wooden",
+    "traditional",
+    "filipino",
+    "hand made"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 7304,
+  "texel_density": 7332.391393700547,
+  "dimensions": [
+    139.9620771408081,
+    600.566029548645,
+    35.22617928683758
+  ],
+  "files_hash": "592332c0812a265afac115c04f4ee1e1f1ea7949",
+  "download_count": 928,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sungka_board.png?width=256&height=256"
+}

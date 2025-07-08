@@ -1,0 +1,36 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "leaves",
+    "fence",
+    "dam",
+    "lake"
+  ],
+  "date_published": 1511996400,
+  "name": "Skukuza Golf",
+  "old_id": 104,
+  "categories": [
+    "outdoor",
+    "nature",
+    "midday",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1443603660,
+  "coords": [
+    -24.984781,
+    31.577367
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "a3d4a531c7099bfd29d57d3eaa4310d58e134d14",
+  "download_count": 17393,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/skukuza_golf.png?width=256&height=256"
+}

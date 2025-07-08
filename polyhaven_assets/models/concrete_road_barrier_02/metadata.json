@@ -1,0 +1,46 @@
+{
+  "donated": true,
+  "lods": true,
+  "name": "Concrete Road Barrier 02",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "date_published": 1700179200,
+  "staging": null,
+  "categories": [
+    "industrial",
+    "structures",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "road barrier",
+    "traffic barrier",
+    "safety barrier",
+    "wall",
+    "road",
+    "road block",
+    "blockade"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 42578,
+  "texel_density": 3429.2818245393864,
+  "dimensions": [
+    1566.9698119163513,
+    442.20101833343506,
+    1111.9812715332955
+  ],
+  "sponsors": [
+    "146648879"
+  ],
+  "files_hash": "fbcefc03483cf10e19d91653f3f1b10112be436d",
+  "download_count": 8814,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_road_barrier_02.png?width=256&height=256"
+}

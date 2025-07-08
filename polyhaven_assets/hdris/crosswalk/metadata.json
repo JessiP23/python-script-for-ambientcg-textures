@@ -1,0 +1,42 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "whitebalance": 5300,
+  "date_published": 1608246000,
+  "name": "Crosswalk",
+  "old_id": 518,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1600984800,
+  "coords": [
+    50.08049,
+    36.261773
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "53439564"
+  ],
+  "backplates": true,
+  "tags": [
+    "road",
+    "sun",
+    "pedetrian",
+    "asphalt",
+    "backplates"
+  ],
+  "files_hash": "ff602f4004753f8730709553f9f84bd217de945c",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 75666,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/crosswalk.png?width=256&height=256"
+}

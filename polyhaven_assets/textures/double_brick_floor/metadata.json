@@ -1,0 +1,45 @@
+{
+  "name": "Double Brick Floor",
+  "categories": [
+    "man made",
+    "plaster-concrete",
+    "brick"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "uneven",
+    "weathered",
+    "chipped",
+    "cracked",
+    "worn",
+    "brick",
+    "bricks",
+    "pattern",
+    "floor",
+    "red brick",
+    "damaged",
+    "scratched"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2159.9998474121094,
+    2159.9998474121094
+  ],
+  "date_published": 1683590400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "39195306149b9a990f366734dbbb8faf36635d17",
+  "download_count": 11615,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/double_brick_floor.png?width=256&height=256"
+}

@@ -1,0 +1,36 @@
+{
+  "evs_cap": 6,
+  "type": 0,
+  "tags": [
+    "road",
+    "path",
+    "field",
+    "farm"
+  ],
+  "date_published": 1522879200,
+  "name": "Mud Road",
+  "old_id": 242,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "midday",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1455619320,
+  "authors": {
+    "Sergey Rudavin": "All"
+  },
+  "sponsors": [
+    "3567764"
+  ],
+  "files_hash": "fdbb6b32919a06714c168315ac57353b50f36070",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 56755,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mud_road.png?width=256&height=256"
+}

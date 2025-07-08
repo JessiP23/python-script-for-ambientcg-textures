@@ -1,0 +1,47 @@
+{
+  "type": 0,
+  "name": "Small Harbour Sunset",
+  "categories": [
+    "outdoor",
+    "skies",
+    "natural light",
+    "sunrise-sunset",
+    "nature",
+    "clear",
+    "medium contrast"
+  ],
+  "tags": [
+    "sun",
+    "lake",
+    "water",
+    "dam",
+    "dock",
+    "harbour",
+    "harbor",
+    "jetty",
+    "boat"
+  ],
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1724086260,
+  "coords": [
+    -28.492172680262783,
+    29.002510265244542
+  ],
+  "evs_cap": 18,
+  "whitebalance": 5303,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "d38fc56085bd5a59020ca0395b1943eface0f9af",
+  "date_published": 1731456000,
+  "staging": null,
+  "download_count": 25429,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_harbour_sunset.png?width=256&height=256"
+}

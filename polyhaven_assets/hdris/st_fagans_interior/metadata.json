@@ -1,0 +1,41 @@
+{
+  "donated": true,
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "bench",
+    "couch",
+    "lobby",
+    "modern",
+    "museum",
+    "stairs",
+    "wooden floor"
+  ],
+  "date_published": 1599775200,
+  "name": "St. Fagans Interior",
+  "old_id": 496,
+  "categories": [
+    "indoor",
+    "urban",
+    "low contrast",
+    "artificial light"
+  ],
+  "coords": [
+    51.487,
+    -3.273111
+  ],
+  "date_taken": 1598709600,
+  "authors": {
+    "Morgan Evans": "All"
+  },
+  "sponsors": [
+    "18031080"
+  ],
+  "files_hash": "a4f36157903ddfc9310182099607a711d97f1850",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 41398,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/st_fagans_interior.png?width=256&height=256"
+}

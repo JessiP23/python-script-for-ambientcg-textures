@@ -1,0 +1,38 @@
+{
+  "type": 1,
+  "tags": [
+    "rough",
+    "uneven",
+    "plaster",
+    "old",
+    "dirty",
+    "weathered",
+    "moss",
+    "sewer",
+    "tunnel"
+  ],
+  "date_published": 1529359200,
+  "name": "Rough Plaster Brick",
+  "old_id": 111,
+  "categories": [
+    "plaster-concrete",
+    "man made",
+    "outdoor",
+    "brick",
+    "wall"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "b662746b7203f324c6a6a581c31831c3d684ecd7",
+  "download_count": 32384,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rough_plaster_brick.png?width=256&height=256"
+}

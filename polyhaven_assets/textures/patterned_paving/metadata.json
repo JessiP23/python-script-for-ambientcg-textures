@@ -1,0 +1,49 @@
+{
+  "type": 1,
+  "name": "Patterned Paving",
+  "categories": [
+    "floor",
+    "man made",
+    "outdoor"
+  ],
+  "tags": [
+    "footpath",
+    "pavement",
+    "sidewalk",
+    "sidewalk texture",
+    "pavement patterned",
+    "walkway",
+    "urban",
+    "city",
+    "pavers",
+    "cityscape",
+    "architecture",
+    "interlocking",
+    "interlocking bricks",
+    "street",
+    "infrastructure",
+    "station",
+    "decorative bricks",
+    "stone paving"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "reviewers": [
+    "Dario Barresi",
+    "Jenelle van Heerden"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1733961600,
+  "staging": null,
+  "files_hash": "e05e44647320058773b49a9f82af36223d647aad",
+  "download_count": 4855,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_paving.png?width=256&height=256"
+}

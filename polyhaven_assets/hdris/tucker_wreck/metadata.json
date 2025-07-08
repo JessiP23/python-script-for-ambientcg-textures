@@ -1,0 +1,48 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1511996400,
+  "name": "Tucker Wreck",
+  "old_id": 108,
+  "categories": [
+    "outdoor",
+    "nature",
+    "midday",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1464609180,
+  "coords": [
+    -34.273291,
+    18.380259
+  ],
+  "sponsors": [
+    {
+      "name": "Lorie Loeb"
+    }
+  ],
+  "backplates": true,
+  "tags": [
+    "ocean",
+    "rock",
+    "ship",
+    "wreck",
+    "iron",
+    "seaweed",
+    "rust",
+    "backplates"
+  ],
+  "files_hash": "3db89197660ab7a55becfbe8d7c0579b927eeac2",
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 27659,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tucker_wreck.png?width=256&height=256"
+}

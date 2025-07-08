@@ -1,0 +1,37 @@
+{
+  "evs_cap": 14,
+  "type": 0,
+  "tags": [
+    "balcony",
+    "dam",
+    "lake",
+    "mountain"
+  ],
+  "date_published": 1508536800,
+  "name": "Cayley Lookout",
+  "old_id": 40,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1460471760,
+  "coords": [
+    -28.953115,
+    29.439668
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "89c1c6d8c185fa9c83ca79759f0156c9d6c138ff",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 35577,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cayley_lookout.png?width=256&height=256"
+}

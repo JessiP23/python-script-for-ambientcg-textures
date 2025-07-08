@@ -1,0 +1,47 @@
+{
+  "name": "Plaster Brick Pattern",
+  "categories": [
+    "wall",
+    "man made",
+    "plaster",
+    "brick",
+    "plaster-concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "wall",
+    "plastered",
+    "outdoor",
+    "patterned concrete",
+    "patterned",
+    "coarse",
+    "blocks",
+    "brick",
+    "bricks"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1719273600,
+  "staging": null,
+  "sponsors": [
+    "77433244"
+  ],
+  "files_hash": "e92ff3d4d49b5cbc4d0bf0eb01b9019374fa833c",
+  "download_count": 34138,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plaster_brick_pattern.png?width=256&height=256"
+}

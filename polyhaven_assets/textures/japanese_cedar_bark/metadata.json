@@ -1,0 +1,42 @@
+{
+  "type": 1,
+  "name": "Japanese Cedar Bark",
+  "categories": [
+    "outdoor",
+    "natural",
+    "bark"
+  ],
+  "tags": [
+    "bark",
+    "tree",
+    "tree bark",
+    "nature",
+    "bark texture",
+    "natural",
+    "forestry",
+    "japanese",
+    "cedar bark",
+    "cedar",
+    "organic"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "max_resolution": [
+    8192,
+    16384
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1750896000,
+  "staging": null,
+  "files_hash": "11b2e00a35c8d7695923c9ada864b803770df219",
+  "download_count": 559,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/japanese_cedar_bark.png?width=256&height=256"
+}

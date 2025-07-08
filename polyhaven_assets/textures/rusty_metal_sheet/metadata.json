@@ -1,0 +1,40 @@
+{
+  "name": "Rusty Metal Sheet",
+  "categories": [
+    "man made",
+    "metal"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "metal",
+    "rusty",
+    "rust",
+    "rusted",
+    "corroded",
+    "sheet",
+    "tarnished",
+    "oxidized",
+    "corroded metal sheet"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1999.9996423721313,
+    1999.9996423721313
+  ],
+  "date_published": 1692662400,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "a0dd37953e936efe4bfe73bd73c4602e596d0be3",
+  "download_count": 65402,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rusty_metal_sheet.png?width=256&height=256"
+}

@@ -1,0 +1,51 @@
+{
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "name": "Wooden Barrels 01",
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "date_published": 1644969600,
+  "staging": null,
+  "categories": [
+    "containers",
+    "props",
+    "collection: smugglers_cove"
+  ],
+  "tags": [
+    "barrel",
+    "celler",
+    "old",
+    "worn",
+    "wood",
+    "antique",
+    "prop",
+    "maritime",
+    "colonial",
+    "cove",
+    "farmhouse",
+    "farm",
+    "furniture",
+    "wooden"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 33142,
+  "texel_density": 2086.7684233728796,
+  "dimensions": [
+    4440.432071685791,
+    3344.5359468460083,
+    956.7059241235256
+  ],
+  "sponsors": [
+    "26820710",
+    "4714267"
+  ],
+  "files_hash": "fb7a0e11ec57aaef718bc90c26fa626a65cf9f30",
+  "download_count": 11561,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_barrels_01.png?width=256&height=256"
+}

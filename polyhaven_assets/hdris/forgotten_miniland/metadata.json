@@ -1,0 +1,46 @@
+{
+  "evs_cap": 26,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "sun",
+    "grass",
+    "concrete",
+    "hut",
+    "bush",
+    "garden",
+    "tree",
+    "playground"
+  ],
+  "name": "Forgotten Miniland",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "high contrast",
+    "sunrise-sunset"
+  ],
+  "coords": [
+    -26.2294633429358,
+    28.053987291911515
+  ],
+  "date_taken": 1666938120,
+  "info": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "files_hash": "6150e2b4c6c4d4a3ff8b9ffc1a02c0dbb76afdb2",
+  "date_published": 1673395200,
+  "staging": null,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 93548,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forgotten_miniland.png?width=256&height=256"
+}

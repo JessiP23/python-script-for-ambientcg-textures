@@ -1,0 +1,42 @@
+{
+  "evs_cap": 18,
+  "type": 0,
+  "tags": [
+    "lamp",
+    "europe",
+    "architecture",
+    "building",
+    "square"
+  ],
+  "date_published": 1522879200,
+  "name": "Zwinger Night",
+  "old_id": 261,
+  "categories": [
+    "outdoor",
+    "urban",
+    "night",
+    "overcast",
+    "high contrast",
+    "artificial light"
+  ],
+  "date_taken": 1478630760,
+  "coords": [
+    51.053,
+    13.733765
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "4e4d23b974e14810abac53f8979d2f7cb4c57a69",
+  "sponsors": [
+    "7947474",
+    "73871560",
+    "7934315"
+  ],
+  "download_count": 49566,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwinger_night.png?width=256&height=256"
+}

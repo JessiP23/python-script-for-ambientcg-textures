@@ -1,0 +1,45 @@
+{
+  "name": "Quarry Wall",
+  "categories": [
+    "outdoor",
+    "natural",
+    "rock"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Jandre van Heerden"
+  ],
+  "tags": [
+    "rough",
+    "rock face",
+    "wall",
+    "rock",
+    "quarry",
+    "solid",
+    "stonework",
+    "exterior",
+    "mining",
+    "quarrying",
+    "roughhewn",
+    "mining site",
+    "quarry stone"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "date_published": 1709769600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "16294258c1320036b028307b4fd3252e779ac41f",
+  "download_count": 4463,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/quarry_wall.png?width=256&height=256"
+}

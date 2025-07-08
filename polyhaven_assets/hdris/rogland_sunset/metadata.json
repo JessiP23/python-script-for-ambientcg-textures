@@ -1,0 +1,42 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5313,
+  "tags": [
+    "rocky",
+    "arid",
+    "desert",
+    "sun"
+  ],
+  "name": "Rogland Sunset",
+  "date_taken": 1693935060,
+  "coords": [
+    -29.68232655273397,
+    17.949190420193943
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "189671adb2beb3ba1f8e3ac86b0229058ade292b",
+  "staging": null,
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "clear",
+    "high contrast",
+    "sunrise-sunset",
+    "collection: namaqualand"
+  ],
+  "date_published": 1728345600,
+  "download_count": 27700,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rogland_sunset.png?width=256&height=256"
+}

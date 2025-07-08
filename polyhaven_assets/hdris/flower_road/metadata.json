@@ -1,0 +1,48 @@
+{
+  "evs_cap": 20,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1506982080,
+  "name": "Flower Road",
+  "old_id": 27,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -33.021688,
+    18.997045
+  ],
+  "date_taken": 1504342140,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "7937768"
+  ],
+  "backplates": true,
+  "tags": [
+    "sun",
+    "road",
+    "flower",
+    "path",
+    "dirt",
+    "gravel",
+    "mountain",
+    "field",
+    "farm",
+    "backplates"
+  ],
+  "files_hash": "b85f4912e6aacc7b468016fd33b877197b076f92",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 138256,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flower_road.png?width=256&height=256"
+}

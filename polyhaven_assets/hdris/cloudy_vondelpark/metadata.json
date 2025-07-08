@@ -1,0 +1,41 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "tree",
+    "leaves",
+    "path",
+    "road",
+    "grass",
+    "autumn",
+    "amsterdam",
+    "river",
+    "pond"
+  ],
+  "date_published": 1506981780,
+  "name": "Cloudy Vondelpark",
+  "old_id": 25,
+  "categories": [
+    "outdoor",
+    "nature",
+    "midday",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1478011680,
+  "coords": [
+    52.358868,
+    4.870858
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "8287ff8c9d0455f45852c3db8493d2d4c91bcc4d",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 45368,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cloudy_vondelpark.png?width=256&height=256"
+}

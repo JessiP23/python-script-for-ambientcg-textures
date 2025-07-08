@@ -1,0 +1,34 @@
+{
+  "scale": "1.5x1.5",
+  "type": 1,
+  "tags": [
+    "planks",
+    "even",
+    "weathered"
+  ],
+  "date_published": 1604563404,
+  "name": "Wood Planks Dirt",
+  "old_id": 291,
+  "categories": [
+    "wood",
+    "wall",
+    "man made",
+    "outdoor",
+    "indoor",
+    "clean"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "03a469e1a3fff8cf86d19a9da4550f4bce6f13e5",
+  "download_count": 133436,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_planks_dirt.png?width=256&height=256"
+}

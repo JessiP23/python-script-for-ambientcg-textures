@@ -1,0 +1,42 @@
+{
+  "name": "Embedded Rock Floor",
+  "categories": [
+    "floor",
+    "man made",
+    "plaster-concrete",
+    "rock"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "uneven",
+    "stone",
+    "exterior",
+    "cement",
+    "rocky",
+    "rocks",
+    "rugged"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1799.9995946884155,
+    1799.9995946884155
+  ],
+  "date_published": 1698710400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "80c81c7ffcb2a219699935f3ca96e2a0044f4a7a",
+  "download_count": 3669,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/embedded_rock_floor.png?width=256&height=256"
+}

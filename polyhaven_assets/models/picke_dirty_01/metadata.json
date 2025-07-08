@@ -1,0 +1,54 @@
+{
+  "donated": true,
+  "name": "Picke Dirty 01",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Dennis Halbeck": "All"
+  },
+  "info": null,
+  "date_published": 1673568000,
+  "staging": null,
+  "categories": [
+    "props",
+    "tools",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "old",
+    "vintage",
+    "wood",
+    "wooden",
+    "worn",
+    "farmhouse",
+    "metal",
+    "workshop",
+    "shed",
+    "garage",
+    "digging",
+    "mining",
+    "mine",
+    "gardening",
+    "garden"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 6196,
+  "texel_density": 14099.89619015174,
+  "dimensions": [
+    549.7921109199524,
+    69.11072321236134,
+    1115.6014502048492
+  ],
+  "sponsors": [
+    "3267566",
+    "128081732"
+  ],
+  "files_hash": "5d1a09319ec11e7188f212e2f89b0c3e770082f5",
+  "download_count": 5917,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/picke_dirty_01.png?width=256&height=256"
+}

@@ -1,0 +1,50 @@
+{
+  "donated": true,
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "date_published": 1680220800,
+  "name": "All Purpose Cleaner",
+  "staging": null,
+  "authors": {
+    "Kuutti Siitonen": "All"
+  },
+  "info": null,
+  "categories": [
+    "props",
+    "containers",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "shed",
+    "cleaning",
+    "home",
+    "garage",
+    "chemicals",
+    "household",
+    "janitorial",
+    "cleaning supplies",
+    "sanitation",
+    "bottle",
+    "cleaner",
+    "multipurpose",
+    "allpurpose",
+    "plastic containers",
+    "clutter"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 4624,
+  "texel_density": 8617.46345647567,
+  "dimensions": [
+    156.8227931857109,
+    117.41002649068832,
+    319.7317017838941
+  ],
+  "files_hash": "f72353a9465549c60a007a752a43ff66fd78ee64",
+  "download_count": 3611,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/all_purpose_cleaner.png?width=256&height=256"
+}

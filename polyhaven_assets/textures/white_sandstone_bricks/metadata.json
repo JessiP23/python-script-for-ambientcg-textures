@@ -1,0 +1,36 @@
+{
+  "date_published": 1529359200,
+  "name": "White Sandstone Bricks",
+  "old_id": 119,
+  "categories": [
+    "brick",
+    "man made",
+    "outdoor",
+    "wall"
+  ],
+  "type": 1,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "tags": [
+    "blocks",
+    "sandstone",
+    "uneven",
+    "damaged",
+    "worn",
+    "plastered",
+    "old",
+    "crumbling"
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "1c3b318fccb3bc0f292ddd3d239eca1b7f25f67a",
+  "download_count": 29136,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_sandstone_bricks.png?width=256&height=256"
+}

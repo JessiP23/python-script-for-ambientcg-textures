@@ -1,0 +1,38 @@
+{
+  "name": "Strawberry Chocolate Cake",
+  "categories": [
+    "props",
+    "food"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "cooking",
+    "culinary",
+    "cake",
+    "baked goods",
+    "bakery",
+    "treat"
+  ],
+  "authors": {
+    "Kuutti Siitonen": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 27054,
+  "texel_density": 18766.443968015203,
+  "dimensions": [
+    244.26066130399704,
+    240.267813205719,
+    79.19733006793805
+  ],
+  "date_published": 1721347200,
+  "staging": null,
+  "files_hash": "a441726fcf88501501868c20037cfbf7a88f82bd",
+  "download_count": 2409,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/strawberry_chocolate_cake.png?width=256&height=256"
+}

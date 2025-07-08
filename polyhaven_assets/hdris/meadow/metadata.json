@@ -1,0 +1,40 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 7900,
+  "tags": [
+    "grass",
+    "tree",
+    "clearing",
+    "green",
+    "peaceful",
+    "backplates"
+  ],
+  "name": "Meadow",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "partly cloudy",
+    "low contrast",
+    "midday"
+  ],
+  "backplates": true,
+  "date_taken": 1687350540,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "date_published": 1692576000,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "59878ce1dc49871a6ff5bf05db9c51b0fa113c76",
+  "download_count": 220019,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/meadow.png?width=256&height=256"
+}

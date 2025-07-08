@@ -1,0 +1,43 @@
+{
+  "date_published": 1682553600,
+  "name": "Monastery Stone Floor",
+  "categories": [
+    "rock",
+    "outdoor",
+    "floor",
+    "man made"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "staging": null,
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1799.9999523162842,
+    1799.9999523162842
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "tags": [
+    "rock",
+    "rocks",
+    "stone",
+    "floor",
+    "pathway",
+    "slates",
+    "slate",
+    "path",
+    "walkway",
+    "weathered"
+  ],
+  "files_hash": "2b15d54cd0518be212cf14f320c761ab33e71ea6",
+  "download_count": 43659,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/monastery_stone_floor.png?width=256&height=256"
+}

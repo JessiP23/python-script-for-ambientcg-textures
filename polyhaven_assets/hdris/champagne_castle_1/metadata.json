@@ -1,0 +1,40 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "grass",
+    "mountain",
+    "path",
+    "hill"
+  ],
+  "date_published": 1511996400,
+  "name": "Champagne Castle 1",
+  "old_id": 73,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -29.044435,
+    29.402205
+  ],
+  "date_taken": 1460561580,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "33031620"
+  ],
+  "files_hash": "449a6943fe48770d174bdb9bc55b9f7d9706d7bc",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 102987,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/champagne_castle_1.png?width=256&height=256"
+}

@@ -1,0 +1,45 @@
+{
+  "lods": true,
+  "name": "Othonna Cerarioides",
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers",
+    "Jandre van Heerden"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "authors": {
+    "James Ray Cock": "Model",
+    "Jenelle van Heerden": "Photography"
+  },
+  "polycount": 651641,
+  "texel_density": 21201.62863844686,
+  "dimensions": [
+    3970.029592514038,
+    1798.905849456787,
+    1969.5868343114853
+  ],
+  "staging": null,
+  "categories": [
+    "nature",
+    "plants",
+    "trees",
+    "collection: namaqualand"
+  ],
+  "tags": [
+    "karoo",
+    "south africa",
+    "succulent",
+    "bush",
+    "shrub",
+    "botany",
+    "green",
+    "leaf"
+  ],
+  "date_published": 1728345600,
+  "files_hash": "8123a78c623246505137a7bb6cf14a1cb21cbd4e",
+  "download_count": 11123,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/othonna_cerarioides.png?width=256&height=256"
+}

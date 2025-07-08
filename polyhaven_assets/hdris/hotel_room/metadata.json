@@ -1,0 +1,39 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "tags": [
+    "bed",
+    "tv",
+    "table",
+    "chair",
+    "mirror",
+    "window",
+    "curtain",
+    "lamp",
+    "hotel"
+  ],
+  "date_published": 1506981600,
+  "name": "Hotel Room",
+  "old_id": 14,
+  "categories": [
+    "indoor",
+    "urban",
+    "high contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1478618040,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "13450515"
+  ],
+  "files_hash": "25f820d7462539e0cce7ec32a4a452b561af938f",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 99786,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hotel_room.png?width=256&height=256"
+}

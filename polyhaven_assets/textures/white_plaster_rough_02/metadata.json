@@ -1,0 +1,40 @@
+{
+  "type": 1,
+  "tags": [
+    "rough",
+    "broken",
+    "cracked",
+    "moss",
+    "uneven",
+    "cement",
+    "damaged",
+    "old",
+    "sewer",
+    "tunnel"
+  ],
+  "date_published": 1529359200,
+  "name": "White Plaster Rough 02",
+  "old_id": 118,
+  "categories": [
+    "plaster-concrete",
+    "wall",
+    "man made",
+    "brick",
+    "outdoor",
+    "dirty"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "338df73551fc2242107abd134a18ad1c3c1721c4",
+  "download_count": 51032,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_plaster_rough_02.png?width=256&height=256"
+}

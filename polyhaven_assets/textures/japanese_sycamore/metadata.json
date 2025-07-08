@@ -1,0 +1,41 @@
+{
+  "date_published": 1678924800,
+  "name": "Japanese Sycamore",
+  "categories": [
+    "outdoor",
+    "natural",
+    "bark",
+    "wood"
+  ],
+  "type": 1,
+  "staging": null,
+  "reviewers": [
+    "Rob Tuytel",
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "dry",
+    "tree",
+    "bark",
+    "wood",
+    "nature",
+    "forest",
+    "wooden",
+    "non square"
+  ],
+  "info": null,
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "dimensions": [
+    1099.9999046325684,
+    2199.9998092651367
+  ],
+  "max_resolution": [
+    8192,
+    16384
+  ],
+  "files_hash": "48490d7c5c94f7749366f07055e10d59cbed4e72",
+  "download_count": 11922,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/japanese_sycamore.png?width=256&height=256"
+}

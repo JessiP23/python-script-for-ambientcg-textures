@@ -1,0 +1,43 @@
+{
+  "evs_cap": 24,
+  "type": 0,
+  "tags": [
+    "grass",
+    "mountain",
+    "tree",
+    "bush",
+    "rock",
+    "sun",
+    "sunrise"
+  ],
+  "date_published": 1506981600,
+  "name": "Lenong 2",
+  "old_id": 15,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "clear",
+    "sunrise-sunset",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -25.244369,
+    27.066399
+  ],
+  "date_taken": 1468128660,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "13e95a76ed33334b1661996bf441f87da9bd8139",
+  "sponsors": [
+    "11167855"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 72485,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lenong_2.png?width=256&height=256"
+}

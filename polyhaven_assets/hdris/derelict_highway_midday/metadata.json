@@ -1,0 +1,43 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5329,
+  "tags": [
+    "abandoned",
+    "highway",
+    "road",
+    "crack",
+    "asphalt"
+  ],
+  "name": "Derelict Highway Midday",
+  "categories": [
+    "midday",
+    "natural light",
+    "outdoor",
+    "nature",
+    "clear",
+    "high contrast"
+  ],
+  "coords": [
+    -25.779730949244303,
+    27.949489902384943
+  ],
+  "date_taken": 1620820080,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "date_published": 1653868800,
+  "staging": null,
+  "prepaid": true,
+  "files_hash": "7837cb9ca2e82250f90d23a4e64ece1d47dca551",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 36265,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/derelict_highway_midday.png?width=256&height=256"
+}

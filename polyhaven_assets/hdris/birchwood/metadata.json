@@ -1,0 +1,36 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "tags": [
+    "tree",
+    "snow",
+    "winter",
+    "river",
+    "frozen"
+  ],
+  "date_published": 1578351600,
+  "name": "Birchwood",
+  "old_id": 433,
+  "categories": [
+    "outdoor",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1550592360,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "46292533"
+  ],
+  "files_hash": "2b03bbde37757980621563a2d39c3997eb44de6e",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 52272,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/birchwood.png?width=256&height=256"
+}

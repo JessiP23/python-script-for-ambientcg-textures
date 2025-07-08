@@ -1,0 +1,50 @@
+{
+  "name": "Cracked Concrete",
+  "categories": [
+    "floor",
+    "man made",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Jandre van Heerden",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "weathered",
+    "cracked",
+    "cracks",
+    "concrete",
+    "damaged",
+    "flat",
+    "floor",
+    "cracked cement",
+    "cemented floor",
+    "timeworn",
+    "deteriorated",
+    "battered",
+    "weatherbeaten",
+    "deteriorating",
+    "broken",
+    "chipped"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1721865600,
+  "staging": null,
+  "sponsors": [
+    "26820710"
+  ],
+  "files_hash": "208c5ab7dd2547d92418ebf73cca1efed0e4a338",
+  "download_count": 23967,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cracked_concrete.png?width=256&height=256"
+}

@@ -1,0 +1,49 @@
+{
+  "evs_cap": 24,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "sun",
+    "road",
+    "track",
+    "asphalt",
+    "race",
+    "curve",
+    "barrier",
+    "circuit",
+    "sand",
+    "grass",
+    "backplates"
+  ],
+  "name": "Zwartkops Curve Sunset",
+  "categories": [
+    "outdoor",
+    "urban",
+    "natural light",
+    "sunrise-sunset",
+    "clear",
+    "high contrast"
+  ],
+  "backplates": true,
+  "date_taken": 1713719940,
+  "coords": [
+    -25.810044808817782,
+    28.110051739066126
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "1638b677f2c2f523d9c175f0c5176e33f0071e8d",
+  "date_published": 1728259200,
+  "staging": null,
+  "download_count": 21076,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwartkops_curve_sunset.png?width=256&height=256"
+}

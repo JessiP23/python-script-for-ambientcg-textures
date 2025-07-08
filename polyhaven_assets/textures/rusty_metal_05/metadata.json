@@ -1,0 +1,42 @@
+{
+  "type": 1,
+  "name": "Rusty Metal 05",
+  "categories": [
+    "metal",
+    "man made"
+  ],
+  "tags": [
+    "rough",
+    "rusted",
+    "metal sheet",
+    "metal",
+    "sheet metal",
+    "corroded",
+    "corroded metal sheet",
+    "corroded surface",
+    "rust",
+    "oxidized metal",
+    "steel sheeting",
+    "rusty metal"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    1250,
+    1250
+  ],
+  "date_published": 1749686400,
+  "staging": null,
+  "files_hash": "65939dbb490cb4e4cfaa9664f7f18e5eca7b4ce5",
+  "download_count": 2054,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rusty_metal_05.png?width=256&height=256"
+}

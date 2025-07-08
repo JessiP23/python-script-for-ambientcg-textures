@@ -1,0 +1,42 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "tags": [
+    "sun",
+    "stream",
+    "river",
+    "tree",
+    "pond",
+    "grass",
+    "root"
+  ],
+  "date_published": 1508536800,
+  "name": "Stream",
+  "old_id": 37,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -26.128576,
+    28.006198
+  ],
+  "date_taken": 1436017620,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "9133e834f366e9440171b8b2c7486bf01cb3bf41",
+  "sponsors": [
+    "42579608"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 23052,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stream.png?width=256&height=256"
+}

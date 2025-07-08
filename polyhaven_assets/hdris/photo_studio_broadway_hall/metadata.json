@@ -1,0 +1,41 @@
+{
+  "evs_cap": 16,
+  "type": 0,
+  "whitebalance": 5000,
+  "name": "Photo Studio Broadway Hall",
+  "categories": [
+    "indoor",
+    "low contrast",
+    "natural light",
+    "overcast",
+    "urban",
+    "studio",
+    "morning-afternoon"
+  ],
+  "backplates": true,
+  "date_taken": 1621430100,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1626998400,
+  "tags": [
+    "wood",
+    "wall",
+    "chair",
+    "flash",
+    "umbrella",
+    "studio",
+    "photo",
+    "backplates"
+  ],
+  "sponsors": [
+    "59361351"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "d88460e8130f86292b9d8627ea4b9b4e98cca048",
+  "download_count": 59404,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/photo_studio_broadway_hall.png?width=256&height=256"
+}

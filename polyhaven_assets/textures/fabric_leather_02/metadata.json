@@ -1,0 +1,31 @@
+{
+  "scale": "50cm X 50cm",
+  "type": 1,
+  "tags": [
+    "leather",
+    "couch",
+    "seat",
+    "char"
+  ],
+  "date_published": 1588892467,
+  "name": "Fabric Leather 02",
+  "old_id": 257,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    500,
+    499.9999403953552
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "categories": [
+    "fabric",
+    "leather"
+  ],
+  "files_hash": "bf7a36ee9fa03ad746b3646b5e6306489a7d11d1",
+  "download_count": 95292,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fabric_leather_02.png?width=256&height=256"
+}

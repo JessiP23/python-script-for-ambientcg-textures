@@ -1,0 +1,38 @@
+{
+  "name": "Cobblestone Floor 06",
+  "categories": [
+    "floor",
+    "cobblestone",
+    "man made",
+    "dirty"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "old",
+    "rough",
+    "weathered",
+    "dirty",
+    "pavement"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1710806400,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "c7caf568f2097cac1c1d8327f9f65dea4054f2c8",
+  "download_count": 9684,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_floor_06.png?width=256&height=256"
+}

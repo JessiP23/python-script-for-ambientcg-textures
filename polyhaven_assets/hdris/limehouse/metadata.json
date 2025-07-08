@@ -1,0 +1,37 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "architecture",
+    "building",
+    "boat",
+    "dock",
+    "city"
+  ],
+  "date_published": 1561672800,
+  "name": "Limehouse",
+  "old_id": 387,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1558280700,
+  "coords": [
+    51.510606,
+    -0.036324
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "c8577aa71aed338aaa64dffcbf0f1d38785f24ba",
+  "download_count": 23578,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/limehouse.png?width=256&height=256"
+}

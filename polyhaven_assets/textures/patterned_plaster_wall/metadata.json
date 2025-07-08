@@ -1,0 +1,38 @@
+{
+  "name": "Patterned Plaster Wall",
+  "categories": [
+    "wall",
+    "plaster"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi"
+  ],
+  "tags": [
+    "plaster",
+    "plastered",
+    "concrete",
+    "pattern",
+    "patterned",
+    "patterned concrete",
+    "dirty",
+    "exterior",
+    "rough"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "date_published": 1722297600,
+  "staging": null,
+  "files_hash": "2180548a91e95143d3b3ecd1561c71c22ccdcacc",
+  "download_count": 1885,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_plaster_wall.png?width=256&height=256"
+}

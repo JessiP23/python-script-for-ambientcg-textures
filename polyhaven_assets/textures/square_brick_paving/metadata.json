@@ -1,0 +1,39 @@
+{
+  "type": 1,
+  "name": "Square Brick Paving",
+  "categories": [
+    "floor",
+    "man made",
+    "brick"
+  ],
+  "tags": [
+    "weathered",
+    "rough",
+    "brick",
+    "bricks",
+    "paving",
+    "driveway texture",
+    "driveway",
+    "old brick",
+    "brick design"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "reviewers": [
+    "Dario Barresi"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2099.9999046325684,
+    2099.9999046325684
+  ],
+  "staging": null,
+  "date_published": 1747872000,
+  "files_hash": "2ce52a74a7a0133468edcacc8f4bd54356488848",
+  "download_count": 1199,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/square_brick_paving.png?width=256&height=256"
+}

@@ -1,0 +1,51 @@
+{
+  "date_published": 1635465600,
+  "sponsors": [
+    "26820710"
+  ],
+  "name": "Power Box 01",
+  "type": 2,
+  "staging": null,
+  "authors": {
+    "Rico Cilliers": "Modeling & Texturing",
+    "Yann Kervran": "Rigging"
+  },
+  "categories": [
+    "industrial",
+    "props",
+    "electronics",
+    "tools",
+    "rigged",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "box",
+    "electrical",
+    "power",
+    "wiring",
+    "db board",
+    "circuit",
+    "breakers",
+    "board",
+    "switch",
+    "prop",
+    "modern",
+    "damaged",
+    "utility",
+    "infrastructure"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 21272,
+  "texel_density": 7468.025590418062,
+  "dimensions": [
+    377.4920701980591,
+    418.45703125,
+    503.142774105072
+  ],
+  "files_hash": "4df156d1369da9a74510ad2ff012212cea3d4cfa",
+  "download_count": 32478,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/power_box_01.png?width=256&height=256"
+}

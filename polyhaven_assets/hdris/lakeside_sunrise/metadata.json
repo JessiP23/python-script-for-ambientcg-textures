@@ -1,0 +1,43 @@
+{
+  "type": 0,
+  "name": "Lakeside Sunrise",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "high contrast"
+  ],
+  "tags": [
+    "tree",
+    "lake",
+    "shore",
+    "water",
+    "rock",
+    "sun"
+  ],
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1724223480,
+  "coords": [
+    -28.482577018138976,
+    29.01429985008855
+  ],
+  "evs_cap": 22,
+  "whitebalance": 5303,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "08ba49b75c276b6f13adac7de48ae076c4ca34f2",
+  "date_published": 1733875200,
+  "staging": null,
+  "download_count": 52747,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lakeside_sunrise.png?width=256&height=256"
+}

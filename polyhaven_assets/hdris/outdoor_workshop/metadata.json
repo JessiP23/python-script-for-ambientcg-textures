@@ -1,0 +1,40 @@
+{
+  "evs_cap": 26,
+  "name": "Outdoor Workshop",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "nature"
+  ],
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1622646300,
+  "whitebalance": 5319,
+  "tags": [
+    "sun",
+    "dirt",
+    "farm",
+    "machine",
+    "workshop",
+    "tractor"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "staging": null,
+  "date_published": 1661126400,
+  "prepaid": true,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "63a731fdb74f46c2336b8e3109a9f469c33eee82",
+  "download_count": 19342,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/outdoor_workshop.png?width=256&height=256"
+}

@@ -1,0 +1,52 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "date_published": 1681776000,
+  "name": "Stone Pathway",
+  "categories": [
+    "outdoor",
+    "man made",
+    "rock"
+  ],
+  "staging": null,
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "info": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "128081732",
+    "4714267"
+  ],
+  "tags": [
+    "weathered",
+    "rock",
+    "pathway",
+    "path",
+    "uneven",
+    "rocks",
+    "discolored",
+    "dry",
+    "brown",
+    "chipped",
+    "worn",
+    "floor",
+    "walkway",
+    "slates",
+    "cracked",
+    "stones"
+  ],
+  "files_hash": "96e0ca07085952b6b8af45c5ec807c83b31e90a9",
+  "download_count": 25456,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_pathway.png?width=256&height=256"
+}

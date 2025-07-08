@@ -1,0 +1,55 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "old",
+    "weathered",
+    "wood",
+    "planks",
+    "painted",
+    "chipped",
+    "flaked",
+    "paint",
+    "worn",
+    "faded",
+    "dry",
+    "damaged",
+    "peeling",
+    "discolored",
+    "cracked",
+    "stained",
+    "wall"
+  ],
+  "name": "Wood Peeling Paint Weathered",
+  "categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "wood",
+    "dirty"
+  ],
+  "authors": {
+    "Rob Tuytel": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "date_published": 1649894400,
+  "staging": null,
+  "dimensions": [
+    761.9999647140503,
+    762.0000243186951
+  ],
+  "sponsors": [
+    "540619",
+    "3237733"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "477efc13ced9f70916939064f880c9a610979f80",
+  "download_count": 83966,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_peeling_paint_weathered.png?width=256&height=256"
+}

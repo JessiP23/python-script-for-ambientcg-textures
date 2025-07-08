@@ -1,0 +1,48 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 4933,
+  "tags": [
+    "pub",
+    "bar",
+    "stool",
+    "bench",
+    "counter",
+    "fridge",
+    "bottle",
+    "rafters",
+    "cozy",
+    "drinks",
+    "tiles",
+    "wood"
+  ],
+  "name": "Warm Bar",
+  "categories": [
+    "indoor",
+    "urban",
+    "artificial light",
+    "night",
+    "medium contrast"
+  ],
+  "date_taken": 1724267640,
+  "coords": [
+    -28.49034574106102,
+    29.005774519443506
+  ],
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "116dd1b62d948b2c82a68f9665eda6699d8ad11a",
+  "staging": null,
+  "date_published": 1728864000,
+  "download_count": 15835,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/warm_bar.png?width=256&height=256"
+}

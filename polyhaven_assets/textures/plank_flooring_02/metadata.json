@@ -1,0 +1,39 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "flat",
+    "planks",
+    "scratched",
+    "yellow",
+    "wood",
+    "floor",
+    "varnished"
+  ],
+  "date_published": 1671494400,
+  "name": "Plank Flooring 02",
+  "categories": [
+    "floor",
+    "wood",
+    "indoor"
+  ],
+  "staging": null,
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "info": null,
+  "dimensions": [
+    1980.0000190734863,
+    1980.0000190734863
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "5d09ec4a0a11e9090690b79a6b746f77c2bf7374",
+  "download_count": 15221,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/plank_flooring_02.png?width=256&height=256"
+}

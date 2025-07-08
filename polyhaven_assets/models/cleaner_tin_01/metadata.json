@@ -1,0 +1,46 @@
+{
+  "donated": true,
+  "name": "Cleaner Tin 01",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Tom Phillips": "All"
+  },
+  "info": null,
+  "date_published": 1678060800,
+  "staging": null,
+  "sponsors": [
+    "4047949"
+  ],
+  "categories": [
+    "containers",
+    "tools",
+    "industrial",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "shed",
+    "workshop",
+    "metal",
+    "lubricant",
+    "oil",
+    "construction",
+    "garage"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 3560,
+  "texel_density": 14923.105358194092,
+  "dimensions": [
+    87.5563956797123,
+    87.54613995552063,
+    130.41614861867856
+  ],
+  "files_hash": "abe05dc4e78a0c412f8f2d13442b34ba354ec704",
+  "download_count": 2966,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cleaner_tin_01.png?width=256&height=256"
+}

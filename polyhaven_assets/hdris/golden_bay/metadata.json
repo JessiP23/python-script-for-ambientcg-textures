@@ -1,0 +1,51 @@
+{
+  "evs_cap": 18,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 3600,
+  "tags": [
+    "lamp",
+    "pier",
+    "river",
+    "bridge",
+    "city",
+    "street",
+    "street light",
+    "restaurant",
+    "europe",
+    "germany",
+    "modern",
+    "waterfront",
+    "water",
+    "evening"
+  ],
+  "name": "Golden Bay",
+  "categories": [
+    "outdoor",
+    "night",
+    "urban",
+    "artificial light",
+    "high contrast",
+    "clear"
+  ],
+  "date_taken": 1697654940,
+  "coords": [
+    54.092609687467785,
+    12.149073247924358
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "info": null,
+  "files_hash": "38019f8360645f38a8dc3859b1ee13abc883b3d2",
+  "staging": null,
+  "date_published": 1705449600,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 75938,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/golden_bay.png?width=256&height=256"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Metal Plate 02",
+  "categories": [
+    "man made",
+    "metal"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Jandre van Heerden"
+  ],
+  "tags": [
+    "worn",
+    "metal sheet",
+    "corroded metal sheet",
+    "metal sheet ",
+    "steel sheeting",
+    "rusted",
+    "rusty",
+    "iron",
+    "industrial",
+    "grunge",
+    "oxidized metal",
+    "steel",
+    "rust",
+    "metallic",
+    "sheet",
+    "metal",
+    "corroded"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "staging": null,
+  "date_published": 1723680000,
+  "sponsors": [
+    "3267566"
+  ],
+  "files_hash": "ea7cfa8920f98f87f417f684d21a4064290b7dde",
+  "download_count": 37902,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/metal_plate_02.png?width=256&height=256"
+}

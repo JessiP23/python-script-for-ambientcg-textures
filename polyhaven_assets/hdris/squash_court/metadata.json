@@ -1,0 +1,42 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "name": "Squash Court",
+  "categories": [
+    "indoor",
+    "artificial light",
+    "urban",
+    "medium contrast"
+  ],
+  "date_taken": 1724055660,
+  "coords": [
+    -28.491087563379796,
+    29.005052372005014
+  ],
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "384ca979b9ec02fba47f68cbbd284460a32a0a18",
+  "date_published": 1727222400,
+  "staging": null,
+  "tags": [
+    "sport",
+    "court",
+    "lines",
+    "ball game",
+    "arena",
+    "wooden floor",
+    "rafters"
+  ],
+  "download_count": 6777,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/squash_court.png?width=256&height=256"
+}

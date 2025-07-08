@@ -1,0 +1,40 @@
+{
+  "evs_cap": 19,
+  "type": 0,
+  "tags": [
+    "field",
+    "bridge",
+    "underpass",
+    "pillar",
+    "sun"
+  ],
+  "date_published": 1522879200,
+  "name": "Between Bridges",
+  "old_id": 224,
+  "categories": [
+    "outdoor",
+    "urban",
+    "sunrise-sunset",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    51.224918,
+    6.758612
+  ],
+  "date_taken": 1479031260,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "files_hash": "aaa080f826b08d27510b2f4b7c9d45b6cf69ba7b",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 15047,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/between_bridges.png?width=256&height=256"
+}

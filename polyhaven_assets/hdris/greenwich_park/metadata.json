@@ -1,0 +1,47 @@
+{
+  "evs_cap": 14,
+  "type": 0,
+  "tags": [
+    "tree",
+    "sun",
+    "grass",
+    "path",
+    "park",
+    "london"
+  ],
+  "date_published": 1555365600,
+  "name": "Greenwich Park",
+  "old_id": 368,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1549713540,
+  "coords": [
+    51.478275,
+    -0.000731
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "3267566",
+    {
+      "url": "http://alienghostship.com/",
+      "name": "Rick Kay"
+    },
+    "44302755",
+    "11167855"
+  ],
+  "max_resolution": [
+    19638,
+    9819
+  ],
+  "files_hash": "5f0aa312a27d73d151dc6d9faaaf5245d24b2e8c",
+  "download_count": 59705,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/greenwich_park.png?width=256&height=256"
+}

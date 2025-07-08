@@ -1,0 +1,45 @@
+{
+  "name": "Sparse Grass",
+  "categories": [
+    "floor",
+    "natural"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "grass",
+    "nature",
+    "sparse",
+    "roots",
+    "root",
+    "vegetation",
+    "greenery",
+    "landscape",
+    "soil",
+    "environment",
+    "dirt",
+    "plants",
+    "ground",
+    "growth",
+    "flora"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1725926400,
+  "staging": null,
+  "files_hash": "1293431c7316b89282b883ff760be963802f9000",
+  "download_count": 22698,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sparse_grass.png?width=256&height=256"
+}

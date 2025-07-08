@@ -1,0 +1,53 @@
+{
+  "name": "Pine Roots",
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "info": null,
+  "date_published": 1686528000,
+  "categories": [
+    "plants",
+    "nature",
+    "ground cover",
+    "collection: pine_forest"
+  ],
+  "tags": [
+    "pine",
+    "roots",
+    "tree",
+    "forest",
+    "needles",
+    "leaf",
+    "nature",
+    "natural",
+    "plant",
+    "jungle",
+    "foliage",
+    "outdoor",
+    "branches",
+    "dry",
+    "dead",
+    "ground",
+    "dirt",
+    "woodland"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 162693,
+  "texel_density": 5881.445155990671,
+  "dimensions": [
+    1772.075891494751,
+    1893.0891752243042,
+    154.80004251003265
+  ],
+  "files_hash": "8a16347883d31284122bea6c1638f4feca7966ef",
+  "download_count": 11291,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pine_roots.png?width=256&height=256"
+}

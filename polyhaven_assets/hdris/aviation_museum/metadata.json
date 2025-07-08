@@ -1,0 +1,42 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "whitebalance": 5300,
+  "tags": [
+    "grass",
+    "plane",
+    "path",
+    "sun",
+    "park",
+    "museum",
+    "backplates"
+  ],
+  "name": "Aviation Museum",
+  "categories": [
+    "outdoor",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "medium contrast",
+    "natural light",
+    "urban"
+  ],
+  "backplates": true,
+  "date_taken": 1602493800,
+  "coords": [
+    50.406782,
+    30.458331
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1639612800,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "8b6829c8a9750900c55d8b65b5ebcf9c82e2a792",
+  "download_count": 24635,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aviation_museum.png?width=256&height=256"
+}

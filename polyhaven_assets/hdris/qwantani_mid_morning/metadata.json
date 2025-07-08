@@ -1,0 +1,45 @@
+{
+  "type": 0,
+  "name": "Qwantani Mid Morning",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "high contrast",
+    "morning-afternoon",
+    "clear"
+  ],
+  "tags": [
+    "sun",
+    "mountain",
+    "view",
+    "dam",
+    "hilltop",
+    "grass",
+    "lake"
+  ],
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1724148300,
+  "coords": [
+    -28.48533209827116,
+    29.012639559934758
+  ],
+  "evs_cap": 22,
+  "whitebalance": 5313,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "a0e3044a80184b98e77d903773c3ddfacafed075",
+  "date_published": 1738886400,
+  "staging": null,
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "download_count": 9238,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/qwantani_mid_morning.png?width=256&height=256"
+}

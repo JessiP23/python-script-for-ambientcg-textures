@@ -1,0 +1,46 @@
+{
+  "donated": true,
+  "name": "Large Castle Door",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Tina": "All"
+  },
+  "info": null,
+  "date_published": 1694736000,
+  "staging": null,
+  "categories": [
+    "structures",
+    "buildings",
+    "collection: hidden_alley"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 12640,
+  "texel_density": 940.288832791347,
+  "dimensions": [
+    2012.115716934204,
+    338.9068990945816,
+    2964.752435684204
+  ],
+  "sponsors": [
+    "118714804"
+  ],
+  "tags": [
+    "fort",
+    "castle",
+    "gate",
+    "door",
+    "entrance",
+    "stronghold",
+    "fortified gate",
+    "crusades"
+  ],
+  "files_hash": "194bbdcfc45ec659005f36661f327a127a2e7a20",
+  "download_count": 8586,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_castle_door.png?width=256&height=256"
+}

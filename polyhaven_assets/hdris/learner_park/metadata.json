@@ -1,0 +1,45 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "parking",
+    "road",
+    "roof"
+  ],
+  "date_published": 1511996400,
+  "name": "Learner Park",
+  "old_id": 88,
+  "categories": [
+    "outdoor",
+    "skies",
+    "urban",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -26.146295,
+    27.983829
+  ],
+  "date_taken": 1458063000,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "name": "3DLux"
+    },
+    {
+      "url": "http://www.patreon.com/homoeros",
+      "name": "Homoeros"
+    }
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "04176ead9a248e7fca5252c4954183790eab4e74",
+  "download_count": 76191,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/learner_park.png?width=256&height=256"
+}

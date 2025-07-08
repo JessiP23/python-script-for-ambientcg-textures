@@ -1,0 +1,42 @@
+{
+  "type": 2,
+  "name": "Bull Head",
+  "categories": [
+    "decorative"
+  ],
+  "tags": [
+    "antique",
+    "vintage",
+    "old",
+    "ornate",
+    "statue",
+    "sculpture",
+    "animal",
+    "art",
+    "wildlife"
+  ],
+  "authors": {
+    "Tina": "All"
+  },
+  "reviewers": [
+    "Rico Cilliers",
+    "James Ray Cock"
+  ],
+  "donated": true,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 17148,
+  "texel_density": 12137.474803547344,
+  "dimensions": [
+    306.3598871231079,
+    280.7491421699524,
+    433.00686348811723
+  ],
+  "date_published": 1739145600,
+  "staging": null,
+  "files_hash": "69296e3dab4af13ddb59b1c9323152dd43d237ac",
+  "download_count": 3196,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bull_head.png?width=256&height=256"
+}

@@ -1,0 +1,41 @@
+{
+  "type": 2,
+  "name": "Scandinavian Masonry Heater",
+  "categories": [
+    "appliances"
+  ],
+  "tags": [
+    "heater",
+    "home heating",
+    "furnace",
+    "fireplace",
+    "wood stove",
+    "central heating"
+  ],
+  "authors": {
+    "Kuutti Siitonen": "All"
+  },
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "donated": true,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 9350,
+  "texel_density": 2577.397018142742,
+  "dimensions": [
+    1167.6969528198242,
+    1335.2788388729095,
+    2360.4823132336605
+  ],
+  "date_published": 1747612800,
+  "staging": null,
+  "sponsors": [
+    "121968951"
+  ],
+  "files_hash": "1df0efcec018e691b441ce2b2d246a0edea14fab",
+  "download_count": 362,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/scandinavian_masonry_heater.png?width=256&height=256"
+}

@@ -1,0 +1,50 @@
+{
+  "lods": true,
+  "name": "Stone 01",
+  "categories": [
+    "rocks",
+    "nature",
+    "collection: verdant_trail"
+  ],
+  "type": 2,
+  "reviewers": [
+    "Jandre van Heerden",
+    "James Ray Cock"
+  ],
+  "version_required": {
+    "blend": "4.0.1"
+  },
+  "authors": {
+    "Dario Barresi": "Photography",
+    "Rico Cilliers": "photography, processing"
+  },
+  "info": null,
+  "date_published": 1707177600,
+  "staging": null,
+  "tags": [
+    "rock",
+    "stone",
+    "pebbles",
+    "dirt",
+    "terrain",
+    "gravel",
+    "quartz"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 71916,
+  "texel_density": 36264.456258287806,
+  "dimensions": [
+    147.15217798948288,
+    89.41811323165894,
+    71.89157977700233
+  ],
+  "sponsors": [
+    "95481047"
+  ],
+  "files_hash": "3b541260ddde766b6bcfae56be426b81ce1a1e81",
+  "download_count": 2940,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_01.png?width=256&height=256"
+}

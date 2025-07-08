@@ -1,0 +1,38 @@
+{
+  "date_published": 1585605600,
+  "name": "Ottoman 01",
+  "old_id": 28,
+  "categories": [
+    "furniture",
+    "seating"
+  ],
+  "type": 2,
+  "tags": [
+    "furniture",
+    "leather",
+    "chair",
+    "fabric",
+    "ottoman",
+    "upholstery",
+    "interior design",
+    "living room",
+    "lounge"
+  ],
+  "authors": {
+    "Caspian Fortune": "All"
+  },
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 4240,
+  "texel_density": 2191.152903771073,
+  "dimensions": [
+    884.5577836036682,
+    621.1484670639038,
+    624.3239195573551
+  ],
+  "files_hash": "bc9b99f10b19594d926dbd9ed049cb7c7ccd6e77",
+  "download_count": 31389,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/Ottoman_01.png?width=256&height=256"
+}

@@ -1,0 +1,34 @@
+{
+  "type": 1,
+  "tags": [
+    "mud",
+    "dirt",
+    "flat",
+    "dry"
+  ],
+  "date_published": 1540870287,
+  "name": "Red Mud Stones",
+  "old_id": 170,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "natural"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "sponsors": [
+    "77433244"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "0ecfc8ec38d337f9ac1b78cc2862dae2978a9185",
+  "download_count": 45626,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_mud_stones.png?width=256&height=256"
+}

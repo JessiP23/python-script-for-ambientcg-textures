@@ -1,0 +1,35 @@
+{
+  "evs_cap": 11,
+  "type": 0,
+  "tags": [
+    "stage",
+    "abandoned",
+    "theater",
+    "graffiti"
+  ],
+  "date_published": 1542074657,
+  "name": "Summer Stage 01",
+  "old_id": 325,
+  "categories": [
+    "outdoor",
+    "urban",
+    "sunrise-sunset",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1538403540,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "10485422"
+  ],
+  "files_hash": "edc6af2dac5a8bbd64ebb2b9653d9a726ea7ac8e",
+  "max_resolution": [
+    16500,
+    8250
+  ],
+  "download_count": 10967,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/summer_stage_01.png?width=256&height=256"
+}

@@ -1,0 +1,37 @@
+{
+  "donated": true,
+  "type": 2,
+  "tags": [
+    "bowl",
+    "wooden",
+    "carved",
+    "fruit",
+    "fruitbowl",
+    "decoration"
+  ],
+  "name": "Wooden Bowl 01",
+  "categories": [
+    "props",
+    "decorative",
+    "dishes"
+  ],
+  "authors": {
+    "Oliver Harries": "All"
+  },
+  "date_published": 1628553600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 14122,
+  "texel_density": 14009.285372655248,
+  "dimensions": [
+    313.08163702487946,
+    309.1423809528351,
+    93.69255532510579
+  ],
+  "files_hash": "ff38f8071c92479217e80fabee05cb78ca6ef1a0",
+  "download_count": 13103,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_bowl_01.png?width=256&height=256"
+}

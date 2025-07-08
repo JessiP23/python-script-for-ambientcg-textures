@@ -1,0 +1,47 @@
+{
+  "donated": true,
+  "date_published": 1679011200,
+  "name": "Machete",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "staging": null,
+  "info": null,
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "categories": [
+    "props",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "weapon",
+    "knife",
+    "iron",
+    "steel",
+    "shed",
+    "gardening",
+    "metal",
+    "jungle",
+    "blade",
+    "sharp",
+    "survival",
+    "tool",
+    "combat"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 3032,
+  "texel_density": 11365.22978788816,
+  "dimensions": [
+    44.37695816159248,
+    61.11501157283783,
+    754.8029869794846
+  ],
+  "files_hash": "54da902ed97f1b9fd21636d1b5b7efb1c5de9593",
+  "download_count": 4668,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/machete.png?width=256&height=256"
+}

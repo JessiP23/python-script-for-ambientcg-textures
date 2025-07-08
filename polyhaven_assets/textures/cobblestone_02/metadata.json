@@ -1,0 +1,43 @@
+{
+  "name": "Cobblestone 02",
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "cobblestone",
+    "path",
+    "footpath",
+    "stones",
+    "pebbles",
+    "dirty",
+    "walkway",
+    "garden walkway",
+    "outdoors",
+    "dry"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1799.9995946884155,
+    1799.9995946884155
+  ],
+  "date_published": 1696464000,
+  "staging": null,
+  "categories": [
+    "man made",
+    "floor",
+    "outdoor",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "b3831d19cdfdb8277b2f945c1652618345468505",
+  "download_count": 4953,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_02.png?width=256&height=256"
+}

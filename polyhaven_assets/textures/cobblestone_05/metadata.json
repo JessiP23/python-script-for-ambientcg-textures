@@ -1,0 +1,41 @@
+{
+  "scale": "1",
+  "type": 1,
+  "tags": [
+    "cobblestone",
+    "old",
+    "garden",
+    "pathway",
+    "moss",
+    "pavement"
+  ],
+  "date_published": 1529359200,
+  "name": "Cobblestone 05",
+  "old_id": 83,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2400.0000953674316,
+    2400.0000953674316
+  ],
+  "sponsors": [
+    "59361351",
+    "7934315"
+  ],
+  "categories": [
+    "floor",
+    "man made",
+    "outdoor",
+    "dirty",
+    "road",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "6a3be9faa99dc73865cb941e3ded4c0350086fd3",
+  "download_count": 24559,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_05.png?width=256&height=256"
+}

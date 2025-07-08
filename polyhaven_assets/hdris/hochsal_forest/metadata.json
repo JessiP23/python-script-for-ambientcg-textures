@@ -1,0 +1,39 @@
+{
+  "donated": true,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "tree",
+    "forest",
+    "autumn",
+    "leaves",
+    "mud",
+    "trail"
+  ],
+  "name": "Hochsal Forest",
+  "categories": [
+    "overcast",
+    "low contrast",
+    "midday",
+    "natural light",
+    "nature",
+    "outdoor"
+  ],
+  "date_taken": 1487011260,
+  "authors": {
+    "Adrian Kubasa": "All"
+  },
+  "info": null,
+  "files_hash": "139e293ba93e714f181b8fdf0f3798d3fb5e6ace",
+  "evs_cap": 0,
+  "date_published": 1702166400,
+  "staging": null,
+  "max_resolution": [
+    16192,
+    8096
+  ],
+  "download_count": 14006,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hochsal_forest.png?width=256&height=256"
+}

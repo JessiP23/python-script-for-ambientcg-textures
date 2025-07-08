@@ -1,0 +1,40 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "grass",
+    "path",
+    "asphalt",
+    "park",
+    "tree"
+  ],
+  "name": "Bismarckturm Hillside",
+  "categories": [
+    "outdoor",
+    "low contrast",
+    "nature",
+    "natural light",
+    "partly cloudy",
+    "sunrise-sunset"
+  ],
+  "date_taken": 1626461640,
+  "coords": [
+    48.794568,
+    9.161839
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1629849600,
+  "staging": null,
+  "sponsors": [
+    "42579608"
+  ],
+  "files_hash": "d967df2d14ef41dd36c61fdb8717a1f30fa77fda",
+  "max_resolution": [
+    20500,
+    10250
+  ],
+  "download_count": 55980,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bismarckturm_hillside.png?width=256&height=256"
+}

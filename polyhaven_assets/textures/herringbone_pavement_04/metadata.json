@@ -1,0 +1,45 @@
+{
+  "type": 1,
+  "name": "Herringbone Pavement 04",
+  "categories": [
+    "man made",
+    "road",
+    "outdoor"
+  ],
+  "tags": [
+    "weathered",
+    "rough",
+    "discolored",
+    "dirty",
+    "coarse",
+    "outdoor",
+    "aged",
+    "weatherbeaten",
+    "timeworn",
+    "driveway texture",
+    "rough  ",
+    "pavement",
+    "rugged",
+    "pathway"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "date_published": 1735171200,
+  "staging": null,
+  "files_hash": "1b7da9f0c890209eb96fb22c7899f7c8798a704c",
+  "download_count": 646,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/herringbone_pavement_04.png?width=256&height=256"
+}

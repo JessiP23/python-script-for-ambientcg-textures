@@ -1,0 +1,46 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "brick",
+    "pool",
+    "snooker",
+    "ball game",
+    "carpet",
+    "window",
+    "lamp",
+    "billiards",
+    "table"
+  ],
+  "name": "Billiard Hall",
+  "categories": [
+    "indoor",
+    "urban",
+    "natural light",
+    "artificial light",
+    "medium contrast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1724336160,
+  "coords": [
+    -28.490444919267457,
+    29.00577761138751
+  ],
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "8d8ab63e422d8e38e131ded21cbd664310792f77",
+  "date_published": 1727395200,
+  "staging": null,
+  "download_count": 26312,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/billiard_hall.png?width=256&height=256"
+}

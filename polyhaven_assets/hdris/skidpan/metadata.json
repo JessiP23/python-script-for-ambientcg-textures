@@ -1,0 +1,45 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5313,
+  "name": "Skidpan",
+  "date_taken": 1668701340,
+  "coords": [
+    -26.32381194982623,
+    28.06584939065912
+  ],
+  "info": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "categories": [
+    "natural light",
+    "outdoor",
+    "partly cloudy",
+    "low contrast",
+    "morning-afternoon",
+    "urban",
+    "skies"
+  ],
+  "tags": [
+    "asphalt",
+    "road",
+    "street",
+    "race",
+    "barrier",
+    "track"
+  ],
+  "date_published": 1674604800,
+  "staging": null,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "109f1f5e54ff50f982361151c27a586849e8e4a2",
+  "download_count": 46619,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/skidpan.png?width=256&height=256"
+}

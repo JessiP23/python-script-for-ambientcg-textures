@@ -1,0 +1,48 @@
+{
+  "donated": true,
+  "name": "Covered Car",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "MP": "All"
+  },
+  "info": null,
+  "staging": null,
+  "date_published": 1700611200,
+  "categories": [
+    "props",
+    "industrial",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "garage",
+    "stored",
+    "vehicle",
+    "car",
+    "workshop",
+    "mechanic",
+    "automotive",
+    "repair shop",
+    "junkyard",
+    "scrapyard"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 12592,
+  "texel_density": 1301.910383709177,
+  "dimensions": [
+    1788.962960243225,
+    4380.25426864624,
+    1411.1130833625793
+  ],
+  "sponsors": [
+    "121968951"
+  ],
+  "files_hash": "22592d3c2b16533339ed1bf4e4320e25e5a76cf2",
+  "download_count": 22698,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/covered_car.png?width=256&height=256"
+}

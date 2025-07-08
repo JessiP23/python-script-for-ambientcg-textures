@@ -1,0 +1,35 @@
+{
+  "scale": "1",
+  "type": 1,
+  "tags": [
+    "cobblestone",
+    "uneven",
+    "old",
+    "pavement"
+  ],
+  "date_published": 1529359200,
+  "name": "Cobblestone Floor 05",
+  "old_id": 87,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "categories": [
+    "floor",
+    "outdoor",
+    "dirty",
+    "man made",
+    "road",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "987e845045914f5e9016705384f289f5507ba2ce",
+  "download_count": 20586,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_floor_05.png?width=256&height=256"
+}

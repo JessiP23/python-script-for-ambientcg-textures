@@ -1,0 +1,38 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "theater",
+    "theatre",
+    "seat",
+    "orchestra",
+    "stage",
+    "curtain"
+  ],
+  "date_published": 1551430731,
+  "name": "Theater 01",
+  "old_id": 354,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1548868860,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "sponsors": [
+    {
+      "url": "https://www.artstation.com/robinsnest",
+      "name": "Natascha Hufgard"
+    }
+  ],
+  "files_hash": "ddb59d6b2338c7cd116dad72ef2732016f9f9ccc",
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "download_count": 17202,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/theater_01.png?width=256&height=256"
+}

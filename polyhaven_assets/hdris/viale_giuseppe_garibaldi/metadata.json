@@ -1,0 +1,48 @@
+{
+  "evs_cap": 18,
+  "type": 0,
+  "whitebalance": 4000,
+  "date_published": 1520316956,
+  "name": "Viale Giuseppe Garibaldi",
+  "old_id": 137,
+  "categories": [
+    "outdoor",
+    "urban",
+    "night",
+    "clear",
+    "high contrast",
+    "artificial light"
+  ],
+  "date_taken": 1509640980,
+  "coords": [
+    45.4319,
+    12.3549
+  ],
+  "sponsors": [
+    "8571269"
+  ],
+  "backplates": true,
+  "tags": [
+    "tree",
+    "europe",
+    "lamp",
+    "stone",
+    "gravel",
+    "statue",
+    "fence",
+    "path",
+    "park",
+    "backplates"
+  ],
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "3703de15e582f78698e0d39404bc679deed475a6",
+  "download_count": 68986,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/viale_giuseppe_garibaldi.png?width=256&height=256"
+}

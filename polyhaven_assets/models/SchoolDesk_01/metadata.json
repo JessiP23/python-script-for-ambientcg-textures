@@ -1,0 +1,37 @@
+{
+  "type": 2,
+  "tags": [
+    "table",
+    "school",
+    "desk",
+    "wood",
+    "metal",
+    "classroom"
+  ],
+  "date_published": 1585605600,
+  "name": "School Desk 01",
+  "old_id": 13,
+  "categories": [
+    "furniture"
+  ],
+  "authors": {
+    "Ethan Place": "All"
+  },
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 4162,
+  "texel_density": 2254.880038685963,
+  "dimensions": [
+    711.7760181427002,
+    545.9675788879395,
+    882.6298794883769
+  ],
+  "sponsors": [
+    "42579608"
+  ],
+  "files_hash": "6de377a9a619e91fff0b2b89a601e99e408b29a0",
+  "download_count": 14983,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/SchoolDesk_01.png?width=256&height=256"
+}

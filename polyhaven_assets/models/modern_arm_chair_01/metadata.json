@@ -1,0 +1,46 @@
+{
+  "donated": true,
+  "date_published": 1667174400,
+  "name": "Modern Arm Chair 01",
+  "categories": [
+    "furniture",
+    "seating",
+    "office"
+  ],
+  "type": 2,
+  "staging": null,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "wood",
+    "leather",
+    "fancy",
+    "modern",
+    "chair",
+    "contemporary",
+    "wooden",
+    "lounge"
+  ],
+  "info": null,
+  "authors": {
+    "Vibrant Nordic": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 8916,
+  "texel_density": 2929.070490134976,
+  "dimensions": [
+    820.3444182872772,
+    986.5616858005524,
+    1022.8520567470696
+  ],
+  "files_hash": "6893f36e58dddba95bd0ae1f1ef38537c1852a0b",
+  "download_count": 41915,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modern_arm_chair_01.png?width=256&height=256"
+}

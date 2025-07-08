@@ -1,0 +1,43 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "tags": [
+    "tree",
+    "sun",
+    "path",
+    "grass",
+    "dam",
+    "pond",
+    "bench",
+    "park"
+  ],
+  "date_published": 1511996400,
+  "name": "Park Bench",
+  "old_id": 94,
+  "categories": [
+    "outdoor",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -26.162496,
+    28.001182
+  ],
+  "date_taken": 1438238580,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "files_hash": "5e2c58c93c8d2834340834309ce76bfcf9c6f7e3",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 40059,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/park_bench.png?width=256&height=256"
+}

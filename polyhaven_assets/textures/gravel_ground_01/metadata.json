@@ -1,0 +1,36 @@
+{
+  "scale": "3x3m",
+  "type": 1,
+  "tags": [
+    "gravel",
+    "pathway",
+    "path",
+    "stones",
+    "ground",
+    "sidewalk",
+    "rural",
+    "farm"
+  ],
+  "date_published": 1611055808,
+  "name": "Gravel Ground 01",
+  "old_id": 298,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "natural"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    3000,
+    3000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "1172e523db8f69e48d18c399dd8d9eac9be73c17",
+  "download_count": 22549,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gravel_ground_01.png?width=256&height=256"
+}

@@ -1,0 +1,43 @@
+{
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "name": "Wooden Bucket 01",
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "date_published": 1648598400,
+  "staging": null,
+  "sponsors": [
+    "9910225"
+  ],
+  "categories": [
+    "props",
+    "containers",
+    "collection: smugglers_cove"
+  ],
+  "tags": [
+    "wooden",
+    "bucket",
+    "old",
+    "worn",
+    "wood",
+    "prop",
+    "container"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 5116,
+  "texel_density": 7673.335509768572,
+  "dimensions": [
+    366.97085201740265,
+    342.2211855649948,
+    549.862340092659
+  ],
+  "files_hash": "8d260ae5188bca1ef50676560a2c7a4160c82100",
+  "download_count": 11491,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_bucket_01.png?width=256&height=256"
+}

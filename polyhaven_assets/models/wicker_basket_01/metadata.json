@@ -1,0 +1,49 @@
+{
+  "donated": true,
+  "date_published": 1672963200,
+  "name": "Wicker Basket 01",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "staging": null,
+  "info": null,
+  "authors": {
+    "Kuutti Siitonen": "All"
+  },
+  "categories": [
+    "containers",
+    "decorative",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "wood",
+    "wicker",
+    "twine",
+    "basket",
+    "picnic",
+    "outdoor",
+    "kitchen",
+    "dining",
+    "table",
+    "shed",
+    "farm"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 22276,
+  "texel_density": 7264.531424070384,
+  "dimensions": [
+    383.2242637872696,
+    295.01520097255707,
+    117.42293369024992
+  ],
+  "sponsors": [
+    "3237733"
+  ],
+  "files_hash": "49f624a285b5e5dc8fe4b75ad18cf5d18d8cdca1",
+  "download_count": 12939,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wicker_basket_01.png?width=256&height=256"
+}

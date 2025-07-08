@@ -1,0 +1,38 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "tags": [
+    "water",
+    "lake",
+    "dam",
+    "road",
+    "sun"
+  ],
+  "date_published": 1558648800,
+  "name": "Lakes",
+  "old_id": 375,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1553620140,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "files_hash": "0fba8019ff233cc2cef76900be48507af47ffb5d",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "11167855",
+    "42579608"
+  ],
+  "download_count": 60988,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lakes.png?width=256&height=256"
+}

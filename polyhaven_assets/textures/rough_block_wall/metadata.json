@@ -1,0 +1,33 @@
+{
+  "scale": "1.5M x 1.5M",
+  "type": 1,
+  "tags": [
+    "rough",
+    "uneven",
+    "stone",
+    "blocks"
+  ],
+  "date_published": 1560892113,
+  "name": "Rough Block Wall",
+  "old_id": 212,
+  "categories": [
+    "man made",
+    "outdoor",
+    "brick",
+    "wall"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    3039.9999618530273,
+    3000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "736417e028bef4127e8f3cfd0577a79424097f65",
+  "download_count": 81516,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rough_block_wall.png?width=256&height=256"
+}

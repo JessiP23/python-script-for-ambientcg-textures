@@ -1,0 +1,48 @@
+{
+  "donated": true,
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "boardgame",
+    "game",
+    "old",
+    "decor",
+    "home",
+    "vintage",
+    "antique",
+    "tabletop",
+    "display piece",
+    "ornamental",
+    "elegant"
+  ],
+  "date_published": 1684886400,
+  "name": "Chess Set",
+  "categories": [
+    "decorative",
+    "props"
+  ],
+  "staging": null,
+  "authors": {
+    "Riley Queen": "All"
+  },
+  "info": null,
+  "sponsors": [
+    "78546118"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 76920,
+  "texel_density": 16502.576681437942,
+  "dimensions": [
+    553.2379746437073,
+    553.2379746437073,
+    112.3529537471768
+  ],
+  "files_hash": "fe02fd16e17017a92c414b79d7f81047708e89ee",
+  "download_count": 38841,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/chess_set.png?width=256&height=256"
+}

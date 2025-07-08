@@ -1,0 +1,41 @@
+{
+  "evs_cap": 10,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1529659914,
+  "name": "Lythwood Room",
+  "old_id": 288,
+  "categories": [
+    "indoor",
+    "urban",
+    "midday",
+    "overcast",
+    "low contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1521710520,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "backplates": true,
+  "tags": [
+    "couch",
+    "bed",
+    "lamp",
+    "window",
+    "mantel",
+    "carpet",
+    "backplates"
+  ],
+  "sponsors": [
+    "4714267"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "ea0d9747c2e4f020c56624dba34b53276ca7e483",
+  "download_count": 75486,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lythwood_room.png?width=256&height=256"
+}

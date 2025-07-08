@@ -1,0 +1,37 @@
+{
+  "evs_cap": 11,
+  "type": 0,
+  "tags": [
+    "road",
+    "grass",
+    "field",
+    "snow",
+    "winter"
+  ],
+  "date_published": 1559858400,
+  "name": "Rural Winter Roadside",
+  "old_id": 381,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1553015700,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "10485422"
+  ],
+  "files_hash": "0fd75a83df15c40ba5283a31e977df04495c2597",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 38064,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rural_winter_roadside.png?width=256&height=256"
+}

@@ -1,0 +1,46 @@
+{
+  "evs_cap": 16,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 4800,
+  "tags": [
+    "airport",
+    "hall",
+    "warehouse",
+    "high ceiling",
+    "tiles",
+    "europe",
+    "building",
+    "aviation",
+    "museum",
+    "modern"
+  ],
+  "categories": [
+    "indoor",
+    "low contrast",
+    "natural light",
+    "artificial light",
+    "urban"
+  ],
+  "date_taken": 1697705460,
+  "coords": [
+    53.914053,
+    12.286228
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "info": null,
+  "name": "Rostock-Laage Airport",
+  "files_hash": "ac9c454abd5367ff42d5f657733e6162a0842acf",
+  "staging": null,
+  "date_published": 1705622400,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 70871,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rostock_laage_airport.png?width=256&height=256"
+}

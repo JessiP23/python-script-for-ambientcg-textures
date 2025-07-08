@@ -1,0 +1,33 @@
+{
+  "scale": "2.5M x 2.5M",
+  "type": 1,
+  "tags": [
+    "rough",
+    "broken",
+    "red"
+  ],
+  "date_published": 1560041436,
+  "name": "Red Bricks 02",
+  "old_id": 206,
+  "categories": [
+    "outdoor",
+    "wall",
+    "dirty",
+    "man made",
+    "brick"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2500,
+    2500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "c4a11c6b176cb8debf19e3c08fa6209c7bb1594b",
+  "download_count": 21872,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_bricks_02.png?width=256&height=256"
+}

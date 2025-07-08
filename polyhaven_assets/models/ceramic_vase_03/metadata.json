@@ -1,0 +1,39 @@
+{
+  "type": 2,
+  "name": "Ceramic Vase 03",
+  "categories": [
+    "containers",
+    "decorative",
+    "vases"
+  ],
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "tags": [
+    "clay",
+    "pot",
+    "exterior",
+    "decor",
+    "painted",
+    "vase",
+    "tall",
+    "modern",
+    "fancy"
+  ],
+  "date_published": 1623767605,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2784,
+  "texel_density": 11997.232819630633,
+  "dimensions": [
+    112.45502531528473,
+    112.45502158999443,
+    414.438920259272
+  ],
+  "files_hash": "df64b230fb44e0aceff07e3dc0aa97b7ebcb1143",
+  "download_count": 6749,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ceramic_vase_03.png?width=256&height=256"
+}

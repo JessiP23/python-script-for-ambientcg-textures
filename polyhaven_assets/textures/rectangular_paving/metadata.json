@@ -1,0 +1,40 @@
+{
+  "type": 1,
+  "name": "Rectangular Paving",
+  "categories": [
+    "floor",
+    "outdoor",
+    "man made"
+  ],
+  "tags": [
+    "coarse",
+    "driveway texture",
+    "paving",
+    "driveway stones",
+    "stone paving",
+    "multicoloured",
+    "outdoor flooring",
+    "decorative paving",
+    "outdoor walkway",
+    "exterior flooring"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "reviewers": [
+    "Rob Tuytel"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "staging": null,
+  "date_published": 1747699200,
+  "files_hash": "a144ac237eb760c6de37688d793f6eb83acda849",
+  "download_count": 3249,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rectangular_paving.png?width=256&height=256"
+}

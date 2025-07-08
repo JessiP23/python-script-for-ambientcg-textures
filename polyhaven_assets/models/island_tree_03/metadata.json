@@ -1,0 +1,56 @@
+{
+  "date_published": 1667520000,
+  "name": "Island Tree 03",
+  "categories": [
+    "nature",
+    "plants",
+    "trees"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "staging": null,
+  "authors": {
+    "Rob Tuytel": "scanning, processing",
+    "Rico Cilliers": "cleanup, processing"
+  },
+  "info": null,
+  "tags": [
+    "tree",
+    "natural",
+    "nature",
+    "green",
+    "plant",
+    "outdoor",
+    "leaf",
+    "botany",
+    "leaves",
+    "forest",
+    "bush",
+    "jungle",
+    "foliage",
+    "small",
+    "geometry nodes",
+    "trunk",
+    "bark",
+    "island",
+    "coastal"
+  ],
+  "geonodes": true,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 4760490,
+  "files_hash": "1a79cbc33b9534f23a88a1adc2ad8fcdce54505a",
+  "texel_density": 87285.28377769474,
+  "dimensions": [
+    8489.88127708435,
+    2913.232445716858,
+    2615.518140606582
+  ],
+  "lods": true,
+  "download_count": 18936,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/island_tree_03.png?width=256&height=256"
+}

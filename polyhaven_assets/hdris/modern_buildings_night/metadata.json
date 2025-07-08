@@ -1,0 +1,40 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "tags": [
+    "building",
+    "europe",
+    "river",
+    "architecture",
+    "lamp"
+  ],
+  "date_published": 1511996400,
+  "name": "Modern Buildings Night",
+  "old_id": 89,
+  "categories": [
+    "outdoor",
+    "urban",
+    "night",
+    "partly cloudy",
+    "high contrast",
+    "artificial light"
+  ],
+  "coords": [
+    52.520154,
+    13.376159
+  ],
+  "date_taken": 1478452440,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "8571269"
+  ],
+  "files_hash": "21cdd875cc03ed16e6ac59c052826f12efa875c7",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 73110,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modern_buildings_night.png?width=256&height=256"
+}

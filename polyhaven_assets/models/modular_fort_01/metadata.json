@@ -1,0 +1,47 @@
+{
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "name": "Modular Fort 01",
+  "authors": {
+    "Rico Cilliers": "All"
+  },
+  "date_published": 1654214400,
+  "staging": null,
+  "sponsors": [
+    "3267566"
+  ],
+  "categories": [
+    "structures",
+    "buildings",
+    "collection: smugglers_cove"
+  ],
+  "tags": [
+    "fort",
+    "modular",
+    "old",
+    "colonial",
+    "castle",
+    "wall",
+    "ramparts",
+    "structure",
+    "building",
+    "stone",
+    "ancient"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 28218,
+  "texel_density": 88.86101775318446,
+  "dimensions": [
+    71375.29754638672,
+    42669.87609863281,
+    13672.092854976654
+  ],
+  "files_hash": "5ccbf62aeee96ea99cf0c2e29e4c8ed843ee7c44",
+  "download_count": 31614,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modular_fort_01.png?width=256&height=256"
+}

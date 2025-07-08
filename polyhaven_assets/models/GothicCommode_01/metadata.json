@@ -1,0 +1,39 @@
+{
+  "type": 2,
+  "tags": [
+    "vintage",
+    "wood",
+    "table",
+    "gothic",
+    "shelf",
+    "furniture",
+    "decorative"
+  ],
+  "date_published": 1585605600,
+  "name": "Gothic Commode 01",
+  "old_id": 21,
+  "categories": [
+    "furniture",
+    "shelves"
+  ],
+  "authors": {
+    "Kirill Sannikov": "All"
+  },
+  "sponsors": [
+    "66627515"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 3897,
+  "texel_density": 11.58479802006512,
+  "dimensions": [
+    1201.4026641845703,
+    580.6596577167511,
+    1212.042630148815
+  ],
+  "files_hash": "44af11eb2a3a9261b91143b84907aeede142858e",
+  "download_count": 34577,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/GothicCommode_01.png?width=256&height=256"
+}

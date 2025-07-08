@@ -1,0 +1,41 @@
+{
+  "evs_cap": 6,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1525730400,
+  "name": "Lythwood Field",
+  "old_id": 269,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -29.4378,
+    30.0529
+  ],
+  "date_taken": 1521794880,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "10485422"
+  ],
+  "backplates": true,
+  "tags": [
+    "tree",
+    "grass",
+    "field",
+    "backplates"
+  ],
+  "files_hash": "6c302d01e539ba8024aea5bd8a9c78280df3dacc",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 98604,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lythwood_field.png?width=256&height=256"
+}

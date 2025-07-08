@@ -1,0 +1,33 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "whitebalance": 5500,
+  "tags": [
+    "fish",
+    "shark",
+    "museum"
+  ],
+  "date_published": 1547161200,
+  "name": "Hall of Finfish",
+  "old_id": 341,
+  "categories": [
+    "indoor",
+    "urban",
+    "low contrast",
+    "artificial light"
+  ],
+  "date_taken": 1544094120,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "sponsors": [
+    "7937768"
+  ],
+  "files_hash": "5590570c981cf1082e67ef6bde61c189b2cb2a6d",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 19913,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hall_of_finfish.png?width=256&height=256"
+}

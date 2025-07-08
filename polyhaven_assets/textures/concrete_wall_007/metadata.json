@@ -1,0 +1,54 @@
+{
+  "name": "Concrete Wall 007",
+  "categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "plaster-concrete",
+    "concrete",
+    "plaster"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "old",
+    "weathered",
+    "wall",
+    "worn",
+    "damaged",
+    "chipped",
+    "discolored",
+    "cracked",
+    "stained",
+    "dirty",
+    "dry",
+    "plaster",
+    "scratched",
+    "concrete",
+    "plastered",
+    "cement",
+    "grey"
+  ],
+  "info": null,
+  "dimensions": [
+    2159.9998474121094,
+    2159.9998474121094
+  ],
+  "date_published": 1674086400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "c5e1c8435799f08d174a94c5e73d43e955572a10",
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Rico Cilliers": "Tiling",
+    "Charlotte Baglioni": "Photography"
+  },
+  "download_count": 63754,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_wall_007.png?width=256&height=256"
+}

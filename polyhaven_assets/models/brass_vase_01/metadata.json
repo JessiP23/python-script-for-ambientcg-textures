@@ -1,0 +1,40 @@
+{
+  "type": 2,
+  "tags": [
+    "brass",
+    "antique",
+    "metal",
+    "ancient",
+    "artifact",
+    "vase",
+    "old",
+    "clean"
+  ],
+  "name": "Brass Vase 01",
+  "categories": [
+    "decorative",
+    "vases"
+  ],
+  "authors": {
+    "Rico Cilliers": "All"
+  },
+  "staging": null,
+  "date_published": 1629936000,
+  "sponsors": [
+    "42579608"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 21440,
+  "texel_density": 12315.222890980545,
+  "dimensions": [
+    227.3191586136818,
+    227.31918096542358,
+    692.4719526432455
+  ],
+  "files_hash": "c7c0ecd0be363f53878e45bda4f10cbb382bca54",
+  "download_count": 8746,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brass_vase_01.png?width=256&height=256"
+}

@@ -1,0 +1,44 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "bench",
+    "restaurant",
+    "arch",
+    "brick",
+    "rafters",
+    "cafe",
+    "seat",
+    "flag"
+  ],
+  "name": "Boma",
+  "categories": [
+    "indoor",
+    "urban",
+    "natural light",
+    "medium contrast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1724334720,
+  "coords": [
+    -28.49152818417982,
+    29.00441942047025
+  ],
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "2aa11c0c7a82d729c5532f348a90634a479533fb",
+  "date_published": 1728604800,
+  "staging": null,
+  "download_count": 10017,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/boma.png?width=256&height=256"
+}

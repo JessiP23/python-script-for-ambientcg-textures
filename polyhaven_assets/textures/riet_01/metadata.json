@@ -1,0 +1,40 @@
+{
+  "type": 1,
+  "tags": [
+    "reed",
+    "grey",
+    "old",
+    "village",
+    "straw",
+    "hut",
+    "thatch",
+    "rural",
+    "medieval"
+  ],
+  "date_published": 1529359200,
+  "name": "Riet 01",
+  "old_id": 105,
+  "categories": [
+    "roofing",
+    "outdoor",
+    "man made"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2500,
+    2500
+  ],
+  "sponsors": [
+    "4714267",
+    "77433244"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "673859a83d61e40a08419821591c5ebe2f922c66",
+  "download_count": 29950,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/riet_01.png?width=256&height=256"
+}

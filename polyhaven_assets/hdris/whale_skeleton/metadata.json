@@ -1,0 +1,34 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "whitebalance": 5500,
+  "tags": [
+    "museum",
+    "bone",
+    "whale",
+    "skeleton"
+  ],
+  "date_published": 1547506800,
+  "name": "Whale Skeleton",
+  "old_id": 342,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1544018580,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "sponsors": [
+    "8571269"
+  ],
+  "files_hash": "1eae7a807574936b5c7ce7d49d13cf4d5b722987",
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "download_count": 14271,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/whale_skeleton.png?width=256&height=256"
+}

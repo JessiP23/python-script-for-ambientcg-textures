@@ -1,0 +1,34 @@
+{
+  "date_published": 1588645987,
+  "sponsors": [
+    "3237733"
+  ],
+  "name": "Denim Fabric",
+  "old_id": 255,
+  "type": 1,
+  "tags": [
+    "jeans",
+    "pants",
+    "cloth",
+    "clothing",
+    "denim"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    100.00000149011612,
+    99.99999403953552
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "categories": [
+    "fabric",
+    "denim"
+  ],
+  "files_hash": "96b7861fe6bf60dcc6cd7f46f471123cb07c1e2a",
+  "download_count": 86938,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/denim_fabric.png?width=256&height=256"
+}

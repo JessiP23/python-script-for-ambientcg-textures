@@ -1,0 +1,43 @@
+{
+  "type": 2,
+  "name": "Vintage Video Camera",
+  "categories": [
+    "electronics",
+    "appliances"
+  ],
+  "tags": [
+    "old",
+    "vintage",
+    "photography",
+    "film",
+    "cinematic",
+    "video",
+    "worldwar2",
+    "camera",
+    "recording",
+    "tape"
+  ],
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 18682,
+  "texel_density": 20933.899270842496,
+  "dimensions": [
+    71.20675966143608,
+    132.58329033851624,
+    144.9999362230301
+  ],
+  "date_published": 1750032000,
+  "staging": null,
+  "authors": {
+    "James Ray Cock": "Textures",
+    "Jenelle van Heerden": "Photography & Model"
+  },
+  "files_hash": "c07a3cd8f538e99f6f8a5863ceae5bd3d9be40ce",
+  "download_count": 540,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/vintage_video_camera.png?width=256&height=256"
+}

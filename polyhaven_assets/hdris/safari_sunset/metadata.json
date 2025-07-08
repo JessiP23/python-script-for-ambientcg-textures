@@ -1,0 +1,40 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "veld",
+    "bush",
+    "safari",
+    "dense",
+    "dry grass"
+  ],
+  "name": "Safari Sunset",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "low contrast",
+    "skies"
+  ],
+  "date_taken": 1693762440,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "files_hash": "fdfe55b219cb25e41a55f6ea87854cb0662547f6",
+  "date_published": 1702857600,
+  "staging": null,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "download_count": 20860,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/safari_sunset.png?width=256&height=256"
+}

@@ -1,0 +1,44 @@
+{
+  "type": 1,
+  "name": "Flower Scattered Gravel",
+  "categories": [
+    "floor",
+    "gravel"
+  ],
+  "tags": [
+    "gravel",
+    "stones",
+    "driveway gravel",
+    "gravelly ground",
+    "petals",
+    "scattered",
+    "scattered petals",
+    "jacaranda",
+    "driveway stones",
+    "scattered flowers",
+    "leaves",
+    "plant debris",
+    "floral debris",
+    "gravelly"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "reviewers": [
+    "Rico Cilliers",
+    "Dario Barresi"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "date_published": 1739232000,
+  "staging": null,
+  "files_hash": "956a277ec38eccb1d29a74337b9193f4e7f85c22",
+  "download_count": 1853,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flower_scattered_gravel.png?width=256&height=256"
+}

@@ -1,0 +1,41 @@
+{
+  "evs_cap": 26,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "tree",
+    "sun",
+    "plant",
+    "garden",
+    "tire",
+    "house",
+    "dappled"
+  ],
+  "name": "Garden Nook",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "partly cloudy",
+    "high contrast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1622645520,
+  "info": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "date_published": 1662940800,
+  "staging": null,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "b6462cd3ee0cb05cc10c813e71209d5ebce5f1da",
+  "download_count": 45557,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/garden_nook.png?width=256&height=256"
+}

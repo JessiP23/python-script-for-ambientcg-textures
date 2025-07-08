@@ -1,0 +1,44 @@
+{
+  "evs_cap": 14,
+  "type": 0,
+  "tags": [
+    "tree",
+    "forest",
+    "pond",
+    "statue",
+    "bridge",
+    "street light",
+    "path"
+  ],
+  "date_published": 1506981600,
+  "name": "Pond Bridge Night",
+  "old_id": 18,
+  "categories": [
+    "outdoor",
+    "nature",
+    "urban",
+    "partly cloudy",
+    "night",
+    "low contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1478884860,
+  "coords": [
+    52.380009,
+    9.756457
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "7947474"
+  ],
+  "files_hash": "6e429b5c01f861046a2f72c68358029ae6b6abb9",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 148085,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pond_bridge_night.png?width=256&height=256"
+}

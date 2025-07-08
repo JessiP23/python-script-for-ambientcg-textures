@@ -1,0 +1,47 @@
+{
+  "date_published": 1675036800,
+  "name": "Concrete Floor",
+  "categories": [
+    "outdoor",
+    "man made",
+    "floor",
+    "plaster-concrete",
+    "concrete"
+  ],
+  "type": 1,
+  "staging": null,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "eye-candy.xyz": "All"
+  },
+  "tags": [
+    "rough",
+    "concrete",
+    "floor",
+    "old",
+    "brown",
+    "wall",
+    "dirty",
+    "cement",
+    "worn"
+  ],
+  "info": null,
+  "dimensions": [
+    2079.9996852874756,
+    2079.9996852874756
+  ],
+  "prepaid": true,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "128081732",
+    "42579608"
+  ],
+  "files_hash": "3e24caf1e8e1de5b0cb430b92215d9809422c9be",
+  "download_count": 21737,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_floor.png?width=256&height=256"
+}

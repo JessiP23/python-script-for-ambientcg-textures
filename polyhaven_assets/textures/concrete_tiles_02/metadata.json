@@ -1,0 +1,42 @@
+{
+  "type": 1,
+  "name": "Concrete Tiles 02",
+  "categories": [
+    "floor",
+    "tiles",
+    "concrete"
+  ],
+  "tags": [
+    "concrete",
+    "rough concrete",
+    "outdoor",
+    "pavement",
+    "walkway",
+    "sidewalk texture",
+    "sidewalk",
+    "urban",
+    "outdoor flooring",
+    "pavers",
+    "outdoor walkway"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1825.0000476837158,
+    1825.0000476837158
+  ],
+  "date_published": 1745280000,
+  "staging": null,
+  "files_hash": "757bb94eddbc082d1b92cd46dfed1428d51871a0",
+  "download_count": 5637,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_tiles_02.png?width=256&height=256"
+}

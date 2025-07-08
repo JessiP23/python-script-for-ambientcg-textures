@@ -1,0 +1,44 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "tree",
+    "path",
+    "garden",
+    "london",
+    "europe",
+    "architecture"
+  ],
+  "date_published": 1566511200,
+  "name": "Roof Garden",
+  "old_id": 402,
+  "categories": [
+    "outdoor",
+    "nature",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1558283580,
+  "coords": [
+    51.506111,
+    -0.017444
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    {
+      "name": "Jeremiah Cook"
+    }
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "a2751586ef5969bd2811937f6a43efe5b9f09c1d",
+  "download_count": 34561,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/roof_garden.png?width=256&height=256"
+}

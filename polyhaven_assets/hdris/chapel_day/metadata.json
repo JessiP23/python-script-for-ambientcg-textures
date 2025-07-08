@@ -1,0 +1,47 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 3035,
+  "tags": [
+    "chair",
+    "bench",
+    "cross",
+    "altar",
+    "barrel",
+    "seat",
+    "church",
+    "pew",
+    "stained glass",
+    "religion"
+  ],
+  "name": "Chapel Day",
+  "categories": [
+    "indoor",
+    "urban",
+    "artificial light",
+    "natural light",
+    "low contrast",
+    "midday"
+  ],
+  "date_taken": 1708856940,
+  "coords": [
+    -25.479435,
+    27.767844
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "fcd64bf3f6602de95689e5b0b243b2ce931097fa",
+  "date_published": 1714694400,
+  "staging": null,
+  "download_count": 9252,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/chapel_day.png?width=256&height=256"
+}

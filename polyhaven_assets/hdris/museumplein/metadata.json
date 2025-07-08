@@ -1,0 +1,47 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "grass",
+    "building",
+    "tree",
+    "autumn",
+    "amsterdam",
+    "museum",
+    "park",
+    "path",
+    "field"
+  ],
+  "date_published": 1508474789,
+  "name": "Museumplein",
+  "old_id": 57,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    52.357328,
+    4.880681
+  ],
+  "date_taken": 1477817040,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "8571269",
+    "66627515"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "1a9226f15ac71af9bce17b021456ddf9e96c0c5d",
+  "download_count": 117987,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/museumplein.png?width=256&height=256"
+}

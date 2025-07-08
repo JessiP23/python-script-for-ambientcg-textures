@@ -1,0 +1,42 @@
+{
+  "type": 0,
+  "name": "Lakeside Dawn",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "low contrast"
+  ],
+  "tags": [
+    "tree",
+    "lake",
+    "shore",
+    "water",
+    "rock"
+  ],
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1724221620,
+  "coords": [
+    -28.482577018138976,
+    29.01429985008855
+  ],
+  "evs_cap": 12,
+  "whitebalance": 5303,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "33687fe4418daa8006650d67aba59c16de598113",
+  "date_published": 1733270400,
+  "staging": null,
+  "download_count": 10182,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lakeside_dawn.png?width=256&height=256"
+}

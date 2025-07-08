@@ -1,0 +1,45 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "street",
+    "road",
+    "asphalt",
+    "curve",
+    "barrier",
+    "ocean",
+    "coastal",
+    "parking",
+    "hill"
+  ],
+  "name": "Victoria Curve 02",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "partly cloudy",
+    "medium contrast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1581670080,
+  "coords": [
+    -33.982607556151194,
+    18.361728502826175
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "9369b0435b59a5d7c103209fff6305efbc994ec3",
+  "date_published": 1717372800,
+  "staging": null,
+  "download_count": 13874,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/victoria_curve_02.png?width=256&height=256"
+}

@@ -1,0 +1,41 @@
+{
+  "type": 1,
+  "tags": [
+    "planks",
+    "old",
+    "untreated",
+    "shed",
+    "cabin",
+    "cottage",
+    "rough"
+  ],
+  "date_published": 1551780054,
+  "name": "Brown Planks 04",
+  "old_id": 193,
+  "categories": [
+    "wood",
+    "man made",
+    "indoor",
+    "outdoor",
+    "clean",
+    "wall"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "sponsors": [
+    "3237733",
+    "20953239"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "08a09050e5a08135fe1ed0478d437f34f5890f1b",
+  "download_count": 45826,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_planks_04.png?width=256&height=256"
+}

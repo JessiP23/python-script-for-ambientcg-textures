@@ -1,0 +1,36 @@
+{
+  "name": "Brick Wall 08",
+  "categories": [
+    "brick",
+    "wall",
+    "outdoor",
+    "man made"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi"
+  ],
+  "tags": [
+    "rough",
+    "mortar",
+    "raw",
+    "grey",
+    "coarse"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "dimensions": [
+    1899.9998569488525,
+    1899.9998569488525
+  ],
+  "date_published": 1710979200,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "332e63a9762f740a0deb546bd885b8396e9886da",
+  "download_count": 16432,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_wall_08.png?width=256&height=256"
+}

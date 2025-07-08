@@ -1,0 +1,42 @@
+{
+  "donated": true,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "grass",
+    "field",
+    "tree",
+    "forest",
+    "countryside",
+    "rural"
+  ],
+  "name": "Steinbach Field",
+  "categories": [
+    "natural light",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "outdoor",
+    "low contrast"
+  ],
+  "date_taken": 1497830400,
+  "authors": {
+    "Adrian Kubasa": "All"
+  },
+  "info": null,
+  "evs_cap": 0,
+  "files_hash": "d0820bf56ebe10dccb2da4830cc9643473f5b464",
+  "date_published": 1706400000,
+  "staging": null,
+  "sponsors": [
+    "37678923"
+  ],
+  "max_resolution": [
+    18432,
+    9216
+  ],
+  "download_count": 46125,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/steinbach_field.png?width=256&height=256"
+}

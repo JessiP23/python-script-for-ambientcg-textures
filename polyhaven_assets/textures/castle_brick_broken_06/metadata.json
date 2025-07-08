@@ -1,0 +1,41 @@
+{
+  "scale": "2.5M x 2.5M",
+  "type": 1,
+  "tags": [
+    "rough",
+    "uneven",
+    "cracked",
+    "loose",
+    "gaps",
+    "old",
+    "castle"
+  ],
+  "date_published": 1566174126,
+  "name": "Castle Brick Broken 06",
+  "old_id": 219,
+  "categories": [
+    "brick",
+    "outdoor",
+    "man made",
+    "indoor",
+    "wall"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2500,
+    2500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "119627896",
+    "20953239"
+  ],
+  "files_hash": "3be2c1866505c8ad9fdda72c71c746bdd0381aec",
+  "download_count": 40418,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/castle_brick_broken_06.png?width=256&height=256"
+}

@@ -1,0 +1,44 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5400,
+  "tags": [
+    "pure skies"
+  ],
+  "date_published": 1670025600,
+  "name": "Table Mountain 1 (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "high contrast",
+    "natural light",
+    "pure skies"
+  ],
+  "staging": null,
+  "date_taken": 1464964200,
+  "coords": [
+    -33.958547,
+    18.405612
+  ],
+  "info": "Edited sky-only version of [Table Mountain 1](https://polyhaven.com/a/table_mountain_1).",
+  "authors": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky edits"
+  },
+  "files_hash": "26ab59fa90b7a492c9da696a9f9ae6e8ce29f74f",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "3237733"
+  ],
+  "download_count": 69126,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/table_mountain_1_puresky.png?width=256&height=256"
+}

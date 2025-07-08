@@ -1,0 +1,37 @@
+{
+  "evs_cap": 12,
+  "name": "Dark Autumn Forest",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "medium contrast",
+    "sunrise-sunset"
+  ],
+  "type": 0,
+  "reviewers": [
+    "Jarod Guest"
+  ],
+  "date_taken": 1620408180,
+  "tags": [
+    "tree",
+    "forest",
+    "path",
+    "autumn",
+    "dirt"
+  ],
+  "authors": {
+    "Greg Zaal": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "date_published": 1658707200,
+  "staging": null,
+  "prepaid": true,
+  "files_hash": "e7b88d0fc7b41705d11138829a60e2600db7f4d7",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 24661,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dark_autumn_forest.png?width=256&height=256"
+}

@@ -1,0 +1,55 @@
+{
+  "date_published": 1685664000,
+  "name": "Dead Tree Trunk",
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "info": null,
+  "tags": [
+    "log",
+    "dead tree",
+    "tree",
+    "trunk",
+    "bark",
+    "natural",
+    "foliage",
+    "nature",
+    "forest",
+    "plant",
+    "dead",
+    "dry",
+    "woodland",
+    "decayed",
+    "rough texture",
+    "forest floor"
+  ],
+  "categories": [
+    "nature",
+    "plants",
+    "ground cover",
+    "collection: pine_forest",
+    "collection: verdant_trail"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 101802,
+  "texel_density": 5227.11070900053,
+  "dimensions": [
+    3051.015019416809,
+    277.52751111984253,
+    290.43155536055565
+  ],
+  "sponsors": [
+    "95481047"
+  ],
+  "files_hash": "1e56e4393417d157e43e26bd8b7b019189d313ed",
+  "download_count": 12026,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dead_tree_trunk.png?width=256&height=256"
+}

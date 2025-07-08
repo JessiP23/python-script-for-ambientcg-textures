@@ -1,0 +1,38 @@
+{
+  "type": 1,
+  "tags": [
+    "flat",
+    "cracked",
+    "floor",
+    "plain",
+    "brown",
+    "discolored",
+    "clay",
+    "yellow",
+    "painted"
+  ],
+  "name": "Clay Floor 001",
+  "categories": [
+    "floor",
+    "man made",
+    "plaster-concrete",
+    "dirty"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Processing"
+  },
+  "date_published": 1625667644,
+  "staging": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "b01a7c6af96abd22c885b08dba15d3ccef901896",
+  "download_count": 43851,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/clay_floor_001.png?width=256&height=256"
+}

@@ -1,0 +1,36 @@
+{
+  "donated": true,
+  "type": 2,
+  "name": "Korean Public Payphone 01",
+  "categories": [
+    "props"
+  ],
+  "authors": {
+    "UM JOORIN": "All"
+  },
+  "date_published": 1623767617,
+  "staging": null,
+  "tags": [
+    "pay",
+    "phone",
+    "public",
+    "korean",
+    "old",
+    "utility",
+    "infrastructure"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 48132,
+  "texel_density": 65.46221510639543,
+  "dimensions": [
+    400.56978166103363,
+    301.2158125638962,
+    739.7327136714011
+  ],
+  "files_hash": "25bf80a7dfbeac1175f793d594299ee6667ea1ce",
+  "download_count": 11234,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/korean_public_payphone_01.png?width=256&height=256"
+}

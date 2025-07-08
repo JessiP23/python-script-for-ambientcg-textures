@@ -1,0 +1,37 @@
+{
+  "scale": "1",
+  "type": 1,
+  "tags": [
+    "cobblestone",
+    "stacked",
+    "moss",
+    "old",
+    "damp",
+    "garden",
+    "pavement"
+  ],
+  "date_published": 1529359200,
+  "name": "Cobblestone Floor 07",
+  "old_id": 88,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "categories": [
+    "floor",
+    "outdoor",
+    "man made",
+    "dirty",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "5107ce96e302e12d3dfdc5cb0eb59cfe64857315",
+  "download_count": 28562,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_floor_07.png?width=256&height=256"
+}

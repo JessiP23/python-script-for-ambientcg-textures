@@ -1,0 +1,40 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "lamp",
+    "studio",
+    "photo",
+    "umbrella"
+  ],
+  "date_published": 1522706400,
+  "name": "Studio Small 03",
+  "old_id": 234,
+  "date_taken": 1521024840,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "name": "Iv\u00e1n Zabalza"
+    },
+    {
+      "url": "http://alienghostship.com/",
+      "name": "Rick Kay"
+    }
+  ],
+  "categories": [
+    "indoor",
+    "urban",
+    "studio",
+    "high contrast",
+    "artificial light"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "d69ec09a43016714fd0dda163b3b0c585c968f56",
+  "download_count": 516772,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/studio_small_03.png?width=256&height=256"
+}

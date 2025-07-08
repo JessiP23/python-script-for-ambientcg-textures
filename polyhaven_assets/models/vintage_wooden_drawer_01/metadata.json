@@ -1,0 +1,38 @@
+{
+  "date_published": 1629244800,
+  "name": "Vintage Wooden Drawer 01",
+  "categories": [
+    "furniture",
+    "shelves",
+    "table"
+  ],
+  "type": 2,
+  "staging": null,
+  "tags": [
+    "vintage",
+    "old",
+    "filing",
+    "drawer",
+    "office",
+    "wooden",
+    "worn",
+    "cabinet"
+  ],
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 5184,
+  "texel_density": 2209.947398515394,
+  "dimensions": [
+    857.5569987297058,
+    457.4054181575775,
+    545.4196482896805
+  ],
+  "files_hash": "6bb3d184b83350e4a8a94b6bc1657adbf5a5d2d4",
+  "download_count": 23402,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/vintage_wooden_drawer_01.png?width=256&height=256"
+}

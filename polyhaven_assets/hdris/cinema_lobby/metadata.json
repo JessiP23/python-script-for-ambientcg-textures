@@ -1,0 +1,33 @@
+{
+  "evs_cap": 14,
+  "type": 0,
+  "tags": [
+    "couch",
+    "seat",
+    "bench",
+    "fluorescent"
+  ],
+  "date_published": 1550790000,
+  "name": "Cinema Lobby",
+  "old_id": 351,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1545930840,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "16608220"
+  ],
+  "files_hash": "a34b6a60e6d669f0cc3a5ea6708d4f0baf5179ca",
+  "max_resolution": [
+    16500,
+    8250
+  ],
+  "download_count": 40530,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cinema_lobby.png?width=256&height=256"
+}

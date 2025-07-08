@@ -1,0 +1,43 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "bridge",
+    "river",
+    "building",
+    "road",
+    "street",
+    "symmetrical",
+    "europe"
+  ],
+  "date_published": 1511996400,
+  "name": "Konigsallee",
+  "old_id": 87,
+  "categories": [
+    "outdoor",
+    "urban",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    51.223137,
+    6.778841
+  ],
+  "date_taken": 1479025020,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "3e22411faf28a4db1443a82fbea14079d431b1a4",
+  "sponsors": [
+    "8571269",
+    "20953239"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 51651,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/konigsallee.png?width=256&height=256"
+}

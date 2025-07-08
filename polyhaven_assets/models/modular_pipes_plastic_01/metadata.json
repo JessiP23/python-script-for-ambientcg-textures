@@ -1,0 +1,53 @@
+{
+  "donated": true,
+  "date_published": 1670371200,
+  "name": "Modular Pipes Plastic 01",
+  "type": 2,
+  "staging": null,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "info": null,
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "categories": [
+    "industrial",
+    "structures",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "pipes",
+    "garden",
+    "shed",
+    "modular",
+    "cable",
+    "valve",
+    "tap",
+    "outdoor",
+    "water",
+    "irrigation",
+    "greenhouse",
+    "farm",
+    "farmhouse",
+    "utility",
+    "infrastructure"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 49708,
+  "texel_density": 13411.069214049536,
+  "dimensions": [
+    879.9068927764893,
+    361.76106333732605,
+    75.73375664651394
+  ],
+  "sponsors": [
+    "4714267"
+  ],
+  "files_hash": "4f42b50b74be515ab781b45d4ab1e788828f3381",
+  "download_count": 6362,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modular_pipes_plastic_01.png?width=256&height=256"
+}

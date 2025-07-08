@@ -1,0 +1,40 @@
+{
+  "scale": "2M x 2M",
+  "type": 1,
+  "tags": [
+    "rough",
+    "red",
+    "sewer",
+    "damp",
+    "old",
+    "uneven"
+  ],
+  "date_published": 1571797760,
+  "name": "Castle Brick 02 Red",
+  "old_id": 229,
+  "categories": [
+    "brick",
+    "outdoor",
+    "man made",
+    "wall",
+    "dirty"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "sponsors": [
+    "540619",
+    "4714267"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d4d70e454efd6d2c76008afe609d58c87d54cfb1",
+  "download_count": 126077,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/castle_brick_02_red.png?width=256&height=256"
+}

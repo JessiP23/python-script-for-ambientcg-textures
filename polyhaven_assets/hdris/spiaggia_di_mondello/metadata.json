@@ -1,0 +1,41 @@
+{
+  "evs_cap": 25,
+  "files_hash": "da886432206e84f714ce131b72b7c08bc851a7f8",
+  "type": 0,
+  "date_published": 1580425200,
+  "sponsors": [
+    "3267566"
+  ],
+  "name": "Spiaggia di Mondello",
+  "old_id": 439,
+  "date_taken": 1569847200,
+  "coords": [
+    38.199191,
+    13.329368
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light",
+    "collection: smugglers_cove"
+  ],
+  "tags": [
+    "tree",
+    "sun",
+    "beach",
+    "sand"
+  ],
+  "max_resolution": [
+    20000,
+    10000
+  ],
+  "download_count": 303019,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/spiaggia_di_mondello.png?width=256&height=256"
+}

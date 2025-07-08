@@ -1,0 +1,33 @@
+{
+  "evs_cap": 8,
+  "prepaid": true,
+  "type": 0,
+  "tags": [
+    "hall",
+    "industrial",
+    "machine",
+    "warehouse",
+    "workshop"
+  ],
+  "date_published": 1557200045,
+  "name": "Machine Shop 03",
+  "old_id": 372,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1537184580,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "401d0c78ea9d72598682838cd75d8c49878d5617",
+  "download_count": 24369,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/machine_shop_03.png?width=256&height=256"
+}

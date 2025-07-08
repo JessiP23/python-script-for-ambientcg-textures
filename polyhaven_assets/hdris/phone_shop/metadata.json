@@ -1,0 +1,40 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "lamp",
+    "shop",
+    "store",
+    "display",
+    "counter"
+  ],
+  "date_published": 1541718000,
+  "name": "Phone Shop",
+  "old_id": 324,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1538280900,
+  "coords": [
+    45.662521,
+    -122.56504
+  ],
+  "authors": {
+    "Philip Modin": "All"
+  },
+  "sponsors": [
+    "16608220",
+    "20953239"
+  ],
+  "files_hash": "a27459e925b40dcc15c416ff3657fc51c89dd0bc",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 40705,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/phone_shop.png?width=256&height=256"
+}

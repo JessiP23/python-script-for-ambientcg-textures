@@ -1,0 +1,37 @@
+{
+  "type": 2,
+  "tags": [
+    "fancy",
+    "modern",
+    "vase",
+    "decor",
+    "clay",
+    "pot",
+    "painted"
+  ],
+  "name": "Ceramic Vase 02",
+  "categories": [
+    "decorative",
+    "containers",
+    "vases"
+  ],
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "date_published": 1623767604,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2756,
+  "texel_density": 10658.97569319025,
+  "dimensions": [
+    219.83815729618073,
+    221.4527726173401,
+    309.2874630820006
+  ],
+  "files_hash": "0643acdbc6d663ccbc2df4d00ba30a7126f3daac",
+  "download_count": 16926,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ceramic_vase_02.png?width=256&height=256"
+}

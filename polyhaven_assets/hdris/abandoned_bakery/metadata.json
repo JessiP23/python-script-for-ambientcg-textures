@@ -1,0 +1,46 @@
+{
+  "evs_cap": 16,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 4950,
+  "tags": [
+    "abandoned",
+    "empty",
+    "industrial",
+    "windows",
+    "bare",
+    "rubble",
+    "brick",
+    "concrete",
+    "backplates"
+  ],
+  "name": "Abandoned Bakery",
+  "categories": [
+    "natural light",
+    "artificial light",
+    "urban",
+    "indoor",
+    "high contrast"
+  ],
+  "backplates": true,
+  "date_taken": 1662805680,
+  "coords": [
+    50.786873,
+    34.774073
+  ],
+  "info": null,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1663804800,
+  "staging": null,
+  "files_hash": "d81af70dd51ebb704af086506e0a9b92bb5d7b84",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 16360,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/abandoned_bakery.png?width=256&height=256"
+}

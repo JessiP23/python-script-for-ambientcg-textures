@@ -1,0 +1,42 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 6350,
+  "tags": [
+    "field",
+    "snow",
+    "winter",
+    "footprint"
+  ],
+  "date_published": 1668988800,
+  "name": "Snow Field 2",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "overcast",
+    "low contrast",
+    "morning-afternoon",
+    "skies"
+  ],
+  "staging": null,
+  "date_taken": 1644407520,
+  "coords": [
+    50.862231,
+    34.740651
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "files_hash": "579c5756cb87b8c210b14c23ecd717471fe03e72",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 24221,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_field_2.png?width=256&height=256"
+}

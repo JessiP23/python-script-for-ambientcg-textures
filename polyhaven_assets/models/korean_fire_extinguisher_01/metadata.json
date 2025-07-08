@@ -1,0 +1,41 @@
+{
+  "donated": true,
+  "date_published": 1623767615,
+  "name": "Korean Fire Extinguisher 01",
+  "categories": [
+    "industrial",
+    "props"
+  ],
+  "type": 2,
+  "staging": null,
+  "authors": {
+    "UM JOORIN": "All"
+  },
+  "tags": [
+    "fire",
+    "saftey",
+    "fireman",
+    "extinguisher",
+    "emergency",
+    "equipment",
+    "red",
+    "firefighting",
+    "asian",
+    "utility",
+    "infrastructure"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 9913,
+  "texel_density": 17244.779394877245,
+  "dimensions": [
+    279.957577586174,
+    367.44324862957,
+    659.2507164176169
+  ],
+  "files_hash": "bf286ac62105374e5c583367e80ce77dcbe6881c",
+  "download_count": 11254,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/korean_fire_extinguisher_01.png?width=256&height=256"
+}

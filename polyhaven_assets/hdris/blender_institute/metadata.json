@@ -1,0 +1,39 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "blender",
+    "timber",
+    "computer",
+    "chair",
+    "lamp",
+    "people"
+  ],
+  "date_published": 1506981960,
+  "name": "Blender Institute",
+  "old_id": 31,
+  "categories": [
+    "indoor",
+    "urban",
+    "low contrast",
+    "artificial light"
+  ],
+  "coords": [
+    52.368259,
+    4.915855
+  ],
+  "date_taken": 1477930440,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "62d113c7f67a8c8bdd867ebf1cbb14ca18d5566e",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "107113426"
+  ],
+  "download_count": 23627,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/blender_institute.png?width=256&height=256"
+}

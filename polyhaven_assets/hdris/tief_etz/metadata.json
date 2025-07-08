@@ -1,0 +1,39 @@
+{
+  "donated": true,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "road",
+    "asphalt",
+    "street",
+    "curve",
+    "bush",
+    "barrier"
+  ],
+  "name": "Tief Etz",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "clear",
+    "low contrast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1473602220,
+  "authors": {
+    "Adrian Kubasa": "All"
+  },
+  "info": null,
+  "evs_cap": 0,
+  "files_hash": "ad9b619fb54ecf341e01c9301a2d4fb870429539",
+  "staging": null,
+  "date_published": 1707004800,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 70929,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tief_etz.png?width=256&height=256"
+}

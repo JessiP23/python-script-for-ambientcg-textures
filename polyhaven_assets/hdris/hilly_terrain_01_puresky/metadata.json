@@ -1,0 +1,36 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "pure skies"
+  ],
+  "date_published": 1671926400,
+  "name": "Hilly Terrain 01 (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "sunrise-sunset",
+    "medium contrast",
+    "natural light",
+    "skies",
+    "pure skies"
+  ],
+  "staging": null,
+  "date_taken": 1559070960,
+  "info": "Edited sky-only version of [Hilly Terrain 01](https://polyhaven.com/a/hilly_terrain_01).",
+  "authors": {
+    "Jarod Guest": "Sky edits",
+    "Sergej Majboroda": "Original"
+  },
+  "files_hash": "320e75534f91411b1f72a6a79a6f11af918a718b",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 42661,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hilly_terrain_01_puresky.png?width=256&height=256"
+}

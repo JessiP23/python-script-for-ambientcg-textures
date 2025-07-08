@@ -1,0 +1,45 @@
+{
+  "evs_cap": 20,
+  "type": 0,
+  "tags": [
+    "stars",
+    "tree",
+    "lamp",
+    "milky way",
+    "galaxy",
+    "hut"
+  ],
+  "date_published": 1513059334,
+  "name": "Satara Night",
+  "old_id": 115,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "clear",
+    "night",
+    "high contrast",
+    "artificial light"
+  ],
+  "coords": [
+    -24.39453,
+    31.777809
+  ],
+  "date_taken": 1508009940,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "8571269",
+    {
+      "name": "Rick Kay"
+    }
+  ],
+  "files_hash": "fbb3442d14e72597042f9014de06157f1edaa54b",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 554763,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/satara_night.png?width=256&height=256"
+}

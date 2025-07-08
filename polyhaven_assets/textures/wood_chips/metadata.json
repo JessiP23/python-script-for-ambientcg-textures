@@ -1,0 +1,38 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "weathered",
+    "wood",
+    "ground",
+    "brown",
+    "nature",
+    "leaves"
+  ],
+  "date_published": 1683936000,
+  "name": "Wood Chips",
+  "categories": [
+    "outdoor",
+    "natural",
+    "raw wood",
+    "wood"
+  ],
+  "staging": null,
+  "authors": {
+    "eye-candy.xyz": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "1772ad0fb8c2185c641433c2ddffa88cb001eaf0",
+  "download_count": 6712,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wood_chips.png?width=256&height=256"
+}

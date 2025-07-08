@@ -1,0 +1,42 @@
+{
+  "name": "Concrete Pavement 02",
+  "categories": [
+    "outdoor",
+    "road",
+    "cobblestone"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Jandre van Heerden",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "concrete",
+    "sidewalk",
+    "urban",
+    "city",
+    "pavement",
+    "street",
+    "cityscape",
+    "infrastructure",
+    "walkway",
+    "sidewalk texture",
+    "footpath"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "staging": null,
+  "date_published": 1711670400,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "0530cbdb94063d5899fabae01578b92009e02e5b",
+  "download_count": 18760,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_pavement_02.png?width=256&height=256"
+}

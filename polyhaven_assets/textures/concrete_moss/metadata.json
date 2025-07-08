@@ -1,0 +1,42 @@
+{
+  "name": "Concrete Moss",
+  "categories": [
+    "floor",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Janelle van Heerden",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "concrete",
+    "moss",
+    "mossy",
+    "mosscovered",
+    "scratched",
+    "worn",
+    "timeworn",
+    "weatherbeaten",
+    "weathered",
+    "aged",
+    "deteriorating",
+    "abandoned"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    3000.000238418579,
+    3000.000238418579
+  ],
+  "date_published": 1729728000,
+  "staging": null,
+  "files_hash": "06e150cbaace0460740cf8a174c2133fddb509f8",
+  "download_count": 8767,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_moss.png?width=256&height=256"
+}

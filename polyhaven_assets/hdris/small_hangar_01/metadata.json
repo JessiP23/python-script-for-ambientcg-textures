@@ -1,0 +1,36 @@
+{
+  "evs_cap": 12,
+  "prepaid": true,
+  "type": 0,
+  "tags": [
+    "hangar",
+    "plane",
+    "industrial",
+    "warehouse"
+  ],
+  "date_published": 1537826400,
+  "name": "Small Hangar 01",
+  "old_id": 309,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1535752800,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "3267566",
+    "44302755"
+  ],
+  "max_resolution": [
+    16500,
+    8250
+  ],
+  "files_hash": "fd3900ee4bd4a135456a6e429fc650421d0e84d3",
+  "download_count": 58799,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_hangar_01.png?width=256&height=256"
+}

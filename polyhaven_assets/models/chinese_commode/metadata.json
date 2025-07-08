@@ -1,0 +1,39 @@
+{
+  "name": "Chinese Commode",
+  "categories": [
+    "furniture",
+    "shelves"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "vintage",
+    "antique",
+    "wooden",
+    "ornate",
+    "asian",
+    "traditional",
+    "cabinet"
+  ],
+  "authors": {
+    "Kirill Sannikov": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 6775,
+  "texel_density": 961.4824067347025,
+  "dimensions": [
+    4490.48638343811,
+    1169.9001789093018,
+    2019.874095916748
+  ],
+  "staging": null,
+  "date_published": 1720137600,
+  "files_hash": "2147126f22f7db5b928dc5e9911f766f50a89b58",
+  "download_count": 3858,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/chinese_commode.png?width=256&height=256"
+}

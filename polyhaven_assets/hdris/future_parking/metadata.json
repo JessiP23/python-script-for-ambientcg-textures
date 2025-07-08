@@ -1,0 +1,37 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "whitebalance": 5100,
+  "date_published": 1599516000,
+  "name": "Future Parking",
+  "old_id": 495,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1594397220,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "backplates": true,
+  "tags": [
+    "lot",
+    "building",
+    "dirt",
+    "construction",
+    "rubble",
+    "brick",
+    "backplates"
+  ],
+  "files_hash": "ab3425b36e8d2b6b0549cd6c631606a293752533",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 42251,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/future_parking.png?width=256&height=256"
+}

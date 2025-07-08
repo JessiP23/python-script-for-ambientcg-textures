@@ -1,0 +1,43 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 3650,
+  "tags": [
+    "studio",
+    "couch",
+    "curtain",
+    "wood",
+    "mirror",
+    "backplates"
+  ],
+  "name": "Brown Photostudio 06",
+  "categories": [
+    "indoor",
+    "studio",
+    "urban",
+    "natural light",
+    "medium contrast"
+  ],
+  "backplates": true,
+  "coords": [
+    49.237264,
+    28.406448
+  ],
+  "date_taken": 1650035340,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "date_published": 1665360000,
+  "staging": null,
+  "files_hash": "9783ddccfca27787242863583caad69cb20a9e02",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 78778,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_photostudio_06.png?width=256&height=256"
+}

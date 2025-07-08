@@ -1,0 +1,39 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "rock",
+    "tree",
+    "wall",
+    "river",
+    "vine",
+    "ledge",
+    "cave"
+  ],
+  "date_published": 1506981600,
+  "name": "Cave Wall",
+  "old_id": 3,
+  "categories": [
+    "outdoor",
+    "indoor",
+    "nature",
+    "morning-afternoon",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1460637300,
+  "coords": [
+    -29.001776,
+    29.40216
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "82f8b75d0dc2d2103462b767581305c39a63156f",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 56925,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cave_wall.png?width=256&height=256"
+}

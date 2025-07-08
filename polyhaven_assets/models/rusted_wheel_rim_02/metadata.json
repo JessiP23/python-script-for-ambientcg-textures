@@ -1,0 +1,41 @@
+{
+  "donated": true,
+  "name": "Rusted Wheel Rim 02",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "John Hutcheson": "All"
+  },
+  "info": null,
+  "date_published": 1696550400,
+  "staging": null,
+  "categories": [
+    "industrial",
+    "props",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "car",
+    "vehicle",
+    "old",
+    "junkyard",
+    "scrapyard",
+    "trash"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 15256,
+  "texel_density": 8863.545651011926,
+  "dimensions": [
+    335.4736566543579,
+    121.0797056555748,
+    338.25379610061646
+  ],
+  "files_hash": "59c2b3a414b64b3b9963b8383855f8ba8cbb5552",
+  "download_count": 4878,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rusted_wheel_rim_02.png?width=256&height=256"
+}

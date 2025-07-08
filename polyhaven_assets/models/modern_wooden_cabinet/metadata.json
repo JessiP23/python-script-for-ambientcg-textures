@@ -1,0 +1,42 @@
+{
+  "donated": true,
+  "name": "Modern Wooden Cabinet",
+  "categories": [
+    "furniture",
+    "table"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "cabinet",
+    "wood",
+    "modern",
+    "minimalist",
+    "interrior",
+    "living room",
+    "contemporary",
+    "design"
+  ],
+  "authors": {
+    "Patrik Pangerl": "All"
+  },
+  "info": null,
+  "staging": null,
+  "date_published": 1690934400,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 24976,
+  "texel_density": 1684.9824044896511,
+  "dimensions": [
+    2440.0004148483276,
+    520.0000107288361,
+    680.1425069570541
+  ],
+  "files_hash": "ef2d266b0823d230f465b29bb32b110b4c71b3b2",
+  "download_count": 12357,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modern_wooden_cabinet.png?width=256&height=256"
+}

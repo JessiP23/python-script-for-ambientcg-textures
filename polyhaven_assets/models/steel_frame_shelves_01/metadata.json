@@ -1,0 +1,37 @@
+{
+  "date_published": 1623767642,
+  "name": "Steel Frame Shelves 01",
+  "type": 2,
+  "staging": null,
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "categories": [
+    "furniture",
+    "shelves",
+    "industrial",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "commercial",
+    "modern",
+    "shelf",
+    "bookshelf",
+    "metal",
+    "wood"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 4348,
+  "texel_density": 2254.193004058903,
+  "dimensions": [
+    1097.4148511886597,
+    502.1176338195801,
+    2140.5010361922905
+  ],
+  "files_hash": "07b34991c01f75c3bfe85923ba649bc40de1dd17",
+  "download_count": 27116,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/steel_frame_shelves_01.png?width=256&height=256"
+}

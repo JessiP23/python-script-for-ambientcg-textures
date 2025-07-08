@@ -1,0 +1,41 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "dirt",
+    "grass",
+    "hill",
+    "road",
+    "sunset"
+  ],
+  "date_published": 1506981600,
+  "name": "Dam Road",
+  "old_id": 6,
+  "categories": [
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "sunrise-sunset",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1460467380,
+  "coords": [
+    -28.956789,
+    29.43916
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "60ca617b0c70a3df6295c627d09d9bf28c43af7a",
+  "sponsors": [
+    "16608220",
+    "3237733"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 19791,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dam_road.png?width=256&height=256"
+}

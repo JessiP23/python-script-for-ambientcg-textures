@@ -1,0 +1,47 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "race",
+    "track",
+    "pit",
+    "parking",
+    "concrete",
+    "covered",
+    "barrier",
+    "pillar",
+    "backplates"
+  ],
+  "name": "Zwartkops Pit",
+  "categories": [
+    "outdoor",
+    "indoor",
+    "natural light",
+    "medium contrast",
+    "urban",
+    "midday"
+  ],
+  "backplates": true,
+  "date_taken": 1713706800,
+  "coords": [
+    -25.810044808817782,
+    28.110051739066126
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "4bc5913b1ff3eac9573320b342288715c689d470",
+  "date_published": 1722988800,
+  "staging": null,
+  "download_count": 13056,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwartkops_pit.png?width=256&height=256"
+}

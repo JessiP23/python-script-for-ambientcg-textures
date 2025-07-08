@@ -1,0 +1,41 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "whitebalance": 5050,
+  "tags": [
+    "machine",
+    "industrial",
+    "workshop",
+    "wind tunnel",
+    "window"
+  ],
+  "date_published": 1542668400,
+  "name": "Aerodynamics Workshop",
+  "old_id": 327,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "medium contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1536058560,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "sponsors": [
+    {
+      "url": "https://slimechildaudio.com/",
+      "name": "Slime Child Audio"
+    },
+    "66627515"
+  ],
+  "files_hash": "93c48dd1f1560d967576c0468e24f85552183250",
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "download_count": 72813,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerodynamics_workshop.png?width=256&height=256"
+}

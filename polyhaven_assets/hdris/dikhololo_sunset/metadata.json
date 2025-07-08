@@ -1,0 +1,44 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1559599200,
+  "name": "Dikhololo Sunset",
+  "old_id": 380,
+  "categories": [
+    "outdoor",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1541957520,
+  "coords": [
+    -25.40429144,
+    27.73619347
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "16608220"
+  ],
+  "backplates": true,
+  "tags": [
+    "tree",
+    "bush",
+    "safari",
+    "veld",
+    "grass",
+    "road",
+    "backplates"
+  ],
+  "files_hash": "a3bd0a38ef78dc3113e72adaee11279ea67a282f",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 28348,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dikhololo_sunset.png?width=256&height=256"
+}

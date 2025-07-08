@@ -1,0 +1,50 @@
+{
+  "donated": true,
+  "date_published": 1680048000,
+  "name": "Rubber Duck Toy",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "staging": null,
+  "authors": {
+    "Plat251": "All"
+  },
+  "info": null,
+  "sponsors": [
+    "78546118"
+  ],
+  "categories": [
+    "props",
+    "decorative",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "shed",
+    "toy",
+    "bathroom",
+    "child",
+    "home",
+    "fun",
+    "kids",
+    "play",
+    "float",
+    "plastic",
+    "cute",
+    "animal"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 4288,
+  "texel_density": 7289.496739617577,
+  "dimensions": [
+    213.5048285126686,
+    300.00218749046326,
+    285.52286326885223
+  ],
+  "files_hash": "00cce7478ed6c66264d09711f2ce55c1fc7b096c",
+  "download_count": 34786,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rubber_duck_toy.png?width=256&height=256"
+}

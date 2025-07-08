@@ -1,0 +1,38 @@
+{
+  "donated": true,
+  "type": 2,
+  "tags": [
+    "modern",
+    "marble",
+    "tea",
+    "coffee",
+    "metal",
+    "sleek",
+    "contemporary",
+    "cocktail"
+  ],
+  "name": "Coffee Table Round 01",
+  "categories": [
+    "furniture",
+    "table"
+  ],
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "date_published": 1637884800,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 4044,
+  "texel_density": 3902.116327181834,
+  "dimensions": [
+    1301.3009428977966,
+    1301.3015985488892,
+    491.0094439983368
+  ],
+  "files_hash": "111d2440084dcd01332ef4f7a4008fc5a41e413b",
+  "download_count": 23015,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coffee_table_round_01.png?width=256&height=256"
+}

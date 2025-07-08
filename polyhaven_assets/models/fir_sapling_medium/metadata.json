@@ -1,0 +1,53 @@
+{
+  "date_published": 1686268800,
+  "name": "Fir Sapling Medium",
+  "type": 2,
+  "reviewers": [
+    "Rob Tuytel"
+  ],
+  "staging": null,
+  "authors": {
+    "Rob Tuytel": "photography",
+    "Rico Cilliers": "modeling"
+  },
+  "info": null,
+  "version_required": {
+    "blend": "3.5"
+  },
+  "categories": [
+    "plants",
+    "nature",
+    "trees",
+    "collection: pine_forest"
+  ],
+  "geonodes": true,
+  "tags": [
+    "fir",
+    "sapling",
+    "medium",
+    "needles",
+    "woodland",
+    "branches",
+    "environment",
+    "coniferous",
+    "tree",
+    "plants",
+    "foliage",
+    "geometry nodes"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2308249,
+  "files_hash": "0029476c186325a03c000bb1349ec299e43f9331",
+  "texel_density": 392.3404985749585,
+  "dimensions": [
+    26091.576099395752,
+    5434.919834136963,
+    9163.89086842537
+  ],
+  "lods": true,
+  "download_count": 32824,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fir_sapling_medium.png?width=256&height=256"
+}

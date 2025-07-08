@@ -1,0 +1,43 @@
+{
+  "donated": true,
+  "lods": true,
+  "name": "Barrel Stove",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "MP": "All"
+  },
+  "info": null,
+  "date_published": 1698969600,
+  "staging": null,
+  "categories": [
+    "industrial",
+    "containers",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "urban",
+    "city",
+    "night",
+    "fire",
+    "heating",
+    "outdoor",
+    "barrel"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 11404,
+  "texel_density": 5462.487530033015,
+  "dimensions": [
+    599.3210971355438,
+    598.1101393699646,
+    855.6039333343506
+  ],
+  "files_hash": "317d4401f290899072044a82841d94f4a8440c2f",
+  "download_count": 12233,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/barrel_stove.png?width=256&height=256"
+}

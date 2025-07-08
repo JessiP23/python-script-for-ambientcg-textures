@@ -1,0 +1,48 @@
+{
+  "type": 1,
+  "name": "Moon Footprints 02",
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Rico Cilliers": "Photography",
+    "Jenelle van Heerden": "Photography",
+    "Dario Barresi": "Processing"
+  },
+  "reviewers": [
+    "Rico Cilliers",
+    "Jenelle van Heerden"
+  ],
+  "max_resolution": [
+    8192,
+    16384
+  ],
+  "dimensions": [
+    1550.0000715255737,
+    3100.0001430511475
+  ],
+  "info": "Captured at [PTS](https://www.pts.space/products/spacelab-rostock/)'s lunar test lab. [More info](https://blog.polyhaven.com/moon).",
+  "staging": null,
+  "tags": [
+    "rough",
+    "dirt",
+    "course",
+    "exterior",
+    "regolith",
+    "dusted",
+    "footprints",
+    "garden path gravel",
+    "trail",
+    "lunar",
+    "extraterrestrial",
+    "space"
+  ],
+  "date_published": 1750336463,
+  "categories": [
+    "outdoor",
+    "sand",
+    "terrain",
+    "collection: moon"
+  ],
+  "files_hash": "9d1bcea74ba4e6237b02de8f9c341a6d17564c1a",
+  "download_count": 78,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moon_footprints_02.png?width=256&height=256"
+}

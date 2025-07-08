@@ -1,0 +1,44 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "tags": [
+    "sun",
+    "bridge",
+    "underpass",
+    "pillar",
+    "column",
+    "city",
+    "skyline"
+  ],
+  "date_published": 1522879200,
+  "name": "Under Bridge",
+  "old_id": 257,
+  "categories": [
+    "outdoor",
+    "urban",
+    "sunrise-sunset",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1479112020,
+  "coords": [
+    51.2232,
+    6.761156
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "name": "3DLux"
+    }
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "308ea884400deef6a7ff12774ffbfde9d49b5e7d",
+  "download_count": 18042,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/under_bridge.png?width=256&height=256"
+}

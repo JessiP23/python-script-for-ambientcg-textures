@@ -1,0 +1,43 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "concrete",
+    "monument",
+    "symmetrical",
+    "circular",
+    "skylight"
+  ],
+  "name": "Trekker Monument",
+  "categories": [
+    "natural light",
+    "indoor",
+    "urban",
+    "medium contrast",
+    "overcast",
+    "midday"
+  ],
+  "coords": [
+    -28.546551505826518,
+    26.999063868342844
+  ],
+  "date_taken": 1672321020,
+  "info": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "files_hash": "c9ef4d5b76bf9eadb9e8ee9ddcbc1e3bbd0b5983",
+  "date_published": 1677024000,
+  "staging": null,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 9563,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/trekker_monument.png?width=256&height=256"
+}

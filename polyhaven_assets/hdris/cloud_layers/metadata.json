@@ -1,0 +1,44 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "tags": [
+    "sun",
+    "grass",
+    "path"
+  ],
+  "date_published": 1511996400,
+  "name": "Cloud Layers",
+  "old_id": 74,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "midday",
+    "partly cloudy",
+    "natural light",
+    "high contrast"
+  ],
+  "coords": [
+    -26.15857,
+    27.971349
+  ],
+  "date_taken": 1451395800,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "364bbf09ec007b096719ad0ad0f2b74c7f4f1df0",
+  "sponsors": [
+    {
+      "url": "https://www.idin-jewellery.co.uk/",
+      "name": "Idin Jewellery"
+    },
+    "7934315",
+    "11167855"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 175291,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cloud_layers.png?width=256&height=256"
+}

@@ -1,0 +1,45 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5300,
+  "tags": [
+    "grass",
+    "tree",
+    "sun",
+    "clearing",
+    "path",
+    "park",
+    "backplates"
+  ],
+  "name": "Meadow 2",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "partly cloudy",
+    "clear",
+    "high contrast",
+    "morning-afternoon"
+  ],
+  "backplates": true,
+  "date_taken": 1689149160,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "files_hash": "a7cb839cbd3ebc2f23ee49821e52e80550808e40",
+  "date_published": 1697587200,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "37678923"
+  ],
+  "download_count": 392991,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/meadow_2.png?width=256&height=256"
+}

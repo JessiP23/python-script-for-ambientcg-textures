@@ -1,0 +1,41 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "hill",
+    "hilltop",
+    "grass",
+    "field",
+    "sun"
+  ],
+  "name": "Drackenstein Quarry",
+  "categories": [
+    "outdoor",
+    "skies",
+    "partly cloudy",
+    "nature",
+    "natural light",
+    "low contrast",
+    "sunrise-sunset"
+  ],
+  "date_taken": 1641135720,
+  "coords": [
+    48.548582,
+    9.657288
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1644278400,
+  "staging": null,
+  "files_hash": "3c0f85f9ce1163e0909e78eeed2ac4f71bd7bf43",
+  "max_resolution": [
+    20026,
+    10013
+  ],
+  "download_count": 231092,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/drackenstein_quarry.png?width=256&height=256"
+}

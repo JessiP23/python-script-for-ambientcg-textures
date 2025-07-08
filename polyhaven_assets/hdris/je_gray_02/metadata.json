@@ -1,0 +1,32 @@
+{
+  "evs_cap": 20,
+  "type": 0,
+  "tags": [
+    "forest",
+    "grass",
+    "pine",
+    "sun"
+  ],
+  "name": "J&E Gray 02",
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "natural light",
+    "high contrast"
+  ],
+  "date_taken": 1604335500,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "date_published": 1638144000,
+  "staging": null,
+  "prepaid": true,
+  "files_hash": "34142230463933bfdeb29dd3e5f286981b9d4590",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 393525,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/je_gray_02.png?width=256&height=256"
+}

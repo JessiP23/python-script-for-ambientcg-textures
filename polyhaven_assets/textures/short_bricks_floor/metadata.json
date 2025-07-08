@@ -1,0 +1,41 @@
+{
+  "name": "Short Bricks Floor",
+  "categories": [
+    "man made",
+    "outdoor",
+    "floor",
+    "brick"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "brick",
+    "bricks",
+    "red brick",
+    "paving",
+    "sidewalk",
+    "weathered",
+    "worn",
+    "pavement"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1940.000057220459,
+    1939.9999380111694
+  ],
+  "date_published": 1689984000,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "6c8807fd8098ef5e14b70e7cc304888921b9c254",
+  "download_count": 14816,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/short_bricks_floor.png?width=256&height=256"
+}

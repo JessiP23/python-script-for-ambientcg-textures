@@ -1,0 +1,46 @@
+{
+  "name": "Gravel Floor 02",
+  "categories": [
+    "floor",
+    "gravel"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "rocks",
+    "gravel",
+    "gravelly",
+    "gravelly ground",
+    "driveway gravel",
+    "driveway",
+    "stones",
+    "coarse",
+    "gray",
+    "driveway stones",
+    "stony",
+    "outdoors"
+  ],
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1709164800,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "files_hash": "410a3bd10ee2eb1b23f599b4be1b5a30034a7859",
+  "download_count": 20275,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gravel_floor_02.png?width=256&height=256"
+}

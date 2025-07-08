@@ -1,0 +1,44 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "lake",
+    "water",
+    "dam",
+    "dock",
+    "harbour",
+    "harbor",
+    "jetty",
+    "boat"
+  ],
+  "date_published": 1557439200,
+  "name": "Small Harbor 01",
+  "old_id": 378,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -28.492189,
+    29.002458
+  ],
+  "date_taken": 1556811180,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "10485422"
+  ],
+  "files_hash": "5e34cfbaecfb5bb065de091676a9259426fa7bf4",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 81234,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_harbor_01.png?width=256&height=256"
+}

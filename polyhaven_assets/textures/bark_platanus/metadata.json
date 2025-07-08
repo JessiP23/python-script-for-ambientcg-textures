@@ -1,0 +1,44 @@
+{
+  "name": "Bark Platanus",
+  "categories": [
+    "natural",
+    "bark"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "bark",
+    "tree bark",
+    "natural",
+    "bark texture",
+    "forestry",
+    "tree",
+    "tree trunk",
+    "tree texture",
+    "platanus",
+    "nature",
+    "organic"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1500.0001192092896,
+    1500.0001192092896
+  ],
+  "staging": null,
+  "date_published": 1733356800,
+  "sponsors": [
+    "42579608"
+  ],
+  "files_hash": "803db1c1c6d0bad70a433e88d162e0bc125f5126",
+  "download_count": 1216,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bark_platanus.png?width=256&height=256"
+}

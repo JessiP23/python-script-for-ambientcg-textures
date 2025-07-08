@@ -1,0 +1,33 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "bath",
+    "basin",
+    "tiles",
+    "sink"
+  ],
+  "date_published": 1511996400,
+  "name": "Bathroom",
+  "old_id": 71,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1418659140,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "16608220"
+  ],
+  "files_hash": "22664b5b9f8f63dd2da5be4482ec91e3fa94869b",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 65810,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bathroom.png?width=256&height=256"
+}

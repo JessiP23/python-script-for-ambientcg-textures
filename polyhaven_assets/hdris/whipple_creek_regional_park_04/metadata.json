@@ -1,0 +1,42 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "tree",
+    "path",
+    "park",
+    "forest"
+  ],
+  "date_published": 1539036000,
+  "name": "Whipple Creek Regional Park 04",
+  "old_id": 313,
+  "categories": [
+    "outdoor",
+    "nature",
+    "midday",
+    "overcast",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    45.739653,
+    -122.689633
+  ],
+  "date_taken": 1533110640,
+  "authors": {
+    "Philip Modin": "All"
+  },
+  "sponsors": [
+    "7937768",
+    "3237733",
+    "11167855"
+  ],
+  "files_hash": "c7ef6888fd2b743f9845c2aabbed80f1b2d72b3e",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 70843,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/whipple_creek_regional_park_04.png?width=256&height=256"
+}

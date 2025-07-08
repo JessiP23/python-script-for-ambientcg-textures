@@ -1,0 +1,46 @@
+{
+  "evs_cap": 20,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "tree",
+    "path",
+    "park",
+    "railing"
+  ],
+  "date_published": 1532642400,
+  "name": "Nagoya Wall Path",
+  "old_id": 297,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1524754200,
+  "coords": [
+    35.1836,
+    136.899
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "url": "http://mdjustin.com/",
+      "name": "Justin Dolan"
+    },
+    {
+      "url": "https://www.frame4.co.uk/",
+      "name": "Frame 4 Animation Studios"
+    }
+  ],
+  "files_hash": "3a4662feb3c58771412e71b025e36160c4cc9c54",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 28342,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/nagoya_wall_path.png?width=256&height=256"
+}

@@ -1,0 +1,44 @@
+{
+  "lods": true,
+  "name": "Dry Quiver Leaf",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock",
+    "Jandre van Heerden"
+  ],
+  "authors": {
+    "Greg Zaal": "Photographer",
+    "Rico Cilliers": "Model"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 147596,
+  "texel_density": 16235.633514317564,
+  "dimensions": [
+    396.80904150009155,
+    192.06499308347702,
+    425.0438064336777
+  ],
+  "staging": null,
+  "categories": [
+    "nature",
+    "plants",
+    "ground cover",
+    "collection: namaqualand"
+  ],
+  "tags": [
+    "karoo",
+    "desert",
+    "south africa",
+    "dry",
+    "dried",
+    "dead",
+    "debris"
+  ],
+  "date_published": 1728345600,
+  "files_hash": "ad69fbdafc6c8ba947ad3110d76faed9ce875420",
+  "download_count": 417,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dry_quiver_leaf.png?width=256&height=256"
+}

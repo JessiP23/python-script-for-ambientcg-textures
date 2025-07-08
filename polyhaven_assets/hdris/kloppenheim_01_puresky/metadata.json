@@ -1,0 +1,40 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "pure skies"
+  ],
+  "date_published": 1668902400,
+  "name": "Kloppenheim 01 (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "overcast",
+    "low contrast",
+    "natural light",
+    "pure skies"
+  ],
+  "staging": null,
+  "coords": [
+    -25.654156,
+    30.161901
+  ],
+  "date_taken": 1572627540,
+  "authors": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky edits"
+  },
+  "info": "Edited sky-only version of [Kloppenheim 01](https://polyhaven.com/a/kloppenheim_01).",
+  "files_hash": "7195ba27570ddc3fed3bafaba2570cd22adb0abd",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 56224,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kloppenheim_01_puresky.png?width=256&height=256"
+}

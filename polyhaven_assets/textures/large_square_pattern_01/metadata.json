@@ -1,0 +1,33 @@
+{
+  "scale": "1.5M x 1.5M",
+  "type": 1,
+  "tags": [
+    "tiles",
+    "concrete",
+    "large",
+    "even"
+  ],
+  "date_published": 1575108926,
+  "name": "Large Square Pattern 01",
+  "old_id": 234,
+  "categories": [
+    "floor",
+    "man made",
+    "outdoor",
+    "clean"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    3000,
+    3000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "07a7f3033688eedafd7c86b6917afa7b2c8ef187",
+  "download_count": 111593,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_square_pattern_01.png?width=256&height=256"
+}

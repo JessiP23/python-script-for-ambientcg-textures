@@ -1,0 +1,42 @@
+{
+  "name": "Cobblestone Embedded Asphalt",
+  "categories": [
+    "floor",
+    "man made",
+    "asphalt"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rocks",
+    "asphalt",
+    "rocky",
+    "stone",
+    "coarse",
+    "gravelly",
+    "gravelly ground",
+    "gritty texture",
+    "rough",
+    "gravelly texture",
+    "rugged"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "staging": null,
+  "dimensions": [
+    1899.999976158142,
+    1899.999976158142
+  ],
+  "date_published": 1710969949,
+  "files_hash": "149d271ee8b5d3d09e518cec5ff37ed8c643fa12",
+  "download_count": 4480,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_embedded_asphalt.png?width=256&height=256"
+}

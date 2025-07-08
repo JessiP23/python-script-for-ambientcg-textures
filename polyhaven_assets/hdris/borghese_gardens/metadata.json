@@ -1,0 +1,37 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "tags": [
+    "sun",
+    "tree",
+    "rome",
+    "europe",
+    "park"
+  ],
+  "name": "Borghese Gardens",
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1635852960,
+  "coords": [
+    41.912776,
+    12.486894
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1640044800,
+  "staging": null,
+  "max_resolution": [
+    18316,
+    9158
+  ],
+  "files_hash": "9c50eab00b8c1c0ec2273a15f339c40976966c0a",
+  "download_count": 34212,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/borghese_gardens.png?width=256&height=256"
+}

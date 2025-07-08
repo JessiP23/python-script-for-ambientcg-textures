@@ -1,0 +1,43 @@
+{
+  "name": "Wooden Garage Door",
+  "categories": [
+    "man made",
+    "outdoor",
+    "wood"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "worn",
+    "wood",
+    "wooden",
+    "outdoor",
+    "door",
+    "weathered",
+    "wood grain",
+    "stained",
+    "scratched",
+    "weatherbeaten",
+    "discolored"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1979.9997806549072,
+    1979.9997806549072
+  ],
+  "date_published": 1693440000,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "adac27d2d94baad539d946706e7e16174cdf6242",
+  "download_count": 28547,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_garage_door.png?width=256&height=256"
+}

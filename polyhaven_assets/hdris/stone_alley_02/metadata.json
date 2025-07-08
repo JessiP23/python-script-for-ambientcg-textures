@@ -1,0 +1,39 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "alley",
+    "cobblestone",
+    "europe",
+    "narrow",
+    "brick"
+  ],
+  "date_published": 1584399600,
+  "name": "Stone Alley 02",
+  "old_id": 450,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    38.114743,
+    13.359741
+  ],
+  "date_taken": 1569822540,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "993026"
+  ],
+  "max_resolution": [
+    20000,
+    10000
+  ],
+  "files_hash": "aa57bdbed4b4455256f530566b7aeb5b31c37dbd",
+  "download_count": 12619,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_alley_02.png?width=256&height=256"
+}

@@ -1,0 +1,41 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "sun",
+    "tree",
+    "field",
+    "dry grass",
+    "yellow",
+    "noon",
+    "grass"
+  ],
+  "name": "Countrytrax Midday",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "clear",
+    "high contrast",
+    "midday"
+  ],
+  "date_taken": 1697802780,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "files_hash": "7e89ba004f0a0be24f1e045bb26d1323f55cb8f0",
+  "date_published": 1702425600,
+  "staging": null,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "download_count": 21943,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/countrytrax_midday.png?width=256&height=256"
+}

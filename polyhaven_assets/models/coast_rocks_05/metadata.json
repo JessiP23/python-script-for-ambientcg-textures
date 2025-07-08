@@ -1,0 +1,50 @@
+{
+  "lods": true,
+  "name": "Coast Rocks 05",
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "info": null,
+  "staging": null,
+  "date_published": 1690156800,
+  "tags": [
+    "rocks",
+    "coastal",
+    "maritime",
+    "ocean",
+    "stone",
+    "reef",
+    "formation",
+    "landscape",
+    "seaside",
+    "shore",
+    "geology",
+    "pebbles",
+    "seaweed",
+    "weathered"
+  ],
+  "categories": [
+    "nature",
+    "rocks",
+    "collection: smugglers_cove",
+    "collection: verdant_trail"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 1446981,
+  "texel_density": 1832.7072052800745,
+  "dimensions": [
+    3036.3906621932983,
+    2817.328929901123,
+    1000.5000680685043
+  ],
+  "files_hash": "5685f8953d4ee948c31128c4f857661a299dbf2c",
+  "download_count": 15737,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coast_rocks_05.png?width=256&height=256"
+}

@@ -1,0 +1,49 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "weathered",
+    "plaster",
+    "rock",
+    "sandstone",
+    "concrete",
+    "pavement",
+    "floor",
+    "dirty",
+    "discolored",
+    "brown",
+    "red",
+    "rocks",
+    "pathway",
+    "grey"
+  ],
+  "date_published": 1679961600,
+  "name": "Red Sandstone Pavement",
+  "categories": [
+    "outdoor",
+    "floor",
+    "sandstone",
+    "man made",
+    "concrete",
+    "rock"
+  ],
+  "staging": null,
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "dimensions": [
+    2150.0000953674316,
+    2150.0000953674316
+  ],
+  "info": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "32d99d2030a56f578ae8d81e478856ed09a0f2d7",
+  "download_count": 19063,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_sandstone_pavement.png?width=256&height=256"
+}

@@ -1,0 +1,42 @@
+{
+  "type": 0,
+  "name": "Qwantani Dusk 1 (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "low contrast",
+    "partly cloudy",
+    "clear",
+    "skies",
+    "sunrise-sunset",
+    "pure skies"
+  ],
+  "tags": [
+    "pure skies"
+  ],
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "info": "Edited sky-only version of [Qwantani Dusk 1](https://polyhaven.com/a/qwantani_dusk_1).",
+  "whitebalance": 5303,
+  "date_taken": 1724348820,
+  "coords": [
+    -28.48533209827116,
+    29.012639559934758
+  ],
+  "evs_cap": 12,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "69f8dff1a69008b1a3bab349249308ac038a29ea",
+  "date_published": 1751587200,
+  "staging": null,
+  "download_count": 2009,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/qwantani_dusk_1_puresky.png?width=256&height=256"
+}

@@ -1,0 +1,48 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "tile",
+    "brick",
+    "table",
+    "chair",
+    "braai",
+    "awning",
+    "veranda",
+    "garden",
+    "patio",
+    "porch",
+    "terrace"
+  ],
+  "name": "Qwantani Patio",
+  "categories": [
+    "outdoor",
+    "nature",
+    "urban",
+    "natural light",
+    "medium contrast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1724225880,
+  "coords": [
+    -28.490092739921664,
+    29.005088570793255
+  ],
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "9912c9951ebf53e0b53eb3e21f913850e6e5cde9",
+  "date_published": 1727654400,
+  "staging": null,
+  "download_count": 6089,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/qwantani_patio.png?width=256&height=256"
+}

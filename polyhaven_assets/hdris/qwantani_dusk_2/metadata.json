@@ -1,0 +1,45 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "mountain",
+    "view",
+    "dam",
+    "lake",
+    "hilltop",
+    "grass"
+  ],
+  "name": "Qwantani Dusk 2",
+  "date_taken": 1724349960,
+  "coords": [
+    -28.48533209827116,
+    29.012639559934758
+  ],
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "0dae77bfe5dd106ccef1baaac37f90a3e9b49ad1",
+  "staging": null,
+  "date_published": 1730246400,
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "clear",
+    "low contrast",
+    "sunrise-sunset",
+    "partly cloudy"
+  ],
+  "download_count": 79825,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/qwantani_dusk_2.png?width=256&height=256"
+}

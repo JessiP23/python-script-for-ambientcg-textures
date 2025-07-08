@@ -1,0 +1,37 @@
+{
+  "type": 1,
+  "tags": [
+    "seaside",
+    "palm",
+    "tree",
+    "bark",
+    "damaged",
+    "forest",
+    "tropical",
+    "nature"
+  ],
+  "name": "Palm Tree Bark",
+  "categories": [
+    "outdoor",
+    "bark",
+    "wood",
+    "natural"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Processing"
+  },
+  "date_published": 1639008000,
+  "staging": null,
+  "dimensions": [
+    1299.9999523162842,
+    1300.0000715255737
+  ],
+  "max_resolution": [
+    8192,
+    16384
+  ],
+  "files_hash": "75991fdad0e873c87b6a9c0971b73c1278d18a65",
+  "download_count": 34263,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/palm_tree_bark.png?width=256&height=256"
+}

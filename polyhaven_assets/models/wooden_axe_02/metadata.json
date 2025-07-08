@@ -1,0 +1,42 @@
+{
+  "donated": true,
+  "name": "Wooden Axe 02",
+  "categories": [
+    "props"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "tool",
+    "axe",
+    "weapon",
+    "hatchet",
+    "forestry",
+    "firewood",
+    "camping",
+    "hand tool",
+    "lumber",
+    "survival"
+  ],
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 2218,
+  "texel_density": 8828.400206220962,
+  "dimensions": [
+    50.90378411114216,
+    225.73669627308846,
+    704.204648733139
+  ],
+  "staging": null,
+  "date_published": 1721001600,
+  "files_hash": "0df910d54a3067120c13c5cb3af0aeb973e052cc",
+  "download_count": 4427,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_axe_02.png?width=256&height=256"
+}

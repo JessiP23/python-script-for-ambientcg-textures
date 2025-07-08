@@ -1,0 +1,43 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tunnel",
+    "plant",
+    "tree",
+    "lamp",
+    "enclosure"
+  ],
+  "date_published": 1511996400,
+  "name": "Glass Passage",
+  "old_id": 79,
+  "categories": [
+    "indoor",
+    "nature",
+    "urban",
+    "low contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1478072760,
+  "coords": [
+    52.361192,
+    4.877665
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "fe05deb1bf2ab219d80d2b46eb40dead252657e9",
+  "sponsors": [
+    {
+      "name": "Kimba"
+    },
+    "42579608"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 46526,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/glass_passage.png?width=256&height=256"
+}

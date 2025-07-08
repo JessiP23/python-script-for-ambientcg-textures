@@ -1,0 +1,53 @@
+{
+  "date_published": 1669075200,
+  "name": "Yellow Plaster 02",
+  "categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "plaster-concrete",
+    "wood",
+    "concrete",
+    "plaster"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "tags": [
+    "rough",
+    "old",
+    "yellow",
+    "wall",
+    "wood",
+    "plastered",
+    "cracks",
+    "weathered",
+    "uneven",
+    "brown",
+    "tan",
+    "planks",
+    "mud",
+    "cabin",
+    "wooden"
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "info": null,
+  "sponsors": [
+    "3237733"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "655315d7184c6529e406afdf264e12c3cb6300ac",
+  "download_count": 9189,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yellow_plaster_02.png?width=256&height=256"
+}

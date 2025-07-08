@@ -1,0 +1,39 @@
+{
+  "type": 1,
+  "tags": [
+    "moss",
+    "pavement",
+    "dirty",
+    "discolored",
+    "damp",
+    "pattern"
+  ],
+  "name": "Brick Moss 001",
+  "categories": [
+    "outdoor",
+    "floor",
+    "man made",
+    "brick",
+    "road"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Processing"
+  },
+  "date_published": 1624959202,
+  "staging": null,
+  "sponsors": [
+    "9910225"
+  ],
+  "dimensions": [
+    2239.999771118164,
+    2240.0002479553223
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "95c6236acb56be3c3935b9d2d600f4abfacc0568",
+  "download_count": 55335,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_moss_001.png?width=256&height=256"
+}

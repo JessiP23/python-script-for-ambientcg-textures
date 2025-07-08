@@ -1,0 +1,41 @@
+{
+  "name": "Square Tiled Wall",
+  "categories": [
+    "wall",
+    "man made",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "patterned",
+    "brick",
+    "square tiles",
+    "outdoor",
+    "pattern",
+    "decorative tiles",
+    "decorative",
+    "walling",
+    "building facade",
+    "brick design"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1721260800,
+  "staging": null,
+  "files_hash": "37453fb779b99e2e246efad64677e042b66271c7",
+  "download_count": 1844,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/square_tiled_wall.png?width=256&height=256"
+}

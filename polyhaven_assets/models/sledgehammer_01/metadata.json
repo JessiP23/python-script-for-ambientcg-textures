@@ -1,0 +1,45 @@
+{
+  "donated": true,
+  "name": "Sledgehammer 01",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Dylan Guzman": "All"
+  },
+  "info": null,
+  "date_published": 1674172800,
+  "staging": null,
+  "sponsors": [
+    "3267566"
+  ],
+  "categories": [
+    "props",
+    "tools",
+    "industrial",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "outdoor",
+    "construction",
+    "hammer",
+    "nails",
+    "heavy",
+    "shed"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2596,
+  "texel_density": 15119.31539864515,
+  "dimensions": [
+    208.48701149225235,
+    90.47714620828629,
+    1005.6212544441223
+  ],
+  "files_hash": "652af041c97bb744d9d24b24c6ec940d64e3c4fd",
+  "download_count": 4281,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sledgehammer_01.png?width=256&height=256"
+}

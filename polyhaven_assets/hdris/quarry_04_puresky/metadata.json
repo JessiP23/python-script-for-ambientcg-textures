@@ -1,0 +1,39 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "pure skies"
+  ],
+  "date_published": 1670630400,
+  "name": "Quarry 04 (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "skies",
+    "sunrise-sunset",
+    "low contrast",
+    "partly cloudy",
+    "natural light",
+    "nature",
+    "pure skies"
+  ],
+  "staging": null,
+  "date_taken": 1557084600,
+  "authors": {
+    "Jarod Guest": "Sky edits",
+    "Sergej Majboroda": "Original"
+  },
+  "info": "Edited sky-only version of [Quarry 04](https://polyhaven.com/a/quarry_04).",
+  "files_hash": "ca582464d34d9328b7287142cb3de3eddf4913ed",
+  "sponsors": [
+    "26820710"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 47985,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/quarry_04_puresky.png?width=256&height=256"
+}

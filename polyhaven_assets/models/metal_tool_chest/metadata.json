@@ -1,0 +1,53 @@
+{
+  "donated": true,
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "date_published": 1682899200,
+  "sponsors": [
+    "26820710"
+  ],
+  "name": "Metal Tool Chest",
+  "staging": null,
+  "info": null,
+  "authors": {
+    "Yann Kervran": "Rigging",
+    "John Hutcheson": "Modeling & Texturing"
+  },
+  "categories": [
+    "props",
+    "tools",
+    "industrial",
+    "containers",
+    "rigged",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "old",
+    "metal",
+    "garage",
+    "workshop",
+    "storage",
+    "shed",
+    "worn",
+    "mechanics toolbox",
+    "rusted",
+    "steel",
+    "red"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 14576,
+  "texel_density": 4517.763390735566,
+  "dimensions": [
+    685.3884160518646,
+    407.15324878692627,
+    651.8355906009674
+  ],
+  "files_hash": "8fdd3f7409ad7cfd5a4fc3091933d1e1d3785b0e",
+  "download_count": 12033,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/metal_tool_chest.png?width=256&height=256"
+}

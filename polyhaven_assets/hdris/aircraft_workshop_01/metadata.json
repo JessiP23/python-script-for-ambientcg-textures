@@ -1,0 +1,33 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "whitebalance": 5050,
+  "tags": [
+    "workshop",
+    "industrial",
+    "warehouse",
+    "scaffold"
+  ],
+  "date_published": 1545346800,
+  "name": "Aircraft Workshop 01",
+  "old_id": 335,
+  "categories": [
+    "indoor",
+    "urban",
+    "morning-afternoon",
+    "medium contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1542981480,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "files_hash": "aa5eff5ed9fdc07b2b41897dedb7f70eb38f8651",
+  "download_count": 31591,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aircraft_workshop_01.png?width=256&height=256"
+}

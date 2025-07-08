@@ -1,0 +1,46 @@
+{
+  "evs_cap": 10,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1513739437,
+  "name": "Circus Maximus 1",
+  "old_id": 117,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1510223460,
+  "coords": [
+    41.8871,
+    12.4835
+  ],
+  "sponsors": [
+    "16608220"
+  ],
+  "backplates": true,
+  "tags": [
+    "tree",
+    "stone",
+    "gravel",
+    "pebble",
+    "field",
+    "rome",
+    "backplates"
+  ],
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "937d0e46abc712f183f10daf3b8814a3f7f0887e",
+  "download_count": 47540,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/circus_maximus_1.png?width=256&height=256"
+}

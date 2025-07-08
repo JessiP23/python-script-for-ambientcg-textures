@@ -1,0 +1,40 @@
+{
+  "type": 2,
+  "tags": [
+    "art",
+    "vintage",
+    "old",
+    "dutch",
+    "painting",
+    "oil",
+    "antique",
+    "fancy",
+    "frame",
+    "picture"
+  ],
+  "name": "Fancy Picture Frame 01",
+  "categories": [
+    "decorative",
+    "wall decoration"
+  ],
+  "date_published": 1631059200,
+  "staging": null,
+  "authors": {
+    "Rico Cilliers": "3D Model",
+    "Rob Tuytel": "Scan & Painting"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 938,
+  "texel_density": 12144.195669870945,
+  "dimensions": [
+    603.030264377594,
+    19.993074471130967,
+    464.12645280361176
+  ],
+  "files_hash": "f8fc816a4ab84e0b88d024cd7ae23bc7bbe6963f",
+  "download_count": 38244,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fancy_picture_frame_01.png?width=256&height=256"
+}

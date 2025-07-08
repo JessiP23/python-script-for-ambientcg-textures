@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "outdoor",
+    "natural",
+    "terrain"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "dirt",
+    "forest",
+    "leaves",
+    "twigs",
+    "yellow",
+    "green",
+    "sticks",
+    "autumn",
+    "nature",
+    "brown"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "dimensions": [
+    1259.9999904632568,
+    1260.0001096725464
+  ],
+  "date_published": 1655942400,
+  "staging": null,
+  "name": "Leaves Forest Ground",
+  "sponsors": [
+    "540619"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "97ad42596a73dd3dcf0f7dc6fdf9070a382a1f9c",
+  "download_count": 32186,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/leaves_forest_ground.png?width=256&height=256"
+}

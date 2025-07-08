@@ -1,0 +1,36 @@
+{
+  "type": 2,
+  "tags": [
+    "vintage",
+    "antique",
+    "pot",
+    "fancy",
+    "pattern",
+    "vase"
+  ],
+  "date_published": 1623767593,
+  "name": "Antique Ceramic Vase 01",
+  "categories": [
+    "decorative",
+    "containers",
+    "vases"
+  ],
+  "staging": null,
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 9408,
+  "texel_density": 8522.485524139776,
+  "dimensions": [
+    255.02996146678925,
+    255.02994656562805,
+    439.553053722193
+  ],
+  "files_hash": "14acbdecea40d7a8992d0d78a740a56bbe23ed9f",
+  "download_count": 19893,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/antique_ceramic_vase_01.png?width=256&height=256"
+}

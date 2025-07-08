@@ -1,0 +1,45 @@
+{
+  "date_published": 1684540800,
+  "name": "Stony Dirt Path",
+  "categories": [
+    "dirty",
+    "floor",
+    "outdoor",
+    "natural"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "tags": [
+    "brown",
+    "ground",
+    "leaves",
+    "rocks",
+    "stones",
+    "dirt",
+    "pathway",
+    "path",
+    "forest",
+    "nature",
+    "autumn",
+    "twigs",
+    "rock"
+  ],
+  "authors": {
+    "eye-candy.xyz": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2170.0000762939453,
+    2170.0000762939453
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d5d34dc3d02e4ba2432b4bd300561cc2402e817a",
+  "download_count": 13003,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stony_dirt_path.png?width=256&height=256"
+}

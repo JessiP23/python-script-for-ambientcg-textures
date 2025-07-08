@@ -1,0 +1,39 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "tags": [
+    "tree",
+    "sun",
+    "grass",
+    "dry"
+  ],
+  "date_published": 1618351200,
+  "name": "Blaubeuren Hillside",
+  "old_id": 536,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1615192380,
+  "coords": [
+    48.400316,
+    9.812415
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "37678923"
+  ],
+  "files_hash": "79b58bac74f015cccebff6e443650971cacd03ac",
+  "max_resolution": [
+    19108,
+    9554
+  ],
+  "download_count": 21764,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/blaubeuren_hillside.png?width=256&height=256"
+}

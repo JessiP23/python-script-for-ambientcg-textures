@@ -1,0 +1,42 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "whitebalance": 5860,
+  "date_published": 1581634800,
+  "name": "Dirt Bike Track 01",
+  "old_id": 445,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1567408140,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "8571269"
+  ],
+  "backplates": true,
+  "tags": [
+    "track",
+    "road",
+    "offroad",
+    "dirt",
+    "race",
+    "course",
+    "tire",
+    "backplates"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "f81da9165bcca800593863cc319296441ccf065b",
+  "download_count": 28925,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dirt_bike_track_01.png?width=256&height=256"
+}

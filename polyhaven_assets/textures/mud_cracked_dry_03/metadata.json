@@ -1,0 +1,43 @@
+{
+  "name": "Mud Cracked Dry 03",
+  "categories": [
+    "outdoor",
+    "natural",
+    "terrain",
+    "sand"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "tags": [
+    "dry",
+    "mud",
+    "sand",
+    "uneven",
+    "ground",
+    "cracked",
+    "cracks",
+    "nature"
+  ],
+  "dimensions": [
+    1500,
+    1500.0001192092896
+  ],
+  "date_published": 1652313600,
+  "staging": null,
+  "sponsors": [
+    "4714267"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "3dcebae7dd9269b3dc5b8b32261f319e8881c161",
+  "download_count": 37337,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mud_cracked_dry_03.png?width=256&height=256"
+}

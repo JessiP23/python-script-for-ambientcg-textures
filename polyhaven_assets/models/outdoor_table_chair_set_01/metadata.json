@@ -1,0 +1,44 @@
+{
+  "type": 2,
+  "tags": [
+    "outdoor",
+    "foldable",
+    "folding",
+    "seating",
+    "coffee",
+    "diner",
+    "street",
+    "urban",
+    "deli",
+    "wood",
+    "city",
+    "cafe"
+  ],
+  "name": "Outdoor Table Chair Set 01",
+  "categories": [
+    "furniture",
+    "seating"
+  ],
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "date_published": 1634083200,
+  "staging": null,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 9828,
+  "texel_density": 3205.4733996309574,
+  "dimensions": [
+    776.0046124458313,
+    1831.0473561286926,
+    858.5816156119108
+  ],
+  "sponsors": [
+    "20953239"
+  ],
+  "files_hash": "6e1e83970732c6c4e9f2056f37cec189cc80adc5",
+  "download_count": 37162,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/outdoor_table_chair_set_01.png?width=256&height=256"
+}

@@ -1,0 +1,43 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "sun",
+    "grass",
+    "rock",
+    "view"
+  ],
+  "date_published": 1553814000,
+  "name": "Kloofendal 48d Partly Cloudy",
+  "old_id": 361,
+  "date_taken": 1553262240,
+  "coords": [
+    -26.14066228,
+    27.89984354
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "fd743a9dcd720f92d04e74a4e360236287e7807e",
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "midday",
+    "partly cloudy",
+    "high contrast",
+    "natural light",
+    "collection: verdant_trail"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "3567764",
+    "100707845"
+  ],
+  "download_count": 195090,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kloofendal_48d_partly_cloudy.png?width=256&height=256"
+}

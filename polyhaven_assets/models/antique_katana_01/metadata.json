@@ -1,0 +1,40 @@
+{
+  "donated": true,
+  "date_published": 1623767595,
+  "sponsors": [
+    "44302755"
+  ],
+  "name": "Antique Katana 01",
+  "categories": [
+    "props"
+  ],
+  "type": 2,
+  "staging": null,
+  "tags": [
+    "antique",
+    "ninja",
+    "katana",
+    "sword",
+    "sharp",
+    "blade",
+    "japanese",
+    "weapon"
+  ],
+  "authors": {
+    "Tal Swicegood": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 6670,
+  "texel_density": 19878.338448553855,
+  "dimensions": [
+    93.37274730205536,
+    93.37274730205536,
+    1002.9437839984894
+  ],
+  "files_hash": "0dfd31f5d7a964c579c45d90e450d8942d7a5599",
+  "download_count": 20800,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/antique_katana_01.png?width=256&height=256"
+}

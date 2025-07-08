@@ -1,0 +1,56 @@
+{
+  "lods": true,
+  "name": "Shrub 03",
+  "categories": [
+    "nature",
+    "plants",
+    "ground cover",
+    "collection: verdant_trail"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "version_required": {
+    "blend": "4.0.1"
+  },
+  "tags": [
+    "meadow",
+    "field",
+    "shrub",
+    "botany",
+    "green",
+    "nature",
+    "plant",
+    "leaf",
+    "bush",
+    "foliage",
+    "small",
+    "ground cover",
+    "undergrowth",
+    "garden",
+    "flora",
+    "environment",
+    "vegetation"
+  ],
+  "authors": {
+    "Rico Cilliers": "All"
+  },
+  "info": null,
+  "date_published": 1707177600,
+  "staging": null,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 16955,
+  "texel_density": 28859.739259583006,
+  "dimensions": [
+    1366.9319450855255,
+    151.20302885770798,
+    402.78380597010255
+  ],
+  "files_hash": "54def63266ae691c3656edadb07e137996c6dde7",
+  "download_count": 4949,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/shrub_03.png?width=256&height=256"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Hangar Concrete Floor",
+  "categories": [
+    "floor",
+    "man made",
+    "concrete",
+    "indoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "scratched",
+    "flat",
+    "concrete",
+    "cracked",
+    "damaged",
+    "chipped",
+    "scuffed",
+    "cemented floor",
+    "worn",
+    "cracked cement",
+    "cement",
+    "plastered",
+    "battered",
+    "deteriorated",
+    "timeworn"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1717027200,
+  "staging": null,
+  "files_hash": "feda9a30b18650fdd15ab745a3f0c139e7c05108",
+  "download_count": 28530,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hangar_concrete_floor.png?width=256&height=256"
+}

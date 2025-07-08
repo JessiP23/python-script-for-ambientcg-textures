@@ -1,0 +1,45 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "weathered",
+    "cracked",
+    "concrete",
+    "scratched",
+    "brick",
+    "bricks",
+    "wall",
+    "exterior",
+    "red brick"
+  ],
+  "date_published": 1686787200,
+  "name": "Brick Wall 02",
+  "categories": [
+    "wall",
+    "brick",
+    "plaster-concrete",
+    "concrete",
+    "outdoor",
+    "man made"
+  ],
+  "staging": null,
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "53adbda826ddf102330df522b3a646696d902059",
+  "download_count": 41815,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_wall_02.png?width=256&height=256"
+}

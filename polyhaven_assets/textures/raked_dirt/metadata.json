@@ -1,0 +1,42 @@
+{
+  "name": "Raked Dirt",
+  "categories": [
+    "outdoor",
+    "natural",
+    "dirty",
+    "floor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Greg Zaal",
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "info": null,
+  "tags": [
+    "brown",
+    "nature",
+    "ground",
+    "sand",
+    "leaves",
+    "dirt",
+    "floor",
+    "dirty"
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1661990400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "9f31e810a45f46e2d314430a7779ec7ec024c94b",
+  "download_count": 6001,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/raked_dirt.png?width=256&height=256"
+}

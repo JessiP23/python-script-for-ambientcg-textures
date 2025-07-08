@@ -1,0 +1,45 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "tree",
+    "river",
+    "grass",
+    "path",
+    "field",
+    "park",
+    "mist",
+    "power line"
+  ],
+  "date_published": 1532383200,
+  "name": "Spruit Dawn",
+  "old_id": 296,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -26.1233,
+    28.0159
+  ],
+  "date_taken": 1527657900,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "3567764"
+  ],
+  "files_hash": "9455b4e2fc9acaadddc57a39b6ddd1a8dcf275bf",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 36729,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/spruit_dawn.png?width=256&height=256"
+}

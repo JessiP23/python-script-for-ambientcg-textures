@@ -1,0 +1,45 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "tags": [
+    "sun",
+    "view",
+    "hilltop",
+    "suburb",
+    "rock",
+    "grass"
+  ],
+  "date_published": 1522879200,
+  "name": "Rocky Ridge",
+  "old_id": 247,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    -26.145263,
+    27.967626
+  ],
+  "date_taken": 1436108760,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "name": "David"
+    },
+    "3237733"
+  ],
+  "files_hash": "26b785bb5be1cc3c8e51647c168c774aa058c553",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 48829,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocky_ridge.png?width=256&height=256"
+}

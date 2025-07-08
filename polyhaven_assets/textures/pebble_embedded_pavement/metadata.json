@@ -1,0 +1,43 @@
+{
+  "name": "Pebble Embedded Pavement",
+  "categories": [
+    "floor",
+    "man made",
+    "concrete",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi"
+  ],
+  "tags": [
+    "pebbles",
+    "pebble",
+    "concrete",
+    "bumpy",
+    "walkway",
+    "outdoor",
+    "embedded pebble",
+    "cemented floor",
+    "outdoor walkway",
+    "pavement",
+    "rough",
+    "coarse"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "date_published": 1716249600,
+  "staging": null,
+  "files_hash": "15cc8ba729bd8b6e9194db8ec2d1b4470a93af9e",
+  "download_count": 3050,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pebble_embedded_pavement.png?width=256&height=256"
+}

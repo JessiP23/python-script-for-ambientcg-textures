@@ -1,0 +1,42 @@
+{
+  "donated": true,
+  "name": "Large Iron Gate",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Josh Dean": "All"
+  },
+  "info": null,
+  "date_published": 1697155200,
+  "staging": null,
+  "categories": [
+    "structures",
+    "buildings",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "gate",
+    "entrance",
+    "drive way",
+    "cast iron",
+    "iron",
+    "stylish",
+    "security"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 38140,
+  "texel_density": 2384.2255333714465,
+  "dimensions": [
+    2950.09183883667,
+    97.33648598194122,
+    2928.6537868902087
+  ],
+  "files_hash": "93b045958194b830c41c9a16d3f3aa7a5cb8bced",
+  "download_count": 4958,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/large_iron_gate.png?width=256&height=256"
+}

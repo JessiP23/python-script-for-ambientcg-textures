@@ -1,0 +1,41 @@
+{
+  "evs_cap": 24,
+  "type": 0,
+  "tags": [
+    "tree",
+    "sun",
+    "grass",
+    "hill",
+    "bench",
+    "park"
+  ],
+  "date_published": 1522879200,
+  "name": "Sisulu",
+  "old_id": 251,
+  "categories": [
+    "outdoor",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -26.088887,
+    27.844385
+  ],
+  "date_taken": 1438526400,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "42579608"
+  ],
+  "files_hash": "5ab4e7f462f19cfd9d4d98a05c17888cbe2b7fb0",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 25774,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sisulu.png?width=256&height=256"
+}

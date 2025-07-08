@@ -1,0 +1,39 @@
+{
+  "name": "Withered Grass",
+  "categories": [
+    "natural",
+    "outdoor",
+    "floor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "old",
+    "weathered",
+    "grass",
+    "dead grass",
+    "discolored",
+    "driedup",
+    "dry"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1999.9996423721313,
+    1999.9996423721313
+  ],
+  "date_published": 1694044800,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "eb88811d5af353e86750f73f412bf5aea3f7c8ab",
+  "download_count": 6209,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/withered_grass.png?width=256&height=256"
+}

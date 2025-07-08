@@ -1,0 +1,43 @@
+{
+  "evs_cap": 26,
+  "type": 0,
+  "whitebalance": 4750,
+  "date_published": 1579820400,
+  "name": "Autumn Meadow",
+  "old_id": 437,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1571143080,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    {
+      "name": "Dem\u00e9trio Ruivo"
+    }
+  ],
+  "backplates": true,
+  "tags": [
+    "tree",
+    "sun",
+    "grass",
+    "autumn",
+    "field",
+    "power line",
+    "forest",
+    "backplates"
+  ],
+  "files_hash": "3b326cb390a0d74bf26111cc07f5c541821f4787",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 51473,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/autumn_meadow.png?width=256&height=256"
+}

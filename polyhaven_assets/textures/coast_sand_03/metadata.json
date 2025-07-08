@@ -1,0 +1,50 @@
+{
+  "date_published": 1647475200,
+  "name": "Coast Sand 03",
+  "type": 1,
+  "staging": null,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "dimensions": [
+    3000,
+    3000.000238418579
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "categories": [
+    "sand",
+    "terrain",
+    "rock",
+    "outdoor",
+    "natural",
+    "collection: smugglers_cove"
+  ],
+  "tags": [
+    "sand",
+    "pebbles",
+    "stones",
+    "beach",
+    "seaside",
+    "ocean",
+    "costal",
+    "brown",
+    "ground",
+    "gravel",
+    "dry",
+    "pathway",
+    "coral",
+    "rock",
+    "broken",
+    "nature",
+    "debris"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "987449a430159bf9e6f2c81e03667e717f407e49",
+  "download_count": 18218,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coast_sand_03.png?width=256&height=256"
+}

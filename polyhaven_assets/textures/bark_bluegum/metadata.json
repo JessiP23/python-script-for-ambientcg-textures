@@ -1,0 +1,41 @@
+{
+  "name": "Bark Blue gum",
+  "categories": [
+    "bark",
+    "natural"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "bark",
+    "tree",
+    "tree bark",
+    "tree bark texture",
+    "tree trunk",
+    "nature",
+    "outdoor",
+    "bluegum",
+    "organic",
+    "environment",
+    "forest"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1820.0000524520874,
+    1820.0000524520874
+  ],
+  "date_published": 1732579200,
+  "staging": null,
+  "files_hash": "534d47713318a15869d22d8228463fa5d1290211",
+  "download_count": 1252,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bark_bluegum.png?width=256&height=256"
+}

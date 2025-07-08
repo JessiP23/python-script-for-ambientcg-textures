@@ -1,0 +1,37 @@
+{
+  "scale": "1",
+  "type": 1,
+  "tags": [
+    "cobblestone",
+    "farm",
+    "rural",
+    "old"
+  ],
+  "date_published": 1529359200,
+  "name": "Cobblestone Floor 13",
+  "old_id": 89,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "sponsors": [
+    "100707845"
+  ],
+  "categories": [
+    "floor",
+    "outdoor",
+    "man made",
+    "dirty",
+    "cobblestone"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "files_hash": "52c5e426a08c8564a0bdb0d62530a6a08e5a13d9",
+  "download_count": 24012,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_floor_13.png?width=256&height=256"
+}

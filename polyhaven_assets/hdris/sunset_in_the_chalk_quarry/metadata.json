@@ -1,0 +1,41 @@
+{
+  "evs_cap": 18,
+  "type": 0,
+  "tags": [
+    "sun",
+    "hill",
+    "sand"
+  ],
+  "date_published": 1558994400,
+  "name": "Sunset in the Chalk Quarry",
+  "old_id": 376,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1553449200,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "files_hash": "ed85e0b20206fd2ba17fdeee9697b500a1c7f021",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "3267566",
+    "8571269",
+    {
+      "url": "https://www.ronenbekerman.com/",
+      "name": "Ronen Bekerman"
+    },
+    "7934315"
+  ],
+  "download_count": 211953,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sunset_in_the_chalk_quarry.png?width=256&height=256"
+}

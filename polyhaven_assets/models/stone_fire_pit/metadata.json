@@ -1,0 +1,51 @@
+{
+  "donated": true,
+  "date_published": 1679270400,
+  "name": "Stone Fire Pit",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "staging": null,
+  "authors": {
+    "Sebastian Platen": "All"
+  },
+  "info": null,
+  "sponsors": [
+    "78546118"
+  ],
+  "categories": [
+    "structures",
+    "buildings",
+    "furniture",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "outdoor",
+    "garden",
+    "fire",
+    "bbq",
+    "farm",
+    "farmhouse",
+    "landscaping",
+    "patio",
+    "backyard",
+    "entertainment",
+    "relaxation",
+    "stone"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 3887,
+  "texel_density": 1923.8261944355422,
+  "dimensions": [
+    1448.4962224960327,
+    1433.234453201294,
+    388.32607865333557
+  ],
+  "files_hash": "db8f04edd02bcfd3bae277fe17f585be17f7c7d9",
+  "download_count": 18067,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_fire_pit.png?width=256&height=256"
+}

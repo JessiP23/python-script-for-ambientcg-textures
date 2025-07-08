@@ -1,0 +1,40 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "pure skies"
+  ],
+  "name": "Mpumalanga Veld (Pure Sky)",
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "clear",
+    "high contrast",
+    "natural light",
+    "pure skies"
+  ],
+  "date_taken": 1443279960,
+  "coords": [
+    -24.889112,
+    30.876935
+  ],
+  "info": "Edited sky-only version of [Mpumalanga Veld](https://polyhaven.com/a/mpumalanga_veld).",
+  "authors": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky Edits"
+  },
+  "files_hash": "1d0e31c7a8a908038f6de74414bba46bfb7fedef",
+  "date_published": 1673049600,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 29443,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mpumalanga_veld_puresky.png?width=256&height=256"
+}

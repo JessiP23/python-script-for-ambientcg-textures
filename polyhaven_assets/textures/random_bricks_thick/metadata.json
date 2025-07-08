@@ -1,0 +1,37 @@
+{
+  "type": 1,
+  "tags": [
+    "rough",
+    "old",
+    "uneven",
+    "discolored",
+    "damaged"
+  ],
+  "date_published": 1536646197,
+  "name": "Random Bricks Thick",
+  "old_id": 160,
+  "categories": [
+    "outdoor",
+    "wall",
+    "dirty",
+    "man made",
+    "brick"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "sponsors": [
+    "42579608"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d022d95a45d121bc07e1a6129acfade4e7de37f3",
+  "download_count": 34059,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/random_bricks_thick.png?width=256&height=256"
+}

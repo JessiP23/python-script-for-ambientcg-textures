@@ -1,0 +1,40 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "field",
+    "mist",
+    "cloud",
+    "grass"
+  ],
+  "date_published": 1583276400,
+  "name": "Kloppenheim 01",
+  "old_id": 447,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1572627540,
+  "coords": [
+    -25.654156,
+    30.161901
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "8896823"
+  ],
+  "files_hash": "30be60f492719a37ed52618b1cdfecf0d75cc4d6",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 81498,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kloppenheim_01.png?width=256&height=256"
+}

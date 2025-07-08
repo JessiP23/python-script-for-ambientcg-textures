@@ -1,0 +1,51 @@
+{
+  "lods": true,
+  "name": "Mountainside",
+  "categories": [
+    "nature",
+    "rocks",
+    "collection: verdant_trail"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "version_required": {
+    "blend": "4.0.1"
+  },
+  "tags": [
+    "cliff",
+    "rock face",
+    "formation",
+    "landscape",
+    "geology",
+    "rock",
+    "weathered",
+    "lichen",
+    "rocky surface",
+    "boulder",
+    "terrain",
+    "mountain"
+  ],
+  "authors": {
+    "Dario Barresi": "Photography",
+    "Rico Cilliers": "processing"
+  },
+  "info": null,
+  "date_published": 1707177600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 287755,
+  "texel_density": 504.9607610147652,
+  "dimensions": [
+    10214.37692642212,
+    5254.634857177734,
+    10526.674702763557
+  ],
+  "files_hash": "88117dc2ad316e0f6b30ec2407a534746beb0bad",
+  "download_count": 9483,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mountainside.png?width=256&height=256"
+}

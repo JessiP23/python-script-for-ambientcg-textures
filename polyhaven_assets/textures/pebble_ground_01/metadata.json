@@ -1,0 +1,31 @@
+{
+  "type": 1,
+  "tags": [
+    "pebble",
+    "stones",
+    "even"
+  ],
+  "date_published": 1554193112,
+  "name": "Pebble Ground 01",
+  "old_id": 197,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "natural",
+    "road"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "700875a62e9b5ac715f9ca8dba7d8c94577bfac1",
+  "download_count": 21673,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pebble_ground_01.png?width=256&height=256"
+}

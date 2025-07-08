@@ -1,0 +1,41 @@
+{
+  "scale": "1.5x1.5",
+  "type": 1,
+  "tags": [
+    "tiles",
+    "clean",
+    "uneven",
+    "smooth",
+    "square",
+    "large"
+  ],
+  "date_published": 1616583972,
+  "name": "Tiled Floor 001",
+  "old_id": 309,
+  "categories": [
+    "floor",
+    "indoor",
+    "man made",
+    "outdoor",
+    "clean",
+    "wall"
+  ],
+  "authors": {
+    "Rob Tuytel": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "sponsors": [
+    "7934315"
+  ],
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "ca611db7855aa370034f837bfc1a067515534e62",
+  "download_count": 102911,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tiled_floor_001.png?width=256&height=256"
+}

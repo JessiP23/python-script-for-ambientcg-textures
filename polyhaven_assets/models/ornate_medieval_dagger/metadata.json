@@ -1,0 +1,41 @@
+{
+  "donated": true,
+  "name": "Ornate Medieval Dagger",
+  "categories": [
+    "props"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "authors": {
+    "Samuli Pahaoja": "All"
+  },
+  "info": null,
+  "date_published": 1685059200,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 6290,
+  "texel_density": 33574.53984838437,
+  "dimensions": [
+    120.14957889914513,
+    24.959721602499485,
+    348.9498645067215
+  ],
+  "tags": [
+    "weapon",
+    "blade",
+    "knife",
+    "combat",
+    "sharp",
+    "detailed",
+    "silver",
+    "medieval"
+  ],
+  "files_hash": "5fa56d3ccae0c486f4c087620f6950ba62195dc5",
+  "download_count": 4717,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ornate_medieval_dagger.png?width=256&height=256"
+}

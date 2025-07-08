@@ -1,0 +1,52 @@
+{
+  "name": "Utility Box 01",
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "info": null,
+  "date_published": 1700265600,
+  "staging": null,
+  "categories": [
+    "industrial",
+    "structures",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "utility",
+    "box",
+    "electrical",
+    "power",
+    "circuit",
+    "breakers",
+    "transformer",
+    "distributionpanel",
+    "junction box",
+    "control panel",
+    "utility box",
+    "infrastructure",
+    "urban",
+    "city",
+    "road"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 4404,
+  "texel_density": 4149.729231924617,
+  "dimensions": [
+    520.0002193450928,
+    431.999996304512,
+    1120.3334331512451
+  ],
+  "sponsors": [
+    "146648879"
+  ],
+  "files_hash": "af6d53ad17db23473c84e6ccf3f09270e76d3583",
+  "download_count": 10941,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/utility_box_01.png?width=256&height=256"
+}

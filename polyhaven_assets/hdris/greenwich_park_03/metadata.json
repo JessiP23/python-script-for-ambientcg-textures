@@ -1,0 +1,37 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "tree",
+    "grass",
+    "field",
+    "park",
+    "bench"
+  ],
+  "date_published": 1584658800,
+  "name": "Greenwich Park 03",
+  "old_id": 449,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1567841580,
+  "coords": [
+    51.479841,
+    0.00288
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "files_hash": "9a74e0351663aca5b11dec2d08ba85b201dc00ea",
+  "max_resolution": [
+    20000,
+    10000
+  ],
+  "download_count": 53535,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/greenwich_park_03.png?width=256&height=256"
+}

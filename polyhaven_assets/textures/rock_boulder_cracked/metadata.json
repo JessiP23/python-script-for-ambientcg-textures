@@ -1,0 +1,45 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "rock face",
+    "rock",
+    "orange",
+    "cliff",
+    "cave",
+    "stone",
+    "uneven",
+    "eroded"
+  ],
+  "name": "Rock Boulder Cracked",
+  "categories": [
+    "outdoor",
+    "terrain",
+    "rock",
+    "natural"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "dimensions": [
+    1389.9999856948853,
+    1390.0001049041748
+  ],
+  "date_published": 1651536000,
+  "staging": null,
+  "sponsors": [
+    "540619"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "afaff23585ab95f9855387acb02172479b293417",
+  "download_count": 49561,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_boulder_cracked.png?width=256&height=256"
+}

@@ -1,0 +1,47 @@
+{
+  "evs_cap": 26,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "fluorescent",
+    "lamp",
+    "table",
+    "workshop",
+    "machine",
+    "tools",
+    "concrete",
+    "mess"
+  ],
+  "name": "Workshop",
+  "categories": [
+    "indoor",
+    "high contrast",
+    "artificial light",
+    "urban"
+  ],
+  "date_taken": 1658767560,
+  "coords": [
+    -28.00353508131739,
+    26.772800484200122
+  ],
+  "info": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "date_published": 1662508800,
+  "staging": null,
+  "sponsors": [
+    "7934315"
+  ],
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "0f302e9ab08a082147aed9f590a457459a49ea79",
+  "download_count": 31775,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/workshop.png?width=256&height=256"
+}

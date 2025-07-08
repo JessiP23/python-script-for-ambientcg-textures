@@ -1,0 +1,46 @@
+{
+  "name": "Patterned Cobblestone",
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "uneven",
+    "weathered",
+    "cobblestone",
+    "walkway",
+    "bricks",
+    "pattern",
+    "pavement",
+    "ground",
+    "pathway",
+    "driveway stones",
+    "pavement patterned",
+    "outdoor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2499.999523162842,
+    2499.999523162842
+  ],
+  "date_published": 1691020800,
+  "staging": null,
+  "categories": [
+    "man made",
+    "outdoor",
+    "cobblestone",
+    "floor",
+    "brick"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "b56fd1b5cd5581645f98f645305349d57f42239e",
+  "download_count": 22042,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_cobblestone.png?width=256&height=256"
+}

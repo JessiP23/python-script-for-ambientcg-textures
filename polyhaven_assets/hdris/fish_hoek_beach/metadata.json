@@ -1,0 +1,44 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1511996400,
+  "name": "Fish Hoek Beach",
+  "old_id": 77,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    -34.139809,
+    18.432651
+  ],
+  "date_taken": 1464501360,
+  "sponsors": [
+    "4779464"
+  ],
+  "backplates": true,
+  "tags": [
+    "beach",
+    "hill",
+    "ocean",
+    "water",
+    "backplates"
+  ],
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "1ef373077c87d905f6f370ac6e50b2bfd22d044f",
+  "download_count": 81222,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fish_hoek_beach.png?width=256&height=256"
+}

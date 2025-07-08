@@ -1,0 +1,39 @@
+{
+  "donated": true,
+  "type": 2,
+  "tags": [
+    "wooden",
+    "worn",
+    "village",
+    "rural",
+    "natural",
+    "simple"
+  ],
+  "name": "Wooden Table 02",
+  "categories": [
+    "furniture",
+    "table"
+  ],
+  "authors": {
+    "Serhii Khromov": "All"
+  },
+  "staging": null,
+  "date_published": 1630540800,
+  "sponsors": [
+    "3267566"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 196,
+  "texel_density": 2299.708768124882,
+  "dimensions": [
+    1134.41663980484,
+    706.0248255729675,
+    799.5428870490286
+  ],
+  "files_hash": "5d6fb15377acb8e23175454e33d2d38bd3a340d2",
+  "download_count": 51431,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_table_02.png?width=256&height=256"
+}

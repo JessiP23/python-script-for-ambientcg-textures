@@ -1,0 +1,37 @@
+{
+  "donated": true,
+  "date_published": 1630022400,
+  "name": "Throw Pillows 01",
+  "categories": [
+    "decorative"
+  ],
+  "type": 2,
+  "staging": null,
+  "tags": [
+    "decorative",
+    "pillow",
+    "throw",
+    "pattern",
+    "african",
+    "red",
+    "triangle",
+    "orange"
+  ],
+  "authors": {
+    "Serhii Khromov": "All"
+  },
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 6362,
+  "texel_density": 3393.691567163853,
+  "dimensions": [
+    1021.5678811073303,
+    627.4925470352173,
+    450.1592831220478
+  ],
+  "files_hash": "8a475b95a0956bd700394e0f5ed32822071e2f54",
+  "download_count": 19265,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/throw_pillows_01.png?width=256&height=256"
+}

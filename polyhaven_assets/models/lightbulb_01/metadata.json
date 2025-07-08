@@ -1,0 +1,42 @@
+{
+  "donated": true,
+  "date_published": 1669593600,
+  "name": "Lightbulb 01",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "staging": null,
+  "info": null,
+  "authors": {
+    "Josh Dean": "All"
+  },
+  "sponsors": [
+    "3237733"
+  ],
+  "categories": [
+    "lighting",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "globe",
+    "filament",
+    "light",
+    "lamp",
+    "shed"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 4372,
+  "texel_density": 23427.774354344423,
+  "dimensions": [
+    59.98999997973442,
+    59.99000743031502,
+    100.28896853327751
+  ],
+  "files_hash": "0f45de394da900da2d80c517460af9bbf364125c",
+  "download_count": 20402,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lightbulb_01.png?width=256&height=256"
+}

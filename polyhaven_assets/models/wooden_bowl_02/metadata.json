@@ -1,0 +1,42 @@
+{
+  "name": "Wooden Bowl 02",
+  "categories": [
+    "props",
+    "decorative",
+    "dishes"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "antique",
+    "vintage",
+    "old",
+    "wooden",
+    "ornate",
+    "traditional",
+    "fruitbowl",
+    "rustic decor",
+    "home decor"
+  ],
+  "authors": {
+    "Kuutti Siitonen": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 4666,
+  "date_published": 1721952000,
+  "staging": null,
+  "texel_density": 30356.62414607518,
+  "dimensions": [
+    130.71347028017044,
+    124.53967705368996,
+    73.09794479806442
+  ],
+  "files_hash": "203f860d0142d73da28bfd91a7a982532caf87ee",
+  "download_count": 2331,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_bowl_02.png?width=256&height=256"
+}

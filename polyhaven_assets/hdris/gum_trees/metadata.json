@@ -1,0 +1,44 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "autumn",
+    "trees",
+    "forest",
+    "leaves",
+    "log",
+    "earth"
+  ],
+  "name": "Gum Trees",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "clear",
+    "low contrast",
+    "morning-afternoon"
+  ],
+  "date_taken": 1688890620,
+  "coords": [
+    -28.581735654753004,
+    28.069083871110955
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "files_hash": "a3f5f93e8ebf7f768863ff40afbcc5c652f2fff8",
+  "date_published": 1693958400,
+  "staging": null,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "download_count": 5250,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gum_trees.png?width=256&height=256"
+}

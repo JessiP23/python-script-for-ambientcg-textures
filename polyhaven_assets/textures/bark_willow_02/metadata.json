@@ -1,0 +1,41 @@
+{
+  "date_published": 1679356800,
+  "name": "Bark Willow 02",
+  "categories": [
+    "outdoor",
+    "natural",
+    "wood",
+    "raw wood",
+    "bark"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "staging": null,
+  "tags": [
+    "rough",
+    "dry",
+    "nature",
+    "tree",
+    "bark",
+    "wood",
+    "forest"
+  ],
+  "info": null,
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "dimensions": [
+    2150.0000953674316,
+    2150.0000953674316
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "cf8e6e6f070a79e58fb6e9607b6a230f5e93db4d",
+  "download_count": 81951,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bark_willow_02.png?width=256&height=256"
+}

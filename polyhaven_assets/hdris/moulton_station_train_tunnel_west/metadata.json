@@ -1,0 +1,41 @@
+{
+  "evs_cap": 24,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "tree",
+    "rail",
+    "track",
+    "rock",
+    "forest",
+    "tunnel"
+  ],
+  "date_published": 1539295200,
+  "name": "Moulton Station Train Tunnel West",
+  "old_id": 314,
+  "coords": [
+    45.833325,
+    -122.388037
+  ],
+  "date_taken": 1532090940,
+  "authors": {
+    "Philip Modin": "All"
+  },
+  "sponsors": [
+    "10485422"
+  ],
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "low contrast"
+  ],
+  "files_hash": "e856ffdce57dbffdd1e0d7210d46489dac18c726",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 12414,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moulton_station_train_tunnel_west.png?width=256&height=256"
+}

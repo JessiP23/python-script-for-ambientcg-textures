@@ -1,0 +1,43 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "abandoned",
+    "industrial",
+    "graffiti",
+    "art",
+    "grass",
+    "tree",
+    "path",
+    "trash"
+  ],
+  "date_published": 1510268400,
+  "name": "Teufelsberg Ground 1",
+  "old_id": 64,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    52.497925,
+    13.241012
+  ],
+  "date_taken": 1478437560,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "13450515"
+  ],
+  "files_hash": "e011e19d4478f1719cbc21fc38f83077b5577515",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 18476,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/teufelsberg_ground_1.png?width=256&height=256"
+}

@@ -1,0 +1,46 @@
+{
+  "date_published": 1668729600,
+  "sponsors": [
+    "26820710"
+  ],
+  "name": "Compost Bags",
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "info": null,
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "categories": [
+    "props",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "garden",
+    "shed",
+    "planting",
+    "gardening",
+    "landscaping",
+    "fertilizer",
+    "compost",
+    "greenhouse",
+    "farm",
+    "farmhouse"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 18708,
+  "texel_density": 3098.0116823291605,
+  "dimensions": [
+    1847.2610712051392,
+    946.3564157485962,
+    767.9970413446426
+  ],
+  "files_hash": "0ba33faf6d6518ed888ab2dfce615a3505b8a22d",
+  "download_count": 7931,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/compost_bags.png?width=256&height=256"
+}

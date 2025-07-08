@@ -1,0 +1,49 @@
+{
+  "donated": true,
+  "date_published": 1672012800,
+  "name": "Trowel 01",
+  "type": 2,
+  "staging": null,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "info": null,
+  "authors": {
+    "Satyaki Mandal": "All"
+  },
+  "sponsors": [
+    "84658723"
+  ],
+  "categories": [
+    "props",
+    "tools",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "outdoor",
+    "plant",
+    "garden",
+    "gardening",
+    "landscaping",
+    "shed",
+    "digging",
+    "hand",
+    "spade",
+    "greenhouse",
+    "farm"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 5242,
+  "texel_density": 28904.612299399538,
+  "dimensions": [
+    99.12503510713577,
+    346.8870371580124,
+    102.62799635529518
+  ],
+  "files_hash": "8c3e29ebc3419c3f2fe91964490be535a63a764b",
+  "download_count": 4703,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/trowel_01.png?width=256&height=256"
+}

@@ -1,0 +1,54 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "uneven",
+    "old",
+    "weathered",
+    "worn",
+    "cracked",
+    "brown",
+    "dirty",
+    "stones",
+    "dry",
+    "ground",
+    "dirt",
+    "rocks",
+    "red",
+    "clay",
+    "cracks",
+    "eroded",
+    "nature",
+    "floor",
+    "sand"
+  ],
+  "date_published": 1681344000,
+  "name": "Cracked Red Ground",
+  "categories": [
+    "outdoor",
+    "natural",
+    "dirty",
+    "floor",
+    "sand"
+  ],
+  "staging": null,
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "info": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "e26ccacd19dd06f9f75ce04602ded00370a96b61",
+  "download_count": 14853,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cracked_red_ground.png?width=256&height=256"
+}

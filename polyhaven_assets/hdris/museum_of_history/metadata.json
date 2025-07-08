@@ -1,0 +1,34 @@
+{
+  "evs_cap": 0,
+  "type": 0,
+  "tags": [
+    "tank",
+    "sun",
+    "city",
+    "building",
+    "architecture",
+    "europe"
+  ],
+  "date_published": 1560463200,
+  "name": "Museum of History",
+  "old_id": 383,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1554560880,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "files_hash": "d6cbdfed85aa8617560df378a3a93df85a76dc30",
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "download_count": 19362,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/museum_of_history.png?width=256&height=256"
+}

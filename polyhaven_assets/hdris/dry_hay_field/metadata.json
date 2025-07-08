@@ -1,0 +1,36 @@
+{
+  "donated": true,
+  "evs_cap": 27,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "grass",
+    "field",
+    "hay",
+    "path",
+    "rural",
+    "tree"
+  ],
+  "name": "Dry Hay Field",
+  "categories": [
+    "outdoor",
+    "nature",
+    "partly cloudy",
+    "natural light",
+    "midday",
+    "low contrast"
+  ],
+  "date_taken": 1628162160,
+  "authors": {
+    "Alexander Scholten": "All"
+  },
+  "date_published": 1629676800,
+  "staging": null,
+  "files_hash": "0d999521d12e49737288a053ca83c56cd40b4fdb",
+  "max_resolution": [
+    29518,
+    14759
+  ],
+  "download_count": 38620,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dry_hay_field.png?width=256&height=256"
+}

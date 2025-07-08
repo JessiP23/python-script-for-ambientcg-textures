@@ -1,0 +1,45 @@
+{
+  "name": "Concrete Layers 02",
+  "categories": [
+    "man made",
+    "concrete",
+    "plaster-concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "worn",
+    "chipped",
+    "rough",
+    "weathered",
+    "cracked",
+    "damaged",
+    "wall",
+    "discolored",
+    "dirty",
+    "dry",
+    "concrete",
+    "grey",
+    "plastered",
+    "plaster"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1678579200,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "bc64b57462d7f4ada82bcda31d30209ea56af2e2",
+  "download_count": 99270,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_layers_02.png?width=256&height=256"
+}

@@ -1,0 +1,36 @@
+{
+  "type": 1,
+  "tags": [
+    "red",
+    "rough",
+    "uneven",
+    "industrial",
+    "baked",
+    "urban",
+    "weathered"
+  ],
+  "name": "Sandstone Brick Wall 01",
+  "categories": [
+    "wall",
+    "brick",
+    "man made",
+    "outdoor",
+    "sandstone"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "date_published": 1634169600,
+  "staging": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d07198d3b906fd46ec1b358d73a9ed14f23ebf57",
+  "download_count": 19522,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sandstone_brick_wall_01.png?width=256&height=256"
+}

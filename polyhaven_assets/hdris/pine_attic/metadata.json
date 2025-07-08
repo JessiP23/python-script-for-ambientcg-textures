@@ -1,0 +1,41 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 4950,
+  "tags": [
+    "wood",
+    "carpet",
+    "pallet",
+    "skylight",
+    "wooden ceiling",
+    "cozy",
+    "warm",
+    "backplates"
+  ],
+  "name": "Pine Attic",
+  "categories": [
+    "indoor",
+    "artificial light",
+    "natural light",
+    "urban",
+    "medium contrast"
+  ],
+  "backplates": true,
+  "date_taken": 1680615300,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "date_published": 1683504000,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "c838aa5af9e5faa4bdb4501166b970151540840d",
+  "download_count": 66748,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pine_attic.png?width=256&height=256"
+}

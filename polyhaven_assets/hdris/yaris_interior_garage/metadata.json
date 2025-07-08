@@ -1,0 +1,32 @@
+{
+  "evs_cap": 16,
+  "type": 0,
+  "tags": [
+    "car",
+    "driver",
+    "seat",
+    "garage"
+  ],
+  "date_published": 1535061600,
+  "name": "Yaris Interior Garage",
+  "old_id": 303,
+  "categories": [
+    "indoor",
+    "urban",
+    "midday",
+    "medium contrast",
+    "natural light",
+    "artificial light"
+  ],
+  "date_taken": 1534764060,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "files_hash": "f854c6cce96bbdb2433524a3cb75a26407d8166c",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 20588,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yaris_interior_garage.png?width=256&height=256"
+}

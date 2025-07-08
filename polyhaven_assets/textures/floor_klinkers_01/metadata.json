@@ -1,0 +1,32 @@
+{
+  "scale": "1,2",
+  "type": 1,
+  "tags": [
+    "bricks",
+    "moss"
+  ],
+  "date_published": 1529359200,
+  "name": "Floor Klinkers 01",
+  "old_id": 93,
+  "categories": [
+    "floor",
+    "brick",
+    "outdoor",
+    "dirty",
+    "man made"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1200.0000476837158,
+    1200.0000476837158
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "b5eb939a0040eebecdf46302c752191bd84db409",
+  "download_count": 23794,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_klinkers_01.png?width=256&height=256"
+}

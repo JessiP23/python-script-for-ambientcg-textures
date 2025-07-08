@@ -1,0 +1,44 @@
+{
+  "evs_cap": 10,
+  "type": 0,
+  "tags": [
+    "forest",
+    "tree",
+    "path",
+    "bush",
+    "leaves",
+    "canopy"
+  ],
+  "date_published": 1509663600,
+  "name": "River Walk 1",
+  "old_id": 62,
+  "categories": [
+    "outdoor",
+    "nature",
+    "sunrise-sunset",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    -25.03313,
+    31.132754
+  ],
+  "date_taken": 1507822140,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "url": "http://www.mdjustin.com/",
+      "name": "Justin Dolan"
+    },
+    "20953239"
+  ],
+  "files_hash": "2973ac3ba9e2f59cf0957808e986759b73c292a0",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 63000,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/river_walk_1.png?width=256&height=256"
+}

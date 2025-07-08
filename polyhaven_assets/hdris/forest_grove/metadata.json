@@ -1,0 +1,46 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "tree",
+    "forest",
+    "winter",
+    "dry",
+    "leaves",
+    "clearing",
+    "grove",
+    "woods"
+  ],
+  "name": "Forest Grove",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "low contrast",
+    "sunrise-sunset",
+    "clear"
+  ],
+  "date_taken": 1687625340,
+  "coords": [
+    -25.697666,
+    30.118426
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "files_hash": "0d58a7ba4e7f792e61069082bcf42a9f35d102c2",
+  "date_published": 1693180800,
+  "staging": null,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "download_count": 12993,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forest_grove.png?width=256&height=256"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Sakura Bark",
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "bark",
+    "tree",
+    "tree bark",
+    "nature",
+    "japanese",
+    "trunk",
+    "wood",
+    "natural",
+    "bark texture",
+    "tree trunk",
+    "forestry",
+    "organic"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1599.9999046325684,
+    1599.9999046325684
+  ],
+  "staging": null,
+  "date_published": 1690588800,
+  "categories": [
+    "outdoor",
+    "bark",
+    "natural",
+    "wood"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d203b56f86cbb780b9b27b9d04fb91795accf812",
+  "download_count": 19903,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sakura_bark.png?width=256&height=256"
+}

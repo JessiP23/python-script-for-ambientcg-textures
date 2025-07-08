@@ -1,0 +1,34 @@
+{
+  "type": 1,
+  "tags": [
+    "moss",
+    "planks",
+    "rough",
+    "old",
+    "green"
+  ],
+  "date_published": 1529914421,
+  "name": "Moss Wood",
+  "old_id": 139,
+  "categories": [
+    "wood",
+    "wall",
+    "floor",
+    "man made",
+    "outdoor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "2309b62acdfc4bffc2566ac0f8aafa3de3ad5846",
+  "download_count": 64152,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moss_wood.png?width=256&height=256"
+}

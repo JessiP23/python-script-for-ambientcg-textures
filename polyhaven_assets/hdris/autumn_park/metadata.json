@@ -1,0 +1,40 @@
+{
+  "evs_cap": 26,
+  "type": 0,
+  "whitebalance": 5240,
+  "date_published": 1575332622,
+  "name": "Autumn Park",
+  "old_id": 426,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1570016220,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "backplates": true,
+  "tags": [
+    "tree",
+    "sun",
+    "grass",
+    "field",
+    "backplates"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "f0c651b437d5bc9af9922dbbc82561ce2a1ed0ff",
+  "sponsors": [
+    "3267566",
+    "37678923"
+  ],
+  "download_count": 300303,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/autumn_park.png?width=256&height=256"
+}

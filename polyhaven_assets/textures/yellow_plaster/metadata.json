@@ -1,0 +1,41 @@
+{
+  "type": 1,
+  "tags": [
+    "yellow",
+    "plastered",
+    "worn",
+    "scratched",
+    "smooth",
+    "concrete",
+    "cement",
+    "moss"
+  ],
+  "date_published": 1529359200,
+  "name": "Yellow Plaster",
+  "old_id": 123,
+  "categories": [
+    "wall",
+    "plaster-concrete",
+    "man made",
+    "indoor",
+    "outdoor",
+    "dirty"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "sponsors": [
+    "11167855"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "7415835df3c77a9a0ead6b0684e62641fcc7039e",
+  "download_count": 36399,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yellow_plaster.png?width=256&height=256"
+}

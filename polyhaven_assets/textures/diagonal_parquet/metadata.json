@@ -1,0 +1,51 @@
+{
+  "name": "Diagonal Parquet",
+  "categories": [
+    "floor",
+    "man made",
+    "wood",
+    "indoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "parquet flooring",
+    "wood",
+    "floor",
+    "shiny",
+    "coated",
+    "interior design",
+    "polished",
+    "interior",
+    "wooden flooring ",
+    "wooden planks",
+    "parquet",
+    "diagonal",
+    "wooden floor",
+    "flooring"
+  ],
+  "info": null,
+  "dimensions": [
+    2359.999418258667,
+    2359.999418258667
+  ],
+  "date_published": 1702339200,
+  "staging": null,
+  "sponsors": [
+    "3267566"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Processing",
+    "Anonymous Bob": "Photography"
+  },
+  "files_hash": "a9d2b3ba9e8401bffec088d4e64159812cc188e4",
+  "download_count": 37949,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/diagonal_parquet.png?width=256&height=256"
+}

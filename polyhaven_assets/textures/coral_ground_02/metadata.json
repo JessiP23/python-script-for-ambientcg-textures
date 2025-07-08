@@ -1,0 +1,36 @@
+{
+  "scale": "2M x 2M",
+  "type": 1,
+  "tags": [
+    "coral",
+    "ground",
+    "costal",
+    "stones"
+  ],
+  "date_published": 1566820210,
+  "name": "Coral Ground 02",
+  "old_id": 220,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "rock",
+    "natural"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "sponsors": [
+    "66627515"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "3426255fef5184edc0f34cad1be4113229b31827",
+  "download_count": 27079,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coral_ground_02.png?width=256&height=256"
+}

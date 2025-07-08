@@ -1,0 +1,32 @@
+{
+  "scale": "3M x 3M",
+  "type": 1,
+  "tags": [
+    "rocks",
+    "rough",
+    "broken"
+  ],
+  "date_published": 1601461624,
+  "name": "Rocks Ground 06",
+  "old_id": 285,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "rock",
+    "natural"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    3000,
+    3000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "785f48b4c1c6275867bd078675a7708fc34c828c",
+  "download_count": 58596,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocks_ground_06.png?width=256&height=256"
+}

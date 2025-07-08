@@ -1,0 +1,50 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "date_published": 1522879200,
+  "name": "Furry Clouds",
+  "old_id": 206,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -33.899629,
+    18.403475
+  ],
+  "date_taken": 1464703440,
+  "sponsors": [
+    {
+      "url": "http://www.eidyknowles.com/",
+      "name": "Eidy"
+    }
+  ],
+  "backplates": true,
+  "tags": [
+    "path",
+    "promenade",
+    "sun",
+    "field",
+    "building",
+    "ocean",
+    "railing",
+    "backplates"
+  ],
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "d639e12e6f1d326b843cbf09c931514fa265438c",
+  "download_count": 78383,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/furry_clouds.png?width=256&height=256"
+}

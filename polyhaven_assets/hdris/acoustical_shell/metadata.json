@@ -1,0 +1,44 @@
+{
+  "donated": true,
+  "evs_cap": 11,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 6500,
+  "tags": [
+    "stage",
+    "promenade",
+    "tree",
+    "garden",
+    "bay"
+  ],
+  "name": "Acoustical Shell",
+  "categories": [
+    "indoor",
+    "outdoor",
+    "natural light",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "medium contrast"
+  ],
+  "date_taken": 1668852840,
+  "coords": [
+    47.65121,
+    9.475266
+  ],
+  "authors": {
+    "Alexander Scholten": "All"
+  },
+  "info": null,
+  "files_hash": "6925f79472cac79e681026ae103fbf20974de712",
+  "date_published": 1689552000,
+  "staging": null,
+  "max_resolution": [
+    21734,
+    10867
+  ],
+  "download_count": 33514,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/acoustical_shell.png?width=256&height=256"
+}

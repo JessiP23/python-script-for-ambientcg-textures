@@ -1,0 +1,39 @@
+{
+  "name": "Dirt",
+  "categories": [
+    "floor",
+    "dirty",
+    "sand"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi"
+  ],
+  "tags": [
+    "dirt",
+    "dirty",
+    "ground",
+    "nature",
+    "earth",
+    "dusty",
+    "rocky",
+    "debris",
+    "footprints"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1721692800,
+  "staging": null,
+  "files_hash": "fe7ab433626bec3f3bdc5a478b06eed2eb12572e",
+  "download_count": 16749,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dirt.png?width=256&height=256"
+}

@@ -1,0 +1,57 @@
+{
+  "date_published": 1687737600,
+  "name": "Pine Sapling Medium",
+  "type": 2,
+  "reviewers": [
+    "Rob Tuytel"
+  ],
+  "staging": null,
+  "authors": {
+    "Rob Tuytel": "photography",
+    "Rico Cilliers": "modeling"
+  },
+  "info": null,
+  "categories": [
+    "nature",
+    "plants",
+    "trees",
+    "collection: pine_forest"
+  ],
+  "geonodes": true,
+  "tags": [
+    "woodland",
+    "needles",
+    "pine",
+    "tree",
+    "sapling",
+    "branches",
+    "environment",
+    "coniferous",
+    "plants",
+    "trunk",
+    "bark",
+    "geometry nodes",
+    "foliage",
+    "natural",
+    "evergreen",
+    "twig",
+    "forest",
+    "vegetation",
+    "forest floor"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 9784670,
+  "files_hash": "af56623e42ba6af60745dd721297559ca06d7d76",
+  "texel_density": 671.0111517492023,
+  "dimensions": [
+    22793.24197769165,
+    5462.29362487793,
+    11513.279110193253
+  ],
+  "lods": true,
+  "download_count": 14871,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pine_sapling_medium.png?width=256&height=256"
+}

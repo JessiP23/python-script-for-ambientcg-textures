@@ -1,0 +1,30 @@
+{
+  "date_published": 1544764483,
+  "old_id": 180,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "natural"
+  ],
+  "type": 1,
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "tags": [
+    "pine",
+    "needles",
+    "forest"
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "name": "Forest Ground 03",
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "c49b32586b5ba1abda47c1180d540d91aa18102d",
+  "download_count": 33259,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/forrest_ground_03.png?width=256&height=256"
+}

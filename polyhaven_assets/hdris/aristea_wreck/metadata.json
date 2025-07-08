@@ -1,0 +1,43 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "sun",
+    "rock",
+    "ocean",
+    "shipwreck"
+  ],
+  "date_published": 1527804000,
+  "name": "Aristea Wreck",
+  "old_id": 284,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "midday",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1504006800,
+  "coords": [
+    -30.345199,
+    17.278928
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "name": "Peter Burges"
+    }
+  ],
+  "files_hash": "4f3508ba8c9b1a316382e9f5ceff26c1697a0a78",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 54178,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aristea_wreck.png?width=256&height=256"
+}

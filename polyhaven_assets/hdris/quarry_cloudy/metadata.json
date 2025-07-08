@@ -1,0 +1,51 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "rocky",
+    "lake",
+    "dam",
+    "quarry",
+    "storm",
+    "weather",
+    "gloomy",
+    "dark"
+  ],
+  "name": "Quarry Cloudy",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "partly cloudy",
+    "low contrast",
+    "morning-afternoon",
+    "midday"
+  ],
+  "date_taken": 1703427000,
+  "coords": [
+    -25.603006,
+    29.920699
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "files_hash": "ac480443a39bb082cf823c665ba7251061f41cfc",
+  "date_published": 1708646400,
+  "staging": null,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "sponsors": [
+    "32966849"
+  ],
+  "download_count": 82118,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/quarry_cloudy.png?width=256&height=256"
+}

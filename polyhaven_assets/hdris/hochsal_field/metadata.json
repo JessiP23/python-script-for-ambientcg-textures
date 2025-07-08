@@ -1,0 +1,40 @@
+{
+  "donated": true,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "sun",
+    "grass",
+    "field",
+    "tree",
+    "road",
+    "asphalt"
+  ],
+  "name": "Hochsal Field",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "high contrast",
+    "clear",
+    "morning-afternoon"
+  ],
+  "date_taken": 1568233080,
+  "authors": {
+    "Adrian Kubasa": "All"
+  },
+  "info": null,
+  "files_hash": "08df41b495f19f6e4cee5b404a788b3421dffb59",
+  "evs_cap": 0,
+  "date_published": 1701561600,
+  "staging": null,
+  "max_resolution": [
+    21504,
+    10752
+  ],
+  "download_count": 53229,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hochsal_field.png?width=256&height=256"
+}

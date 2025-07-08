@@ -1,0 +1,37 @@
+{
+  "type": 1,
+  "tags": [
+    "rough",
+    "sandstone",
+    "flat",
+    "uneven",
+    "old"
+  ],
+  "date_published": 1547368261,
+  "name": "Sandstone Blocks 04",
+  "old_id": 185,
+  "categories": [
+    "wall",
+    "man made",
+    "outdoor",
+    "clean",
+    "brick"
+  ],
+  "dimensions": [
+    3000,
+    3000
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "20953239"
+  ],
+  "files_hash": "9f7a07ce2305d23e0773f9fd18b66e2a9c1279db",
+  "download_count": 37622,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sandstone_blocks_04.png?width=256&height=256"
+}

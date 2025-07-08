@@ -1,0 +1,45 @@
+{
+  "type": 0,
+  "name": "Charolettenbrunn Park",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "partly cloudy",
+    "high contrast",
+    "midday"
+  ],
+  "tags": [
+    "grass",
+    "field",
+    "sun",
+    "tree",
+    "park",
+    "path",
+    "sculpture",
+    "bench",
+    "lawn"
+  ],
+  "authors": {
+    "Grzegorz Wronkowski": "All"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1749551820,
+  "coords": [
+    50.731714,
+    16.343168
+  ],
+  "evs_cap": 24,
+  "whitebalance": 5400,
+  "max_resolution": [
+    30000,
+    15000
+  ],
+  "files_hash": "ced8b30b2768603dec3d73e2699eb664f77103f2",
+  "date_published": 1751846400,
+  "staging": null,
+  "download_count": 1814,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/charolettenbrunn_park.png?width=256&height=256"
+}

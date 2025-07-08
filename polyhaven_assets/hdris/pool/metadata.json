@@ -1,0 +1,38 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "whitebalance": 5400,
+  "tags": [
+    "tree",
+    "water",
+    "pool",
+    "garden"
+  ],
+  "date_published": 1548917461,
+  "name": "Pool",
+  "old_id": 345,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1548852900,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "name": "John Alexander Hopper"
+    }
+  ],
+  "files_hash": "1ff7660bb7488e77394d76bde7acb0f95915d666",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 66435,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pool.png?width=256&height=256"
+}

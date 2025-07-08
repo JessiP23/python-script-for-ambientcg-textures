@@ -1,0 +1,42 @@
+{
+  "date_published": 1685145600,
+  "name": "Leafy Grass",
+  "categories": [
+    "outdoor",
+    "floor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "staging": null,
+  "tags": [
+    "grass",
+    "green",
+    "nature",
+    "ground",
+    "foliage",
+    "leaves",
+    "plants",
+    "outdoors",
+    "twigs",
+    "sticks",
+    "trampled"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "90fd49a21ddface404d32d9956c3a9f3ca8e0679",
+  "download_count": 72052,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/leafy_grass.png?width=256&height=256"
+}

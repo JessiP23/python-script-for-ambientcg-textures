@@ -1,0 +1,43 @@
+{
+  "name": "Brushed Concrete 03",
+  "categories": [
+    "outdoor",
+    "man made",
+    "floor",
+    "plaster-concrete",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "info": null,
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "tags": [
+    "rough",
+    "weathered",
+    "dirty",
+    "dry",
+    "worn",
+    "scratched",
+    "brown",
+    "concrete",
+    "chipped"
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1674518400,
+  "staging": null,
+  "prepaid": true,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "1c89b458ae4b06e5a879b1e3f29d8ae0c7266203",
+  "download_count": 27905,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brushed_concrete_03.png?width=256&height=256"
+}

@@ -1,0 +1,3 @@
+[console_scripts]
+polydown=polydown.__main__:cli
+

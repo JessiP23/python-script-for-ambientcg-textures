@@ -1,0 +1,53 @@
+{
+  "date_published": 1654646400,
+  "sponsors": [
+    "3267566"
+  ],
+  "name": "Modular Wooden Pier",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "staging": null,
+  "authors": {
+    "Rico Cilliers": "All"
+  },
+  "categories": [
+    "structures",
+    "collection: smugglers_cove"
+  ],
+  "tags": [
+    "old",
+    "wooden",
+    "wood",
+    "pier",
+    "ship",
+    "maritime",
+    "sea",
+    "water",
+    "ocean",
+    "worn",
+    "structure",
+    "scaffolding",
+    "dock",
+    "jetty",
+    "landing",
+    "wharf",
+    "mossy",
+    "modular"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 84780,
+  "texel_density": 1645.8413857656371,
+  "dimensions": [
+    3101.5628576278687,
+    19026.371479034424,
+    7515.67667722702
+  ],
+  "files_hash": "219aafe4dfbcc2ebac731ae205bebfd5837c6138",
+  "download_count": 23596,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modular_wooden_pier.png?width=256&height=256"
+}

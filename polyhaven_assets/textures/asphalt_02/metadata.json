@@ -1,0 +1,36 @@
+{
+  "scale": "3M x 3M",
+  "type": 1,
+  "tags": [
+    "asphalt",
+    "cracked",
+    "flat"
+  ],
+  "date_published": 1596694249,
+  "name": "Asphalt 02",
+  "old_id": 274,
+  "categories": [
+    "terrain",
+    "road",
+    "man made",
+    "outdoor",
+    "floor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "sponsors": [
+    "26820710"
+  ],
+  "dimensions": [
+    3000.000238418579,
+    3000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "2839a331f389f6ad1e30a78f24db58369d92f742",
+  "download_count": 317850,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_02.png?width=256&height=256"
+}

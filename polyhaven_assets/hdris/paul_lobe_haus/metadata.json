@@ -1,0 +1,42 @@
+{
+  "evs_cap": 6,
+  "type": 0,
+  "tags": [
+    "architecture",
+    "berlin",
+    "germany",
+    "autumn",
+    "glass",
+    "skylight"
+  ],
+  "date_published": 1508536800,
+  "name": "Paul Lobe Haus",
+  "old_id": 50,
+  "categories": [
+    "outdoor",
+    "indoor",
+    "urban",
+    "midday",
+    "overcast",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1478346840,
+  "coords": [
+    52.520142,
+    13.373622
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "7947474"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "f458812ab644817bd339388fb7fc9e26eb323119",
+  "download_count": 139372,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/paul_lobe_haus.png?width=256&height=256"
+}

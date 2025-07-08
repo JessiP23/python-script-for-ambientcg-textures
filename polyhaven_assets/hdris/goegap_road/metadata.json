@@ -1,0 +1,52 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "name": "Goegap Road",
+  "backplates": true,
+  "date_taken": 1693764660,
+  "coords": [
+    -29.672110268635382,
+    17.992760205517396
+  ],
+  "authors": {
+    "Greg Zaal": "All",
+    "James Ray Cock": "Backplates"
+  },
+  "tags": [
+    "sun",
+    "grass",
+    "field",
+    "road",
+    "asphalt",
+    "mountain",
+    "flower",
+    "straight",
+    "desert",
+    "desolate",
+    "backplates",
+    "arid"
+  ],
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "c7e3649e0515eded3bebd41c4245363a7ac4a436",
+  "staging": null,
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "skies",
+    "partly cloudy",
+    "high contrast",
+    "sunrise-sunset",
+    "collection: namaqualand"
+  ],
+  "date_published": 1728345600,
+  "download_count": 128127,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/goegap_road.png?width=256&height=256"
+}

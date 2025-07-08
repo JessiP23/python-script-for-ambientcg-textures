@@ -1,0 +1,35 @@
+{
+  "type": 1,
+  "tags": [
+    "rough",
+    "park"
+  ],
+  "date_published": 1531734768,
+  "name": "Concrete Floor 01",
+  "old_id": 148,
+  "categories": [
+    "concrete",
+    "clean",
+    "plaster-concrete",
+    "man made",
+    "outdoor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "4714267",
+    "3237733"
+  ],
+  "files_hash": "dd25145843a1f743897b3188e42822705db331e6",
+  "download_count": 98278,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_floor_01.png?width=256&height=256"
+}

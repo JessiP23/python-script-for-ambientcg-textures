@@ -1,0 +1,36 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "rock",
+    "formation",
+    "forest",
+    "canyon"
+  ],
+  "date_published": 1605567600,
+  "name": "Herkuless\u00e4ulen",
+  "old_id": 508,
+  "categories": [
+    "outdoor",
+    "nature",
+    "midday",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+  ],
+  "coords": [
+    50.841429,
+    14.044576
+  ],
+  "date_taken": 1596969900,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "files_hash": "0c73d232da67be9af8547ec0af303503543f8202",
+  "max_resolution": [
+    19500,
+    9750
+  ],
+  "download_count": 39478,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/herkulessaulen.png?width=256&height=256"
+}

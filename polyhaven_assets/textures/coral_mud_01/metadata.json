@@ -1,0 +1,33 @@
+{
+  "scale": "1",
+  "type": 1,
+  "tags": [
+    "coral",
+    "ground",
+    "costal",
+    "stones"
+  ],
+  "date_published": 1529359200,
+  "name": "Coral Mud 01",
+  "old_id": 91,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "road",
+    "natural"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "cd93e7cedc49c065059f165ea71641023d625ad8",
+  "download_count": 27112,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coral_mud_01.png?width=256&height=256"
+}

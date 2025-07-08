@@ -1,0 +1,38 @@
+{
+  "evs_cap": 22,
+  "name": "Belfast Open Field",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "low contrast",
+    "overcast",
+    "morning-afternoon"
+  ],
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1622552700,
+  "whitebalance": 5319,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "tags": [
+    "tree",
+    "grass",
+    "field",
+    "hill"
+  ],
+  "date_published": 1653264000,
+  "staging": null,
+  "prepaid": true,
+  "files_hash": "3a1322011f2dc478d8435de51716a2e06612c69a",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 31606,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/belfast_open_field.png?width=256&height=256"
+}

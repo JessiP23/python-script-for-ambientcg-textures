@@ -1,0 +1,40 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "brick",
+    "architecture",
+    "tunnel",
+    "passage"
+  ],
+  "date_published": 1506981600,
+  "name": "Georgentor",
+  "old_id": 12,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1478603400,
+  "coords": [
+    51.053077,
+    13.737925
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    {
+      "url": "http://digic.jp/",
+      "name": "Digic"
+    }
+  ],
+  "files_hash": "8670689360cbc1257cb1b23f8fd01e1fe0736f7f",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 54839,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/georgentor.png?width=256&height=256"
+}

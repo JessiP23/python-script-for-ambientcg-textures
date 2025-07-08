@@ -1,0 +1,47 @@
+{
+  "name": "Flower Heliophila",
+  "categories": [
+    "nature",
+    "plants",
+    "ground cover",
+    "grass",
+    "collection: namaqualand"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock",
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "plant",
+    "natural",
+    "botany",
+    "tiny",
+    "small",
+    "karoo",
+    "desert",
+    "south africa",
+    "white",
+    "wildflower",
+    "floral"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 324914,
+  "texel_density": 20177.524814140666,
+  "dimensions": [
+    2754.0570497512817,
+    1417.3968434333801,
+    399.2791064083576
+  ],
+  "staging": null,
+  "date_published": 1728345600,
+  "authors": {
+    "Jenelle van Heerden": "All"
+  },
+  "files_hash": "2e29fbc25028f76af4a3dc86cfb3b6480cf85d51",
+  "download_count": 9867,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flower_heliophila.png?width=256&height=256"
+}

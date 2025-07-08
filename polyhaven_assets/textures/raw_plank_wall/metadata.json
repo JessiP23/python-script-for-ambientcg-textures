@@ -1,0 +1,50 @@
+{
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel",
+    "Rico Cilliers",
+    "Greg Zaal"
+  ],
+  "tags": [
+    "weathered",
+    "chipped",
+    "worn",
+    "scratched",
+    "wooden",
+    "discolored",
+    "damaged",
+    "wood",
+    "planks",
+    "cabin",
+    "grain",
+    "knotty pine",
+    "roughhewn"
+  ],
+  "date_published": 1682985600,
+  "name": "Raw Plank Wall",
+  "categories": [
+    "wall",
+    "man made",
+    "raw wood",
+    "wood"
+  ],
+  "staging": null,
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1870.0001239776611,
+    1870.0001239776611
+  ],
+  "sponsors": [
+    "59361351"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "55d322b77f98f3222d72b263757e3b1e5b78340f",
+  "download_count": 66847,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/raw_plank_wall.png?width=256&height=256"
+}

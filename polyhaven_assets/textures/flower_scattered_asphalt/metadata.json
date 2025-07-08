@@ -1,0 +1,40 @@
+{
+  "type": 1,
+  "name": "Flower Scattered Asphalt",
+  "categories": [
+    "floor",
+    "asphalt"
+  ],
+  "tags": [
+    "asphalt",
+    "asphalt road",
+    "petals",
+    "plant debris",
+    "outdoor",
+    "cracked",
+    "driveway",
+    "sticks",
+    "twigs",
+    "leaf litter"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "reviewers": [
+    "Rico Cilliers",
+    "Dario Barresi"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "date_published": 1738627200,
+  "staging": null,
+  "files_hash": "28abac59b1ec10866501f2af682ff52bb9e5bbe5",
+  "download_count": 1767,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flower_scattered_asphalt.png?width=256&height=256"
+}

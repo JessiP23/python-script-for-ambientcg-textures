@@ -1,0 +1,43 @@
+{
+  "name": "Rocky Gravel",
+  "categories": [
+    "outdoor",
+    "floor",
+    "gravel",
+    "dirty"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "info": null,
+  "tags": [
+    "rough",
+    "stones",
+    "rocks",
+    "gravel",
+    "dirt",
+    "path",
+    "nature",
+    "leaves",
+    "ground",
+    "uneven"
+  ],
+  "dimensions": [
+    1809.999942779541,
+    1809.999942779541
+  ],
+  "date_published": 1677110400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "6de5125467421ae9f6dfee884c11f83e7cbdc9fb",
+  "download_count": 7047,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rocky_gravel.png?width=256&height=256"
+}

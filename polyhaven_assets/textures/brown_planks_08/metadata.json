@@ -1,0 +1,35 @@
+{
+  "scale": "1.5M x 1.5M",
+  "type": 1,
+  "tags": [
+    "planks",
+    "rough",
+    "shed",
+    "untreated"
+  ],
+  "date_published": 1566950852,
+  "name": "Brown Planks 08",
+  "old_id": 221,
+  "categories": [
+    "wood",
+    "outdoor",
+    "indoor",
+    "clean",
+    "wall",
+    "man made"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "815560354f3c580552226b91a08c65508f38df72",
+  "download_count": 30413,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_planks_08.png?width=256&height=256"
+}

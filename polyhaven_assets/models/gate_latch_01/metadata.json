@@ -1,0 +1,48 @@
+{
+  "donated": true,
+  "date_published": 1671753600,
+  "name": "Gate Latch 01",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "staging": null,
+  "info": null,
+  "authors": {
+    "Desktoy": "All"
+  },
+  "categories": [
+    "industrial",
+    "buildings",
+    "structures",
+    "collection: the_shed"
+  ],
+  "tags": [
+    "outdoor",
+    "metal",
+    "gate",
+    "lock",
+    "latch",
+    "bolt",
+    "fence",
+    "door",
+    "wooden",
+    "shed",
+    "farm",
+    "farmhouse"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 5480,
+  "texel_density": 17528.210749900663,
+  "dimensions": [
+    205.09500801563263,
+    74.74934868514538,
+    85.42444556951523
+  ],
+  "files_hash": "bfe033e15d12c2513652457660c429e5ede95e1a",
+  "download_count": 2413,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gate_latch_01.png?width=256&height=256"
+}

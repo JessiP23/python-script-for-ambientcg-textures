@@ -1,0 +1,41 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5600,
+  "tags": [
+    "dry grass",
+    "yellow",
+    "long grass",
+    "tree",
+    "sun",
+    "nest",
+    "park"
+  ],
+  "name": "Dry Meadow",
+  "categories": [
+    "high contrast",
+    "outdoor",
+    "partly cloudy",
+    "natural light",
+    "nature",
+    "morning-afternoon"
+  ],
+  "date_taken": 1700918160,
+  "authors": {
+    "Greg Zaal": "Processing",
+    "Sergej Majboroda": "Photography"
+  },
+  "info": null,
+  "files_hash": "30cd0672d72ce09eb3f9309d338af812a23f386a",
+  "date_published": 1708041600,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 8859,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dry_meadow.png?width=256&height=256"
+}

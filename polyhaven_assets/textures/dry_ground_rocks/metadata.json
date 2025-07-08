@@ -1,0 +1,32 @@
+{
+  "scale": "4M x 4M",
+  "type": 1,
+  "tags": [
+    "mud",
+    "rocks",
+    "cracked",
+    "ground"
+  ],
+  "date_published": 1582243648,
+  "name": "Dry Ground Rocks",
+  "old_id": 246,
+  "categories": [
+    "terrain",
+    "outdoor",
+    "natural"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    4000,
+    4000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "8d8008c32f6f8165608b95e105e5937552accb49",
+  "download_count": 49195,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dry_ground_rocks.png?width=256&height=256"
+}

@@ -1,0 +1,55 @@
+{
+  "donated": true,
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "date_published": 1679616000,
+  "name": "Dartboard",
+  "staging": null,
+  "authors": {
+    "Satyaki Mandal": "All"
+  },
+  "info": null,
+  "categories": [
+    "props",
+    "decorative",
+    "wall decoration",
+    "collection: the_shed"
+  ],
+  "sponsors": [
+    "26820710",
+    "20953239"
+  ],
+  "tags": [
+    "shed",
+    "bar",
+    "activities",
+    "darts",
+    "game",
+    "toy",
+    "pub",
+    "sports",
+    "sport",
+    "fun",
+    "entertainment",
+    "competition",
+    "target",
+    "bullseye",
+    "indoor games"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 6800,
+  "texel_density": 12198.787766243375,
+  "dimensions": [
+    450.6962299346924,
+    39.77856128316404,
+    450.6962150335312
+  ],
+  "files_hash": "5e28b6807f86ea1c78ac3198ac93d24bb8130e1f",
+  "download_count": 10553,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dartboard.png?width=256&height=256"
+}

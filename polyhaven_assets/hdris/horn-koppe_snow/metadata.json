@@ -1,0 +1,42 @@
+{
+  "type": 0,
+  "name": "Horn-koppe Snow",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "high contrast",
+    "clear",
+    "morning-afternoon"
+  ],
+  "tags": [
+    "snow",
+    "sun",
+    "winter",
+    "field",
+    "forest"
+  ],
+  "authors": {
+    "Grzegorz Wronkowski": "All"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1739878320,
+  "coords": [
+    50.458649,
+    16.335634
+  ],
+  "evs_cap": 24,
+  "whitebalance": 5400,
+  "max_resolution": [
+    30000,
+    15000
+  ],
+  "files_hash": "910d5cc99554208217215605c3e45834bd835b54",
+  "date_published": 1742947200,
+  "staging": null,
+  "download_count": 10870,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/horn-koppe_snow.png?width=256&height=256"
+}

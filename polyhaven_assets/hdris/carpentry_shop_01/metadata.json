@@ -1,0 +1,31 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "whitebalance": 4000,
+  "tags": [
+    "workshop",
+    "lamp",
+    "tablesaw",
+    "wood"
+  ],
+  "date_published": 1556575200,
+  "name": "Carpentry Shop 01",
+  "old_id": 370,
+  "categories": [
+    "indoor",
+    "urban",
+    "high contrast",
+    "artificial light"
+  ],
+  "date_taken": 1554721740,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "d02a198ef3f4e9727d540c6d386bb69fb975445e",
+  "download_count": 16337,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/carpentry_shop_01.png?width=256&height=256"
+}

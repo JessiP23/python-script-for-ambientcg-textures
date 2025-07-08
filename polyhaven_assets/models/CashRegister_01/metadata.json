@@ -1,0 +1,45 @@
+{
+  "date_published": 1585605600,
+  "name": "Cash Register 01",
+  "old_id": 8,
+  "categories": [
+    "appliances",
+    "props"
+  ],
+  "type": 2,
+  "tags": [
+    "commercial",
+    "store",
+    "vintage",
+    "cash",
+    "transaction",
+    "register",
+    "money",
+    "sales",
+    "convenience store",
+    "cashier",
+    "retail",
+    "business"
+  ],
+  "authors": {
+    "Joe Seabuhr": "All"
+  },
+  "sponsors": [
+    "42579608",
+    "297038"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 9927,
+  "texel_density": 5156.575013122558,
+  "dimensions": [
+    600.4907041788101,
+    624.2051124572754,
+    621.3557496666908
+  ],
+  "files_hash": "a28caf40c20cabd1ee08e639d41982066d7340c6",
+  "download_count": 19248,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/CashRegister_01.png?width=256&height=256"
+}

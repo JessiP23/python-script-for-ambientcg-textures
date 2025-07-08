@@ -1,0 +1,41 @@
+{
+  "name": "Laminate Floor 03",
+  "categories": [
+    "man made",
+    "floor",
+    "wood"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Charlotte Baglioni": "Photography"
+  },
+  "info": null,
+  "tags": [
+    "flat",
+    "planks",
+    "wood",
+    "floor",
+    "even",
+    "lines",
+    "synthetic",
+    "varnished",
+    "wooden"
+  ],
+  "dimensions": [
+    2079.9996852874756,
+    2079.9996852874756
+  ],
+  "date_published": 1670889600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "60bb44415037f5874fd9294579d5709bd104d405",
+  "download_count": 113286,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/laminate_floor_03.png?width=256&height=256"
+}

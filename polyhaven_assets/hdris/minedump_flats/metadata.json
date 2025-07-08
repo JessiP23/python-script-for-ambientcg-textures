@@ -1,0 +1,47 @@
+{
+  "type": 0,
+  "name": "Minedump Flats",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "partly cloudy",
+    "medium contrast",
+    "sunrise-sunset"
+  ],
+  "tags": [
+    "sun",
+    "quarry",
+    "dirt",
+    "tree",
+    "pond",
+    "sand"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1735758300,
+  "evs_cap": 23,
+  "whitebalance": 6059,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "35aa835bae00245133ff83b65ab1973afe0cb09f",
+  "date_published": 1741737600,
+  "staging": null,
+  "coords": [
+    -28.0742958,
+    26.8463698
+  ],
+  "sponsors": [
+    "37678923"
+  ],
+  "download_count": 59485,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/minedump_flats.png?width=256&height=256"
+}

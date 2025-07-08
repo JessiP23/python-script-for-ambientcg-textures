@@ -1,0 +1,46 @@
+{
+  "donated": true,
+  "name": "Wooden Picnic Table",
+  "categories": [
+    "furniture",
+    "seating",
+    "table"
+  ],
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "vintage",
+    "old",
+    "worn",
+    "park",
+    "bench",
+    "outdoor",
+    "weathered",
+    "countryside",
+    "outdoor seating"
+  ],
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 10210,
+  "texel_density": 1156.5982859911464,
+  "dimensions": [
+    2240.9759759902954,
+    3022.329568862915,
+    745.9869086742401
+  ],
+  "date_published": 1715558400,
+  "staging": null,
+  "sponsors": [
+    "26820710"
+  ],
+  "files_hash": "56962f92a441625ad0afd4cc2e1ae405035a86ea",
+  "download_count": 17733,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_picnic_table.png?width=256&height=256"
+}

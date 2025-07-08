@@ -1,0 +1,48 @@
+{
+  "type": 0,
+  "name": "Qwantani Night",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "clear",
+    "low contrast",
+    "night"
+  ],
+  "tags": [
+    "mountain",
+    "view",
+    "dam",
+    "lake",
+    "hilltop",
+    "grass",
+    "stars",
+    "milky way",
+    "light pollution",
+    "astronomy"
+  ],
+  "authors": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1724352180,
+  "coords": [
+    -28.48533209827116,
+    29.012639559934758
+  ],
+  "evs_cap": 23,
+  "whitebalance": 4901,
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "2657a0ac188d3ad296d0effaf6f904337284081e",
+  "date_published": 1739923200,
+  "staging": null,
+  "download_count": 19597,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/qwantani_night.png?width=256&height=256"
+}

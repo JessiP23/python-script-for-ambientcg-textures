@@ -1,0 +1,45 @@
+{
+  "name": "Precast Stone Paving",
+  "categories": [
+    "floor",
+    "man made",
+    "outdoor",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "worn",
+    "concrete",
+    "patterned concrete",
+    "floor",
+    "outdoor",
+    "outdoor walkway",
+    "outdoor flooring",
+    "precast",
+    "pavers",
+    "paving",
+    "stone paving",
+    "walkway design",
+    "stamped concrete"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2240.000009536743,
+    2240.000009536743
+  ],
+  "date_published": 1716854400,
+  "staging": null,
+  "files_hash": "c144ffb843530ee2813286ca2cd048bb1a3a7c74",
+  "download_count": 6983,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/precast_stone_paving.png?width=256&height=256"
+}

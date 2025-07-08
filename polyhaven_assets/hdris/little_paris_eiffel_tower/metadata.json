@@ -1,0 +1,44 @@
+{
+  "evs_cap": 26,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5303,
+  "tags": [
+    "bridge",
+    "cobblestone",
+    "bicycle",
+    "fountain",
+    "restaurant",
+    "padlock",
+    "cafe"
+  ],
+  "name": "Little Paris Eiffel Tower",
+  "categories": [
+    "outdoor",
+    "nature",
+    "natural light",
+    "high contrast",
+    "sunrise-sunset"
+  ],
+  "date_taken": 1678555860,
+  "coords": [
+    -25.737049,
+    27.90226
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "date_published": 1681862400,
+  "staging": null,
+  "max_resolution": [
+    16000,
+    8000
+  ],
+  "files_hash": "a16190b87c2dda9118a7c882b3658053eb017ae9",
+  "download_count": 163734,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/little_paris_eiffel_tower.png?width=256&height=256"
+}

@@ -1,0 +1,40 @@
+{
+  "date_published": 1666051200,
+  "name": "Slab Tiles",
+  "categories": [
+    "floor",
+    "man made",
+    "rock",
+    "indoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "info": null,
+  "dimensions": [
+    2369.999885559082,
+    2370.000123977661
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "tags": [
+    "flat",
+    "rocks",
+    "smooth",
+    "floor",
+    "stone",
+    "slates",
+    "tiles"
+  ],
+  "files_hash": "7ff1c0a5b9538fa9feaada26c38e88448de789d4",
+  "download_count": 49361,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/slab_tiles.png?width=256&height=256"
+}

@@ -1,0 +1,41 @@
+{
+  "evs_cap": 16,
+  "type": 0,
+  "whitebalance": 5100,
+  "tags": [
+    "table",
+    "couch",
+    "christmas",
+    "fireplace",
+    "victorian",
+    "apartment",
+    "backplates"
+  ],
+  "name": "Christmas Photo Studio 05",
+  "categories": [
+    "indoor",
+    "studio",
+    "morning-afternoon",
+    "natural light",
+    "artificial light",
+    "low contrast",
+    "urban"
+  ],
+  "backplates": true,
+  "date_taken": 1638277020,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1638921600,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "02833b133da7f792a51eff02b0e433a26acdc362",
+  "sponsors": [
+    "42579608"
+  ],
+  "download_count": 97362,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/christmas_photo_studio_05.png?width=256&height=256"
+}

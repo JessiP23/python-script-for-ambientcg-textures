@@ -1,0 +1,43 @@
+{
+  "evs_cap": 27,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5400,
+  "tags": [
+    "field",
+    "dry grass",
+    "farm",
+    "rural",
+    "countryside",
+    "mud",
+    "backplates"
+  ],
+  "name": "Harvest",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "clear",
+    "high contrast",
+    "morning-afternoon"
+  ],
+  "backplates": true,
+  "date_taken": 1699958340,
+  "authors": {
+    "Greg Zaal": "Processing",
+    "Sergej Majboroda": "Photography"
+  },
+  "info": null,
+  "files_hash": "22e8e81195d26534936623e7984ee8fcc663cc34",
+  "date_published": 1708473600,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 25690,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/harvest.png?width=256&height=256"
+}

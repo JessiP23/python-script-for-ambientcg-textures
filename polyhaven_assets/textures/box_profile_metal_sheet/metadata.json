@@ -1,0 +1,45 @@
+{
+  "name": "Box Profile Metal Sheet",
+  "categories": [
+    "wall",
+    "outdoor",
+    "roofing"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Jandre van Heerden"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1723075200,
+  "staging": null,
+  "sponsors": [
+    "142221391"
+  ],
+  "tags": [
+    "sheet",
+    "metal sheet",
+    "box profile",
+    "industrial",
+    "corrugated",
+    "steel",
+    "red",
+    "roofing material",
+    "metal roofing sheet",
+    "galvanized steel",
+    "corrugated iron"
+  ],
+  "files_hash": "f57400cd2f30b0b2ed4a54c1fd645fe835eb60f2",
+  "download_count": 26644,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/box_profile_metal_sheet.png?width=256&height=256"
+}

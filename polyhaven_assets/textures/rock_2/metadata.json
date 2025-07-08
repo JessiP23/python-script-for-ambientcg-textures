@@ -1,0 +1,31 @@
+{
+  "date_published": 1534153267,
+  "name": "Rock 2",
+  "old_id": 154,
+  "categories": [
+    "rock",
+    "outdoor",
+    "terrain",
+    "natural"
+  ],
+  "type": 1,
+  "tags": [
+    "rough",
+    "stone",
+    "dirty"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "4467a50b38d4ceae0f261c88c335707a1d0a74c9",
+  "download_count": 28879,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_2.png?width=256&height=256"
+}

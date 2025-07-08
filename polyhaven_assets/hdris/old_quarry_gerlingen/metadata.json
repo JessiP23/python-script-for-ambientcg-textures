@@ -1,0 +1,44 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "tags": [
+    "forest",
+    "autumn",
+    "tree",
+    "grass",
+    "field"
+  ],
+  "name": "Old Quarry Gerlingen",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "overcast",
+    "low contrast",
+    "midday"
+  ],
+  "date_taken": 1607265660,
+  "coords": [
+    48.777357,
+    9.064269
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "date_published": 1645056000,
+  "staging": null,
+  "files_hash": "0ec4addcf915241856fb6f832ef3576fedbad6e2",
+  "sponsors": [
+    "37678923",
+    "4714267"
+  ],
+  "max_resolution": [
+    18638,
+    9319
+  ],
+  "download_count": 22956,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/old_quarry_gerlingen.png?width=256&height=256"
+}

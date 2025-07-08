@@ -1,0 +1,38 @@
+{
+  "date_published": 1627948800,
+  "name": "Concrete Floor Worn 001",
+  "categories": [
+    "floor",
+    "man made",
+    "indoor",
+    "dirty",
+    "concrete",
+    "plaster-concrete"
+  ],
+  "type": 1,
+  "staging": null,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Processing"
+  },
+  "tags": [
+    "worn",
+    "old",
+    "plain",
+    "grey",
+    "weathered",
+    "bare",
+    "discolored"
+  ],
+  "dimensions": [
+    3000,
+    3000.000238418579
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "e3d93fd423c3db5bbc000a930cc8b9d770187ce4",
+  "download_count": 361878,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_floor_worn_001.png?width=256&height=256"
+}

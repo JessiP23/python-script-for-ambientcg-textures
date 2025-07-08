@@ -1,0 +1,36 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "path",
+    "park",
+    "grass",
+    "canopy"
+  ],
+  "date_published": 1581050566,
+  "name": "Greenwich Park 02",
+  "old_id": 441,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1567841100,
+  "coords": [
+    51.480076,
+    0.000853
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "files_hash": "c6566ed4a2d285da7c2cb725999a453e8e26e8f1",
+  "max_resolution": [
+    20844,
+    10422
+  ],
+  "download_count": 33946,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/greenwich_park_02.png?width=256&height=256"
+}

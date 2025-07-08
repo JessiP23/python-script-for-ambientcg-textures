@@ -1,0 +1,38 @@
+{
+  "donated": true,
+  "type": 2,
+  "tags": [
+    "lighting",
+    "brass",
+    "metal",
+    "lamp",
+    "candle",
+    "light",
+    "cultural",
+    "hanging"
+  ],
+  "name": "Brass Diya Lantern",
+  "categories": [
+    "decorative",
+    "lighting"
+  ],
+  "authors": {
+    "Bhargav Kubal": "All"
+  },
+  "date_published": 1639526400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 12742,
+  "texel_density": 20723.980962316098,
+  "dimensions": [
+    123.00453707575798,
+    123.00454080104828,
+    380.8239474892616
+  ],
+  "files_hash": "c8a70bbd5dd2708135a561576d895436844aaa25",
+  "download_count": 12172,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brass_diya_lantern.png?width=256&height=256"
+}

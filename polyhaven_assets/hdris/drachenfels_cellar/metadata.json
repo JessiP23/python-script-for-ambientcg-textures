@@ -1,0 +1,42 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "tunnel",
+    "brick",
+    "dirt",
+    "cave",
+    "castle",
+    "arch",
+    "shelter",
+    "doorway"
+  ],
+  "date_published": 1620684000,
+  "name": "Drachenfels Cellar",
+  "old_id": 538,
+  "categories": [
+    "indoor",
+    "nature",
+    "urban",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1616248920,
+  "coords": [
+    49.122096,
+    7.82833
+  ],
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "9910225"
+  ],
+  "files_hash": "b9bf4f6ae151874b8be5c323ad0d37991f347601",
+  "max_resolution": [
+    20722,
+    10361
+  ],
+  "download_count": 40683,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/drachenfels_cellar.png?width=256&height=256"
+}

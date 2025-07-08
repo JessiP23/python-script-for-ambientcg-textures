@@ -1,0 +1,51 @@
+{
+  "name": "Brick Wall 04",
+  "categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "brick",
+    "plaster-concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rob Tuytel"
+  ],
+  "authors": {
+    "Dario Barresi": "Baking ",
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Tiling "
+  },
+  "info": null,
+  "tags": [
+    "rough",
+    "uneven",
+    "wall",
+    "chipped",
+    "damaged",
+    "rock",
+    "rocks",
+    "concrete",
+    "plaster",
+    "brick",
+    "bricks",
+    "cement",
+    "weathered",
+    "stones",
+    "cracked",
+    "worn"
+  ],
+  "dimensions": [
+    1389.9999856948853,
+    1389.9999856948853
+  ],
+  "date_published": 1674691200,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "235e0a507639bbca4ff4a63f316894ffd35d01cf",
+  "download_count": 30621,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brick_wall_04.png?width=256&height=256"
+}

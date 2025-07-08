@@ -1,0 +1,46 @@
+{
+  "type": 0,
+  "name": "Pisztyk",
+  "categories": [
+    "natural light",
+    "nature",
+    "outdoor",
+    "skies",
+    "sunrise-sunset",
+    "partly cloudy",
+    "high contrast"
+  ],
+  "tags": [
+    "sun",
+    "field",
+    "snow",
+    "grass",
+    "tree",
+    "winter"
+  ],
+  "authors": {
+    "Grzegorz Wronkowski": "All"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1736153760,
+  "coords": [
+    50.6192,
+    16.44075
+  ],
+  "evs_cap": 24,
+  "whitebalance": 5500,
+  "max_resolution": [
+    30000,
+    15000
+  ],
+  "files_hash": "769e4c19c8a9cf326dd305e891c77fe6ccd2b1d5",
+  "staging": null,
+  "sponsors": [
+    "37678923"
+  ],
+  "date_published": 1748563200,
+  "download_count": 5332,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pisztyk.png?width=256&height=256"
+}

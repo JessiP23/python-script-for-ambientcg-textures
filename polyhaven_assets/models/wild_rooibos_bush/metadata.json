@@ -1,0 +1,42 @@
+{
+  "lods": true,
+  "name": "Wild Rooibos Bush",
+  "categories": [
+    "nature",
+    "plants",
+    "collection: namaqualand"
+  ],
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers",
+    "Jenelle van Heerden"
+  ],
+  "tags": [
+    "karoo",
+    "south africa",
+    "desert",
+    "dried",
+    "dry",
+    "shrub"
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Photography ",
+    "James Ray Cock": "Model"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 76521,
+  "texel_density": 17748.299962122845,
+  "dimensions": [
+    2285.276174545288,
+    854.104071855545,
+    543.936595087871
+  ],
+  "staging": null,
+  "date_published": 1728345600,
+  "files_hash": "e36b891edee5f1133d3d05b0707a690f8a078f6c",
+  "download_count": 3373,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wild_rooibos_bush.png?width=256&height=256"
+}

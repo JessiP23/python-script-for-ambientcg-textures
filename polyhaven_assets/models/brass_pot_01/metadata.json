@@ -1,0 +1,45 @@
+{
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "brass",
+    "metal",
+    "prop",
+    "pot",
+    "cooking",
+    "container",
+    "pattern",
+    "decorative",
+    "copper",
+    "old",
+    "fancy",
+    "cookware"
+  ],
+  "name": "Brass Pot 01",
+  "categories": [
+    "props",
+    "containers",
+    "decorative"
+  ],
+  "authors": {
+    "Rico Cilliers": "All"
+  },
+  "date_published": 1656633600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 3760,
+  "texel_density": 9112.70155306243,
+  "dimensions": [
+    301.94565653800964,
+    301.69259011745453,
+    290.94765486661345
+  ],
+  "files_hash": "a2b74ef3895196b2e372fa43f1abfe896ee35ffe",
+  "download_count": 6340,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brass_pot_01.png?width=256&height=256"
+}

@@ -1,0 +1,42 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "whitebalance": 5150,
+  "tags": [
+    "lake",
+    "platform",
+    "wood floor",
+    "hill",
+    "mountain",
+    "park",
+    "backplates"
+  ],
+  "name": "Shudu Lake",
+  "categories": [
+    "outdoor",
+    "nature",
+    "overcast",
+    "natural light",
+    "low contrast",
+    "midday"
+  ],
+  "backplates": true,
+  "date_taken": 1476100800,
+  "coords": [
+    27.904654,
+    99.938984
+  ],
+  "authors": {
+    "Alex Radosnov": "All"
+  },
+  "date_published": 1635724800,
+  "staging": null,
+  "prepaid": true,
+  "files_hash": "5a432ad6074118d9f67c43953d15853db477d185",
+  "max_resolution": [
+    11878,
+    5939
+  ],
+  "download_count": 84022,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/shudu_lake.png?width=256&height=256"
+}

@@ -1,0 +1,40 @@
+{
+  "type": 2,
+  "tags": [
+    "wood",
+    "prop",
+    "vintage",
+    "furniture",
+    "chair",
+    "gothic",
+    "victorian",
+    "decorative"
+  ],
+  "date_published": 1585605600,
+  "name": "Wooden Chair 01",
+  "old_id": 39,
+  "categories": [
+    "furniture",
+    "seating"
+  ],
+  "authors": {
+    "Jake Mobley": "All"
+  },
+  "sponsors": [
+    "68131842"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 19992,
+  "texel_density": 1907.9500506608497,
+  "dimensions": [
+    688.1728172302246,
+    658.4618389606476,
+    2273.514856118709
+  ],
+  "files_hash": "62044fc04038e8a8192783c6c0db8cb879935209",
+  "download_count": 17395,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/WoodenChair_01.png?width=256&height=256"
+}

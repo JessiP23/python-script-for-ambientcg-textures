@@ -1,0 +1,44 @@
+{
+  "date_published": 1687996800,
+  "name": "Japanese Camphor Bark",
+  "categories": [
+    "natural",
+    "bark"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "staging": null,
+  "tags": [
+    "bark",
+    "tree",
+    "tree bark",
+    "japanese",
+    "forest",
+    "organic",
+    "tree trunk",
+    "forestry",
+    "environment",
+    "bark texture"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1799.9999523162842,
+    1799.9999523162842
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "42579608"
+  ],
+  "files_hash": "6c74641ca4eff802c611924cf279b7b0595e50b1",
+  "download_count": 6739,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/japanese_camphor_bark.png?width=256&height=256"
+}

@@ -1,0 +1,49 @@
+{
+  "evs_cap": 24,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1516666900,
+  "name": "Piazza Martin Lutero",
+  "old_id": 128,
+  "categories": [
+    "outdoor",
+    "nature",
+    "urban",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1510126620,
+  "coords": [
+    41.8912,
+    12.4975
+  ],
+  "sponsors": [
+    "8571269"
+  ],
+  "backplates": true,
+  "tags": [
+    "tree",
+    "sun",
+    "road",
+    "europe",
+    "fountain",
+    "rome",
+    "park",
+    "walkway",
+    "street",
+    "backplates"
+  ],
+  "files_hash": "5b521e79c3cedd6f1daaf8c21b25021c8fd50bc6",
+  "authors": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+  },
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 66376,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/piazza_martin_lutero.png?width=256&height=256"
+}

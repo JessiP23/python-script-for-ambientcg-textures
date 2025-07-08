@@ -1,0 +1,43 @@
+{
+  "evs_cap": 14,
+  "prepaid": true,
+  "type": 0,
+  "tags": [
+    "workshop",
+    "hall",
+    "warehouse",
+    "industrial",
+    "machine",
+    "metal"
+  ],
+  "date_published": 1536616800,
+  "name": "Machine Shop 01",
+  "old_id": 306,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "natural light"
+  ],
+  "date_taken": 1535666400,
+  "coords": [
+    50.929001,
+    34.811448
+  ],
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    {
+      "url": "https://www.frame4.co.uk/",
+      "name": "Frame 4 Animation Studios"
+    }
+  ],
+  "max_resolution": [
+    16500,
+    8250
+  ],
+  "files_hash": "4d69e1f8858b4300ed2544f40b45c14d96ac8e86",
+  "download_count": 34684,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/machine_shop_01.png?width=256&height=256"
+}

@@ -1,0 +1,39 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "tree",
+    "shade",
+    "dappled",
+    "canopy",
+    "leaves"
+  ],
+  "date_published": 1595541600,
+  "name": "Green Sanctuary",
+  "old_id": 479,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    48.80205,
+    9.170349
+  ],
+  "date_taken": 1593256560,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "11167855"
+  ],
+  "files_hash": "4abf07d8e333676d75a2dfcc2e1f221e828bc6a5",
+  "max_resolution": [
+    19000,
+    9500
+  ],
+  "download_count": 36866,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/green_sanctuary.png?width=256&height=256"
+}

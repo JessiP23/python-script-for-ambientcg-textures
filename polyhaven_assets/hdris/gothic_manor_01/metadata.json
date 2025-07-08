@@ -1,0 +1,47 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 9200,
+  "tags": [
+    "tree",
+    "grass",
+    "bridge",
+    "abandoned",
+    "lake",
+    "willow",
+    "mansion",
+    "europe",
+    "backplates"
+  ],
+  "name": "Gothic Manor 01",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "clear",
+    "sunrise-sunset",
+    "low contrast"
+  ],
+  "backplates": true,
+  "coords": [
+    50.044017,
+    35.432039
+  ],
+  "date_taken": 1600905600,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "date_published": 1643587200,
+  "staging": null,
+  "prepaid": true,
+  "files_hash": "b49abea33fc34f063f7f1e6ecf66e9d2f62bcb92",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 56995,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gothic_manor_01.png?width=256&height=256"
+}

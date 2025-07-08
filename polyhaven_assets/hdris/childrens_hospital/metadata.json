@@ -1,0 +1,35 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "whitebalance": 5050,
+  "tags": [
+    "bed",
+    "ward",
+    "medical",
+    "hospital",
+    "room"
+  ],
+  "date_published": 1554415200,
+  "name": "Children's Hospital",
+  "old_id": 363,
+  "categories": [
+    "indoor",
+    "urban",
+    "high contrast",
+    "artificial light"
+  ],
+  "date_taken": 1550246280,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "sponsors": [
+    "77433244"
+  ],
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "files_hash": "3e9f25c3751af6e4a28acce3fd8749cf495c8d4f",
+  "download_count": 19289,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/childrens_hospital.png?width=256&height=256"
+}

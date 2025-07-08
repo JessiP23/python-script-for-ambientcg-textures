@@ -1,0 +1,39 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "whitebalance": 3413,
+  "tags": [
+    "tunnel",
+    "brick",
+    "concrete",
+    "lamp",
+    "bench"
+  ],
+  "date_published": 1548111600,
+  "name": "Concrete Tunnel",
+  "old_id": 343,
+  "categories": [
+    "indoor",
+    "urban",
+    "high contrast",
+    "artificial light"
+  ],
+  "coords": [
+    -25.333009,
+    27.146161
+  ],
+  "date_taken": 1547455440,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "7934315"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "775194ec96c49453080fb737f4df4a41d99a272c",
+  "download_count": 13710,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_tunnel.png?width=256&height=256"
+}

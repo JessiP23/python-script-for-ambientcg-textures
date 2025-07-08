@@ -1,0 +1,36 @@
+{
+  "scale": "1.5M x 1.5M",
+  "type": 1,
+  "tags": [
+    "planks",
+    "shed",
+    "house",
+    "suburb",
+    "untreated"
+  ],
+  "date_published": 1559877837,
+  "name": "Brown Planks 07",
+  "old_id": 205,
+  "categories": [
+    "wood",
+    "outdoor",
+    "indoor",
+    "clean",
+    "wall",
+    "man made"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1000,
+    1000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d3e3f58cbf718d2d3b87844317699cb9bf3966c4",
+  "download_count": 35445,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_planks_07.png?width=256&height=256"
+}

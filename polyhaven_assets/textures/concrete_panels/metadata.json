@@ -1,0 +1,44 @@
+{
+  "name": "Concrete Panels",
+  "categories": [
+    "man made",
+    "outdoor",
+    "wall",
+    "plaster-concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "wall",
+    "concrete",
+    "stamped concrete",
+    "patterned concrete",
+    "timeworn",
+    "building material",
+    "underpass",
+    "bridge",
+    "weatherbeaten",
+    "pavers",
+    "construction material"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    8000,
+    8000
+  ],
+  "date_published": 1718236800,
+  "staging": null,
+  "files_hash": "ef5c4ba919c37bb111e4bd7ea4805ae3c754f102",
+  "download_count": 4803,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_panels.png?width=256&height=256"
+}

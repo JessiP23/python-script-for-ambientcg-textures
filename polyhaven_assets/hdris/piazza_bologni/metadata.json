@@ -1,0 +1,40 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "europe",
+    "square",
+    "bench",
+    "architecture",
+    "cafe"
+  ],
+  "date_published": 1574722800,
+  "name": "Piazza Bologni",
+  "old_id": 425,
+  "categories": [
+    "outdoor",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    38.114788,
+    13.36021
+  ],
+  "date_taken": 1569822180,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "9910225"
+  ],
+  "max_resolution": [
+    20776,
+    10388
+  ],
+  "files_hash": "694ba0b95c3065d1a45a2397654639fba98bbfc4",
+  "download_count": 36440,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/piazza_bologni.png?width=256&height=256"
+}

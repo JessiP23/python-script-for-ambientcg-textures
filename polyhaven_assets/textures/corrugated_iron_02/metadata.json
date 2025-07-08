@@ -1,0 +1,46 @@
+{
+  "name": "Corrugated Iron 02",
+  "categories": [
+    "man made",
+    "wall",
+    "metal"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "info": null,
+  "dimensions": [
+    2700.000047683716,
+    2700.000047683716
+  ],
+  "date_published": 1701302400,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "authors": {
+    "Jenelle van Heerden": "Processing",
+    "Anonymous Bob": "Photography"
+  },
+  "tags": [
+    "metal",
+    "metallic",
+    "metal sheet",
+    "steel sheeting",
+    "corrugation",
+    "galvanized",
+    "sheet",
+    "roofing",
+    "roof",
+    "iron",
+    "corrugated",
+    "corrugated iron"
+  ],
+  "files_hash": "df7bdf1fcdf727f9cdaf11b2b47830c115306f09",
+  "download_count": 57076,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/corrugated_iron_02.png?width=256&height=256"
+}

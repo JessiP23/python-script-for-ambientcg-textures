@@ -1,0 +1,35 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "theater",
+    "theatre",
+    "seat",
+    "orchestra",
+    "stage",
+    "curtain"
+  ],
+  "date_published": 1552345200,
+  "name": "Theater 02",
+  "old_id": 356,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1548867900,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "files_hash": "0aac7283c144d4d10e15586ad1fe106d14360348",
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "sponsors": [
+    "20953239"
+  ],
+  "download_count": 14516,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/theater_02.png?width=256&height=256"
+}

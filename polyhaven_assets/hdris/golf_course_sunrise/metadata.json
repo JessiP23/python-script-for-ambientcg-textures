@@ -1,0 +1,47 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5305,
+  "tags": [
+    "lake",
+    "dam",
+    "grass",
+    "tree",
+    "power line",
+    "mist"
+  ],
+  "name": "Golf Course Sunrise",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "clear",
+    "low contrast",
+    "sunrise-sunset"
+  ],
+  "coords": [
+    -26.421496,
+    28.026049
+  ],
+  "date_taken": 1659681360,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "info": null,
+  "date_published": 1664928000,
+  "staging": null,
+  "files_hash": "896fd75cf969527edf0e105e4b031074f687bf37",
+  "sponsors": [
+    "3267566"
+  ],
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 80890,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/golf_course_sunrise.png?width=256&height=256"
+}

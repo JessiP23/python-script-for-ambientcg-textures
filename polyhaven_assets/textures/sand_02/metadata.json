@@ -1,0 +1,38 @@
+{
+  "name": "Sand 02",
+  "categories": [
+    "floor",
+    "sand"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi"
+  ],
+  "tags": [
+    "dirty",
+    "sand",
+    "sandy",
+    "beach",
+    "gritty",
+    "coast",
+    "shore",
+    "granular"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2140.000104904175,
+    2140.000104904175
+  ],
+  "date_published": 1707782400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "e4b4c84cec65751c379c57d51d2c60dc40fd3828",
+  "download_count": 10261,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sand_02.png?width=256&height=256"
+}

@@ -1,0 +1,45 @@
+{
+  "type": 1,
+  "name": "Rock Wall 12",
+  "categories": [
+    "floor",
+    "man made",
+    "rock"
+  ],
+  "tags": [
+    "rock",
+    "wall",
+    "fortress walls",
+    "exterior",
+    "weatherbeaten",
+    "dungeon",
+    "stonework",
+    "concrete",
+    "stone wall",
+    "scratched",
+    "mortar"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "reviewers": [
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    1599.9999046325684,
+    1599.9999046325684
+  ],
+  "date_published": 1739404800,
+  "staging": null,
+  "sponsors": [
+    "118714804"
+  ],
+  "files_hash": "9b05f44c0466e3929c376288c20a0277b4c0297e",
+  "download_count": 6532,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_wall_12.png?width=256&height=256"
+}

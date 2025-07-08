@@ -1,0 +1,42 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "tags": [
+    "tree",
+    "sun",
+    "snow",
+    "forest",
+    "bench",
+    "hill",
+    "field"
+  ],
+  "date_published": 1616454000,
+  "name": "Snowy Hillside",
+  "old_id": 531,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    48.401595,
+    9.802425
+  ],
+  "date_taken": 1610101320,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "files_hash": "3f98d8535eef3a2f084e0f214bf1836cd26d9496",
+  "max_resolution": [
+    19548,
+    9774
+  ],
+  "download_count": 61612,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snowy_hillside.png?width=256&height=256"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Patterned Brick Floor 03",
+  "categories": [
+    "floor",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "brick",
+    "bricks",
+    "pattern",
+    "pavement patterned",
+    "driveway",
+    "paving",
+    "outdoor flooring",
+    "exterior"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2099.9999046325684,
+    2099.9999046325684
+  ],
+  "date_published": 1718668800,
+  "staging": null,
+  "files_hash": "be686a7122488114f4e429ac73c17300041138b3",
+  "download_count": 5602,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_brick_floor_03.png?width=256&height=256"
+}

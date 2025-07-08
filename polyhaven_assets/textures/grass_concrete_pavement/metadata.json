@@ -1,0 +1,45 @@
+{
+  "name": "Grass Concrete Pavement",
+  "categories": [
+    "man made",
+    "outdoor",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "rough",
+    "uneven",
+    "weathered",
+    "old",
+    "discolored",
+    "grass",
+    "dead grass",
+    "dry",
+    "grey",
+    "pavement",
+    "concrete",
+    "blocks",
+    "worn"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1970.0000286102295,
+    1970.0000286102295
+  ],
+  "staging": null,
+  "date_published": 1689379200,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "4245fbdce5c13b847dff4639b60207f92e6e2e1d",
+  "download_count": 2516,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grass_concrete_pavement.png?width=256&height=256"
+}

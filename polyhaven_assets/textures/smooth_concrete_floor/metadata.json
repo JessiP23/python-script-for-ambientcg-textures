@@ -1,0 +1,42 @@
+{
+  "name": "Smooth Concrete Floor",
+  "categories": [
+    "floor",
+    "indoor",
+    "concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Dario Barresi",
+    "Rob Tuytel"
+  ],
+  "tags": [
+    "worn",
+    "scratched",
+    "cracked",
+    "dirty",
+    "floor",
+    "scuffed",
+    "grungy"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1704931200,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "11167855"
+  ],
+  "files_hash": "9c4de5db66f9fcd159d338ed3c92cc9606a43c4b",
+  "download_count": 6143,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/smooth_concrete_floor.png?width=256&height=256"
+}

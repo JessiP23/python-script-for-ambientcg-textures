@@ -1,0 +1,35 @@
+{
+  "evs_cap": 9,
+  "type": 0,
+  "tags": [
+    "rock",
+    "tree",
+    "forest"
+  ],
+  "date_published": 1607036400,
+  "name": "Felsenlabyrinth",
+  "old_id": 514,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    50.888265,
+    14.031485
+  ],
+  "date_taken": 1596983820,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "files_hash": "7e10c7f8cc01b2815d3dfe11786a2a6177b1d094",
+  "max_resolution": [
+    20000,
+    10000
+  ],
+  "download_count": 30672,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/felsenlabyrinth.png?width=256&height=256"
+}

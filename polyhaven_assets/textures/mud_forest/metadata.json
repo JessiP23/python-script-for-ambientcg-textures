@@ -1,0 +1,39 @@
+{
+  "date_published": 1680307200,
+  "name": "Mud Forest",
+  "categories": [
+    "outdoor",
+    "floor",
+    "natural",
+    "dirty"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "tags": [
+    "brown",
+    "ground",
+    "dirty",
+    "leaves",
+    "mud",
+    "forest",
+    "sticks"
+  ],
+  "authors": {
+    "eye-candy.xyz": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2349.9999046325684,
+    2349.9999046325684
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "c09133c4536ecd3111be89c1d7122d8b96e36e60",
+  "download_count": 29506,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mud_forest.png?width=256&height=256"
+}

@@ -1,0 +1,40 @@
+{
+  "date_published": 1585605600,
+  "sponsors": [
+    "44302755"
+  ],
+  "name": "Barber Shop Chair 01",
+  "old_id": 4,
+  "categories": [
+    "furniture",
+    "seating"
+  ],
+  "type": 2,
+  "tags": [
+    "chair",
+    "vintage",
+    "wood",
+    "leather",
+    "fancy",
+    "upholstery",
+    "barber",
+    "salon"
+  ],
+  "authors": {
+    "Fernando Quinn": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 4280,
+  "texel_density": 3344.6078905459185,
+  "dimensions": [
+    756.5155327320099,
+    1327.9063999652863,
+    1489.0052630568675
+  ],
+  "files_hash": "f111fa76f5ccc8748e6f665ad8eca21b8e2a4001",
+  "download_count": 18993,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/BarberShopChair_01.png?width=256&height=256"
+}

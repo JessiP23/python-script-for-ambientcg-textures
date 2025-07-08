@@ -1,0 +1,38 @@
+{
+  "name": "Asphalt 01",
+  "categories": [
+    "asphalt",
+    "floor",
+    "outdoor",
+    "road"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "tags": [
+    "rough",
+    "dirty",
+    "asphalt",
+    "road",
+    "worn"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing ",
+    "Charlotte Baglioni": "Photography"
+  },
+  "info": null,
+  "date_published": 1664841600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2079.9994468688965,
+    2079.9996852874756
+  ],
+  "files_hash": "61bdb4dc064585ce3e749a4dcaf13216575ae794",
+  "download_count": 60185,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/asphalt_01.png?width=256&height=256"
+}

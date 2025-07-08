@@ -1,0 +1,41 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5319,
+  "tags": [
+    "tree",
+    "forest",
+    "bush",
+    "shrub"
+  ],
+  "name": "Nature Reserve Forest",
+  "categories": [
+    "natural light",
+    "outdoor",
+    "nature",
+    "low contrast",
+    "sunrise-sunset"
+  ],
+  "coords": [
+    -26.17339719205484,
+    28.052003511364774
+  ],
+  "date_taken": 1623773040,
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "date_published": 1656288000,
+  "staging": null,
+  "prepaid": true,
+  "files_hash": "35e8fda244df224426d6ea78a967268ee789ad6f",
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 19407,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/nature_reserve_forest.png?width=256&height=256"
+}

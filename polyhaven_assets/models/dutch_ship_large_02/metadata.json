@@ -1,0 +1,52 @@
+{
+  "type": 2,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "name": "Dutch Ship Large 02",
+  "authors": {
+    "James Ray Cock": "model, textures, cleanup",
+    "Rico Cilliers": "sails model, textures",
+    "Nicol\u00f2 Zubbini": "original model"
+  },
+  "date_published": 1655856000,
+  "staging": null,
+  "sponsors": [
+    "26820710",
+    "7937391"
+  ],
+  "categories": [
+    "ships",
+    "collection: smugglers_cove"
+  ],
+  "tags": [
+    "old",
+    "wooden",
+    "wood",
+    "maritime",
+    "colonial",
+    "pirates",
+    "ship",
+    "ocean",
+    "sea",
+    "boat",
+    "sail",
+    "large",
+    "sailing",
+    "fancy"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 96506,
+  "texel_density": 800.446546459339,
+  "dimensions": [
+    8537.703037261963,
+    34251.2149810791,
+    32078.845977783203
+  ],
+  "files_hash": "c0612d345014f54e097ca15b0e4d291549ee3348",
+  "download_count": 11138,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dutch_ship_large_02.png?width=256&height=256"
+}

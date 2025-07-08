@@ -1,0 +1,41 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "tags": [
+    "winter",
+    "tree",
+    "river",
+    "hill",
+    "field",
+    "moss"
+  ],
+  "date_published": 1589234400,
+  "name": "Blau River",
+  "old_id": 463,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    48.401954,
+    9.834198
+  ],
+  "date_taken": 1583592180,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "3237733"
+  ],
+  "files_hash": "dfb22d57c131db20e68c215a1d14a84655588439",
+  "max_resolution": [
+    22600,
+    11300
+  ],
+  "download_count": 23846,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/blau_river.png?width=256&height=256"
+}

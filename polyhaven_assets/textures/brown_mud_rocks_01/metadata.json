@@ -1,0 +1,36 @@
+{
+  "date_published": 1529359200,
+  "name": "Brown Mud Rocks 01",
+  "old_id": 128,
+  "categories": [
+    "terrain",
+    "natural",
+    "outdoor"
+  ],
+  "type": 1,
+  "tags": [
+    "gravel",
+    "mud",
+    "moss",
+    "stones",
+    "forest"
+  ],
+  "dimensions": [
+    1299.996018409729,
+    1299.996018409729
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "4047949",
+    "77433244"
+  ],
+  "files_hash": "303c0f36bd4d15ecdec08c7bba20b55b0b31c7e6",
+  "download_count": 47411,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_mud_rocks_01.png?width=256&height=256"
+}

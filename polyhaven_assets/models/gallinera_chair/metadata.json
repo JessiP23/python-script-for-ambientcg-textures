@@ -1,0 +1,39 @@
+{
+  "type": 2,
+  "name": "Gallinera Chair",
+  "categories": [
+    "furniture",
+    "seating"
+  ],
+  "tags": [
+    "vintage",
+    "antique",
+    "philippines",
+    "traditional",
+    "old",
+    "wooden"
+  ],
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "donated": true,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 11560,
+  "texel_density": 1581.820651734167,
+  "dimensions": [
+    580.7991623878479,
+    603.8820147514343,
+    1033.689022064209
+  ],
+  "date_published": 1744761600,
+  "staging": null,
+  "files_hash": "973b0b19757f75a4677c956ac740d4b739efaf72",
+  "download_count": 1784,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gallinera_chair.png?width=256&height=256"
+}

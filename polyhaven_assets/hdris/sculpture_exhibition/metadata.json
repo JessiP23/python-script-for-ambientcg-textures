@@ -1,0 +1,30 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "horse",
+    "art",
+    "exhibition",
+    "museum"
+  ],
+  "date_published": 1555624800,
+  "name": "Sculpture Exhibition",
+  "old_id": 365,
+  "categories": [
+    "indoor",
+    "urban",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1550151000,
+  "authors": {
+    "Oliksiy Yakovlyev": "All"
+  },
+  "files_hash": "947dd184599edb0197be78f78d99b82bc9252694",
+  "max_resolution": [
+    17000,
+    8500
+  ],
+  "download_count": 43895,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sculpture_exhibition.png?width=256&height=256"
+}

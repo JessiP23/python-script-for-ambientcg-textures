@@ -1,0 +1,48 @@
+{
+  "lods": true,
+  "name": "Coast Rocks 01",
+  "type": 2,
+  "reviewers": [
+    "Rob Tuytel"
+  ],
+  "authors": {
+    "Rob Tuytel": "Photography, processing",
+    "Rico Cilliers": "cleanup"
+  },
+  "info": null,
+  "staging": null,
+  "date_published": 1693008000,
+  "categories": [
+    "nature",
+    "rocks",
+    "collection: smugglers_cove"
+  ],
+  "tags": [
+    "rocks",
+    "seaside",
+    "shore",
+    "coastal",
+    "stones",
+    "rock",
+    "landscape",
+    "geology",
+    "shoreline",
+    "pebbles",
+    "formation",
+    "weathered"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 1274876,
+  "texel_density": 189.8823068503708,
+  "dimensions": [
+    59507.67707824707,
+    42520.090103149414,
+    3290.156841278076
+  ],
+  "files_hash": "6acfdba4c92f81a40f3b2fff0e65e8d1753934f9",
+  "download_count": 4845,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coast_rocks_01.png?width=256&height=256"
+}

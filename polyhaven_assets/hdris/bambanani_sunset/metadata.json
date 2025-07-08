@@ -1,0 +1,43 @@
+{
+  "type": 0,
+  "name": "Bambanani Sunset",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "nature",
+    "skies",
+    "partly cloudy",
+    "medium contrast",
+    "sunrise-sunset"
+  ],
+  "tags": [
+    "sun",
+    "field",
+    "power line",
+    "grass",
+    "tower"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1735930260,
+  "coords": [
+    -28.0430714,
+    26.8181845
+  ],
+  "evs_cap": 23,
+  "whitebalance": 5539,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "0de44417865c0ebe1946e73fa1c0fd3eacb093a4",
+  "date_published": 1740528000,
+  "staging": null,
+  "download_count": 50954,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bambanani_sunset.png?width=256&height=256"
+}

@@ -1,0 +1,45 @@
+{
+  "type": 0,
+  "name": "Pretoria Gardens",
+  "categories": [
+    "high contrast",
+    "midday",
+    "natural light",
+    "outdoor",
+    "nature",
+    "partly cloudy"
+  ],
+  "tags": [
+    "sun",
+    "grass",
+    "field",
+    "tree",
+    "park"
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1713357420,
+  "coords": [
+    -25.738066,
+    28.27155
+  ],
+  "evs_cap": 22,
+  "whitebalance": 5539,
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "ca67f40a0b031aa75a87d9c11bad83660c59372c",
+  "date_published": 1737072000,
+  "staging": null,
+  "sponsors": [
+    "37678923"
+  ],
+  "download_count": 146524,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pretoria_gardens.png?width=256&height=256"
+}

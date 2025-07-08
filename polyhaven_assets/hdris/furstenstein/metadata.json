@@ -1,0 +1,44 @@
+{
+  "type": 0,
+  "name": "Furstenstein",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "urban",
+    "high contrast",
+    "morning-afternoon",
+    "partly cloudy"
+  ],
+  "authors": {
+    "Grzegorz Wronkowski": "All"
+  },
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "date_taken": 1744817100,
+  "coords": [
+    50.842651,
+    16.293057
+  ],
+  "evs_cap": 24,
+  "whitebalance": 5400,
+  "max_resolution": [
+    28672,
+    14336
+  ],
+  "tags": [
+    "europe",
+    "hedge",
+    "garden",
+    "grass",
+    "cobblestone",
+    "old town",
+    "mansion",
+    "sun"
+  ],
+  "files_hash": "d39ea89b97ce3b0e10303b155325f1d4a5543dda",
+  "date_published": 1748995200,
+  "staging": null,
+  "download_count": 15225,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/furstenstein.png?width=256&height=256"
+}

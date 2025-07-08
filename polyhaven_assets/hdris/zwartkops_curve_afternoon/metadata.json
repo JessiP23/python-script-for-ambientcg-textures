@@ -1,0 +1,49 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "sun",
+    "road",
+    "track",
+    "asphalt",
+    "race",
+    "curve",
+    "barrier",
+    "circuit",
+    "sand",
+    "grass",
+    "backplates"
+  ],
+  "name": "Zwartkops Curve Afternoon",
+  "categories": [
+    "outdoor",
+    "urban",
+    "natural light",
+    "high contrast",
+    "clear",
+    "midday"
+  ],
+  "backplates": true,
+  "date_taken": 1713704640,
+  "coords": [
+    -25.810044808817782,
+    28.110051739066126
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "9e4260018ea4adddcd461c377056447c9d917a5d",
+  "date_published": 1728000000,
+  "staging": null,
+  "download_count": 29919,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwartkops_curve_afternoon.png?width=256&height=256"
+}

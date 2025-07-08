@@ -1,0 +1,41 @@
+{
+  "evs_cap": 8,
+  "type": 0,
+  "tags": [
+    "tile",
+    "fluorescent",
+    "stair",
+    "map",
+    "tunnel",
+    "station",
+    "escalator"
+  ],
+  "date_published": 1508968800,
+  "name": "Subway Entrance",
+  "old_id": 60,
+  "categories": [
+    "indoor",
+    "urban",
+    "midday",
+    "medium contrast",
+    "artificial light"
+  ],
+  "date_taken": 1479043320,
+  "coords": [
+    51.225926,
+    6.779277
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "18031080"
+  ],
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "files_hash": "b100efd9b87558cbe738b692fd925caf89bf487b",
+  "download_count": 42723,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/subway_entrance.png?width=256&height=256"
+}

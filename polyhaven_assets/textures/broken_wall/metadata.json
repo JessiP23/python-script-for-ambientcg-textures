@@ -1,0 +1,38 @@
+{
+  "scale": "3x3M",
+  "type": 1,
+  "date_published": 1607589989,
+  "name": "Broken Wall",
+  "old_id": 294,
+  "categories": [
+    "rock",
+    "outdoor",
+    "indoor",
+    "wall",
+    "man made"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    3000,
+    3000
+  ],
+  "tags": [
+    "rough",
+    "wall",
+    "stacked",
+    "stones",
+    "castle",
+    "old",
+    "ancient",
+    "modern"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "85d12694ac2bf2287dfad26f2db85a6568cc1622",
+  "download_count": 84668,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/broken_wall.png?width=256&height=256"
+}

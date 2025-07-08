@@ -1,0 +1,35 @@
+{
+  "date_published": 1538529859,
+  "name": "Floor Tiles 08",
+  "old_id": 165,
+  "categories": [
+    "floor",
+    "clean",
+    "indoor",
+    "outdoor",
+    "man made"
+  ],
+  "type": 1,
+  "tags": [
+    "tiles",
+    "square",
+    "ceramic",
+    "regular",
+    "grid",
+    "beige"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "dimensions": [
+    1500,
+    1500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "c0631872774c079ea42f3e87cb843e7f66f4330c",
+  "download_count": 85490,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/floor_tiles_08.png?width=256&height=256"
+}

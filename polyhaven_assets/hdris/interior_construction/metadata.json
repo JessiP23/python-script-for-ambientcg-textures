@@ -1,0 +1,35 @@
+{
+  "evs_cap": 17,
+  "type": 0,
+  "whitebalance": 3300,
+  "name": "Interior Construction",
+  "categories": [
+    "indoor",
+    "low contrast",
+    "urban",
+    "midday"
+  ],
+  "backplates": true,
+  "date_taken": 1624285140,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "tags": [
+    "bare",
+    "construction",
+    "brick",
+    "wood",
+    "chipboard",
+    "empty",
+    "backplates"
+  ],
+  "date_published": 1632355200,
+  "staging": null,
+  "files_hash": "3c5fa38c06bc542873d147a453a4718779e592df",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 11145,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/interior_construction.png?width=256&height=256"
+}

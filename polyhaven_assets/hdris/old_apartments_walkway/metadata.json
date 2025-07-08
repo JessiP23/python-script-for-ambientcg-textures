@@ -1,0 +1,40 @@
+{
+  "evs_cap": 3,
+  "prepaid": true,
+  "type": 0,
+  "tags": [
+    "tree",
+    "railing",
+    "abandoned",
+    "balcony"
+  ],
+  "date_published": 1540245600,
+  "name": "Old Apartments Walkway",
+  "old_id": 318,
+  "categories": [
+    "indoor",
+    "urban",
+    "midday",
+    "clear",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    44.318086,
+    28.631351
+  ],
+  "date_taken": 1524917520,
+  "authors": {
+    "Octavian Tudose": "All"
+  },
+  "files_hash": "913481d85504673317d3f32f327d926c72f03b62",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "sponsors": [
+    "107113426"
+  ],
+  "download_count": 22584,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/old_apartments_walkway.png?width=256&height=256"
+}

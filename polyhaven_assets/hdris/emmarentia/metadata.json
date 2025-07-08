@@ -1,0 +1,40 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "tags": [
+    "sun",
+    "tree",
+    "dam",
+    "dirt",
+    "park"
+  ],
+  "date_published": 1522879200,
+  "name": "Emmarentia",
+  "old_id": 231,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1436947680,
+  "coords": [
+    -26.154597,
+    28.004606
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "11167855"
+  ],
+  "files_hash": "48c8127a8912c00a4bea53829907fa1b60ade4b7",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 21612,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/emmarentia.png?width=256&height=256"
+}

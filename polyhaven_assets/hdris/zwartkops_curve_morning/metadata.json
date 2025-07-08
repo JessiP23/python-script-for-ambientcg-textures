@@ -1,0 +1,49 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "sun",
+    "road",
+    "track",
+    "asphalt",
+    "race",
+    "curve",
+    "barrier",
+    "circuit",
+    "sand",
+    "grass",
+    "backplates"
+  ],
+  "name": "Zwartkops Curve Morning",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "clear",
+    "high contrast",
+    "morning-afternoon",
+    "urban"
+  ],
+  "backplates": true,
+  "date_taken": 1713685140,
+  "coords": [
+    -25.810044808817782,
+    28.110051739066126
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "5275d392ca1311467fc5fecf376be81005f7c6aa",
+  "date_published": 1727827200,
+  "staging": null,
+  "download_count": 8817,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwartkops_curve_morning.png?width=256&height=256"
+}

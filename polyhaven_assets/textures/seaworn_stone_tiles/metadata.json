@@ -1,0 +1,35 @@
+{
+  "name": "Seaworn Stone Tiles",
+  "categories": [
+    "sandstone",
+    "brick",
+    "wall",
+    "man made"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "rough",
+    "stonework"
+  ],
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1712016000,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "f97aca0e105e4ab914d05ccd6ce163d929d1c9df",
+  "download_count": 18848,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/seaworn_stone_tiles.png?width=256&height=256"
+}

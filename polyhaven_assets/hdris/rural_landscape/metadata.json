@@ -1,0 +1,39 @@
+{
+  "evs_cap": 23,
+  "type": 0,
+  "whitebalance": 5850,
+  "date_published": 1585605600,
+  "name": "Rural Landscape",
+  "old_id": 453,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "sunrise-sunset",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+  ],
+  "date_taken": 1579787460,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "sponsors": [
+    "3267566"
+  ],
+  "backplates": true,
+  "tags": [
+    "dirt",
+    "road",
+    "track",
+    "lake",
+    "backplates"
+  ],
+  "files_hash": "401db315a5b97a8ddf167e2d2220acc54012c6a6",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 113476,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rural_landscape.png?width=256&height=256"
+}

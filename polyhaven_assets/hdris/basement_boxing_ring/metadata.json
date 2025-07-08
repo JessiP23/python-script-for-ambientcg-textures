@@ -1,0 +1,36 @@
+{
+  "evs_cap": 15,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 3500,
+  "tags": [
+    "sport",
+    "boxing",
+    "ring",
+    "basement",
+    "fluorescent"
+  ],
+  "name": "Basement Boxing Ring",
+  "categories": [
+    "indoor",
+    "urban",
+    "artificial light",
+    "medium contrast"
+  ],
+  "date_taken": 1673963160,
+  "authors": {
+    "Sergej Majboroda": "All"
+  },
+  "info": null,
+  "files_hash": "9f7c6c9d331a89e2516cc3346e711e2247e561ef",
+  "date_published": 1678665600,
+  "staging": null,
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 12969,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/basement_boxing_ring.png?width=256&height=256"
+}

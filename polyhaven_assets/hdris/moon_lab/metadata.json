@@ -1,0 +1,49 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 4724,
+  "tags": [
+    "lamp",
+    "lunar",
+    "sand",
+    "simulation",
+    "science",
+    "museum",
+    "laboratory"
+  ],
+  "name": "Moon Lab",
+  "date_taken": 1697809380,
+  "coords": [
+    53.91375748920198,
+    12.285821948562907
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "files_hash": "656a7e795cc37ffa44f8ecb790e5b4957b5056a0",
+  "staging": null,
+  "sponsors": [
+    "89063359",
+    "128081732"
+  ],
+  "vault_id": "moon",
+  "info": "Captured at [PTS](https://www.pts.space/products/spacelab-rostock/)'s lunar test lab. [More info](https://blog.polyhaven.com/moon).",
+  "date_published": 1750336463,
+  "categories": [
+    "indoor",
+    "urban",
+    "artificial light",
+    "high contrast",
+    "studio",
+    "collection: moon"
+  ],
+  "download_count": 3580,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/moon_lab.png?width=256&height=256"
+}

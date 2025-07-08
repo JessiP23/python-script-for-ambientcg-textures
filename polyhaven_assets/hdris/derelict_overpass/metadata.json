@@ -1,0 +1,46 @@
+{
+  "evs_cap": 21,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1565042400,
+  "name": "Derelict Overpass",
+  "old_id": 400,
+  "categories": [
+    "outdoor",
+    "skies",
+    "urban",
+    "morning-afternoon",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+  ],
+  "coords": [
+    -25.78159111,
+    27.9432042
+  ],
+  "date_taken": 1547915760,
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "3237733"
+  ],
+  "backplates": true,
+  "tags": [
+    "asphalt",
+    "sun",
+    "highway",
+    "bridge",
+    "overpass",
+    "road",
+    "backplates",
+    "backplates"
+  ],
+  "files_hash": "ae3505577c037bc16143bf6d83a0da3991b87a47",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 122922,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/derelict_overpass.png?width=256&height=256"
+}

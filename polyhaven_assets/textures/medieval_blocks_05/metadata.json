@@ -1,0 +1,37 @@
+{
+  "type": 1,
+  "tags": [
+    "blocks",
+    "road",
+    "stones",
+    "gaps"
+  ],
+  "date_published": 1543910522,
+  "name": "Medieval Blocks 05",
+  "old_id": 178,
+  "categories": [
+    "wall",
+    "rock",
+    "man made",
+    "outdoor",
+    "dirty",
+    "floor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "sponsors": [
+    "4714267"
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "7bd050096adb56e3882bc061f044a07fc66f78db",
+  "download_count": 65803,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/medieval_blocks_05.png?width=256&height=256"
+}

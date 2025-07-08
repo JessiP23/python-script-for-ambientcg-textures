@@ -1,0 +1,52 @@
+{
+  "date_published": 1689811200,
+  "name": "Patterned Concrete Pavers",
+  "categories": [
+    "man made",
+    "outdoor",
+    "concrete",
+    "plaster-concrete"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers"
+  ],
+  "staging": null,
+  "tags": [
+    "interlocking",
+    "pavement",
+    "pavers",
+    "city",
+    "concrete",
+    "sidewalk",
+    "cement",
+    "paving",
+    "cemented floor",
+    "pavement patterned",
+    "floor",
+    "urban",
+    "outdoor",
+    "synthetic",
+    "stamped concrete",
+    "walkway",
+    "pattern"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1799.9999523162842,
+    1799.9999523162842
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "sponsors": [
+    "7934315"
+  ],
+  "files_hash": "286393379d79d1a8d9ad0cb5c488aa1fb6d76af2",
+  "download_count": 10798,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/patterned_concrete_pavers.png?width=256&height=256"
+}

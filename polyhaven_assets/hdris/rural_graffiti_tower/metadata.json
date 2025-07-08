@@ -1,0 +1,44 @@
+{
+  "evs_cap": 6,
+  "type": 0,
+  "tags": [
+    "tree",
+    "winter",
+    "bare",
+    "concrete",
+    "brick",
+    "tower",
+    "view"
+  ],
+  "date_published": 1615244400,
+  "name": "Rural Graffiti Tower",
+  "old_id": 530,
+  "categories": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "overcast",
+    "low contrast",
+    "natural light"
+  ],
+  "coords": [
+    48.48247,
+    10.003645
+  ],
+  "date_taken": 1609079700,
+  "authors": {
+    "Andreas Mischok": "All"
+  },
+  "sponsors": [
+    "49655030",
+    "3237733",
+    "52787376"
+  ],
+  "files_hash": "5e4bad02a9fc263f24fbfd2226894af6acf372b7",
+  "max_resolution": [
+    19752,
+    9876
+  ],
+  "download_count": 20081,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rural_graffiti_tower.png?width=256&height=256"
+}

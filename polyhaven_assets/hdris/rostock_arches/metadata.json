@@ -1,0 +1,49 @@
+{
+  "evs_cap": 12,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 2449,
+  "tags": [
+    "europe",
+    "architecture",
+    "germany",
+    "street",
+    "restaurant",
+    "city",
+    "square",
+    "building",
+    "town",
+    "arch"
+  ],
+  "name": "Rostock Arches",
+  "categories": [
+    "indoor",
+    "artificial light",
+    "night",
+    "urban",
+    "low contrast"
+  ],
+  "date_taken": 1697665980,
+  "coords": [
+    54.0885697,
+    12.1408521
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "info": null,
+  "files_hash": "956cc46414c4bad85ab2265f59c406e01dceb59b",
+  "date_published": 1706832000,
+  "staging": null,
+  "sponsors": [
+    "82322099"
+  ],
+  "max_resolution": [
+    24576,
+    12288
+  ],
+  "download_count": 19504,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rostock_arches.png?width=256&height=256"
+}

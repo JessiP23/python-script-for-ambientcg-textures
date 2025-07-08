@@ -1,0 +1,46 @@
+{
+  "name": "Damaged Concrete Floor",
+  "categories": [
+    "floor",
+    "concrete",
+    "dirty",
+    "man made"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Jandre van Heerden",
+    "Dario Barresi"
+  ],
+  "tags": [
+    "rough",
+    "old",
+    "concrete",
+    "damaged",
+    "cracked",
+    "scratched",
+    "weathered",
+    "chipped",
+    "floor",
+    "cemented floor",
+    "industrial",
+    "grungy",
+    "deteriorated",
+    "industrial floor"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    4500,
+    4500
+  ],
+  "date_published": 1725494400,
+  "staging": null,
+  "files_hash": "265b5d69e8dd9fb1f7c65d37554eb4f98f230ab9",
+  "download_count": 5770,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/damaged_concrete_floor.png?width=256&height=256"
+}

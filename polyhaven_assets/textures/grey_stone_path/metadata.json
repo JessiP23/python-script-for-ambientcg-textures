@@ -1,0 +1,42 @@
+{
+  "name": "Grey Stone Path",
+  "categories": [
+    "man made",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Rob Tuytel"
+  ],
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "info": null,
+  "dimensions": [
+    1799.999713897705,
+    1799.999713897705
+  ],
+  "date_published": 1692230400,
+  "staging": null,
+  "tags": [
+    "rocks",
+    "exterior",
+    "stonework",
+    "outdoors",
+    "path",
+    "pathway",
+    "footpath",
+    "concrete",
+    "walkway",
+    "grey",
+    "gray"
+  ],
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "files_hash": "f79d3ec5a4c550b4cf7f0ce825564f4dca011317",
+  "download_count": 21119,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grey_stone_path.png?width=256&height=256"
+}

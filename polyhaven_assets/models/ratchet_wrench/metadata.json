@@ -1,0 +1,46 @@
+{
+  "donated": true,
+  "name": "Ratchet Wrench",
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "info": null,
+  "authors": {
+    "John Hutcheson": "All"
+  },
+  "date_published": 1670544000,
+  "staging": null,
+  "categories": [
+    "props",
+    "tools",
+    "industrial",
+    "collection: the_shed",
+    "rigged"
+  ],
+  "tags": [
+    "metal",
+    "shed",
+    "workshop",
+    "construction",
+    "garage",
+    "mechanic",
+    "wrench",
+    "nuts",
+    "bolts"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 8796,
+  "texel_density": 37918.11877329677,
+  "dimensions": [
+    44.089458882808685,
+    43.394144624471664,
+    246.20076268911362
+  ],
+  "files_hash": "db0eaed0940d34477b2f9962ec8339365f3fa992",
+  "download_count": 3836,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ratchet_wrench.png?width=256&height=256"
+}

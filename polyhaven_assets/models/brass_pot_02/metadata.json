@@ -1,0 +1,44 @@
+{
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "brass",
+    "metal",
+    "prop",
+    "cooking",
+    "container",
+    "pot",
+    "cookware",
+    "pan",
+    "gold",
+    "copper"
+  ],
+  "name": "Brass Pot 02",
+  "categories": [
+    "props",
+    "dishes",
+    "containers",
+    "decorative"
+  ],
+  "authors": {
+    "Rico Cilliers": "All"
+  },
+  "date_published": 1657065600,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 3344,
+  "texel_density": 12886.363014603006,
+  "dimensions": [
+    366.66905879974365,
+    302.2904098033905,
+    108.54637622833252
+  ],
+  "files_hash": "58dc4f40584611a092d1cfdf8efcba2795412de2",
+  "download_count": 8107,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brass_pot_02.png?width=256&height=256"
+}

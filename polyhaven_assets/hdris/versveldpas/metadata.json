@@ -1,0 +1,46 @@
+{
+  "evs_cap": 20,
+  "type": 0,
+  "whitebalance": 5400,
+  "date_published": 1511239641,
+  "name": "Versveldpas",
+  "old_id": 67,
+  "categories": [
+    "outdoor",
+    "skies",
+    "nature",
+    "midday",
+    "clear",
+    "high contrast",
+    "natural light"
+  ],
+  "date_taken": 1504346160,
+  "coords": [
+    -32.852506,
+    18.736551
+  ],
+  "authors": {
+    "Greg Zaal": "All"
+  },
+  "sponsors": [
+    "10004313"
+  ],
+  "backplates": true,
+  "tags": [
+    "road",
+    "sun",
+    "view",
+    "vista",
+    "mountain",
+    "valley",
+    "cliff",
+    "backplates"
+  ],
+  "files_hash": "70f73727b6a750bdfdc4e079094846e2a2a493b0",
+  "max_resolution": [
+    16384,
+    8192
+  ],
+  "download_count": 48159,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/versveldpas.png?width=256&height=256"
+}

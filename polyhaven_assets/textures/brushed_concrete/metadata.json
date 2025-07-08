@@ -1,0 +1,41 @@
+{
+  "date_published": 1658793600,
+  "name": "Brushed Concrete ",
+  "categories": [
+    "man made",
+    "dirty",
+    "floor",
+    "plaster-concrete",
+    "concrete"
+  ],
+  "type": 1,
+  "staging": null,
+  "reviewers": [
+    "Rico Cilliers",
+    "Greg Zaal"
+  ],
+  "tags": [
+    "rough",
+    "weathered",
+    "dirty",
+    "floor",
+    "ground",
+    "discolored",
+    "stained"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "dimensions": [
+    2500,
+    2500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "2274ffd02c42d765d335c85e9067398253d6b45e",
+  "download_count": 61867,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brushed_concrete.png?width=256&height=256"
+}

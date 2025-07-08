@@ -1,0 +1,44 @@
+{
+  "evs_cap": 22,
+  "type": 0,
+  "reviewers": [
+    "Greg Zaal"
+  ],
+  "whitebalance": 5539,
+  "tags": [
+    "roof",
+    "city",
+    "skyline",
+    "balcony",
+    "hotel",
+    "view",
+    "ocean"
+  ],
+  "name": "Hotel Rooftop Balcony",
+  "categories": [
+    "outdoor",
+    "natural light",
+    "urban",
+    "low contrast",
+    "midday",
+    "overcast"
+  ],
+  "date_taken": 1712572140,
+  "coords": [
+    -29.726553,
+    31.070677
+  ],
+  "authors": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+  },
+  "max_resolution": [
+    20480,
+    10240
+  ],
+  "files_hash": "6fb96938ca03be03b8a440008540e325942344bd",
+  "date_published": 1716163200,
+  "staging": null,
+  "download_count": 15987,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hotel_rooftop_balcony.png?width=256&height=256"
+}

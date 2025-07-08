@@ -1,0 +1,48 @@
+{
+  "donated": true,
+  "type": 2,
+  "reviewers": [
+    "James Ray Cock"
+  ],
+  "tags": [
+    "wood",
+    "old",
+    "trap",
+    "rat",
+    "mouse",
+    "catcher",
+    "pest control",
+    "rodent",
+    "animal",
+    "springloaded",
+    "vermin",
+    "snap",
+    "cheese",
+    "spring",
+    "bait"
+  ],
+  "date_published": 1684454400,
+  "name": "Mousetrap",
+  "categories": [
+    "props"
+  ],
+  "staging": null,
+  "authors": {
+    "GreenPixel": "All"
+  },
+  "info": null,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 5136,
+  "texel_density": 24811.448239251222,
+  "dimensions": [
+    54.98756840825081,
+    100.44356435537338,
+    17.934181294901208
+  ],
+  "files_hash": "52446c00c1e638500cd5d919d0b443dee4c98382",
+  "download_count": 3169,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mousetrap.png?width=256&height=256"
+}

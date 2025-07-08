@@ -1,0 +1,41 @@
+{
+  "name": "Clean Pebbles",
+  "categories": [
+    "rock",
+    "natural",
+    "outdoor"
+  ],
+  "type": 1,
+  "reviewers": [
+    "Rico Cilliers",
+    "Greg Zaal"
+  ],
+  "authors": {
+    "Dario Barresi": "Processing ",
+    "Charlotte Baglioni": "Photography"
+  },
+  "tags": [
+    "rock",
+    "gravel",
+    "pebbles",
+    "stones",
+    "uneven",
+    "path"
+  ],
+  "dimensions": [
+    2000,
+    2000
+  ],
+  "date_published": 1657756800,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "sponsors": [
+    "7934315"
+  ],
+  "files_hash": "9acc8ceda2e81c3ec20ad6144d88d6c94fa7406d",
+  "download_count": 40045,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/clean_pebbles.png?width=256&height=256"
+}
